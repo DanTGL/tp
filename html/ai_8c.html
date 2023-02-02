@@ -91,7 +91,6 @@ $(function() {
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dsp_8h_source.html">dolphin/dsp/dsp.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="OS_8h_source.html">dolphin/os/OS.h</a>&quot;</code><br />
-<code>#include &quot;asm/dolphin/ai/ai/AIInit.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for ai.c:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -143,8 +142,8 @@ Functions</h2></td></tr>
 <tr class="separator:aaa58e2804e415fb0ceaa3336d777c8dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af33d54cc640973f4357c35d60f1996c1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#af33d54cc640973f4357c35d60f1996c1">AISetStreamTrigger</a> (<a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> trigger)</td></tr>
 <tr class="separator:af33d54cc640973f4357c35d60f1996c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f8058a9f88292f1e8c702169a22827d"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#a7f8058a9f88292f1e8c702169a22827d">AIInit</a> (<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> *<a class="el" href="m__Do__dvd__thread_8h.html#a9869bae99ba0a972c476392372b9eaa7">stack</a>)</td></tr>
-<tr class="separator:a7f8058a9f88292f1e8c702169a22827d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a797d7eae0de713308722e99ad9db0806"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#a797d7eae0de713308722e99ad9db0806">AIInit</a> (<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> *<a class="el" href="m__Do__dvd__thread_8h.html#a9869bae99ba0a972c476392372b9eaa7">stack</a>)</td></tr>
+<tr class="separator:a797d7eae0de713308722e99ad9db0806"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a21fa81ad025b4574d13f8b2089941d42"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#a21fa81ad025b4574d13f8b2089941d42">__AICallbackStackSwitch</a> (register <a class="el" href="ai_8h.html#af3948d07e4b7320d04ab931a43d18b4e">AIDCallback</a> <a class="el" href="m__Do__dvd__thread_8cpp.html#a6740c015dd9c1f64fe72cfe15f1db677">cb</a>)</td></tr>
 <tr class="separator:a21fa81ad025b4574d13f8b2089941d42"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -404,14 +403,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a7f8058a9f88292f1e8c702169a22827d" name="a7f8058a9f88292f1e8c702169a22827d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f8058a9f88292f1e8c702169a22827d">&#9670;&#160;</a></span>AIInit()</h2>
+<a id="a797d7eae0de713308722e99ad9db0806" name="a797d7eae0de713308722e99ad9db0806"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a797d7eae0de713308722e99ad9db0806">&#9670;&#160;</a></span>AIInit()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void AIInit </td>
+          <td class="memname">void AIInit </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> *&#160;</td>
           <td class="paramname"><em>stack</em></td><td>)</td>

@@ -2324,7 +2324,7 @@ var searchData=
   ['fishnscale_2321',['fishnScale',['../d__meter__HIO_8cpp.html#afd1822d8a1834937dd825e4578082984',1,'d_meter_HIO.cpp']]],
   ['fix_5fpool_5fsizes_2322',['fix_pool_sizes',['../alloc_8c.html#a94bc3050fc9d8a18585ac00d71219d5e',1,'alloc.c']]],
   ['fixsize_2323',['fixSize',['../structOSModuleInfo.html#a95e9cf4b1b53eb814f4798022c5ac55f',1,'OSModuleInfo']]],
-  ['flag_2324',['flag',['../dspproc_8cpp.html#aaa7f9c123455f57fa07112fe3baee3c9',1,'flag():&#160;dspproc.cpp'],['../structJStudio_1_1stb_1_1data_1_1TBlock__object.html#a8a71953316af33610ef7bf467bfb1451',1,'JStudio::stb::data::TBlock_object::flag()']]],
+  ['flag_2324',['flag',['../dspproc_8cpp.html#a1ff3764a774592a9fc9331035ef59212',1,'flag():&#160;dspproc.cpp'],['../structJStudio_1_1stb_1_1data_1_1TBlock__object.html#a8a71953316af33610ef7bf467bfb1451',1,'JStudio::stb::data::TBlock_object::flag()']]],
   ['flag1_2325',['flag1',['../structJAISoundStatus__.html#a02b2ba3742445cad56928261e24a2001',1,'JAISoundStatus_']]],
   ['flag2_2326',['flag2',['../structJAISoundStatus__.html#a0d25f2d9da05974c5a9ac3d315daa4b0',1,'JAISoundStatus_']]],
   ['flag3_2327',['flag3',['../structJAISoundStatus__.html#a149c25bc2bf65d924e1f7fb281683b43',1,'JAISoundStatus_']]],
