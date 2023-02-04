@@ -94,6 +94,7 @@ $(function() {
 <code>#include &quot;<a class="el" href="d__cc__s_8h_source.html">d/cc/d_cc_s.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__attention_8h_source.html">d/d_attention.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__drawlist_8h_source.html">d/d_drawlist.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="d__procname_8h_source.html">d/d_procname.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__resorce_8h_source.html">d/d_resorce.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__simple__model_8h_source.html">d/d_simple_model.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__stage_8h_source.html">d/d_stage.h</a>&quot;</code><br />
@@ -102,7 +103,6 @@ $(function() {
 <code>#include &quot;<a class="el" href="d__event__manager_8h_source.html">d/event/d_event_manager.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__particle_8h_source.html">d/particle/d_particle.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__save_8h_source.html">d/save/d_save.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="types_8h_source.html">dolphin/types.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="f__op__camera__mng_8h_source.html">f_op/f_op_camera_mng.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="f__op__scene__mng_8h_source.html">f_op/f_op_scene_mng.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -208,6 +208,8 @@ Functions</h2></td></tr>
 <tr class="separator:a22f856fafbc5353087e662a0b1dad14a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9e1ada2d3d6fb5e4555727141e6d69de"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__com__inf__game_8h.html#a9e1ada2d3d6fb5e4555727141e6d69de">dComIfG_getBrightness</a> ()</td></tr>
 <tr class="separator:a9e1ada2d3d6fb5e4555727141e6d69de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa03e2931c5ddced107bd08c84b3ee0bc"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__com__inf__game_8h.html#aa03e2931c5ddced107bd08c84b3ee0bc">dComIfG_getObjctResName2Index</a> (const char *i_arcName, const char *i_resName)</td></tr>
+<tr class="separator:aa03e2931c5ddced107bd08c84b3ee0bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a71f4a0f25576edae76546936edfeca6b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__com__inf__game_8h.html#a71f4a0f25576edae76546936edfeca6b">dComIfGs_getMixItemIndex</a> (int i_no)</td></tr>
 <tr class="separator:a71f4a0f25576edae76546936edfeca6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeb9b65f649ebf64de3f62b36e5dc8a2a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__com__inf__game_8h.html#aeb9b65f649ebf64de3f62b36e5dc8a2a">dComIfGs_setSelectItemIndex</a> (int i_no, <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> item_index)</td></tr>
@@ -1638,6 +1640,42 @@ Variables</h2></td></tr>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa03e2931c5ddced107bd08c84b3ee0bc" name="aa03e2931c5ddced107bd08c84b3ee0bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa03e2931c5ddced107bd08c84b3ee0bc">&#9670;&#160;</a></span>dComIfG_getObjctResName2Index()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int dComIfG_getObjctResName2Index </td>
+          <td>(</td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>i_arcName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>i_resName</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
