@@ -189,12 +189,13 @@ Public Types</h2></td></tr>
 , <a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7abe4fae8a96d69dca822597fd7633572c">FLG2_UNK_80</a> = 0x80
 , <a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7afd8b5971be46408f46b29288f93beeb7">FLG2_UNK_40</a> = 0x40
 , <br />
-&#160;&#160;<a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7a6c6c4a04143ea70baa85d40e370a3c40">FLG2_UNK_10</a> = 0x10
+&#160;&#160;<a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7a1de2077399d1304e50bc67efd90e18ce">FLG2_WOLF_ENEMY_LEFT_THROW</a> = 0x20
+, <a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7a6c6c4a04143ea70baa85d40e370a3c40">FLG2_UNK_10</a> = 0x10
 , <a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7aa9e7a42a22d087eb5718cf11716ee8fe">FLG2_UNK_8</a> = 8
 , <a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7a1836cd63f5a7ce8a1c256a620115665b">FLG2_UNK_2</a> = 2
-, <a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7aa48df7965a2af96f89ef53f7878c44fc">FLG2_UNK_1</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7a907499ee887d27963421b3a822a9bff3">FLG2_UNK_58</a> = FLG2_UNK_40 | FLG2_UNK_10 | FLG2_UNK_8
+&#160;&#160;<a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7aa48df7965a2af96f89ef53f7878c44fc">FLG2_UNK_1</a> = 1
+, <a class="el" href="structdaPy__py__c.html#a0ee90a17835d8cd481919fe9d57982c7a907499ee887d27963421b3a822a9bff3">FLG2_UNK_58</a> = FLG2_UNK_40 | FLG2_UNK_10 | FLG2_UNK_8
 <br />
  }</td></tr>
 <tr class="separator:a0ee90a17835d8cd481919fe9d57982c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -913,6 +914,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a67435c0eca4d29fce91fce86f70a3af3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a97fb92f8f390838a636829a25febf6d5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdaPy__py__c.html#a97fb92f8f390838a636829a25febf6d5">checkMagicArmorWearFlg</a> () const</td></tr>
 <tr class="separator:a97fb92f8f390838a636829a25febf6d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b889a1b2dca3bbc99b3ed72e9b28978"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdaPy__py__c.html#a4b889a1b2dca3bbc99b3ed72e9b28978">checkWolfEnemyCatchOwn</a> (<a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actorP)</td></tr>
+<tr class="separator:a4b889a1b2dca3bbc99b3ed72e9b28978"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f051eb8602f7c73c2e058835afc5a03"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdaPy__py__c.html#a1f051eb8602f7c73c2e058835afc5a03">checkWolfEnemyLeftThrow</a> () const</td></tr>
+<tr class="separator:a1f051eb8602f7c73c2e058835afc5a03"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_structfopAc__ac__c"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_structfopAc__ac__c')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a></td></tr>
 <tr class="memitem:a150acf531845cb2c19af23714e3fd0fc inherit pub_methods_structfopAc__ac__c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structfopAc__ac__c.html#a150acf531845cb2c19af23714e3fd0fc">fopAc_ac_c</a> ()</td></tr>
 <tr class="separator:a150acf531845cb2c19af23714e3fd0fc inherit pub_methods_structfopAc__ac__c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1142,8 +1147,8 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a4001db7787c341b50f1764714fd61313 inherit pub_attribs_structfopAc__ac__c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba50ee42897ea7fc4fd9ae095f092ff6 inherit pub_attribs_structfopAc__ac__c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5ffa4f640862b25ba6d4f635b78bdbe1">s16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structfopAc__ac__c.html#aba50ee42897ea7fc4fd9ae095f092ff6">field_0x560</a></td></tr>
 <tr class="separator:aba50ee42897ea7fc4fd9ae095f092ff6 inherit pub_attribs_structfopAc__ac__c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa6d443560a28e4de7e3c95ffe61f4b1 inherit pub_attribs_structfopAc__ac__c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5ffa4f640862b25ba6d4f635b78bdbe1">s16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structfopAc__ac__c.html#aaa6d443560a28e4de7e3c95ffe61f4b1">field_0x562</a></td></tr>
-<tr class="separator:aaa6d443560a28e4de7e3c95ffe61f4b1 inherit pub_attribs_structfopAc__ac__c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac285ddda9d891983caf5c786b2ed818 inherit pub_attribs_structfopAc__ac__c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5ffa4f640862b25ba6d4f635b78bdbe1">s16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structfopAc__ac__c.html#aac285ddda9d891983caf5c786b2ed818">mHealth</a></td></tr>
+<tr class="separator:aac285ddda9d891983caf5c786b2ed818 inherit pub_attribs_structfopAc__ac__c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a98a0cfeb1c06566e816f228f1b307ff7 inherit pub_attribs_structfopAc__ac__c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structfopAc__ac__c.html#a98a0cfeb1c06566e816f228f1b307ff7">field_0x564</a> [0x4]</td></tr>
 <tr class="separator:a98a0cfeb1c06566e816f228f1b307ff7 inherit pub_attribs_structfopAc__ac__c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_attribs_structleafdraw__class"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_structleafdraw__class')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="structleafdraw__class.html">leafdraw_class</a></td></tr>
@@ -1445,6 +1450,7 @@ Static Public Attributes</h2></td></tr>
 <tr><td class="fieldname"><a id="a0ee90a17835d8cd481919fe9d57982c7aa9e03993188c4961d8dbc16bbf8de2b2" name="a0ee90a17835d8cd481919fe9d57982c7aa9e03993188c4961d8dbc16bbf8de2b2"></a>FLG2_UNK_200&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a0ee90a17835d8cd481919fe9d57982c7abe4fae8a96d69dca822597fd7633572c" name="a0ee90a17835d8cd481919fe9d57982c7abe4fae8a96d69dca822597fd7633572c"></a>FLG2_UNK_80&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a0ee90a17835d8cd481919fe9d57982c7afd8b5971be46408f46b29288f93beeb7" name="a0ee90a17835d8cd481919fe9d57982c7afd8b5971be46408f46b29288f93beeb7"></a>FLG2_UNK_40&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0ee90a17835d8cd481919fe9d57982c7a1de2077399d1304e50bc67efd90e18ce" name="a0ee90a17835d8cd481919fe9d57982c7a1de2077399d1304e50bc67efd90e18ce"></a>FLG2_WOLF_ENEMY_LEFT_THROW&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a0ee90a17835d8cd481919fe9d57982c7a6c6c4a04143ea70baa85d40e370a3c40" name="a0ee90a17835d8cd481919fe9d57982c7a6c6c4a04143ea70baa85d40e370a3c40"></a>FLG2_UNK_10&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a0ee90a17835d8cd481919fe9d57982c7aa9e7a42a22d087eb5718cf11716ee8fe" name="a0ee90a17835d8cd481919fe9d57982c7aa9e7a42a22d087eb5718cf11716ee8fe"></a>FLG2_UNK_8&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a0ee90a17835d8cd481919fe9d57982c7a1836cd63f5a7ce8a1c256a620115665b" name="a0ee90a17835d8cd481919fe9d57982c7a1836cd63f5a7ce8a1c256a620115665b"></a>FLG2_UNK_2&#160;</td><td class="fielddoc"></td></tr>
@@ -5044,6 +5050,57 @@ Static Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="structdaAlink__c.html#aac0fb4af89c8c3d2021c7c73d3f2a4e7">daAlink_c</a>.</p>
+
+</div>
+</div>
+<a id="a4b889a1b2dca3bbc99b3ed72e9b28978" name="a4b889a1b2dca3bbc99b3ed72e9b28978"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b889a1b2dca3bbc99b3ed72e9b28978">&#9670;&#160;</a></span>checkWolfEnemyCatchOwn()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool daPy_py_c::checkWolfEnemyCatchOwn </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
+          <td class="paramname"><em>i_actorP</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1f051eb8602f7c73c2e058835afc5a03" name="a1f051eb8602f7c73c2e058835afc5a03"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f051eb8602f7c73c2e058835afc5a03">&#9670;&#160;</a></span>checkWolfEnemyLeftThrow()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool daPy_py_c::checkWolfEnemyLeftThrow </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>

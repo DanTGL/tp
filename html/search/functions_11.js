@@ -115,5 +115,5 @@ var searchData=
   ['queuelength_112',['QueueLength',['../EXIUart_8c.html#ae499dd0dccf91bd67c7dae9d826448a6',1,'EXIUart.c']]],
   ['quickstart_113',['QuickStart',['../structdCamera__c.html#a37ec7594e5517125c0766779b1370cb4',1,'dCamera_c']]],
   ['quickstart_5f_5f9dcamera_5fcfv_114',['QuickStart__9dCamera_cFv',['../d__camera_8cpp.html#a308e108dfec8345eaa1b2676abaef6ab',1,'QuickStart__9dCamera_cFv():&#160;d_camera.cpp'],['../d__event_8cpp.html#a308e108dfec8345eaa1b2676abaef6ab',1,'QuickStart__9dCamera_cFv():&#160;d_event.cpp']]],
-  ['quitimmortalemitter_115',['quitImmortalEmitter',['../structJPABaseEmitter.html#a52875bae713308a57fddbb4f4d63844c',1,'JPABaseEmitter']]]
+  ['quitimmortalemitter_115',['quitImmortalEmitter',['../classJPABaseEmitter.html#a52875bae713308a57fddbb4f4d63844c',1,'JPABaseEmitter']]]
 ];
