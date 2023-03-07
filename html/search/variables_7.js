@@ -57,7 +57,7 @@ var searchData=
   ['g_5fntsczeldaintdf_54',['g_ntscZeldaIntDf',['../m__Do__machine_8cpp.html#af9f560f6fe9e152c9934c66ee43c62fe',1,'m_Do_machine.cpp']]],
   ['g_5fntsczeldaprog_55',['g_ntscZeldaProg',['../m__Do__machine_8cpp.html#aa3b844a3b494860b3039a431425f12b0',1,'g_ntscZeldaProg():&#160;m_Do_machine.cpp'],['../m__Do__machine_8h.html#af90242c3c59f959ee93c910eae242ba5',1,'g_ntscZeldaProg():&#160;m_Do_machine.h']]],
   ['g_5fpreloadhio_56',['g_preLoadHIO',['../d__s__play_8cpp.html#a406ad68d644616180c844af586d6504a',1,'d_s_play.cpp']]],
-  ['g_5fprofile_5falink_57',['g_profile_ALINK',['../d__a__alink_8cpp.html#a21a2081c00bb27edbd7659b64c271c5d',1,'d_a_alink.cpp']]],
+  ['g_5fprofile_5falink_57',['g_profile_ALINK',['../d__a__alink_8cpp.html#a28c60723a0c77bf418fa7a4949363729',1,'d_a_alink.cpp']]],
   ['g_5fprofile_5fcamera_58',['g_profile_CAMERA',['../d__camera_8cpp.html#a4b90253cabfe5fbdf32c206976643137',1,'d_camera.cpp']]],
   ['g_5fprofile_5fcamera2_59',['g_profile_CAMERA2',['../d__camera_8cpp.html#a0e9936c39d6e72c75604965544600297',1,'d_camera.cpp']]],
   ['g_5fprofile_5fenvse_60',['g_profile_ENVSE',['../d__envse_8cpp.html#a22edf243f8c9b38865733f399f807c9e',1,'d_envse.cpp']]],
