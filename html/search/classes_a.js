@@ -523,7 +523,7 @@ var searchData=
   ['jparesourcemanager_520',['JPAResourceManager',['../structJPAResourceManager.html',1,'']]],
   ['jpatexture_521',['JPATexture',['../structJPATexture.html',1,'']]],
   ['jpatexturedata_522',['JPATextureData',['../structJPATextureData.html',1,'']]],
-  ['jptraceparticlecallback4_523',['JPTraceParticleCallBack4',['../structJPTraceParticleCallBack4.html',1,'']]],
+  ['jptraceparticlecallback4_523',['JPTraceParticleCallBack4',['../classJPTraceParticleCallBack4.html',1,'']]],
   ['jstudio_5fjstage_524',['JStudio_JStage',['../structJStudio__JStage.html',1,'']]],
   ['jsufileinputstream_525',['JSUFileInputStream',['../classJSUFileInputStream.html',1,'']]],
   ['jsuinputstream_526',['JSUInputStream',['../structJSUInputStream.html',1,'']]],

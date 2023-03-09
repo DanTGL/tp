@@ -641,7 +641,7 @@ var searchData=
   ['_7ejpafieldvortex_638',['~JPAFieldVortex',['../structJPAFieldVortex.html#a8bff9d7776d0af3ecb329918e2f96323',1,'JPAFieldVortex']]],
   ['_7ejpaparticlecallback_639',['~JPAParticleCallBack',['../classJPAParticleCallBack.html#a16c6b027efeb341d643741b6cec603b7',1,'JPAParticleCallBack']]],
   ['_7ejpatexture_640',['~JPATexture',['../structJPATexture.html#a6d44e195ff76bd48c944da2724e566dc',1,'JPATexture']]],
-  ['_7ejptraceparticlecallback4_641',['~JPTraceParticleCallBack4',['../structJPTraceParticleCallBack4.html#a2f84103f1af655eac375c74c998ad7c4',1,'JPTraceParticleCallBack4']]],
+  ['_7ejptraceparticlecallback4_641',['~JPTraceParticleCallBack4',['../classJPTraceParticleCallBack4.html#a2f84103f1af655eac375c74c998ad7c4',1,'JPTraceParticleCallBack4']]],
   ['_7ejsufileinputstream_642',['~JSUFileInputStream',['../classJSUFileInputStream.html#ad20b275d6681295e237eabc261c45616',1,'JSUFileInputStream']]],
   ['_7ejsuinputstream_643',['~JSUInputStream',['../structJSUInputStream.html#a9e24dc925c60af6b3c3450a137fd6a33',1,'JSUInputStream::~JSUInputStream()'],['../structJSUInputStream.html#a4a53e5c0c9ae80e3865855fe9a7005d2',1,'JSUInputStream::~JSUInputStream()']]],
   ['_7ejsuiosbase_644',['~JSUIosBase',['../classJSUIosBase.html#ac150d608cc92027136f67cd41ca720af',1,'JSUIosBase']]],
