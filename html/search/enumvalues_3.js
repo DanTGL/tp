@@ -17,7 +17,7 @@ var searchData=
   ['chuchu_5fred_14',['CHUCHU_RED',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2ab91a2d00859a89a7af0c32cfb61f94e9',1,'d_save.h']]],
   ['chuchu_5fyellow_15',['CHUCHU_YELLOW',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2aad380c290cf984ae52ab78e78dca7b51',1,'d_save.h']]],
   ['chuchu_5fyellow2_16',['CHUCHU_YELLOW2',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2a4bd791f254c2b29a6dc3866794b04a60',1,'d_save.h']]],
-  ['clr_5fspeed_5fy_17',['CLR_SPEED_Y',['../classdBgS__Acch.html#a54339c27f82c94f3edd14d2dfce7bebaa13ae7d8d5c18d7e40224834ccbc296ea',1,'dBgS_Acch']]],
+  ['clr_5fspeed_5fy_17',['CLR_SPEED_Y',['../classdBgS__Acch.html#a38c8fcd35a1594c9cb8f20c5b5767fa2a13ae7d8d5c18d7e40224834ccbc296ea',1,'dBgS_Acch']]],
   ['code_5farrow_5fthru_18',['CODE_ARROW_THRU',['../d__bg__pc_8h.html#ab4b8cf0b4e88cea2d4d5ff40fe1406bda00afd9d6fa7a38d40a8cba01724f45bf',1,'d_bg_pc.h']]],
   ['code_5fattack_5fthru_19',['CODE_ATTACK_THRU',['../d__bg__pc_8h.html#ab4b8cf0b4e88cea2d4d5ff40fe1406bda66dec72398e9f83ce759968609ecf9ff',1,'d_bg_pc.h']]],
   ['code_5fbomb_5fthru_20',['CODE_BOMB_THRU',['../d__bg__pc_8h.html#ab4b8cf0b4e88cea2d4d5ff40fe1406bda2a2654e5d2c8a932991786e990bf856a',1,'d_bg_pc.h']]],
