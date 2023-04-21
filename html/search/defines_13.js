@@ -84,7 +84,7 @@ var searchData=
   ['si_5fwireless_5ftype_81',['SI_WIRELESS_TYPE',['../SIBios_8h.html#aa11eb5e6d480de8198a39deaf99f38eb',1,'SIBios.h']]],
   ['si_5fwireless_5ftype_5fid_82',['SI_WIRELESS_TYPE_ID',['../SIBios_8h.html#a2f17093391bb7cb31272a5ffc42af26b',1,'SIBios.h']]],
   ['sia_83',['SIA',['../PPCArch_8h.html#a0bed5c661931f91091f2dc8ac8fd6b1d',1,'PPCArch.h']]],
-  ['signbit_84',['signbit',['../float_8h.html#aa63ffa98f213f62e536b073c28cb3cd8',1,'float.h']]],
+  ['signbit_84',['signbit',['../MSL__Common_2Src_2float_8h.html#aa63ffa98f213f62e536b073c28cb3cd8',1,'float.h']]],
   ['sing_85',['SING',['../fdlibm_8h.html#abcab83f12b426c24e18980b68ed72945',1,'fdlibm.h']]],
   ['spac_86',['spac',['../ctype_8c.html#a4f5b6bc18040868794980d93939ae1ff',1,'ctype.c']]],
   ['sprg0_87',['SPRG0',['../PPCArch_8h.html#a1eea2db46eb96a68b9e7343563a59b48',1,'PPCArch.h']]],

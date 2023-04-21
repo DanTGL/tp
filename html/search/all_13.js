@@ -4607,7 +4607,7 @@ var searchData=
   ['signal_2eh_4604',['signal.h',['../signal_8h.html',1,'']]],
   ['signal_5ffuncs_4605',['signal_funcs',['../signal_8c.html#aa2efdea74bd2974094cd082f0854474a',1,'signal.c']]],
   ['signature_4606',['signature',['../structSYaz0Header.html#a5981b15cb7a6457a96138627dafacb31',1,'SYaz0Header::signature()'],['../structSArcHeader.html#ab868748ceb07a372102182825c0190b9',1,'SArcHeader::signature()'],['../structJStudio_1_1fvb_1_1data_1_1THeader.html#a8e9f7914e989deee27a73567f3115bc2',1,'JStudio::fvb::data::THeader::signature()'],['../structJStudio_1_1stb_1_1data_1_1THeader.html#ad6c3374a2fa17ae5abfe88b381388077',1,'JStudio::stb::data::THeader::signature()'],['../classJStudio_1_1stb_1_1TObject.html#a764379083035651cad9d0ed47c6972d4',1,'JStudio::stb::TObject::signature()']]],
-  ['signbit_4607',['signbit',['../float_8h.html#aa63ffa98f213f62e536b073c28cb3cd8',1,'float.h']]],
+  ['signbit_4607',['signbit',['../MSL__Common_2Src_2float_8h.html#aa63ffa98f213f62e536b073c28cb3cd8',1,'float.h']]],
   ['signgam_4608',['signgam',['../fdlibm_8h.html#aaf3c24f586d5e086574db96ff817e3e3',1,'fdlibm.h']]],
   ['siinit_4609',['SIInit',['../SIBios_8h.html#a5554df5c35e119f94fb6e8777bca1e8d',1,'SIInit(void):&#160;SIBios.c'],['../SIBios_8c.html#a5554df5c35e119f94fb6e8777bca1e8d',1,'SIInit(void):&#160;SIBios.c'],['../OS_8c.html#a34ff61a21a4e69e37957f910c5788c7e',1,'SIInit():&#160;SIBios.c']]],
   ['siinterrupthandler_4610',['SIInterruptHandler',['../SIBios_8h.html#a0009f7f6e1d942f65abdb1bba9d0a7a6',1,'SIInterruptHandler(OSInterrupt interrupt, OSContext *context):&#160;SIBios.h'],['../SIBios_8c.html#a0009f7f6e1d942f65abdb1bba9d0a7a6',1,'SIInterruptHandler(OSInterrupt interrupt, OSContext *context):&#160;SIBios.c']]],
