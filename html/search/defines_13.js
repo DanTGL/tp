@@ -96,7 +96,10 @@ var searchData=
   ['srr1_5fdma_5fbit_93',['SRR1_DMA_BIT',['../PPCArch_8h.html#a81177be1d4b9ebe0d74b8dd082722503',1,'PPCArch.h']]],
   ['srr1_5fl2dp_5fbit_94',['SRR1_L2DP_BIT',['../PPCArch_8h.html#a015f0111bef83117472f50d193e4f7a8',1,'PPCArch.h']]],
   ['static_5fassert_95',['STATIC_ASSERT',['../global_8h.html#a546855aaf69218038a2f19c115eab7db',1,'global.h']]],
-  ['stringoff_96',['stringOff',['../dvdfs_8c.html#a79177b1a114db9634be288be96cb2bc3',1,'dvdfs.c']]],
-  ['switch_5fone_5fzone_5fmax_97',['SWITCH_ONE_ZONE_MAX',['../d__save_8h.html#a4fe03e8759cb7a053d026d629e770f6c',1,'d_save.h']]],
-  ['switch_5fzone_5fmax_98',['SWITCH_ZONE_MAX',['../d__save_8h.html#adfa7e509e088d22ea5a5ea0f13fca514',1,'d_save.h']]]
+  ['stderr_96',['stderr',['../stdio_8h.html#a5ce35bd5ba5021fd3b2e951e8f497656',1,'stdio.h']]],
+  ['stdin_97',['stdin',['../stdio_8h.html#aaca70138f0cb63ddb026921afc635179',1,'stdio.h']]],
+  ['stdout_98',['stdout',['../stdio_8h.html#a0c0ef221f95f64e8632451312fd18cc8',1,'stdio.h']]],
+  ['stringoff_99',['stringOff',['../dvdfs_8c.html#a79177b1a114db9634be288be96cb2bc3',1,'dvdfs.c']]],
+  ['switch_5fone_5fzone_5fmax_100',['SWITCH_ONE_ZONE_MAX',['../d__save_8h.html#a4fe03e8759cb7a053d026d629e770f6c',1,'d_save.h']]],
+  ['switch_5fzone_5fmax_101',['SWITCH_ZONE_MAX',['../d__save_8h.html#adfa7e509e088d22ea5a5ea0f13fca514',1,'d_save.h']]]
 ];
