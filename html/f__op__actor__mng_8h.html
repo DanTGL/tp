@@ -250,6 +250,16 @@ Functions</h2></td></tr>
 <tr class="separator:a557dddef23d93b6804e225c7e9016c2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a243d238b04577028775dd2e16e7c118c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdJntCol__c.html">dJntCol_c</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#a243d238b04577028775dd2e16e7c118c">fopAcM_GetJntCol</a> (<a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actor)</td></tr>
 <tr class="separator:a243d238b04577028775dd2e16e7c118c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfcbf2e6d657fcefda1c45c0717683ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#adfcbf2e6d657fcefda1c45c0717683ce">fopAcM_getCullSizeFar</a> (const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actor)</td></tr>
+<tr class="separator:adfcbf2e6d657fcefda1c45c0717683ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee7d3446b3d5747278e0490033e209fe"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#aee7d3446b3d5747278e0490033e209fe">fopAcM_GetCullSize</a> (const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actor)</td></tr>
+<tr class="separator:aee7d3446b3d5747278e0490033e209fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a073d734a96ab9b85e4d0963015e20763"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#a073d734a96ab9b85e4d0963015e20763">fopAcM_CULLSIZE_IS_BOX</a> (int i_culltype)</td></tr>
+<tr class="separator:a073d734a96ab9b85e4d0963015e20763"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae40787068b870e13a92f2f15bc8934a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structVec.html">Vec</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#ae40787068b870e13a92f2f15bc8934a9">fopAcM_getCullSizeSphereCenter</a> (const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actor)</td></tr>
+<tr class="separator:ae40787068b870e13a92f2f15bc8934a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec9798c621114c72878ada64d79b4ad5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#aec9798c621114c72878ada64d79b4ad5">fopAcM_getCullSizeSphereR</a> (const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actor)</td></tr>
+<tr class="separator:aec9798c621114c72878ada64d79b4ad5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad81110b090c0046b52500aebf00bac70"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#ad81110b090c0046b52500aebf00bac70">dComIfGs_onSwitch</a> (int i_no, int i_roomNo)</td></tr>
 <tr class="separator:ad81110b090c0046b52500aebf00bac70"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a599f5671c2b528c651ac1804c87977ad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#a599f5671c2b528c651ac1804c87977ad">dComIfGs_offSwitch</a> (int i_no, int i_roomNo)</td></tr>
@@ -1285,7 +1295,7 @@ Functions</h2></td></tr>
           <td class="memname">void fopAcM_cancelCarryNow </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
-          <td class="paramname"><em>p_actor</em></td><td>)</td>
+          <td class="paramname"><em>i_actor</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1818,13 +1828,13 @@ Functions</h2></td></tr>
           <td class="memname"><a class="el" href="types_8h.html#adafe97a8e4be18b0198f234819016582">s32</a> fopAcM_createBokkuri </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a>&#160;</td>
-          <td class="paramname"><em>enemyNo</em>, </td>
+          <td class="paramname"><em>i_enemyNo</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const <a class="el" href="structcXyz.html">cXyz</a> *&#160;</td>
-          <td class="paramname"><em>p_pos</em>, </td>
+          <td class="paramname"><em>i_pos</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -1842,7 +1852,7 @@ Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>roomNo</em>, </td>
+          <td class="paramname"><em>i_roomNo</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -2152,13 +2162,13 @@ Functions</h2></td></tr>
           <td class="memname"><a class="el" href="types_8h.html#adafe97a8e4be18b0198f234819016582">s32</a> fopAcM_createDisappear </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
-          <td class="paramname"><em>p_actor</em>, </td>
+          <td class="paramname"><em>i_actor</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const <a class="el" href="structcXyz.html">cXyz</a> *&#160;</td>
-          <td class="paramname"><em>p_pos</em>, </td>
+          <td class="paramname"><em>i_pos</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -2924,19 +2934,19 @@ Functions</h2></td></tr>
           <td class="memname"><a class="el" href="types_8h.html#adafe97a8e4be18b0198f234819016582">s32</a> fopAcM_createWarpHole </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="structcXyz.html">cXyz</a> *&#160;</td>
-          <td class="paramname"><em>p_pos</em>, </td>
+          <td class="paramname"><em>i_pos</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const <a class="el" href="structcsXyz.html">csXyz</a> *&#160;</td>
-          <td class="paramname"><em>p_angle</em>, </td>
+          <td class="paramname"><em>i_angle</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>roomNo</em>, </td>
+          <td class="paramname"><em>i_roomNo</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -3016,6 +3026,32 @@ Functions</h2></td></tr>
           <td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a073d734a96ab9b85e4d0963015e20763" name="a073d734a96ab9b85e4d0963015e20763"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a073d734a96ab9b85e4d0963015e20763">&#9670;&#160;</a></span>fopAcM_CULLSIZE_IS_BOX()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a> fopAcM_CULLSIZE_IS_BOX </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>i_culltype</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -3904,6 +3940,110 @@ Functions</h2></td></tr>
           <td>(</td>
           <td class="paramtype">void *&#160;</td>
           <td class="paramname"><em>actor</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aee7d3446b3d5747278e0490033e209fe" name="aee7d3446b3d5747278e0490033e209fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee7d3446b3d5747278e0490033e209fe">&#9670;&#160;</a></span>fopAcM_GetCullSize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int fopAcM_GetCullSize </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
+          <td class="paramname"><em>i_actor</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="adfcbf2e6d657fcefda1c45c0717683ce" name="adfcbf2e6d657fcefda1c45c0717683ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfcbf2e6d657fcefda1c45c0717683ce">&#9670;&#160;</a></span>fopAcM_getCullSizeFar()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> fopAcM_getCullSizeFar </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
+          <td class="paramname"><em>i_actor</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae40787068b870e13a92f2f15bc8934a9" name="ae40787068b870e13a92f2f15bc8934a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae40787068b870e13a92f2f15bc8934a9">&#9670;&#160;</a></span>fopAcM_getCullSizeSphereCenter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structVec.html">Vec</a> fopAcM_getCullSizeSphereCenter </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
+          <td class="paramname"><em>i_actor</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aec9798c621114c72878ada64d79b4ad5" name="aec9798c621114c72878ada64d79b4ad5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec9798c621114c72878ada64d79b4ad5">&#9670;&#160;</a></span>fopAcM_getCullSizeSphereR()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> fopAcM_getCullSizeSphereR </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
+          <td class="paramname"><em>i_actor</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -6385,7 +6525,7 @@ Functions</h2></td></tr>
           <td class="memname"><a class="el" href="types_8h.html#adafe97a8e4be18b0198f234819016582">s32</a> fopAcM_plAngleCheck </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
-          <td class="paramname"><em>p_actor</em>, </td>
+          <td class="paramname"><em>i_actor</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -7351,13 +7491,13 @@ Functions</h2></td></tr>
           <td class="memname"><a class="el" href="types_8h.html#adafe97a8e4be18b0198f234819016582">s32</a> fopAcM_seenActorAngleY </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
-          <td class="paramname"><em>p_actorA</em>, </td>
+          <td class="paramname"><em>i_actorA</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
-          <td class="paramname"><em>p_actorB</em>&#160;</td>
+          <td class="paramname"><em>i_actorB</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -7565,7 +7705,7 @@ Functions</h2></td></tr>
           <td class="memname">void fopAcM_setCarryNow </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
-          <td class="paramname"><em>p_actor</em>, </td>
+          <td class="paramname"><em>i_actor</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
