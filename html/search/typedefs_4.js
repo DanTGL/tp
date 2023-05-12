@@ -27,7 +27,7 @@ var searchData=
   ['dvdcommandblock_24',['DVDCommandBlock',['../dvd_8h.html#a4550499658f17464b54e09db7c3b98c8',1,'dvd.h']]],
   ['dvddirectory_25',['DVDDirectory',['../dvd_8h.html#acd0f77584fd82c13b79106b6a7157cc0',1,'dvd.h']]],
   ['dvddirectoryentry_26',['DVDDirectoryEntry',['../dvd_8h.html#a8842cf5824ef6aecf6e470fd00f0cf1d',1,'dvd.h']]],
-  ['dvddiskid_27',['DVDDiskID',['../dvd_8h.html#a68125b6ed2fb7ca42480b489aa63aa96',1,'dvd.h']]],
+  ['dvddiskid_27',['DVDDiskID',['../CARDPriv_8h.html#a68125b6ed2fb7ca42480b489aa63aa96',1,'DVDDiskID():&#160;CARDPriv.h'],['../dvd_8h.html#a68125b6ed2fb7ca42480b489aa63aa96',1,'DVDDiskID():&#160;dvd.h']]],
   ['dvddriveinfo_28',['DVDDriveInfo',['../dvd_8h.html#a184b211478b4f8822f1f6e7c0d840f2c',1,'dvd.h']]],
   ['dvdfileinfo_29',['DVDFileInfo',['../dvd_8h.html#ad9af57ffab70d7c609516bd27b1bb002',1,'dvd.h']]],
   ['dvdlowcallback_30',['DVDLowCallback',['../dvdlow_8h.html#ab66cbd342948bdcbf3da919c605539e7',1,'dvdlow.h']]],
