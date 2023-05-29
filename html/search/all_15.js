@@ -1,7 +1,7 @@
 var searchData=
 [
   ['u_0',['U',['../structcSGlobe.html#a1937b6fd8f657dcd986ccaf75dff6264',1,'cSGlobe::U()'],['../structdCamera__c.html#a4c050aa9674936a2711702a831425478',1,'dCamera_c::U()'],['../structcSGlobe.html#a7a60eb8a480e364713c378406b6e7b2c',1,'cSGlobe::U()']]],
-  ['u_1',['u',['../structJStudio_1_1TAdaptor.html#aedb18683fd1bcd604beff8e14ce36bc8',1,'JStudio::TAdaptor::u()'],['../unionFpscrUnion.html#a2d817e71889de7c237934e6e9afeb619',1,'FpscrUnion::u()']]],
+  ['u_1',['u',['../structJStudio_1_1TAdaptor.html#aedb18683fd1bcd604beff8e14ce36bc8',1,'JStudio::TAdaptor::u()'],['../unionFpscrUnion.html#a6f03dd5d2c3bdd6096b4ce77850ba843',1,'FpscrUnion::u()']]],
   ['u16_2',['u16',['../unionPPCWGPipe.html#a54691399b526673acdb012dd9db1b3d1',1,'PPCWGPipe::u16()'],['../types_8h.html#a9e6c91d77e24643b888dbd1a1a590054',1,'u16():&#160;types.h']]],
   ['u32_3',['u32',['../unionPPCWGPipe.html#a36f6c6095ee0cd5b7e1ad444ecd818af',1,'PPCWGPipe::u32()'],['../types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac',1,'u32():&#160;types.h']]],
   ['u32data_4',['u32data',['../structJStudio_1_1TFunctionValue__composite_1_1TData.html#a54fd6928f7f1b307d6056a6b7b6471c2',1,'JStudio::TFunctionValue_composite::TData']]],
@@ -145,8 +145,8 @@ var searchData=
   ['unkdata_142',['unkData',['../structdStage__Elst__c_1_1unkData.html',1,'dStage_Elst_c']]],
   ['unkfunc_143',['UnkFunc',['../classJStudio_1_1TFunctionValue__composite.html#aa22042025b995f096c8c33cd1b1d4d1c',1,'JStudio::TFunctionValue_composite']]],
   ['unknown_144',['Unknown',['../structJKRSolidHeap_1_1Unknown.html',1,'JKRSolidHeap']]],
-  ['unknown_145',['unknown',['../structResTIMG.html#a53bfe413bcb3c7c5db1ccd12ecbab0c1',1,'ResTIMG']]],
-  ['unknown_146',['UNKNOWN',['../classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486a2de801cff5693dc0762b74549e5efeb1',1,'JKRAramStreamCommand']]],
+  ['unknown_145',['UNKNOWN',['../classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486a2de801cff5693dc0762b74549e5efeb1',1,'JKRAramStreamCommand']]],
+  ['unknown_146',['unknown',['../structResTIMG.html#a53bfe413bcb3c7c5db1ccd12ecbab0c1',1,'ResTIMG']]],
   ['unknown_5fealloc_5fdirection_147',['UNKNOWN_EALLOC_DIRECTION',['../classJKRDvdRipper.html#add5351d092f559b4c2bef0b3e2199161aaa755b34b664d87cb5d121fe07d24c22',1,'JKRDvdRipper']]],
   ['unknown_5fmount_5fdirection_148',['UNKNOWN_MOUNT_DIRECTION',['../structJKRArchive.html#adcf19e3c6e754c27610ed30a8acd1b0fa7ada7bee31268bae4ae8b40f883df688',1,'JKRArchive']]],
   ['unknown_5fmount_5fmode_149',['UNKNOWN_MOUNT_MODE',['../structJKRArchive.html#afa04710b1fffa15f661f0dd3a66bba3ea59ff20ff12931705e7c27dd9f7dd78b9',1,'JKRArchive']]],
@@ -180,7 +180,7 @@ var searchData=
   ['unmutescenebgm_5f_5f8z2seqmgrful_177',['unMuteSceneBgm__8Z2SeqMgrFUl',['../Z2SceneMgr_8cpp.html#a337cb58995c7ed2011e569015f1373b7',1,'Z2SceneMgr.cpp']]],
   ['unoriented_178',['UNORIENTED',['../ansi__files_8h.html#af6827b9bbcdbe2d4efa7ba30be248553af52ed2427e99ed120503006e807cfedd',1,'ansi_files.h']]],
   ['unreserveexi2port_179',['UnreserveEXI2Port',['../dolphin__trk__glue_8c.html#a66114d2788086304e45eab5678d04aa4',1,'UnreserveEXI2Port():&#160;dolphin_trk_glue.c'],['../dolphin__trk__glue_8h.html#a5294015cc690bf80b188c26fa8e9838c',1,'UnreserveEXI2Port():&#160;dolphin_trk_glue.c']]],
-  ['unselect_5fframe_180',['UNSELECT_FRAME',['../classdMeter__ringHIO__c.html#a6bb566d1e07e7d84d7b1865534fc282fa2539165f4caafee15ce57d9cfa630790',1,'dMeter_ringHIO_c']]],
+  ['unselect_5fframe_180',['UNSELECT_FRAME',['../classdMeter__ringHIO__c.html#a3d63ee468a84e1d68f0449659d6cb3c0a2539165f4caafee15ce57d9cfa630790',1,'dMeter_ringHIO_c']]],
   ['unsetrun_181',['UnsetRun',['../OSThread_8c.html#a5b16f1d9a607516405aa9bd6d05539f4',1,'UnsetRun(OSThread *thread):&#160;OSThread.c'],['../OSThread_8h.html#a5b16f1d9a607516405aa9bd6d05539f4',1,'UnsetRun(OSThread *thread):&#160;OSThread.h']]],
   ['unused_182',['unused',['../classdaObjE__CREATE__c.html#ad775abc14475bfd0cbb58ed96f08d8ac',1,'daObjE_CREATE_c::unused()'],['../classdaTagCstaSw__c.html#a3ef4d777d4a349b1182937afffb9b6ba',1,'daTagCstaSw_c::unused()'],['../classdaLv6CstaSw__c.html#a691eba532f6d0ae179cdff4a9fd75cdf',1,'daLv6CstaSw_c::unused()']]],
   ['up_183',['Up',['../structdCamera__c.html#a0e5582eae082f5b1658439d7838c9465',1,'dCamera_c']]],
