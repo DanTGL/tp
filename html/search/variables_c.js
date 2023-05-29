@@ -338,7 +338,7 @@ var searchData=
   ['latency_335',['latency',['../structCARDControl.html#aa12cc0b89a4d5850758a34204e252954',1,'CARDControl']]],
   ['latencytable_336',['LatencyTable',['../CARDMount_8c.html#a2951b2ce31ab6eed46a92cd1ce14a2ee',1,'CARDMount.c']]],
   ['latmax_337',['LatMax',['../d__camera_8cpp.html#a51037d7a3e80777710589a39f2d697dd',1,'d_camera.cpp']]],
-  ['lc_5fbase_338',['lc_base',['../dolphin__trk_8c.html#a599dadc220e2bf9e03f6005436b545f2',1,'dolphin_trk.c']]],
+  ['lc_5fbase_338',['lc_base',['../dolphin__trk_8c.html#a4bf20465b5f43a9e5b86c4384405a9f5',1,'dolphin_trk.c']]],
   ['lcaddr_339',['lcAddr',['../structPPC__DMA__L__t.html#a44042ae693c547c4dc48725769e2ea4b',1,'PPC_DMA_L_t']]],
   ['leading_340',['leading',['../structResFONT_1_1INF1.html#a22c1f89d8a9dc0d6c89ee9b05fe2a142',1,'ResFONT::INF1']]],
   ['leapyeardays_341',['LeapYearDays',['../OSTime_8c.html#ac4da315b6d43326a0309ead71a1f89c6',1,'OSTime.c']]],
