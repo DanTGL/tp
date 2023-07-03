@@ -105,7 +105,6 @@ $(function() {
 <code>#include &quot;<a class="el" href="m__Do__controller__pad_8h_source.html">m_Do/m_Do_controller_pad.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="m__Do__machine_8h_source.html">m_Do/m_Do_machine.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="m__Do__mtx_8h_source.html">m_Do/m_Do_mtx.h</a>&quot;</code><br />
-<code>#include &quot;asm/m_Do/m_Do_graphic/createTimg__FUsUsUl.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_graphic/darwFilter__F8_GXColor.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_graphic/calcFade__13mDoGph_gInf_cFv.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_graphic/mDoGph_AfterOfDraw__Fv.s&quot;</code><br />
@@ -307,8 +306,8 @@ Functions</h2></td></tr>
 <tr class="separator:afdca0eb87578e0952b66387b093d81f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3f61243ebf5cbb2ff90548d397b16772"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__graphic_8cpp.html#a3f61243ebf5cbb2ff90548d397b16772">_restgpr_28</a> ()</td></tr>
 <tr class="separator:a3f61243ebf5cbb2ff90548d397b16772"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6a7d508a349c081c3c20849cfac63dce"><td class="memItemLeft" align="right" valign="top">static asm <a class="el" href="structResTIMG.html">ResTIMG</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__graphic_8cpp.html#a6a7d508a349c081c3c20849cfac63dce">createTimg</a> (<a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> param_0, <a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> param_1, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> param_2)</td></tr>
-<tr class="separator:a6a7d508a349c081c3c20849cfac63dce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e29e114f70676f668cb1f3421732cba"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="structResTIMG.html">ResTIMG</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__graphic_8cpp.html#a7e29e114f70676f668cb1f3421732cba">createTimg</a> (<a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> width, <a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> height, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> format)</td></tr>
+<tr class="separator:a7e29e114f70676f668cb1f3421732cba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae1b892355ec9da5e5526086ad3daf150"><td class="memItemLeft" align="right" valign="top">static asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__graphic_8cpp.html#ae1b892355ec9da5e5526086ad3daf150">darwFilter</a> (<a class="el" href="struct__GXColor.html">_GXColor</a> param_0)</td></tr>
 <tr class="separator:ae1b892355ec9da5e5526086ad3daf150"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7a8fcfb604dfc09998940d04788dfe07"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__graphic_8cpp.html#a7a8fcfb604dfc09998940d04788dfe07">mDoGph_BlankingON</a> ()</td></tr>
@@ -1005,8 +1004,8 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a6a7d508a349c081c3c20849cfac63dce" name="a6a7d508a349c081c3c20849cfac63dce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a7d508a349c081c3c20849cfac63dce">&#9670;&#160;</a></span>createTimg()</h2>
+<a id="a7e29e114f70676f668cb1f3421732cba" name="a7e29e114f70676f668cb1f3421732cba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e29e114f70676f668cb1f3421732cba">&#9670;&#160;</a></span>createTimg()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1015,22 +1014,22 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static asm <a class="el" href="structResTIMG.html">ResTIMG</a> * createTimg </td>
+          <td class="memname">static <a class="el" href="structResTIMG.html">ResTIMG</a> * createTimg </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a>&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramname"><em>width</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a>&#160;</td>
-          <td class="paramname"><em>param_1</em>, </td>
+          <td class="paramname"><em>height</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td>
-          <td class="paramname"><em>param_2</em>&#160;</td>
+          <td class="paramname"><em>format</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
