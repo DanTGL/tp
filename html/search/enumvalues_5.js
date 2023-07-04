@@ -28,7 +28,7 @@ var searchData=
   ['erflg0_5fno_5fservice_5fwait_25',['ERFLG0_NO_SERVICE_WAIT',['../structdaMidna__c.html#af44f83d157f63375a0decd84f8de9193a367c540a48b5c5fb87db3f5597b2da47',1,'daMidna_c']]],
   ['erflg0_5fnot_5fauto_5fjump_26',['ERFLG0_NOT_AUTO_JUMP',['../structdaPy__py__c.html#a4953bb86a496faa991c75c48a6564d0aadfe72d2b252c6b543a9f48a17e807387',1,'daPy_py_c']]],
   ['erflg0_5fnot_5fhang_27',['ERFLG0_NOT_HANG',['../structdaPy__py__c.html#a4953bb86a496faa991c75c48a6564d0aa7adbc644901fe0f5a744d35fe143333b',1,'daPy_py_c']]],
-  ['erflg0_5funk_5f1_28',['ERFLG0_UNK_1',['../structdaPy__py__c.html#a4953bb86a496faa991c75c48a6564d0aa1f22ccb4c992758d473c4342f8ccf6a7',1,'daPy_py_c']]],
+  ['erflg0_5funk_5f1_28',['ERFLG0_UNK_1',['../structdaPy__py__c.html#a4953bb86a496faa991c75c48a6564d0aa1f22ccb4c992758d473c4342f8ccf6a7',1,'daPy_py_c::ERFLG0_UNK_1()'],['../structdaHorse__c.html#a7946c84caa8d207919601faf3f53ff8fab8baf6b56590e228c4af78d048538cf3',1,'daHorse_c::ERFLG0_UNK_1()']]],
   ['erflg0_5funk_5f100_29',['ERFLG0_UNK_100',['../structdaPy__py__c.html#a4953bb86a496faa991c75c48a6564d0aa855295f8715ee1c782faa815ec1964d5',1,'daPy_py_c']]],
   ['erflg0_5funk_5f1000_30',['ERFLG0_UNK_1000',['../structdaPy__py__c.html#a4953bb86a496faa991c75c48a6564d0aaaa5d0c6f85b7b1b83c343ee0bfe2d702',1,'daPy_py_c']]],
   ['erflg0_5funk_5f100000_31',['ERFLG0_UNK_100000',['../structdaPy__py__c.html#a4953bb86a496faa991c75c48a6564d0aabf759448193377d9fd223d4ac241df8e',1,'daPy_py_c']]],
