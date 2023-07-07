@@ -57,7 +57,7 @@ var searchData=
   ['killactivechannel_5f_5f13jasdspchannelfv_54',['killActiveChannel__13JASDSPChannelFv',['../JASAiCtrl_8cpp.html#aec6fb04a5f93b5fde9a125aba8277c19',1,'killActiveChannel__13JASDSPChannelFv():&#160;JASAiCtrl.cpp'],['../JASDSPChannel_8cpp.html#aec6fb04a5f93b5fde9a125aba8277c19',1,'killActiveChannel__13JASDSPChannelFv():&#160;JASDSPChannel.cpp']]],
   ['killsubcontents_55',['killSubContents',['../classdMeter2__c.html#a2e26c996ab1ab5efd0bbf57ab6d366d8',1,'dMeter2_c']]],
   ['killsubcontents_5f_5f9dmeter2_5fcfuc_56',['killSubContents__9dMeter2_cFUc',['../d__meter2_8cpp.html#aa4b5a9a0afed63f5ef1d5b58821b9685',1,'d_meter2.cpp']]],
-  ['killthreads_57',['KillThreads',['../OSReset_8c.html#afd6e0ba5a2f96cd39ff3e4146be34d44',1,'KillThreads(void):&#160;OSReset.c'],['../OSReset_8h.html#afd6e0ba5a2f96cd39ff3e4146be34d44',1,'KillThreads(void):&#160;OSReset.h']]],
+  ['killthreads_57',['KillThreads',['../OSReset_8h.html#afd6e0ba5a2f96cd39ff3e4146be34d44',1,'KillThreads(void):&#160;OSReset.h'],['../OSReset_8c.html#afd6e0ba5a2f96cd39ff3e4146be34d44',1,'KillThreads(void):&#160;OSReset.c']]],
   ['kind_5fcolor_58',['KIND_COLOR',['../J2DAnimation_8h.html#a424f4c2c887eb519e2f0f02b37e42c48a2bfb96bb6381c7445b2ec8b19bfca828',1,'J2DAnimation.h']]],
   ['kind_5fe_59',['Kind_e',['../classdaObjMGate__c.html#affe0695d411a32fbd1ca8fc9b6b75f65',1,'daObjMGate_c']]],
   ['kind_5fhashi_60',['KIND_HASHI',['../classdaObjMGate__c.html#affe0695d411a32fbd1ca8fc9b6b75f65a82f097b1c9bacb6e41dc316298f78d5b',1,'daObjMGate_c']]],
@@ -76,8 +76,9 @@ var searchData=
   ['kytag05_5fclass_73',['kytag05_class',['../classkytag05__class.html',1,'']]],
   ['kytag06_5fclass_74',['kytag06_class',['../classkytag06__class.html',1,'']]],
   ['kytag07_5fclass_75',['kytag07_class',['../classkytag07__class.html',1,'']]],
-  ['kytag14_5fclass_76',['kytag14_class',['../classkytag14__class.html',1,'']]],
-  ['kytag15_5fclass_77',['kytag15_class',['../classkytag15__class.html',1,'']]],
-  ['kytag16_5fclass_78',['kytag16_class',['../classkytag16__class.html',1,'']]],
-  ['kytag17_5fclass_79',['kytag17_class',['../classkytag17__class.html',1,'']]]
+  ['kytag10_5fclass_76',['kytag10_class',['../classkytag10__class.html',1,'']]],
+  ['kytag14_5fclass_77',['kytag14_class',['../classkytag14__class.html',1,'']]],
+  ['kytag15_5fclass_78',['kytag15_class',['../classkytag15__class.html',1,'']]],
+  ['kytag16_5fclass_79',['kytag16_class',['../classkytag16__class.html',1,'']]],
+  ['kytag17_5fclass_80',['kytag17_class',['../classkytag17__class.html',1,'']]]
 ];
