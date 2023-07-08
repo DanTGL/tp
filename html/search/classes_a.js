@@ -54,7 +54,7 @@ var searchData=
   ['j2dpicheader_51',['J2DPicHeader',['../structJ2DPicHeader.html',1,'']]],
   ['j2dpicture_52',['J2DPicture',['../structJ2DPicture.html',1,'']]],
   ['j2dpictureex_53',['J2DPictureEx',['../structJ2DPictureEx.html',1,'']]],
-  ['j2dprint_54',['J2DPrint',['../structJ2DPrint.html',1,'']]],
+  ['j2dprint_54',['J2DPrint',['../classJ2DPrint.html',1,'']]],
   ['j2dresreference_55',['J2DResReference',['../structJ2DResReference.html',1,'']]],
   ['j2drotateaxis_56',['J2DRotateAxis',['../structJ2DRotateAxis.html',1,'']]],
   ['j2dscreen_57',['J2DScreen',['../structJ2DScreen.html',1,'']]],
