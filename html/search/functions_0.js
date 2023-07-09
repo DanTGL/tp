@@ -1382,7 +1382,7 @@ var searchData=
   ['_5f_5ffrsqrtes_1379',['__frsqrtes',['../JMath_8h.html#a3e96476a059b39c42e1241fd063602ea',1,'JMath.h']]],
   ['_5f_5ffstload_1380',['__fstLoad',['../fstload_8c.html#a139f733b5d112a3181b78ccb98989739',1,'__fstLoad():&#160;fstload.c'],['../dvd_8c.html#a139f733b5d112a3181b78ccb98989739',1,'__fstLoad():&#160;fstload.c']]],
   ['_5f_5ffwrite_1381',['__fwrite',['../direct__io_8h.html#a28814a77907ad3a4630d475226924a7a',1,'__fwrite(const void *buffer, size_t size, size_t count, FILE *stream):&#160;direct_io.c'],['../direct__io_8c.html#a28814a77907ad3a4630d475226924a7a',1,'__fwrite(const void *buffer, size_t size, size_t count, FILE *stream):&#160;direct_io.c']]],
-  ['_5f_5fgdwrite_1382',['__GDWrite',['../GDBase_8c.html#a2baaf49a11d6c7a762db73e7d33d25f7',1,'GDBase.c']]],
+  ['_5f_5fgdwrite_1382',['__GDWrite',['../GDBase_8h.html#a154fd534a6fb463d676d777355debf7d',1,'GDBase.h']]],
   ['_5f_5fget_5fdebug_5fbba_1383',['__get_debug_bba',['../init_8c.html#a5ed2c30f6da7c730d77290376ab17ded',1,'__get_debug_bba():&#160;__start.c'],['../____start_8c.html#a40bc94cb0421d5df662f9722c60208e2',1,'__get_debug_bba(void):&#160;__start.c']]],
   ['_5f_5fgetimagetilecount_1384',['__GetImageTileCount',['../GXTexture_8h.html#abdd1f7841659cdd51ad4932ff2989839',1,'__GetImageTileCount(u32 arg0, s16 arg1, s16 arg2, s32 *arg3, s32 *arg4, s32 *arg5):&#160;GXTexture.c'],['../GXTexture_8c.html#a3f0ae11ae5efee2bd736e7b926a71e8f',1,'__GetImageTileCount(u32 arg0, s16 arg1, s16 arg2, s32 *arg3, s32 *arg4, s32 *arg5):&#160;GXTexture.c']]],
   ['_5f_5fgt_5f_5f7csanglecfrc7csangle_1385',['__gt__7cSAngleCFRC7cSAngle',['../d__camera_8cpp.html#a0dd42f82aeb6c10b6904886181e500a6',1,'d_camera.cpp']]],
