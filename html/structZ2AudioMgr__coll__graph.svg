@@ -738,35 +738,41 @@ var sectionId = 'dynsection-0';
 <polygon fill="#9a32cd" stroke="#9a32cd" points="565.52,-556.16 554.93,-556.42 563.37,-562.82 565.52,-556.16"/>
 <text text-anchor="middle" x="650" y="-611" font-family="Helvetica,sans-Serif" font-size="10.00"> mSeMgr</text>
 </g>
-<!-- Node43 -->
-<g id="node34" class="node">
-<title>Node43</title>
-<g id="a_node34"><a xlink:href="classJASGlobalInstance.html" target="_top" xlink:title=" ">
+<!-- Node41 -->
+<g id="node32" class="node">
+<title>Node41</title>
+<g id="a_node32"><a xlink:href="classJASGlobalInstance.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="811,-561 704,-561 704,-531 811,-531 811,-561"/>
 <text text-anchor="start" x="712" y="-549" font-family="Helvetica,sans-Serif" font-size="10.00">JASGlobalInstance&lt;</text>
 <text text-anchor="middle" x="757.5" y="-538" font-family="Helvetica,sans-Serif" font-size="10.00"> JAISeMgr &gt;</text>
 </a>
 </g>
 </g>
-<!-- Node40&#45;&gt;Node43 -->
-<g id="edge47" class="edge">
-<title>Node40&#45;&gt;Node43</title>
+<!-- Node40&#45;&gt;Node41 -->
+<g id="edge45" class="edge">
+<title>Node40&#45;&gt;Node41</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M564.77,-546.82C603.43,-546.66 661.71,-546.41 703.86,-546.23"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="564.94,-543.32 554.96,-546.87 564.97,-550.32 564.94,-543.32"/>
 <text text-anchor="middle" x="650" y="-549" font-family="Helvetica,sans-Serif" font-size="10.00"> sInstance</text>
 </g>
-<!-- Node41 -->
-<g id="node32" class="node">
-<title>Node41</title>
-<g id="a_node32"><a xlink:href="structJAISeqDataUser.html" target="_top" xlink:title=" ">
+<!-- Node41&#45;&gt;Node40 -->
+<g id="edge44" class="edge">
+<title>Node41&#45;&gt;Node40</title>
+<path fill="none" stroke="#63b8ff" d="M692.22,-533.65C690.13,-533.4 688.05,-533.19 686,-533 654.13,-530.09 645.9,-530.53 614,-533 593.66,-534.57 570.97,-538.12 553.46,-541.24"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="691.64,-537.1 702.02,-534.96 692.57,-530.16 691.64,-537.1"/>
+</g>
+<!-- Node42 -->
+<g id="node33" class="node">
+<title>Node42</title>
+<g id="a_node33"><a xlink:href="structJAISeqDataUser.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="113,-506.5 23,-506.5 23,-487.5 113,-487.5 113,-506.5"/>
 <text text-anchor="middle" x="68" y="-494.5" font-family="Helvetica,sans-Serif" font-size="10.00">JAISeqDataUser</text>
 </a>
 </g>
 </g>
-<!-- Node41&#45;&gt;Node40 -->
-<g id="edge44" class="edge">
-<title>Node41&#45;&gt;Node40</title>
+<!-- Node42&#45;&gt;Node40 -->
+<g id="edge46" class="edge">
+<title>Node42&#45;&gt;Node40</title>
 <path fill="none" stroke="#63b8ff" d="M124.51,-485.12C197.67,-472.08 329.15,-457.79 432,-497 440.76,-500.34 441.88,-503.32 450,-508 467.74,-518.22 488.3,-529.28 502.9,-537"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="123.96,-481.67 114.77,-486.92 125.24,-488.55 123.96,-481.67"/>
 </g>
@@ -779,36 +785,36 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node41&#45;&gt;Node45 -->
+<!-- Node42&#45;&gt;Node45 -->
 <g id="edge51" class="edge">
-<title>Node41&#45;&gt;Node45</title>
+<title>Node42&#45;&gt;Node45</title>
 <path fill="none" stroke="#63b8ff" d="M124.67,-497C157.5,-497 198.64,-497 230.12,-497"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="124.94,-493.5 114.94,-497 124.94,-500.5 124.94,-493.5"/>
 </g>
-<!-- Node41&#45;&gt;Node48 -->
+<!-- Node42&#45;&gt;Node48 -->
 <g id="edge53" class="edge">
-<title>Node41&#45;&gt;Node48</title>
+<title>Node42&#45;&gt;Node48</title>
 <path fill="none" stroke="#63b8ff" d="M81.71,-516.01C105.47,-549.73 160.21,-619.26 226,-649 314.75,-689.12 434.3,-672.58 490.42,-661.28"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="84.77,-514.28 76.21,-508.03 79,-518.25 84.77,-514.28"/>
 </g>
-<!-- Node42 -->
-<g id="node33" class="node">
-<title>Node42</title>
-<g id="a_node33"><a xlink:href="structJAISoundActivity.html" target="_top" xlink:title=" ">
+<!-- Node43 -->
+<g id="node34" class="node">
+<title>Node43</title>
+<g id="a_node34"><a xlink:href="structJAISoundActivity.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="325.5,-560.5 233.5,-560.5 233.5,-541.5 325.5,-541.5 325.5,-560.5"/>
 <text text-anchor="middle" x="279.5" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">JAISoundActivity</text>
 </a>
 </g>
 </g>
-<!-- Node42&#45;&gt;Node40 -->
-<g id="edge45" class="edge">
-<title>Node42&#45;&gt;Node40</title>
+<!-- Node43&#45;&gt;Node40 -->
+<g id="edge47" class="edge">
+<title>Node43&#45;&gt;Node40</title>
 <path fill="none" stroke="#63b8ff" d="M321.28,-538.06C330.92,-535.55 341.25,-533.29 351,-532 400.49,-525.45 458.42,-533.89 492.56,-540.51"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="320.5,-534.65 311.79,-540.69 322.37,-541.39 320.5,-534.65"/>
 </g>
-<!-- Node42&#45;&gt;Node48 -->
+<!-- Node43&#45;&gt;Node48 -->
 <g id="edge54" class="edge">
-<title>Node42&#45;&gt;Node48</title>
+<title>Node43&#45;&gt;Node48</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M336.92,-560.8C376.75,-568.15 424.36,-577.93 432,-584 446.63,-595.63 436.63,-608.95 450,-622 461.06,-632.8 476.39,-640.3 490.05,-645.31"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="337.62,-557.37 327.15,-559.03 336.36,-564.26 337.62,-557.37"/>
 <text text-anchor="middle" x="391.5" y="-587" font-family="Helvetica,sans-Serif" font-size="10.00"> mActivity</text>
@@ -822,18 +828,12 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node42&#45;&gt;Node51 -->
+<!-- Node43&#45;&gt;Node51 -->
 <g id="edge58" class="edge">
-<title>Node42&#45;&gt;Node51</title>
+<title>Node43&#45;&gt;Node51</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M337.09,-542.86C366.21,-540.77 401.83,-541.54 432,-552 441.58,-555.32 441.46,-560.55 450,-566 466.11,-576.28 485.43,-586.08 499.99,-593.01"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="337.04,-539.35 327.38,-543.7 337.64,-546.33 337.04,-539.35"/>
 <text text-anchor="middle" x="391.5" y="-555" font-family="Helvetica,sans-Serif" font-size="10.00"> mActivity</text>
-</g>
-<!-- Node43&#45;&gt;Node40 -->
-<g id="edge46" class="edge">
-<title>Node43&#45;&gt;Node40</title>
-<path fill="none" stroke="#63b8ff" d="M692.22,-533.65C690.13,-533.4 688.05,-533.19 686,-533 654.13,-530.09 645.9,-530.53 614,-533 593.66,-534.57 570.97,-538.12 553.46,-541.24"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="691.64,-537.1 702.02,-534.96 692.57,-530.16 691.64,-537.1"/>
 </g>
 <!-- Node44 -->
 <g id="node35" class="node">
