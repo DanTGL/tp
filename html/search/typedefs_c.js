@@ -9,6 +9,7 @@ var searchData=
   ['mtx_6',['Mtx',['../mtx_8h.html#afc58fc7f5dd84f97da2dab35156849ae',1,'mtx.h']]],
   ['mtx23_7',['Mtx23',['../mtx_8h.html#aaab553b8b0ec87e06105492872ede525',1,'mtx.h']]],
   ['mtx33_8',['Mtx33',['../mtx_8h.html#a19b5fed3ba94cd1f77a55aedc301b133',1,'mtx.h']]],
-  ['mtx44_9',['Mtx44',['../mtx44_8h.html#ae712a1ab7801758ac69d04c4f13d5947',1,'mtx44.h']]],
-  ['mtxp_10',['MtxP',['../mtx_8h.html#a486ec93ad57f76408600fa51e755e290',1,'mtx.h']]]
+  ['mtx3p_9',['Mtx3P',['../mtx_8h.html#ad5cef81430b3ca77c62e387fb26116fd',1,'mtx.h']]],
+  ['mtx44_10',['Mtx44',['../mtx44_8h.html#ae712a1ab7801758ac69d04c4f13d5947',1,'mtx44.h']]],
+  ['mtxp_11',['MtxP',['../mtx_8h.html#a486ec93ad57f76408600fa51e755e290',1,'mtx.h']]]
 ];
