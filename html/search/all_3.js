@@ -3786,7 +3786,7 @@ var searchData=
   ['countresource_3783',['countResource',['../structJKRArchive.html#a358b6a86aa25bf48e98dc0a09317459f',1,'JKRArchive']]],
   ['countresource_5f_5f10jkrarchivecfv_3784',['countResource__10JKRArchiveCFv',['../Z2FxLineMgr_8cpp.html#ac155794df1be3c5a47a057e2c3b2ab91',1,'Z2FxLineMgr.cpp']]],
   ['countrycode_3785',['countryCode',['../structBI2Debug.html#a3f1ec8354d88f9fb2ce80027f3cecb34',1,'BI2Debug']]],
-  ['counts_3786',['counts',['../structlayer__class.html#a63974077538d061d020ef67ae6bf6900',1,'layer_class']]],
+  ['counts_3786',['counts',['../structlayer__class.html#aafc4f4a96d4eed4082bd1c2051288b2a',1,'layer_class']]],
   ['countstages_3787',['countStages',['../classJ2DMaterialFactory.html#a02f8bb6f520a94b9e4ba672b5c22d9de',1,'J2DMaterialFactory::countStages()'],['../structJ3DMaterialFactory__v21.html#a86cefcdf1184da25a5fd4c8cf485c27f',1,'J3DMaterialFactory_v21::countStages()'],['../structJ3DMaterialFactory.html#a0b329994bc37c70c436ef94167063b13',1,'J3DMaterialFactory::countStages()']]],
   ['countstages_5f_5f18j2dmaterialfactorycfi_3788',['countStages__18J2DMaterialFactoryCFi',['../J2DMaterialFactory_8cpp.html#aa61d931f8541a935a719546917f1f17f',1,'J2DMaterialFactory.cpp']]],
   ['countstages_5f_5f18j3dmaterialfactorycfi_3789',['countStages__18J3DMaterialFactoryCFi',['../J3DMaterialFactory_8cpp.html#a3e7b3d5b35c8738d664cfe14d8287943',1,'J3DMaterialFactory.cpp']]],
