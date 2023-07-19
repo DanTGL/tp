@@ -8,5 +8,6 @@ var searchData=
   ['actor_5fmethod_5fclass_5',['actor_method_class',['../structactor__method__class.html',1,'']]],
   ['actor_5fplace_6',['actor_place',['../structactor__place.html',1,'']]],
   ['actor_5fprocess_5fprofile_5fdefinition_7',['actor_process_profile_definition',['../structactor__process__profile__definition.html',1,'']]],
-  ['arqrequest_8',['ARQRequest',['../structARQRequest.html',1,'']]]
+  ['actor_5fprocess_5fprofile_5fdefinition2_8',['actor_process_profile_definition2',['../structactor__process__profile__definition2.html',1,'']]],
+  ['arqrequest_9',['ARQRequest',['../structARQRequest.html',1,'']]]
 ];
