@@ -679,7 +679,7 @@ var searchData=
   ['_7ejsutree_676',['~JSUTree',['../classJSUTree.html#ad5779948901ecfacad1fcaf8518d3512',1,'JSUTree']]],
   ['_7ejutcachefont_677',['~JUTCacheFont',['../structJUTCacheFont.html#a5b6defc8a1f714b169225cd3c2dfdee1',1,'JUTCacheFont']]],
   ['_7ejutconsole_678',['~JUTConsole',['../classJUTConsole.html#aa1579e758dbe5befc49f4a567a2ce927',1,'JUTConsole']]],
-  ['_7ejutdirectfile_679',['~JUTDirectFile',['../structJUTDirectFile.html#a0cde6a57563caf8942be9675a46a64ef',1,'JUTDirectFile']]],
+  ['_7ejutdirectfile_679',['~JUTDirectFile',['../structJUTDirectFile.html#a1607cd32a609d730e35956f7955c0978',1,'JUTDirectFile']]],
   ['_7ejutexception_680',['~JUTException',['../classJUTException.html#a9f0aed7323d820944a7ef4844713330d',1,'JUTException']]],
   ['_7ejutfader_681',['~JUTFader',['../structJUTFader.html#aac79e728db080f019385dff4a09ab56e',1,'JUTFader']]],
   ['_7ejutfont_682',['~JUTFont',['../structJUTFont.html#a2660bd6eab54a2bacb2520f3d40f9210',1,'JUTFont::~JUTFont()'],['../structJUTFont.html#a3e59d9e08af51971bb601aef3cb80dc8',1,'JUTFont::~JUTFont()']]],

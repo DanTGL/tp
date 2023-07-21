@@ -829,7 +829,7 @@ var searchData=
   ['jutconsole_5fprint_5ff_5fva_5f_826',['JUTConsole_print_f_va_',['../JUTConsole_8h.html#abb45328d3f171ba517c82b8c17bc8061',1,'JUTConsole_print_f_va_(JUTConsole *, const char *, va_list):&#160;JUTConsole.cpp'],['../JUTConsole_8cpp.html#a066b075c903dbbf0fca5de28d3e1bd00',1,'JUTConsole_print_f_va_(JUTConsole *console, const char *fmt, va_list args):&#160;JUTConsole.cpp']]],
   ['jutconsolemanager_827',['JUTConsoleManager',['../classJUTConsoleManager.html#a6bc0dcc054e3aa879ea22c9476e7ce8b',1,'JUTConsoleManager']]],
   ['jutdbprint_828',['JUTDbPrint',['../classJUTDbPrint.html#a20d32a43fda09803687bbfbe478542b5',1,'JUTDbPrint']]],
-  ['jutdirectfile_829',['JUTDirectFile',['../structJUTDirectFile.html#a4c5cf4e160ed2fbb3f2e66dbce1e9104',1,'JUTDirectFile']]],
+  ['jutdirectfile_829',['JUTDirectFile',['../structJUTDirectFile.html#a42e3605f6fa38b4890025efa199ebf40',1,'JUTDirectFile']]],
   ['jutdirectprint_830',['JUTDirectPrint',['../classJUTDirectPrint.html#aa4bc4fab5fd7662b0b78c4adb71e3915',1,'JUTDirectPrint']]],
   ['jutexception_831',['JUTException',['../classJUTException.html#a8766b1f2e662a01ab39920f8edfa5226',1,'JUTException']]],
   ['jutexmapfile_832',['JUTExMapFile',['../classJUTException_1_1JUTExMapFile.html#a76607aca1f5a05ce718df487acd920ea',1,'JUTException::JUTExMapFile']]],
