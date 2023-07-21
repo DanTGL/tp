@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['B',['../namespaceCButton.html#a280971f786486f431094edd1f7b2a72ea23592f049b7da374fe07b8f127cca616',1,'CButton']]],
+  ['b_0',['B',['../namespaceCButton.html#a9271e1c0ef0ac22294d1f60c8d7231fca23592f049b7da374fe07b8f127cca616',1,'CButton']]],
   ['b_1',['b',['../struct__GXColorS10.html#ac8258574f2bde46e91f956ce2dc06b08',1,'_GXColorS10::b()'],['../struct__GXColor.html#ab5f92d6ef6636ecc7bd3262404bcc60e',1,'_GXColor::b()'],['../structcolor__RGB__class.html#aef0cd38f188a780cd3a7d8265da70a80',1,'color_RGB_class::b()']]],
   ['b0_2',['b0',['../structJAISoundID.html#aad0f60485a3075b00ee9d7f2b3c346c6',1,'JAISoundID']]],
   ['b1_3',['b1',['../structJAISoundID.html#ad8090b693242908359f1b987ada56a6f',1,'JAISoundID::b1()'],['../structstd_1_1pair.html#aec44ab235f9347c4cabf40c443ac3e45',1,'std::pair::b1()']]],
@@ -312,7 +312,7 @@ var searchData=
   ['bpresent_309',['bPresent',['../structDBInterface.html#a6a156d7e9af779c5c0086d349feeea73',1,'DBInterface']]],
   ['branch_310',['branch',['../structdDemo__c.html#a96ab36fb2b860795c01d216683d29407',1,'dDemo_c']]],
   ['branch_5f_5f7ddemo_5fcfv_311',['branch__7dDemo_cFv',['../d__demo_8cpp.html#ae7f6be074522122b7b06cc1aa4a1a12b',1,'d_demo.cpp']]],
-  ['branch_5fprocess_312',['branch_process',['../structJMessage_1_1TSequenceProcessor_1_1TProcess__.html#a7e0e5e9d98aedcfc796a0bd95695f21d',1,'JMessage::TSequenceProcessor::TProcess_']]],
+  ['branch_5fprocess_312',['branch_process',['../structJMessage_1_1TSequenceProcessor_1_1TProcess__.html#a0f6c88a841c17746fd58fe45616d3815',1,'JMessage::TSequenceProcessor::TProcess_']]],
   ['branchcondition_313',['BranchCondition',['../structJASSeqParser_1_1BranchCondition.html',1,'JASSeqParser']]],
   ['branchfile_314',['branchFile',['../d__demo_8cpp.html#a0200633d23fcb5ab4c14e76ef2bce539',1,'d_demo.cpp']]],
   ['branchfile_5f_5ffpcc_315',['branchFile__FPCc',['../d__demo_8cpp.html#afcdf984b61ab31347d62476da1559a8e',1,'d_demo.cpp']]],

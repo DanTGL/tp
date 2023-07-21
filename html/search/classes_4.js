@@ -883,7 +883,7 @@ var searchData=
   ['dvddriveinfo_880',['DVDDriveInfo',['../structDVDDriveInfo.html',1,'']]],
   ['dvdfileinfo_881',['DVDFileInfo',['../structDVDFileInfo.html',1,'']]],
   ['dvdqueue_882',['DVDQueue',['../structDVDQueue.html',1,'']]],
-  ['dvibration_5fc_883',['dVibration_c',['../structdVibration__c.html',1,'']]],
+  ['dvibration_5fc_883',['dVibration_c',['../classdVibration__c.html',1,'']]],
   ['dvibration_5fpattern_884',['dVibration_pattern',['../classdVibration__pattern.html',1,'']]],
   ['dynamicmodulecontrol_885',['DynamicModuleControl',['../structDynamicModuleControl.html',1,'']]],
   ['dynamicmodulecontrolbase_886',['DynamicModuleControlBase',['../structDynamicModuleControlBase.html',1,'']]],

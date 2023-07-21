@@ -9,7 +9,7 @@ var searchData=
   ['hamon_5fname_6',['hamon_name',['../f__op__actor__mng_8cpp.html#a9390c6a49717bf83600ae371da878baf',1,'f_op_actor_mng.cpp']]],
   ['handcenteroffsetvec_7',['handCenterOffsetVec',['../d__a__alink_8cpp.html#a35e39aaabea7876141fa45cbeec17d15',1,'d_a_alink.cpp']]],
   ['handle_8',['handle',['../struct__FILE.html#a650486106be3f2e24c2396f25e85af84',1,'_FILE']]],
-  ['handle_5f_9',['handle_',['../structJAISound.html#aea7bd660ddbd9fd1eb85a40ef6733120',1,'JAISound']]],
+  ['handle_5f_9',['handle_',['../classJAISound.html#aea7bd660ddbd9fd1eb85a40ef6733120',1,'JAISound']]],
   ['handler_10',['handler',['../structOSAlarm.html#a6840eae69d68c76d920e3387afe22e1e',1,'OSAlarm']]],
   ['hankakutocode_11',['HankakuToCode',['../OSFont_8c.html#a1e2a8cb112ba68f344e65b4adcdbcfdb',1,'OSFont.c']]],
   ['hd_12',['hd',['../structOSHeapCell.html#a3dce73d32ece4113ceb1f019583a6b9a',1,'OSHeapCell']]],

@@ -101,6 +101,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a02558a9673733b37284b692c1a8da5d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afa943276d28a255fa548308d440fc25c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAISoundStatus__.html#afa943276d28a255fa548308d440fc25c">isPlaying</a> ()</td></tr>
 <tr class="separator:afa943276d28a255fa548308d440fc25c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b0f3b9d4c0fa4cfe0881416628809da"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAISoundStatus__.html#a6b0f3b9d4c0fa4cfe0881416628809da">isMute</a> ()</td></tr>
+<tr class="separator:a6b0f3b9d4c0fa4cfe0881416628809da"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3c550c99bf0e946d91b00eafd2629129"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAISoundStatus__.html#a3c550c99bf0e946d91b00eafd2629129">isPaused</a> ()</td></tr>
 <tr class="separator:a3c550c99bf0e946d91b00eafd2629129"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -110,8 +112,8 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:a680dd6aac259e0ef60d250d943004cb6"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;&#160;&#160;<a class="el" href="structJAISoundStatus__.html#a53072c96abfd3feecd04e7bd239fd4b8">value</a></td></tr>
 <tr class="separator:a680dd6aac259e0ef60d250d943004cb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a54430938526027d3b0b50381cda7a499"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
-<tr class="memitem:afdb3c972792a3bc35e03469028c5e598"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;&#160;&#160;<a class="el" href="structJAISoundStatus__.html#a02b2ba3742445cad56928261e24a2001">flag1</a>: 1</td></tr>
-<tr class="separator:afdb3c972792a3bc35e03469028c5e598"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f6defec57120b248f6c9ae542f12dab"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;&#160;&#160;<a class="el" href="structJAISoundStatus__.html#a9ad0cd88d9e91febf8e6f4cd1f6ed4e8">mute</a>: 1</td></tr>
+<tr class="separator:a8f6defec57120b248f6c9ae542f12dab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af9b78247e35a44e463d987e6b5007139"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;&#160;&#160;<a class="el" href="structJAISoundStatus__.html#a90b35cca6009dec13fc44c7bec123712">paused</a>: 1</td></tr>
 <tr class="separator:af9b78247e35a44e463d987e6b5007139"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa637796a45454c58760d5457ac73dfa3"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;&#160;&#160;<a class="el" href="structJAISoundStatus__.html#a149c25bc2bf65d924e1f7fb281683b43">flag3</a>: 1</td></tr>
@@ -235,6 +237,31 @@ Public Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">bool JAISoundStatus_::isDead </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6b0f3b9d4c0fa4cfe0881416628809da" name="a6b0f3b9d4c0fa4cfe0881416628809da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b0f3b9d4c0fa4cfe0881416628809da">&#9670;&#160;</a></span>isMute()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool JAISoundStatus_::isMute </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -510,6 +537,20 @@ Public Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">struct  { ... }  JAISoundStatus_::flags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9ad0cd88d9e91febf8e6f4cd1f6ed4e8" name="a9ad0cd88d9e91febf8e6f4cd1f6ed4e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ad0cd88d9e91febf8e6f4cd1f6ed4e8">&#9670;&#160;</a></span>mute</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> JAISoundStatus_::mute</td>
         </tr>
       </table>
 </div><div class="memdoc">

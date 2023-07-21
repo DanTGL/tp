@@ -12,7 +12,7 @@ var searchData=
   ['handbgcheck_5f_5f9daalink_5fcfv_9',['handBgCheck__9daAlink_cFv',['../d__a__alink_8cpp.html#a6e6337c648d56f1c593676ab6e310daf',1,'d_a_alink.cpp']]],
   ['handcenteroffsetvec_10',['handCenterOffsetVec',['../d__a__alink_8cpp.html#a35e39aaabea7876141fa45cbeec17d15',1,'d_a_alink.cpp']]],
   ['handle_11',['handle',['../struct__FILE.html#a650486106be3f2e24c2396f25e85af84',1,'_FILE']]],
-  ['handle_5f_12',['handle_',['../structJAISound.html#aea7bd660ddbd9fd1eb85a40ef6733120',1,'JAISound']]],
+  ['handle_5f_12',['handle_',['../classJAISound.html#aea7bd660ddbd9fd1eb85a40ef6733120',1,'JAISound']]],
   ['handleclosefilesupportrequest_13',['HandleCloseFileSupportRequest',['../support_8c.html#ae2b75dddb9aaac67b7bc7e1d89af30e1',1,'HandleCloseFileSupportRequest():&#160;support.c'],['../targimpl_8c.html#ad29dc4a86387cb8c6f3e7ec505588452',1,'HandleCloseFileSupportRequest():&#160;support.c']]],
   ['handleopenfilesupportrequest_14',['HandleOpenFileSupportRequest',['../support_8c.html#a35bfecd59ff31a4eeb694751674f9440',1,'HandleOpenFileSupportRequest():&#160;support.c'],['../targimpl_8c.html#aa4f044bfd4ece64079717d431893d6ce',1,'HandleOpenFileSupportRequest():&#160;support.c']]],
   ['handlepositionfilesupportrequest_15',['HandlePositionFileSupportRequest',['../support_8c.html#a1b7f3ca5af73fdcc5ca1ab1f9a38f658',1,'HandlePositionFileSupportRequest():&#160;support.c'],['../targimpl_8c.html#af22439d55aaadf3e9086e04386ed717c',1,'HandlePositionFileSupportRequest():&#160;support.c']]],
