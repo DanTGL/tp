@@ -27,11 +27,12 @@ var searchData=
   ['boss_5fkey_24',['BOSS_KEY',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2ae5177c3ab4817d6c99577974c512d3cd',1,'BOSS_KEY():&#160;d_save.h'],['../structdSv__memBit__c.html#ab259e706878410f8d74578a7707f992baddc140ece9a60e605fcdd9344585ae22',1,'dSv_memBit_c::BOSS_KEY()']]],
   ['bossrider_5fkey_25',['BOSSRIDER_KEY',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2a3e139d96c259ac549389e2fabcb92895',1,'d_save.h']]],
   ['bow_26',['BOW',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2ae5557626412a6fc8cd1120c5187203a0',1,'d_save.h']]],
-  ['btn_5fa_27',['BTN_A',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410a84a42e4be9349769ff4c316e229ddf1d',1,'daAlink_c']]],
-  ['btn_5fb_28',['BTN_B',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410af5c1ef8b88f3d4061dcf227556e33498',1,'daAlink_c']]],
-  ['btn_5fl_29',['BTN_L',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410acbe060aaefc4e312696fbaea7aea0c24',1,'daAlink_c']]],
-  ['btn_5fr_30',['BTN_R',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410a711d15aefd763354afa2ef5385fbfda5',1,'daAlink_c']]],
-  ['btn_5fx_31',['BTN_X',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410ae582c7a37519d4cac9595a5c4e842394',1,'daAlink_c']]],
-  ['btn_5fy_32',['BTN_Y',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410aacb26d323d21db9928f425eb95692f60',1,'daAlink_c']]],
-  ['btn_5fz_33',['BTN_Z',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410a616a34a223c2ec181fbc1854c15fa1c4',1,'daAlink_c']]]
+  ['breakpointevent_27',['BreakpointEvent',['../nubevent_8h.html#a377fbf6a54d6c3797c7e8b7d13f64127a4ee3e07237719bfe31d25196e2ee2039',1,'nubevent.h']]],
+  ['btn_5fa_28',['BTN_A',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410a84a42e4be9349769ff4c316e229ddf1d',1,'daAlink_c']]],
+  ['btn_5fb_29',['BTN_B',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410af5c1ef8b88f3d4061dcf227556e33498',1,'daAlink_c']]],
+  ['btn_5fl_30',['BTN_L',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410acbe060aaefc4e312696fbaea7aea0c24',1,'daAlink_c']]],
+  ['btn_5fr_31',['BTN_R',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410a711d15aefd763354afa2ef5385fbfda5',1,'daAlink_c']]],
+  ['btn_5fx_32',['BTN_X',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410ae582c7a37519d4cac9595a5c4e842394',1,'daAlink_c']]],
+  ['btn_5fy_33',['BTN_Y',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410aacb26d323d21db9928f425eb95692f60',1,'daAlink_c']]],
+  ['btn_5fz_34',['BTN_Z',['../structdaAlink__c.html#a5943df09f1c64bcebf31995e767d6410a616a34a223c2ec181fbc1854c15fa1c4',1,'daAlink_c']]]
 ];

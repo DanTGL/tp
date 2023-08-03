@@ -80,7 +80,7 @@ var searchData=
   ['unmount_5f_5f13jkrfileloaderfv_77',['unmount__13JKRFileLoaderFv',['../JKRDvdArchive_8cpp.html#a820a2dec2ced8384a957ac7d96ef732f',1,'unmount__13JKRFileLoaderFv():&#160;JKRDvdArchive.cpp'],['../JKRAramArchive_8cpp.html#a820a2dec2ced8384a957ac7d96ef732f',1,'unmount__13JKRFileLoaderFv():&#160;JKRAramArchive.cpp']]],
   ['unmutescenebgm_78',['unMuteSceneBgm',['../structZ2SeqMgr.html#a7cc627168b64bf5b1f7d8df33e0e8192',1,'Z2SeqMgr']]],
   ['unmutescenebgm_5f_5f8z2seqmgrful_79',['unMuteSceneBgm__8Z2SeqMgrFUl',['../Z2SceneMgr_8cpp.html#a337cb58995c7ed2011e569015f1373b7',1,'Z2SceneMgr.cpp']]],
-  ['unreserveexi2port_80',['UnreserveEXI2Port',['../dolphin__trk__glue_8h.html#a5294015cc690bf80b188c26fa8e9838c',1,'UnreserveEXI2Port():&#160;dolphin_trk_glue.c'],['../dolphin__trk__glue_8c.html#a66114d2788086304e45eab5678d04aa4',1,'UnreserveEXI2Port():&#160;dolphin_trk_glue.c']]],
+  ['unreserveexi2port_80',['UnreserveEXI2Port',['../dolphin__trk__glue_8h.html#a5294015cc690bf80b188c26fa8e9838c',1,'UnreserveEXI2Port():&#160;dolphin_trk_glue.c'],['../dolphin__trk__glue_8c.html#a5294015cc690bf80b188c26fa8e9838c',1,'UnreserveEXI2Port():&#160;dolphin_trk_glue.c']]],
   ['unsetrun_81',['UnsetRun',['../OSThread_8h.html#a5b16f1d9a607516405aa9bd6d05539f4',1,'UnsetRun(OSThread *thread):&#160;OSThread.h'],['../OSThread_8c.html#a5b16f1d9a607516405aa9bd6d05539f4',1,'UnsetRun(OSThread *thread):&#160;OSThread.c']]],
   ['up_82',['Up',['../structdCamera__c.html#a0e5582eae082f5b1658439d7838c9465',1,'dCamera_c']]],
   ['up_5f_5f9dcamera_5fcfv_83',['Up__9dCamera_cFv',['../d__camera_8cpp.html#a6dd3e6f38731c56f72758bf0573ead2c',1,'d_camera.cpp']]],
