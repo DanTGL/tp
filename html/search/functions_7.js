@@ -2342,7 +2342,7 @@ var searchData=
   ['getpathinf_2339',['getPathInf',['../classdStage__roomDt__c.html#a8ac7b2e9b1dec048066276617083af4e',1,'dStage_roomDt_c::getPathInf()'],['../structdStage__dt__c.html#a35e11b34af6a945a9aeadaa02c085b8c',1,'dStage_dt_c::getPathInf()'],['../classdStage__stageDt__c.html#a91df1351d8e5137988feaf7d96dba343',1,'dStage_stageDt_c::getPathInf()']]],
   ['getpathinf_5f_5f15dstage_5froomdt_5fccfv_2340',['getPathInf__15dStage_roomDt_cCFv',['../d__stage_8cpp.html#aece6859aae7008b4d1afcdc0d379d3ed',1,'d_stage.cpp']]],
   ['getpathinf_5f_5f16dstage_5fstagedt_5fccfv_2341',['getPathInf__16dStage_stageDt_cCFv',['../d__stage_8cpp.html#a12728e9c0e2b8fac78b93918331cdd6b',1,'d_stage.cpp']]],
-  ['getpathnextpos_2342',['getPathNextPos',['../classdaSpinner__c.html#acbcaa22414c2551490405d4713ae94d2',1,'daSpinner_c']]],
+  ['getpathnextpos_2342',['getPathNextPos',['../classdaSpinner__c.html#acae2b2aadbf59ed86c07f1141b89910e',1,'daSpinner_c']]],
   ['getpathscale_2343',['getPathScale',['../structdMenu__Fmap2DBack__c.html#a68618233c291e2f253350b82d4e12466',1,'dMenu_Fmap2DBack_c']]],
   ['getpathscale_5f_5f18dmenu_5ffmap2dback_5fcff_2344',['getPathScale__18dMenu_Fmap2DBack_cFf',['../d__menu__fmap2D_8cpp.html#af9a2e4c703f8ed6e3dc886e224f81400',1,'d_menu_fmap2D.cpp']]],
   ['getpattern_2345',['getPattern',['../structJUTGamePadLongPress.html#a08fe1e15beab87d86c69b026af08223a',1,'JUTGamePadLongPress']]],
