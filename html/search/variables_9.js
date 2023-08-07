@@ -62,7 +62,7 @@ var searchData=
   ['initialized_59',['Initialized',['../Pad_8c.html#a3813e216dcea25694a499dd9bb71a02c',1,'Pad.c']]],
   ['initinterrupts_5ffunc_60',['initinterrupts_func',['../structDBCommTable.html#a2f1d5b79e8cf3ac0d83048fea44eeabc',1,'DBCommTable']]],
   ['inlngth_61',['inlngth',['../structSIComm__s.html#a00060fa96456776bb1d8193dab19a9d9',1,'SIComm_s']]],
-  ['inner_5f_62',['inner_',['../structJAISeq.html#a7f9723a99a13350f9de948fefe0640b5',1,'JAISeq::inner_()'],['../structJAISe.html#af5e45cc47e6dd61d379346771f9d6fba',1,'JAISe::inner_()']]],
+  ['inner_5f_62',['inner_',['../structJAISeq.html#a7f9723a99a13350f9de948fefe0640b5',1,'JAISeq::inner_()'],['../classJAISe.html#af5e45cc47e6dd61d379346771f9d6fba',1,'JAISe::inner_()']]],
   ['input_63',['input',['../structSIPacket.html#a1504301e3177b9e3732064be573cbb52',1,'SIPacket::input()'],['../structSIControl.html#a2926d46d2168f40b11d211a58c3bea8f',1,'SIControl::input()']]],
   ['input_5farg_5farea_64',['input_arg_area',['../struct____va__list__struct.html#a89756c7a8e049c7d704266992a85a75c',1,'__va_list_struct']]],
   ['inputactivated_65',['inputActivated',['../structTRKState.html#ae6167e5d81afd95d2dc06f1445a32900',1,'TRKState']]],
