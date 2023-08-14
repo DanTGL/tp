@@ -4060,7 +4060,7 @@ var searchData=
   ['grecvcb_4057',['gRecvCB',['../EXI2__GDEV__GCN_2main_8c.html#a819217bc50070072e077a29e7713f1c9',1,'gRecvCB():&#160;main.c'],['../EXI2__DDH__GCN_2main_8c.html#a819217bc50070072e077a29e7713f1c9',1,'gRecvCB():&#160;main.c']]],
   ['green_5fbottle_4058',['GREEN_BOTTLE',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2ab4980b94e2234222f3bd927ae8f5d2b8',1,'d_save.h']]],
   ['green_5frupee_4059',['GREEN_RUPEE',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2ad456dfbcb9dbffe568c69248332e7639',1,'d_save.h']]],
-  ['greengill_4060',['GREENGILL',['../classdMeter__drawFishingHIO__c.html#a28ca3337739513eba7c4e173b9a08386a81b91023571e0a3e8899c8a13fdb4fd4',1,'dMeter_drawFishingHIO_c']]],
+  ['greengill_4060',['GREENGILL',['../classdMeter__drawFishingHIO__c.html#ab1b23ac65e3a7b4039012220155656a6a81b91023571e0a3e8899c8a13fdb4fd4',1,'dMeter_drawFishingHIO_c']]],
   ['grnd_5fnone_4061',['GRND_NONE',['../classdBgS__Acch.html#a38c8fcd35a1594c9cb8f20c5b5767fa2af61ad37a0485ef0605c1f1c55087e093',1,'dBgS_Acch']]],
   ['ground_5faway_4062',['GROUND_AWAY',['../classdBgS__Acch.html#a38c8fcd35a1594c9cb8f20c5b5767fa2a74ac68ed1cb973f0bd49cdeb071dcb3e',1,'dBgS_Acch']]],
   ['ground_5ffind_4063',['GROUND_FIND',['../classdBgS__Acch.html#a38c8fcd35a1594c9cb8f20c5b5767fa2ad6f62db30fdea0f9542e96784e694eec',1,'dBgS_Acch']]],
