@@ -915,10 +915,5 @@ var searchData=
   ['dvibration_5fpattern_912',['dVibration_pattern',['../classdVibration__pattern.html',1,'']]],
   ['dynamicmodulecontrol_913',['DynamicModuleControl',['../structDynamicModuleControl.html',1,'']]],
   ['dynamicmodulecontrolbase_914',['DynamicModuleControlBase',['../structDynamicModuleControlBase.html',1,'']]],
-  ['dynamicnametableentry_915',['DynamicNameTableEntry',['../structDynamicNameTableEntry.html',1,'']]],
-  ['dzb_5fb_5fdata_916',['dzb_b_data',['../structdzb__b__data.html',1,'']]],
-  ['dzb_5fg_5fdata_917',['dzb_g_data',['../structdzb__g__data.html',1,'']]],
-  ['dzb_5fti_5fdata_918',['dzb_ti_data',['../structdzb__ti__data.html',1,'']]],
-  ['dzb_5ftree_5fdata_919',['dzb_tree_data',['../structdzb__tree__data.html',1,'']]],
-  ['dzb_5ftri_5fdata_920',['dzb_tri_data',['../structdzb__tri__data.html',1,'']]]
+  ['dynamicnametableentry_915',['DynamicNameTableEntry',['../structDynamicNameTableEntry.html',1,'']]]
 ];
