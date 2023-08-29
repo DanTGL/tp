@@ -8,5 +8,6 @@ var searchData=
   ['arqcallback_5',['ARQCallback',['../arq_8h.html#a5d574a7644e6cde2dc9e8895fa983a6a',1,'arq.h']]],
   ['arqpriotity_6',['ArqPriotity',['../arq_8h.html#ac76c6b51b38046f9087c955e418a291e',1,'arq.h']]],
   ['arqrequest_7',['ARQRequest',['../arq_8h.html#adf08f90cbbb879c9e62d7ebfce2b591b',1,'arq.h']]],
-  ['asynccallback_8',['AsyncCallback',['../classJKRAMCommand.html#a79b229cc0211d57835160b2dec7bbcbf',1,'JKRAMCommand::AsyncCallback()'],['../classJKRDecompCommand.html#a4d19c197a8374effdb4711d0a214eae6',1,'JKRDecompCommand::AsyncCallback()']]]
+  ['arrtype_8',['ArrType',['../structJGeometry_1_1SMatrix34C_3_01f32_01_4.html#a36fbf3d2506707a6592c1be6b799c634',1,'JGeometry::SMatrix34C&lt; f32 &gt;']]],
+  ['asynccallback_9',['AsyncCallback',['../classJKRAMCommand.html#a79b229cc0211d57835160b2dec7bbcbf',1,'JKRAMCommand::AsyncCallback()'],['../classJKRDecompCommand.html#a4d19c197a8374effdb4711d0a214eae6',1,'JKRDecompCommand::AsyncCallback()']]]
 ];
