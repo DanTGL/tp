@@ -605,7 +605,7 @@ var searchData=
   ['_7ejasbasicinst_602',['~JASBasicInst',['../structJASBasicInst.html#aa26e7535866607141b3c8f399b0fa7f3',1,'JASBasicInst']]],
   ['_7ejasbasicwavebank_603',['~JASBasicWaveBank',['../structJASBasicWaveBank.html#ad8b9e5dda508631ff43dcd84e695caf4',1,'JASBasicWaveBank']]],
   ['_7ejaschannel_604',['~JASChannel',['../structJASChannel.html#a479ef9748f2f8bb21014dc001f24e990',1,'JASChannel']]],
-  ['_7ejascriticalsection_605',['~JASCriticalSection',['../structJASCriticalSection.html#ab43dd58ccf0ed25a14248f779d88d25d',1,'JASCriticalSection']]],
+  ['_7ejascriticalsection_605',['~JASCriticalSection',['../classJASCriticalSection.html#ab43dd58ccf0ed25a14248f779d88d25d',1,'JASCriticalSection']]],
   ['_7ejasdefaultbanktable_606',['~JASDefaultBankTable',['../structJASDefaultBankTable.html#a176b050c2b5d1b1b49ffab8c2bcc9b65',1,'JASDefaultBankTable']]],
   ['_7ejasdisposer_607',['~JASDisposer',['../structJASDisposer.html#a874ac1c4ca00812cac9519ecdd001f6e',1,'JASDisposer']]],
   ['_7ejasdrumset_608',['~JASDrumSet',['../structJASDrumSet.html#a8952f657353c0c652b47c7fe26bbbdab',1,'JASDrumSet']]],
