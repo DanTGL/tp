@@ -173,7 +173,7 @@ var searchData=
   ['j2dtextboxinfo_170',['J2DTextBoxInfo',['../structJ2DTextBoxInfo.html',1,'']]],
   ['j2dtextboxvbinding_171',['J2DTextBoxVBinding',['../J2DTextBox_8h.html#a35671d4460456c0fc983cd5a32545154',1,'J2DTextBox.h']]],
   ['j2dtexturesrtinfo_172',['J2DTextureSRTInfo',['../structJ2DTextureSRTInfo.html',1,'']]],
-  ['j2dwindow_173',['J2DWindow',['../classJ2DWindow.html#afedc1866c2c7f0b577ceb6d199b25114',1,'J2DWindow::J2DWindow()'],['../classJ2DWindow.html#a2139edc6aaecc874e16e255d12648e1a',1,'J2DWindow::J2DWindow(J2DPane *, JSURandomInputStream *, J2DMaterial *)'],['../classJ2DWindow.html',1,'J2DWindow'],['../classJ2DWindow.html#aff2c4a44bb2fe17057e0100dc9cf7ad7',1,'J2DWindow::J2DWindow()']]],
+  ['j2dwindow_173',['J2DWindow',['../classJ2DWindow.html#a28ab7f68b1f9804530c7b30c6007493d',1,'J2DWindow::J2DWindow()'],['../classJ2DWindow.html#a2139edc6aaecc874e16e255d12648e1a',1,'J2DWindow::J2DWindow(J2DPane *, JSURandomInputStream *, J2DMaterial *)'],['../classJ2DWindow.html',1,'J2DWindow'],['../classJ2DWindow.html#a7818ded57be51398cf95b0075477ad6e',1,'J2DWindow::J2DWindow()']]],
   ['j2dwindow_2ecpp_174',['J2DWindow.cpp',['../J2DWindow_8cpp.html',1,'']]],
   ['j2dwindow_2eh_175',['J2DWindow.h',['../J2DWindow_8h.html',1,'']]],
   ['j2dwindowex_176',['J2DWindowEx',['../structJ2DWindowEx.html#afe651ebc919801e05836476a3a535de7',1,'J2DWindowEx::J2DWindowEx()'],['../structJ2DWindowEx.html',1,'J2DWindowEx']]],
