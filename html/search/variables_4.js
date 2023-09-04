@@ -346,7 +346,7 @@ var searchData=
   ['dmc_343',['DMC',['../c__dylink_8cpp.html#a931e4a31a351b08545eece562e56ebfd',1,'c_dylink.cpp']]],
   ['dmc_5finitialized_344',['DMC_initialized',['../c__dylink_8cpp.html#a04e28cad914f34cc29b0be6d941c6526',1,'c_dylink.cpp']]],
   ['dmiss_345',['DMISS',['../structExtended1__PPC__6xx__7xx.html#ae745926f35e2f18d735c22e847bb3d1e',1,'Extended1_PPC_6xx_7xx']]],
-  ['dmo_5fsoundmode_346',['dMo_soundMode',['../d__menu__option_8cpp.html#a4bafa709a4bd1c404cebe354ccb8b655',1,'d_menu_option.cpp']]],
+  ['dmo_5fsoundmode_346',['dMo_soundMode',['../d__menu__option_8cpp.html#aa29626b8f2fb3db9c3658cec71706172',1,'d_menu_option.cpp']]],
   ['dms_5fc_347',['dMs_c',['../classdGameover__c.html#a56de005d5a67d1536cb2a260b3e3d89f',1,'dGameover_c']]],
   ['doedgelod_348',['doEdgeLOD',['../structResTIMG.html#a0eb668be61f5a6657d4e9f5288d42e93',1,'ResTIMG']]],
   ['dolby_5fbehind_5fdistance_5fmax_349',['DOLBY_BEHIND_DISTANCE_MAX',['../structZ2Param.html#a6948b00a91773705636db6b976a9e477',1,'Z2Param']]],
