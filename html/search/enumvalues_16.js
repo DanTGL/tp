@@ -1,9 +1,9 @@
 var searchData=
 [
   ['w_5fhookshot_0',['W_HOOKSHOT',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2aacc5a55085464856a2d85e50a1a7d59e',1,'d_save.h']]],
-  ['wait_5fe_1',['WAIT_e',['../classdaScExit__c.html#a0e3d79f000a7cae63d7e735423c307d7ae51191fc44c494801bb06f3e55b89ab7',1,'daScExit_c']]],
+  ['wait_5fe_1',['WAIT_e',['../classdaTagRiverBack__c.html#aa7241bd66ac8f6fe181985e72850f371a5a8ce7ded6328dce38223905c6cd4261',1,'daTagRiverBack_c::WAIT_e()'],['../classdaScExit__c.html#a0e3d79f000a7cae63d7e735423c307d7ae51191fc44c494801bb06f3e55b89ab7',1,'daScExit_c::WAIT_e()']]],
   ['wall_5fh_5fdirect_2',['WALL_H_DIRECT',['../classdBgS__AcchCir.html#a88675083580dd2964756ef27ea60a72fa16db0a32fae5ea8a6203813543750a73',1,'dBgS_AcchCir']]],
-  ['wall_5fhit_3',['WALL_HIT',['../classdBgS__AcchCir.html#a88675083580dd2964756ef27ea60a72fa6ca95209aacdeb5ef1dd41269c48cd54',1,'dBgS_AcchCir::WALL_HIT()'],['../classdBgS__Acch.html#a38c8fcd35a1594c9cb8f20c5b5767fa2a4b51c3c7c843bb7cdb875de9acac265c',1,'dBgS_Acch::WALL_HIT()']]],
+  ['wall_5fhit_3',['WALL_HIT',['../classdBgS__Acch.html#a38c8fcd35a1594c9cb8f20c5b5767fa2a4b51c3c7c843bb7cdb875de9acac265c',1,'dBgS_Acch::WALL_HIT()'],['../classdBgS__AcchCir.html#a88675083580dd2964756ef27ea60a72fa6ca95209aacdeb5ef1dd41269c48cd54',1,'dBgS_AcchCir::WALL_HIT()']]],
   ['wall_5fnone_4',['WALL_NONE',['../classdBgS__Acch.html#a38c8fcd35a1594c9cb8f20c5b5767fa2a897214913c9148c5d9a1112c341cec90',1,'dBgS_Acch']]],
   ['wall_5fsort_5',['WALL_SORT',['../classdBgS__Acch.html#a38c8fcd35a1594c9cb8f20c5b5767fa2a5fd86dbfb89f0eca24de35856dd8d62f',1,'dBgS_Acch']]],
   ['wallet_6',['WALLET',['../d__save_8h.html#a5af6360fa7af6b3ff29f1d747eb0782aa726497e12739adc071ab8269e27bca00',1,'d_save.h']]],
@@ -182,7 +182,7 @@ var searchData=
   ['wood_5fshield_179',['WOOD_SHIELD',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2ae509e29818cb55c7ae3744422cdb684e',1,'d_save.h']]],
   ['wood_5fstatue_180',['WOOD_STATUE',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2a27c12f4e921b0c8a89d6487eb6c4451c',1,'d_save.h']]],
   ['wood_5fstick_181',['WOOD_STICK',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2a27d2b53b11429eee02ecc7620bc9e54a',1,'d_save.h']]],
-  ['world_5fview_182',['WORLD_VIEW',['../classdMeter__fmapHIO__c.html#ac0ac9c357f6c6750a0a405817989d5e9aa7cf2c4ea431bd0ede46dd3f69a8a4d1',1,'dMeter_fmapHIO_c']]],
+  ['world_5fview_182',['WORLD_VIEW',['../classdMeter__fmapHIO__c.html#ac9e4fe24b30cbaab214225a9e0e24592aa7cf2c4ea431bd0ede46dd3f69a8a4d1',1,'dMeter_fmapHIO_c']]],
   ['worm_183',['WORM',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2a174680cf641bd8d009b17acec29dd1c6',1,'d_save.h']]],
   ['worm_5frod_184',['WORM_ROD',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2a31107871c30e75752f6dcfa924531a12',1,'d_save.h']]],
   ['write_185',['WRITE',['../classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486a4a879b1fece2b140eba7b434c36370ec',1,'JKRAramStreamCommand']]],
