@@ -7,7 +7,7 @@ var searchData=
   ['handlepositionfilesupportrequest_4',['HandlePositionFileSupportRequest',['../targimpl_8c.html#af22439d55aaadf3e9086e04386ed717c',1,'HandlePositionFileSupportRequest():&#160;support.c'],['../support_8c.html#a1b7f3ca5af73fdcc5ca1ab1f9a38f658',1,'HandlePositionFileSupportRequest():&#160;support.c']]],
   ['hangmovebgcheck_5',['hangMoveBgCheck',['../structdaAlink__c.html#a81e9f73f2025d18a9f549838f176affe',1,'daAlink_c']]],
   ['hangmovebgcheck_5f_5f9daalink_5fcfsp4cxyz_6',['hangMoveBgCheck__9daAlink_cFsP4cXyz',['../d__a__alink_8cpp.html#ac55e1aac4e04f152dd45ad05985d912f',1,'d_a_alink.cpp']]],
-  ['hasfailedblock_7',['hasFailedBlock',['../structJAUSeqDataBlocks.html#a1b77410fef2b8df1ad9109d9a75c04f2',1,'JAUSeqDataBlocks']]],
+  ['hasfailedblock_7',['hasFailedBlock',['../classJAUSeqDataBlocks.html#a1b77410fef2b8df1ad9109d9a75c04f2',1,'JAUSeqDataBlocks']]],
   ['hasfailedblock_5f_5f16jauseqdatablocksf10jaisoundid_8',['hasFailedBlock__16JAUSeqDataBlocksF10JAISoundID',['../JAUSeqDataBlockMgr_8cpp.html#a34d6ec2c5d053bfdf55d11c5537c8ab0',1,'JAUSeqDataBlockMgr.cpp']]],
   ['hasmap_9',['hasMap',['../structrenderingAmap__c.html#a49de7546f366695321813ebfc40052aa',1,'renderingAmap_c::hasMap()'],['../structrenderingDAmap__c.html#acc2c754de66a84ccfa9e05dcb61f96de',1,'renderingDAmap_c::hasMap()'],['../structrenderingAmap__c.html#aacdc4d95e8cef4af52654616b3ca451b',1,'renderingAmap_c::hasMap()'],['../structrenderingDmap__c.html#accfccb3cbd34a758006da1ce962639e4',1,'renderingDmap_c::hasMap()']]],
   ['hasmap_5f_5f15renderingamap_5fccfv_10',['hasMap__15renderingAmap_cCFv',['../d__map_8cpp.html#a21681b5ca53d57b90fb69d25ada2e134',1,'d_map.cpp']]],
