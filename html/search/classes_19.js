@@ -6,7 +6,7 @@ var searchData=
   ['z2audiblerelpos_3',['Z2AudibleRelPos',['../structZ2AudibleRelPos.html',1,'']]],
   ['z2audience_4',['Z2Audience',['../structZ2Audience.html',1,'']]],
   ['z2audience3dsetting_5',['Z2Audience3DSetting',['../structZ2Audience3DSetting.html',1,'']]],
-  ['z2audioarcloader_6',['Z2AudioArcLoader',['../structZ2AudioArcLoader.html',1,'']]],
+  ['z2audioarcloader_6',['Z2AudioArcLoader',['../classZ2AudioArcLoader.html',1,'']]],
   ['z2audiocamera_7',['Z2AudioCamera',['../structZ2AudioCamera.html',1,'']]],
   ['z2audiomgr_8',['Z2AudioMgr',['../structZ2AudioMgr.html',1,'']]],
   ['z2calc_9',['Z2Calc',['../structZ2Calc.html',1,'']]],

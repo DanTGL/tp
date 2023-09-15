@@ -10,11 +10,12 @@ var searchData=
   ['binarystreamfiletable_7',['BinaryStreamFileTable',['../structBinaryStreamFileTable.html',1,'']]],
   ['bitset_8',['bitset',['../classstd_1_1bitset.html',1,'std']]],
   ['bitset_3c_20255_20_3e_9',['bitset&lt; 255 &gt;',['../classstd_1_1bitset.html',1,'std']]],
-  ['blend_10',['Blend',['../structJ2DGrafContext_1_1Blend.html',1,'J2DGrafContext']]],
-  ['blinkanime_11',['BlinkAnime',['../structdMeter__fmapHIO__c_1_1BlinkAnime.html',1,'dMeter_fmapHIO_c']]],
-  ['blockheader_12',['BlockHeader',['../structBlockHeader.html',1,'']]],
-  ['bloom_5fc_13',['bloom_c',['../classmDoGph__gInf__c_1_1bloom__c.html',1,'mDoGph_gInf_c']]],
-  ['boss_5flight_14',['BOSS_LIGHT',['../structBOSS__LIGHT.html',1,'']]],
-  ['btkgetparam_15',['btkGetParam',['../structbtkGetParam.html',1,'']]],
-  ['btpgetparam_16',['btpGetParam',['../structbtpGetParam.html',1,'']]]
+  ['bitset_3c_20a0_20_3e_10',['bitset&lt; A0 &gt;',['../classstd_1_1bitset.html',1,'std']]],
+  ['blend_11',['Blend',['../structJ2DGrafContext_1_1Blend.html',1,'J2DGrafContext']]],
+  ['blinkanime_12',['BlinkAnime',['../structdMeter__fmapHIO__c_1_1BlinkAnime.html',1,'dMeter_fmapHIO_c']]],
+  ['blockheader_13',['BlockHeader',['../structBlockHeader.html',1,'']]],
+  ['bloom_5fc_14',['bloom_c',['../classmDoGph__gInf__c_1_1bloom__c.html',1,'mDoGph_gInf_c']]],
+  ['boss_5flight_15',['BOSS_LIGHT',['../structBOSS__LIGHT.html',1,'']]],
+  ['btkgetparam_16',['btkGetParam',['../structbtkGetParam.html',1,'']]],
+  ['btpgetparam_17',['btpGetParam',['../structbtpGetParam.html',1,'']]]
 ];

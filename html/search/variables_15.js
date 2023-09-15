@@ -94,7 +94,7 @@ var searchData=
   ['usda_91',['USDA',['../structExtended1__PPC__6xx__7xx.html#a75a453fc01fda3aa70d6b64f6bf3a711',1,'Extended1_PPC_6xx_7xx']]],
   ['usedlist_92',['usedList',['../structOSHeapDescriptor.html#a7b24dc58a7946c7d93144e9612b6fbad',1,'OSHeapDescriptor']]],
   ['usedsize_93',['usedSize',['../structOSHeapCell.html#aa8aaedb2d6c31a5ed3e0b83f288b3006',1,'OSHeapCell']]],
-  ['user_5f_94',['user_',['../structJAUSeqDataMgr__SeqCollection.html#a4350f771c8a012fea2f2849aafab61ae',1,'JAUSeqDataMgr_SeqCollection']]],
+  ['user_5f_94',['user_',['../classJAUSeqDataMgr__SeqCollection.html#a4350f771c8a012fea2f2849aafab61ae',1,'JAUSeqDataMgr_SeqCollection']]],
   ['user_5fdata_95',['user_data',['../structDVDCommandBlock.html#a04046c325b4c6865863d55613d005c3c',1,'DVDCommandBlock::user_data()'],['../structJAISoundStatus__.html#a608a26b532017b7ac2eecc26fd15e765',1,'JAISoundStatus_::user_data()'],['../struct__GXTexObj.html#a73f1852c7523e78e413cdece7ef0d20a',1,'_GXTexObj::user_data()']]],
   ['userlength_96',['userLength',['../structDVDBB2.html#af2a55313cba3da5c2ae8ad562ad54d89',1,'DVDBB2']]],
   ['userposition_97',['userPosition',['../structDVDBB2.html#afb7c96a513b70f289aefa9aee6c399cf',1,'DVDBB2']]],

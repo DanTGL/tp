@@ -1,14 +1,14 @@
 var searchData=
 [
   ['x_0',['x',['../structcopyhelper.html#ab24be0a6edaed2fd6abb63b1bbe3bad7',1,'copyhelper']]],
-  ['x_1',['X',['../namespaceCButton.html#ae548f35045fe51bb4045ccc2397df9c0a0ed9f6fa7c0d42bdc4c6407ac5177a4d',1,'CButton']]],
+  ['x_1',['X',['../namespaceCButton.html#a98b54be2142b6fc7c7704b9a7409e426a0ed9f6fa7c0d42bdc4c6407ac5177a4d',1,'CButton']]],
   ['x_2',['x',['../structJGeometry_1_1TVec2.html#aa9b792b7663e622520067bd070386fbc',1,'JGeometry::TVec2::x()'],['../structJGeometry_1_1TVec3_3_01f32_01_4.html#a1b07dac9fca507449dfb12ffb0430a53',1,'JGeometry::TVec3&lt; f32 &gt;::x()'],['../structJGeometry_1_1TVec3_3_01s16_01_4.html#a169867880c323f044dab0d30dcda5d61',1,'JGeometry::TVec3&lt; s16 &gt;::x()'],['../structJGeometry_1_1TVec3.html#a1b8180c2eeaae6d389c9ece0c8b1db7f',1,'JGeometry::TVec3::x()'],['../structSVec.html#a4770ada490b8dd61c47e6082b478e0c5',1,'SVec::x()'],['../structVec.html#a2329da04868799450765a987a6517e16',1,'Vec::x()'],['../structQuaternion.html#afe2cc1fcdaa1700b36f8b296fc50cfe5',1,'Quaternion::x()'],['../structdDlst__peekZ__c_1_1dDlst__peekZ__entry.html#adbf25ffe1c4a47c4d98ffae6e5721fc1',1,'dDlst_peekZ_c::dDlst_peekZ_entry::x()'],['../structDOUBLE__POS.html#a7c39a631ac9a70994489f5a71b81b202',1,'DOUBLE_POS::x()']]],
   ['x_5fitem_3',['X_ITEM',['../classdMeter2__c.html#a8dc752c8bd2c193959d9094bd1efce5da496bfc546c97625cf8934a60e5f2d4c7',1,'dMeter2_c']]],
   ['x_5fstatus_4',['X_STATUS',['../classdMeter2__c.html#a8dc752c8bd2c193959d9094bd1efce5da31efd780efc8b964ad53b3f6c032e07d',1,'dMeter2_c']]],
   ['x_5ftag_5',['x_tag',['../d__meter2__draw_8cpp.html#ab37b043365942804f2bfd535cdd694d9',1,'d_meter2_draw.cpp']]],
   ['x_5ftloss_6',['X_TLOSS',['../fdlibm_8h.html#a6b70428222478513f68965b9b7b1d36c',1,'fdlibm.h']]],
-  ['xer_7',['xer',['../structOSContext.html#ac1f012b2474b7bc2dcd4d804ca507d14',1,'OSContext']]],
-  ['xer_8',['XER',['../PPCArch_8h.html#a8c83bf2915bce7cee0be559d5935410d',1,'XER():&#160;PPCArch.h'],['../structTRKState.html#a929796cf0022f3486f1b8dbf0b49decb',1,'TRKState::XER()'],['../structDefault__PPC.html#ab4e0c3ca4f1ad9f9b16b9dbcad5c48e4',1,'Default_PPC::XER()']]],
+  ['xer_7',['XER',['../structTRKState.html#a929796cf0022f3486f1b8dbf0b49decb',1,'TRKState::XER()'],['../PPCArch_8h.html#a8c83bf2915bce7cee0be559d5935410d',1,'XER():&#160;PPCArch.h'],['../structDefault__PPC.html#ab4e0c3ca4f1ad9f9b16b9dbcad5c48e4',1,'Default_PPC::XER()']]],
+  ['xer_8',['xer',['../structOSContext.html#ac1f012b2474b7bc2dcd4d804ca507d14',1,'OSContext']]],
   ['xfb_5fheight_9',['xfb_height',['../struct__GXRenderModeObj.html#a63a935dcf80a3dfa4ef527740c0575c8',1,'_GXRenderModeObj']]],
   ['xfb_5fmode_10',['xfb_mode',['../struct__GXRenderModeObj.html#aa07bb18cdc8e156d8b0cecf92a5ca40c',1,'_GXRenderModeObj']]],
   ['xfercallback_11',['xferCallback',['../structCARDControl.html#a33400119c1158ecead323952099c9036',1,'CARDControl']]],
