@@ -22,7 +22,7 @@ var searchData=
   ['xrotm_19',['XrotM',['../structmDoMtx__stack__c.html#a0e742518f01eeb40ff1864134680e764',1,'mDoMtx_stack_c']]],
   ['xrots_20',['XrotS',['../structmDoMtx__stack__c.html#ae8ef68e88d61dc14aa4d291e50a26914',1,'mDoMtx_stack_c']]],
   ['xy_21',['XY',['../SISamplingRate_8h.html#ae09b265ab0c3e5bdb6655c5bc08d5089',1,'XY():&#160;SISamplingRate.h'],['../structXY.html',1,'XY']]],
-  ['xy_5ftext_22',['xy_text',['../d__menu__ring_8cpp.html#a7f08a77197f647e0a99d732ab652efe5',1,'d_menu_ring.cpp']]],
+  ['xy_5ftext_22',['xy_text',['../d__menu__ring_8cpp.html#a50db3ad5f2c1552eca426f70a6d5f2b7',1,'d_menu_ring.cpp']]],
   ['xyntsc_23',['XYNTSC',['../SISamplingRate_8c.html#a7f8e75b510ffdde6823597efd8c1af46',1,'SISamplingRate.c']]],
   ['xypal_24',['XYPAL',['../SISamplingRate_8c.html#af0c5b6bec9a402be4834cf592e0b02b6',1,'SISamplingRate.c']]],
   ['xystick_25',['xyStick',['../structPADClampRegion.html#a4c3fa20d75dd5adc60a07a79832df3b6',1,'PADClampRegion']]],
