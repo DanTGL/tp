@@ -163,14 +163,18 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3340a8d42eeaed689b5bceabb8954463"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9badb72a5e924488c530148973645be7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#a9badb72a5e924488c530148973645be7">setVisible</a> (bool visible)</td></tr>
 <tr class="separator:a9badb72a5e924488c530148973645be7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba25288ff88a56b48df90c1fab80fb15"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#aba25288ff88a56b48df90c1fab80fb15">getLineAttr</a> (int param_0)</td></tr>
+<tr class="separator:aba25288ff88a56b48df90c1fab80fb15"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a47b8e4190a8aefbc0401e3e8ea0bad37"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#a47b8e4190a8aefbc0401e3e8ea0bad37">setLineAttr</a> (int param_0, <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> param_1)</td></tr>
 <tr class="separator:a47b8e4190a8aefbc0401e3e8ea0bad37"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4a0d533e39556e69ccfcf56367b15487"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#a4a0d533e39556e69ccfcf56367b15487">getLinePtr</a> (int param_0) const</td></tr>
 <tr class="separator:a4a0d533e39556e69ccfcf56367b15487"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0e69ae391a5eb3e057d51b5211d86b6b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#a0e69ae391a5eb3e057d51b5211d86b6b">diffIndex</a> (int param_0, int param_1) const</td></tr>
 <tr class="separator:a0e69ae391a5eb3e057d51b5211d86b6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7367277aecf51e39f2d6298f71b38a7e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#a7367277aecf51e39f2d6298f71b38a7e">nextIndex</a> (int param_0) const</td></tr>
-<tr class="separator:a7367277aecf51e39f2d6298f71b38a7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67717aee550cf9bdb66f11b30853fe7e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#a67717aee550cf9bdb66f11b30853fe7e">prevIndex</a> (int index) const</td></tr>
+<tr class="separator:a67717aee550cf9bdb66f11b30853fe7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9beb6332a9aab0d9abdc09da80ee9a20"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#a9beb6332a9aab0d9abdc09da80ee9a20">nextIndex</a> (int index) const</td></tr>
+<tr class="separator:a9beb6332a9aab0d9abdc09da80ee9a20"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaafbacaeefa15bee940330d11e93de88"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#aaafbacaeefa15bee940330d11e93de88">scrollToLastLine</a> ()</td></tr>
 <tr class="separator:aaafbacaeefa15bee940330d11e93de88"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0cf15dca3caf02227ff71636c6f01c5d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJUTConsole.html#a0cf15dca3caf02227ff71636c6f01c5d">scrollToFirstLine</a> ()</td></tr>
@@ -548,6 +552,32 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="aba25288ff88a56b48df90c1fab80fb15" name="aba25288ff88a56b48df90c1fab80fb15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba25288ff88a56b48df90c1fab80fb15">&#9670;&#160;</a></span>getLineAttr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> JUTConsole::getLineAttr </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>param_0</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="aad99534c74e7daea6c582d73c38bd008" name="aad99534c74e7daea6c582d73c38bd008"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aad99534c74e7daea6c582d73c38bd008">&#9670;&#160;</a></span>getLineFromObjectSize()</h2>
 
@@ -780,8 +810,8 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="a7367277aecf51e39f2d6298f71b38a7e" name="a7367277aecf51e39f2d6298f71b38a7e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7367277aecf51e39f2d6298f71b38a7e">&#9670;&#160;</a></span>nextIndex()</h2>
+<a id="a9beb6332a9aab0d9abdc09da80ee9a20" name="a9beb6332a9aab0d9abdc09da80ee9a20"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9beb6332a9aab0d9abdc09da80ee9a20">&#9670;&#160;</a></span>nextIndex()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -793,7 +823,33 @@ Additional Inherited Members</h2></td></tr>
           <td class="memname">int JUTConsole::nextIndex </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>param_0</em></td><td>)</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a67717aee550cf9bdb66f11b30853fe7e" name="a67717aee550cf9bdb66f11b30853fe7e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67717aee550cf9bdb66f11b30853fe7e">&#9670;&#160;</a></span>prevIndex()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int JUTConsole::prevIndex </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
