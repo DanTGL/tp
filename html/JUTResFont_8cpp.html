@@ -82,6 +82,7 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
+<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">JUTResFont.cpp File Reference</div></div>
@@ -89,12 +90,12 @@ $(function() {
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="JUTResFont_8h_source.html">JSystem/JUtility/JUTResFont.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="JKRHeap_8h_source.html">JSystem/JKernel/JKRHeap.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JSupport_8h_source.html">JSystem/JSupport/JSupport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JUTAssert_8h_source.html">JSystem/JUtility/JUTAssert.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="JUTConsole_8h_source.html">JSystem/JUtility/JUTConsole.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="GX_8h_source.html">dolphin/gx/GX.h</a>&quot;</code><br />
-<code>#include &quot;asm/JSystem/JUtility/JUTResFont/drawChar_scale__10JUTResFontFffffib.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JUtility/JUTResFont/getFontCode__10JUTResFontCFi.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JUtility/JUTResFont/loadImage__10JUTResFontFi11_GXTexMapID.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JUtility/JUTResFont/isLeadByte_ShiftJIS__7JUTFontFi.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for JUTResFont.cpp:</div>
@@ -105,6 +106,11 @@ $(function() {
 </div>
 </div>
 </div><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:ae6c403045ceae5b64a815ed3218d9edb"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JUTResFont_8cpp.html#ae6c403045ceae5b64a815ed3218d9edb">suAboutEncoding_</a>&#160;&#160;&#160;3</td></tr>
+<tr class="separator:ae6c403045ceae5b64a815ed3218d9edb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ab4243ef3e1af24f45de633bc5b237783"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JUTResFont_8cpp.html#ab4243ef3e1af24f45de633bc5b237783">__ct__10JUTResFontFv</a> ()</td></tr>
@@ -208,15 +214,24 @@ Variables</h2></td></tr>
 <tr class="separator:a3cc93db0ca3e11370ac6d360f5099c49"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af3bb0d533800f2f0fd453b03fc2ffdc5"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a0c3c364808dd7c2796cc0eae538b63d7">SECTION_DEAD</a> char const  *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JUTResFont_8cpp.html#af3bb0d533800f2f0fd453b03fc2ffdc5">stringBase_8039D47C</a> = &quot;Unknown <a class="el" href="d__vibration_8cpp.html#a923e25734c61f5a7e48bbfcfbe0c2313">data</a> block\n&quot;</td></tr>
 <tr class="separator:af3bb0d533800f2f0fd453b03fc2ffdc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae7f4014aac08509d118c3d5469fc2191"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JUTResFont_8cpp.html#ae7f4014aac08509d118c3d5469fc2191">lit_647</a> [1+1]</td></tr>
-<tr class="separator:ae7f4014aac08509d118c3d5469fc2191"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab91b2a8ae72c5fd3d8e93d5aef3806ab"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JUTResFont_8cpp.html#ab91b2a8ae72c5fd3d8e93d5aef3806ab">lit_649</a> = 4503601774854144.0</td></tr>
-<tr class="separator:ab91b2a8ae72c5fd3d8e93d5aef3806ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a20fa8ed9db09dc24ca5e74e828475682"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JUTResFont_8cpp.html#a20fa8ed9db09dc24ca5e74e828475682">lit_651</a> = 4503599627370496.0</td></tr>
-<tr class="separator:a20fa8ed9db09dc24ca5e74e828475682"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af3aa67215dc49f2f7be50046cd0b3f82"><td class="memItemLeft" align="right" valign="top">static const <a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JUTResFont_8cpp.html#af3aa67215dc49f2f7be50046cd0b3f82">halftofull</a> [95]</td></tr>
 <tr class="separator:af3aa67215dc49f2f7be50046cd0b3f82"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="ae6c403045ceae5b64a815ed3218d9edb" name="ae6c403045ceae5b64a815ed3218d9edb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6c403045ceae5b64a815ed3218d9edb">&#9670;&#160;</a></span>suAboutEncoding_</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define suAboutEncoding_&#160;&#160;&#160;3</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a65695e29ab0d60aedb4016d1249db5fb" name="a65695e29ab0d60aedb4016d1249db5fb"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a65695e29ab0d60aedb4016d1249db5fb">&#9670;&#160;</a></span>__ct__10JUTResFontFPC7ResFONTP7JKRHeap()</h2>
@@ -1100,77 +1115,6 @@ Variables</h2></td></tr>
   </td>
   <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae7f4014aac08509d118c3d5469fc2191" name="ae7f4014aac08509d118c3d5469fc2191"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7f4014aac08509d118c3d5469fc2191">&#9670;&#160;</a></span>lit_647</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> lit_647[1+1]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    0.0f,</div>
-<div class="line">    </div>
-<div class="line">    0.0f,</div>
-<div class="line">}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab91b2a8ae72c5fd3d8e93d5aef3806ab" name="ab91b2a8ae72c5fd3d8e93d5aef3806ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab91b2a8ae72c5fd3d8e93d5aef3806ab">&#9670;&#160;</a></span>lit_649</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> lit_649 = 4503601774854144.0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a20fa8ed9db09dc24ca5e74e828475682" name="a20fa8ed9db09dc24ca5e74e828475682"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a20fa8ed9db09dc24ca5e74e828475682">&#9670;&#160;</a></span>lit_651</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> lit_651 = 4503599627370496.0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
