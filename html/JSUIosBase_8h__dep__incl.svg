@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 1347;
+var viewWidth = 1452;
 var viewHeight = 302;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,9 +58,9 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="1176,-294 1045,-294 1045,-264 1176,-264 1176,-294"/>
-<text text-anchor="start" x="1053" y="-282" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
-<text text-anchor="middle" x="1110.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUIosBase.h</text>
+<polygon fill="#999999" stroke="#666666" points="1281,-294 1150,-294 1150,-264 1281,-264 1281,-294"/>
+<text text-anchor="start" x="1158" y="-282" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
+<text text-anchor="middle" x="1215.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUIosBase.h</text>
 </a>
 </g>
 </g>
@@ -68,199 +68,199 @@ var sectionId = 'dynsection-1';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="JSUInputStream_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1176,-228 1045,-228 1045,-198 1176,-198 1176,-228"/>
-<text text-anchor="start" x="1053" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
-<text text-anchor="middle" x="1110.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUInputStream.h</text>
+<polygon fill="white" stroke="#666666" points="1281,-228 1150,-228 1150,-198 1281,-198 1281,-228"/>
+<text text-anchor="start" x="1158" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
+<text text-anchor="middle" x="1215.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUInputStream.h</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="#63b8ff" d="M1110.5,-252.39C1110.5,-244.13 1110.5,-235.28 1110.5,-228.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1107,-252.28 1110.5,-262.28 1114,-252.28 1107,-252.28"/>
+<path fill="none" stroke="#63b8ff" d="M1215.5,-252.39C1215.5,-244.13 1215.5,-235.28 1215.5,-228.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1212,-252.28 1215.5,-262.28 1219,-252.28 1212,-252.28"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="JSURandomInputStream_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="882.5,-162 746.5,-162 746.5,-132 882.5,-132 882.5,-162"/>
-<text text-anchor="start" x="754.5" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
-<text text-anchor="middle" x="814.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JSURandomInputStream.h</text>
+<polygon fill="white" stroke="#666666" points="987.5,-162 851.5,-162 851.5,-132 987.5,-132 987.5,-162"/>
+<text text-anchor="start" x="859.5" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
+<text text-anchor="middle" x="919.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JSURandomInputStream.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="#63b8ff" d="M1033.73,-195.4C986.58,-185.21 926.78,-172.28 881.55,-162.5"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1032.81,-198.78 1043.33,-197.48 1034.29,-191.94 1032.81,-198.78"/>
-</g>
-<!-- Node16 -->
-<g id="node16" class="node">
-<title>Node16</title>
-<g id="a_node16"><a xlink:href="JSUInputStream_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1281,-96 1166,-96 1166,-66 1281,-66 1281,-96"/>
-<text text-anchor="start" x="1174" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JSupport</text>
-<text text-anchor="middle" x="1223.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUInputStream.cpp</text>
-</a>
-</g>
-</g>
-<!-- Node2&#45;&gt;Node16 -->
-<g id="edge17" class="edge">
-<title>Node2&#45;&gt;Node16</title>
-<path fill="none" stroke="#63b8ff" d="M1092.83,-188.34C1082.53,-171.45 1073.7,-148.83 1085.5,-132 1095.27,-118.07 1132.38,-105.07 1165.65,-95.82"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1089.64,-189.86 1098.07,-196.28 1095.48,-186 1089.64,-189.86"/>
+<path fill="none" stroke="#63b8ff" d="M1138.73,-195.4C1091.58,-185.21 1031.78,-172.28 986.55,-162.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1137.81,-198.78 1148.33,-197.48 1139.29,-191.94 1137.81,-198.78"/>
 </g>
 <!-- Node17 -->
 <g id="node17" class="node">
 <title>Node17</title>
-<g id="a_node17"><a xlink:href="J2DManage_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1214,-162 1095,-162 1095,-132 1214,-132 1214,-162"/>
-<text text-anchor="start" x="1103" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
-<text text-anchor="middle" x="1154.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DManage.cpp</text>
+<g id="a_node17"><a xlink:href="JSUInputStream_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1386,-96 1271,-96 1271,-66 1386,-66 1386,-96"/>
+<text text-anchor="start" x="1279" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JSupport</text>
+<text text-anchor="middle" x="1328.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUInputStream.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node17 -->
-<g id="edge16" class="edge">
+<g id="edge18" class="edge">
 <title>Node2&#45;&gt;Node17</title>
-<path fill="none" stroke="#63b8ff" d="M1126.73,-188.39C1132.78,-179.59 1139.47,-169.86 1144.76,-162.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1123.9,-186.33 1121.12,-196.55 1129.67,-190.29 1123.9,-186.33"/>
+<path fill="none" stroke="#63b8ff" d="M1197.83,-188.34C1187.53,-171.45 1178.7,-148.83 1190.5,-132 1200.27,-118.07 1237.38,-105.07 1270.65,-95.82"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1194.64,-189.86 1203.07,-196.28 1200.48,-186 1194.64,-189.86"/>
 </g>
 <!-- Node18 -->
 <g id="node18" class="node">
 <title>Node18</title>
-<g id="a_node18"><a xlink:href="JUTResource_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1338.5,-162 1232.5,-162 1232.5,-132 1338.5,-132 1338.5,-162"/>
-<text text-anchor="start" x="1240.5" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JUtility</text>
-<text text-anchor="middle" x="1285.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JUTResource.cpp</text>
+<g id="a_node18"><a xlink:href="J2DManage_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1319,-162 1200,-162 1200,-132 1319,-132 1319,-162"/>
+<text text-anchor="start" x="1208" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
+<text text-anchor="middle" x="1259.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DManage.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node18 -->
-<g id="edge18" class="edge">
+<g id="edge17" class="edge">
 <title>Node2&#45;&gt;Node18</title>
-<path fill="none" stroke="#63b8ff" d="M1160.25,-193.8C1187.45,-183.86 1220.67,-171.71 1246.06,-162.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1159.38,-190.4 1151.19,-197.12 1161.79,-196.97 1159.38,-190.4"/>
+<path fill="none" stroke="#63b8ff" d="M1231.73,-188.39C1237.78,-179.59 1244.47,-169.86 1249.76,-162.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1228.9,-186.33 1226.12,-196.55 1234.67,-190.29 1228.9,-186.33"/>
+</g>
+<!-- Node19 -->
+<g id="node19" class="node">
+<title>Node19</title>
+<g id="a_node19"><a xlink:href="JUTResource_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1443.5,-162 1337.5,-162 1337.5,-132 1443.5,-132 1443.5,-162"/>
+<text text-anchor="start" x="1345.5" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JUtility</text>
+<text text-anchor="middle" x="1390.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JUTResource.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node19 -->
+<g id="edge19" class="edge">
+<title>Node2&#45;&gt;Node19</title>
+<path fill="none" stroke="#63b8ff" d="M1265.25,-193.8C1292.45,-183.86 1325.67,-171.71 1351.06,-162.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1264.38,-190.4 1256.19,-197.12 1266.79,-196.97 1264.38,-190.4"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="JSUFileStream_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="252,-96 121,-96 121,-66 252,-66 252,-96"/>
-<text text-anchor="start" x="129" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
-<text text-anchor="middle" x="186.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUFileStream.h</text>
+<polygon fill="white" stroke="#666666" points="357,-96 226,-96 226,-66 357,-66 357,-96"/>
+<text text-anchor="start" x="234" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
+<text text-anchor="middle" x="291.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUFileStream.h</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="#63b8ff" d="M734.84,-137.94C637.53,-128.08 467.92,-110.87 322.5,-96 299.6,-93.66 274.52,-91.08 252.21,-88.78"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="734.24,-141.39 744.54,-138.92 734.95,-134.43 734.24,-141.39"/>
+<path fill="none" stroke="#63b8ff" d="M839.84,-137.94C742.53,-128.08 572.92,-110.87 427.5,-96 404.6,-93.66 379.52,-91.08 357.21,-88.78"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="839.24,-141.39 849.54,-138.92 839.95,-134.43 839.24,-141.39"/>
 </g>
-<!-- Node7 -->
-<g id="node7" class="node">
-<title>Node7</title>
-<g id="a_node7"><a xlink:href="JSUMemoryStream_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="463,-96 332,-96 332,-66 463,-66 463,-96"/>
-<text text-anchor="start" x="340" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
-<text text-anchor="middle" x="397.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUMemoryStream.h</text>
+<!-- Node8 -->
+<g id="node8" class="node">
+<title>Node8</title>
+<g id="a_node8"><a xlink:href="JSUMemoryStream_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="568,-96 437,-96 437,-66 568,-66 568,-96"/>
+<text text-anchor="start" x="445" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JSupport</text>
+<text text-anchor="middle" x="502.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUMemoryStream.h</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node7 -->
-<g id="edge6" class="edge">
-<title>Node3&#45;&gt;Node7</title>
-<path fill="none" stroke="#63b8ff" d="M734.73,-135.34C665.12,-125.81 561.46,-111.06 471.5,-96 468.79,-95.55 466.03,-95.07 463.24,-94.59"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="734.15,-138.8 744.54,-136.68 735.1,-131.86 734.15,-138.8"/>
-</g>
-<!-- Node11 -->
-<g id="node11" class="node">
-<title>Node11</title>
-<g id="a_node11"><a xlink:href="J2DPane_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="600,-96 481,-96 481,-66 600,-66 600,-96"/>
-<text text-anchor="start" x="489" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
-<text text-anchor="middle" x="540.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DPane.cpp</text>
-</a>
-</g>
-</g>
-<!-- Node3&#45;&gt;Node11 -->
-<g id="edge10" class="edge">
-<title>Node3&#45;&gt;Node11</title>
-<path fill="none" stroke="#63b8ff" d="M741.7,-128.99C697.51,-118.67 641.81,-105.66 600.23,-95.95"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="740.66,-132.35 751.19,-131.21 742.25,-125.53 740.66,-132.35"/>
+<!-- Node3&#45;&gt;Node8 -->
+<g id="edge7" class="edge">
+<title>Node3&#45;&gt;Node8</title>
+<path fill="none" stroke="#63b8ff" d="M839.73,-135.34C770.12,-125.81 666.46,-111.06 576.5,-96 573.79,-95.55 571.03,-95.07 568.24,-94.59"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="839.15,-138.8 849.54,-136.68 840.1,-131.86 839.15,-138.8"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="J2DPictureEx_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="737,-96 618,-96 618,-66 737,-66 737,-96"/>
-<text text-anchor="start" x="626" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
-<text text-anchor="middle" x="677.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DPictureEx.cpp</text>
+<g id="a_node12"><a xlink:href="J2DPane_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="705,-96 586,-96 586,-66 705,-66 705,-96"/>
+<text text-anchor="start" x="594" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
+<text text-anchor="middle" x="645.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DPane.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node12 -->
 <g id="edge11" class="edge">
 <title>Node3&#45;&gt;Node12</title>
-<path fill="none" stroke="#63b8ff" d="M773.52,-126.86C752.54,-117.05 727.42,-105.32 708.14,-96.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="771.84,-129.94 782.38,-131 774.8,-123.59 771.84,-129.94"/>
+<path fill="none" stroke="#63b8ff" d="M846.7,-128.99C802.51,-118.67 746.81,-105.66 705.23,-95.95"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="845.66,-132.35 856.19,-131.21 847.25,-125.53 845.66,-132.35"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="J2DTextBox_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="874,-96 755,-96 755,-66 874,-66 874,-96"/>
-<text text-anchor="start" x="763" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
-<text text-anchor="middle" x="814.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DTextBox.cpp</text>
+<g id="a_node13"><a xlink:href="J2DPictureEx_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="842,-96 723,-96 723,-66 842,-66 842,-96"/>
+<text text-anchor="start" x="731" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
+<text text-anchor="middle" x="782.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DPictureEx.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node13 -->
 <g id="edge12" class="edge">
 <title>Node3&#45;&gt;Node13</title>
-<path fill="none" stroke="#63b8ff" d="M814.5,-120.39C814.5,-112.13 814.5,-103.28 814.5,-96.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="811,-120.28 814.5,-130.28 818,-120.28 811,-120.28"/>
+<path fill="none" stroke="#63b8ff" d="M878.52,-126.86C857.54,-117.05 832.42,-105.32 813.14,-96.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="876.84,-129.94 887.38,-131 879.8,-123.59 876.84,-129.94"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
-<g id="a_node14"><a xlink:href="J2DTextBoxEx_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1011,-96 892,-96 892,-66 1011,-66 1011,-96"/>
-<text text-anchor="start" x="900" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
-<text text-anchor="middle" x="951.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DTextBoxEx.cpp</text>
+<g id="a_node14"><a xlink:href="J2DTextBox_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="979,-96 860,-96 860,-66 979,-66 979,-96"/>
+<text text-anchor="start" x="868" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
+<text text-anchor="middle" x="919.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DTextBox.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node14 -->
 <g id="edge13" class="edge">
 <title>Node3&#45;&gt;Node14</title>
-<path fill="none" stroke="#63b8ff" d="M855.48,-126.86C876.46,-117.05 901.58,-105.32 920.86,-96.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="854.2,-123.59 846.62,-131 857.16,-129.94 854.2,-123.59"/>
+<path fill="none" stroke="#63b8ff" d="M919.5,-120.39C919.5,-112.13 919.5,-103.28 919.5,-96.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="916,-120.28 919.5,-130.28 923,-120.28 916,-120.28"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
-<g id="a_node15"><a xlink:href="J2DWindow_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1148,-96 1029,-96 1029,-66 1148,-66 1148,-96"/>
-<text text-anchor="start" x="1037" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
-<text text-anchor="middle" x="1088.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DWindow.cpp</text>
+<g id="a_node15"><a xlink:href="J2DTextBoxEx_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1116,-96 997,-96 997,-66 1116,-66 1116,-96"/>
+<text text-anchor="start" x="1005" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
+<text text-anchor="middle" x="1056.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DTextBoxEx.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node15 -->
 <g id="edge14" class="edge">
 <title>Node3&#45;&gt;Node15</title>
-<path fill="none" stroke="#63b8ff" d="M887.3,-128.99C931.49,-118.67 987.19,-105.66 1028.77,-95.95"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="886.75,-125.53 877.81,-131.21 888.34,-132.35 886.75,-125.53"/>
+<path fill="none" stroke="#63b8ff" d="M960.48,-126.86C981.46,-117.05 1006.58,-105.32 1025.86,-96.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="959.2,-123.59 951.62,-131 962.16,-129.94 959.2,-123.59"/>
+</g>
+<!-- Node16 -->
+<g id="node16" class="node">
+<title>Node16</title>
+<g id="a_node16"><a xlink:href="J2DWindow_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1253,-96 1134,-96 1134,-66 1253,-66 1253,-96"/>
+<text text-anchor="start" x="1142" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
+<text text-anchor="middle" x="1193.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DWindow.cpp</text>
+</a>
+</g>
 </g>
 <!-- Node3&#45;&gt;Node16 -->
 <g id="edge15" class="edge">
 <title>Node3&#45;&gt;Node16</title>
-<path fill="none" stroke="#63b8ff" d="M894.03,-135.88C963.69,-126.67 1067.58,-112.07 1157.5,-96 1160.15,-95.53 1162.86,-95.02 1165.59,-94.5"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="893.67,-132.4 884.22,-137.17 894.59,-139.34 893.67,-132.4"/>
+<path fill="none" stroke="#63b8ff" d="M992.3,-128.99C1036.49,-118.67 1092.19,-105.66 1133.77,-95.95"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="991.75,-125.53 982.81,-131.21 993.34,-132.35 991.75,-125.53"/>
+</g>
+<!-- Node3&#45;&gt;Node17 -->
+<g id="edge16" class="edge">
+<title>Node3&#45;&gt;Node17</title>
+<path fill="none" stroke="#63b8ff" d="M999.03,-135.88C1068.69,-126.67 1172.58,-112.07 1262.5,-96 1265.15,-95.53 1267.86,-95.02 1270.59,-94.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="998.67,-132.4 989.22,-137.17 999.59,-139.34 998.67,-132.4"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -275,71 +275,87 @@ var sectionId = 'dynsection-1';
 <!-- Node4&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node4&#45;&gt;Node5</title>
-<path fill="none" stroke="#63b8ff" d="M146.77,-60.59C126.81,-50.84 103.07,-39.24 84.8,-30.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="145.22,-63.73 155.74,-64.97 148.29,-57.44 145.22,-63.73"/>
+<path fill="none" stroke="#63b8ff" d="M227.49,-62.64C190.22,-52.53 143.79,-39.94 108.56,-30.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="226.21,-65.92 236.78,-65.16 228.05,-59.17 226.21,-65.92"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="JSUFileStream_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="244,-30 129,-30 129,0 244,0 244,-30"/>
-<text text-anchor="start" x="137" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JSupport</text>
-<text text-anchor="middle" x="186.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUFileStream.cpp</text>
+<g id="a_node6"><a xlink:href="JKRDvdAramRipper_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="254,-30 129,-30 129,0 254,0 254,-30"/>
+<text text-anchor="start" x="137" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JKernel</text>
+<text text-anchor="middle" x="191.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/JKRDvdAramRipper.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node4&#45;&gt;Node6</title>
-<path fill="none" stroke="#63b8ff" d="M186.5,-54.39C186.5,-46.13 186.5,-37.28 186.5,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="183,-54.28 186.5,-64.28 190,-54.28 183,-54.28"/>
+<path fill="none" stroke="#63b8ff" d="M259.93,-59.8C245.01,-50.24 227.53,-39.06 213.98,-30.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="257.72,-62.54 268.03,-64.98 261.5,-56.64 257.72,-62.54"/>
 </g>
-<!-- Node8 -->
-<g id="node8" class="node">
-<title>Node8</title>
-<g id="a_node8"><a xlink:href="J2DScreen_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="381,-30 262,-30 262,0 381,0 381,-30"/>
-<text text-anchor="start" x="270" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
-<text text-anchor="middle" x="321.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DScreen.cpp</text>
+<!-- Node7 -->
+<g id="node7" class="node">
+<title>Node7</title>
+<g id="a_node7"><a xlink:href="JSUFileStream_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="387,-30 272,-30 272,0 387,0 387,-30"/>
+<text text-anchor="start" x="280" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JSupport</text>
+<text text-anchor="middle" x="329.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUFileStream.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node7&#45;&gt;Node8 -->
-<g id="edge7" class="edge">
-<title>Node7&#45;&gt;Node8</title>
-<path fill="none" stroke="#63b8ff" d="M371.88,-58.42C360.91,-49.18 348.39,-38.65 338.58,-30.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="369.57,-61.06 379.48,-64.82 374.08,-55.7 369.57,-61.06"/>
+<!-- Node4&#45;&gt;Node7 -->
+<g id="edge6" class="edge">
+<title>Node4&#45;&gt;Node7</title>
+<path fill="none" stroke="#63b8ff" d="M305.68,-56.11C310.87,-47.38 316.57,-37.78 321.09,-30.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="302.8,-54.11 300.71,-64.49 308.82,-57.68 302.8,-54.11"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="JSUMemoryStream_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="522,-30 399,-30 399,0 522,0 522,-30"/>
-<text text-anchor="start" x="407" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JSupport</text>
-<text text-anchor="middle" x="460.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUMemoryStream.cpp</text>
+<g id="a_node9"><a xlink:href="J2DScreen_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="524,-30 405,-30 405,0 524,0 524,-30"/>
+<text text-anchor="start" x="413" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
+<text text-anchor="middle" x="464.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DScreen.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node7&#45;&gt;Node9 -->
+<!-- Node8&#45;&gt;Node9 -->
 <g id="edge8" class="edge">
-<title>Node7&#45;&gt;Node9</title>
-<path fill="none" stroke="#63b8ff" d="M419.35,-57.81C428.37,-48.64 438.57,-38.28 446.56,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="417.06,-55.14 412.54,-64.72 422.05,-60.05 417.06,-55.14"/>
+<title>Node8&#45;&gt;Node9</title>
+<path fill="none" stroke="#63b8ff" d="M488.32,-56.11C483.13,-47.38 477.43,-37.78 472.91,-30.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="485.18,-57.68 493.29,-64.49 491.2,-54.11 485.18,-57.68"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="d__pane__class_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="683,-24.5 540,-24.5 540,-5.5 683,-5.5 683,-24.5"/>
-<text text-anchor="middle" x="611.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/d/pane/d_pane_class.cpp</text>
+<g id="a_node10"><a xlink:href="JSUMemoryStream_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="665,-30 542,-30 542,0 665,0 665,-30"/>
+<text text-anchor="start" x="550" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JSupport</text>
+<text text-anchor="middle" x="603.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/JSUMemoryStream.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node7&#45;&gt;Node10 -->
+<!-- Node8&#45;&gt;Node10 -->
 <g id="edge9" class="edge">
-<title>Node7&#45;&gt;Node10</title>
-<path fill="none" stroke="#63b8ff" d="M456.63,-62.32C497.18,-50.19 549.29,-34.61 581.53,-24.96"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="455.82,-58.91 447.24,-65.12 457.83,-65.61 455.82,-58.91"/>
+<title>Node8&#45;&gt;Node10</title>
+<path fill="none" stroke="#63b8ff" d="M534.63,-59.64C549.69,-50.09 567.28,-38.95 580.91,-30.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="533.02,-56.52 526.44,-64.83 536.77,-62.43 533.02,-56.52"/>
+</g>
+<!-- Node11 -->
+<g id="node11" class="node">
+<title>Node11</title>
+<g id="a_node11"><a xlink:href="d__pane__class_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="826,-24.5 683,-24.5 683,-5.5 826,-5.5 826,-24.5"/>
+<text text-anchor="middle" x="754.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/d/pane/d_pane_class.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node8&#45;&gt;Node11 -->
+<g id="edge10" class="edge">
+<title>Node8&#45;&gt;Node11</title>
+<path fill="none" stroke="#63b8ff" d="M570.3,-62.78C618.31,-50.59 680.75,-34.73 719.21,-24.96"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="569.67,-59.33 560.83,-65.18 571.39,-66.12 569.67,-59.33"/>
 </g>
 </g>
 </svg>
