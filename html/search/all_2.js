@@ -402,7 +402,7 @@ var searchData=
   ['buttoniconscreeninit_399',['buttonIconScreenInit',['../structdMenu__DmapBg__c.html#ae9b314dc271b44b134c7bf8e1f33dfa7',1,'dMenu_DmapBg_c']]],
   ['buttoniconscreeninit_5f_5f14dmenu_5fdmapbg_5fcfv_400',['buttonIconScreenInit__14dMenu_DmapBg_cFv',['../d__menu__dmap_8cpp.html#a9ed897676cab2b773e16fac7c591f0d3',1,'d_menu_dmap.cpp']]],
   ['byte_5forder_401',['byte_order',['../structJStudio_1_1stb_1_1data_1_1THeader.html#a75e0974a3325a04213190a826102e075',1,'JStudio::stb::data::THeader::byte_order()'],['../structJStudio_1_1fvb_1_1data_1_1THeader.html#a201a9362ccbc1ccb9fb45c46a8273b37',1,'JStudio::fvb::data::THeader::byte_order()']]],
-  ['bytes_402',['bytes',['../structJAUAudibleParam.html#a55706b850624624ad15635e6df92d10d',1,'JAUAudibleParam']]],
+  ['bytes_402',['bytes',['../structJAUAudibleParam.html#ab764f83757a287aacc9fd4e6d872d1d8',1,'JAUAudibleParam']]],
   ['bytetoxlen_403',['byteToXLen',['../JUTProcBar_8cpp.html#a9215cf33f8a56fd58a6c03412069b325',1,'JUTProcBar.cpp']]],
   ['bzero_404',['bzero',['../structJASCalc.html#ac946a26e7b103e034ac53623dd2d0cf5',1,'JASCalc::bzero(void *, u32)'],['../structJASCalc.html#a193d03c32dae7b84f775de8f035581b9',1,'JASCalc::bzero(void *, u32)']]],
   ['bzero_5f_5f7jascalcfpvul_405',['bzero__7JASCalcFPvUl',['../JASAiCtrl_8cpp.html#a62421cf3ca91caf08088f49ddf8fdc05',1,'bzero__7JASCalcFPvUl():&#160;JASAiCtrl.cpp'],['../JASBasicBank_8cpp.html#a62421cf3ca91caf08088f49ddf8fdc05',1,'bzero__7JASCalcFPvUl():&#160;JASBasicBank.cpp'],['../JASBasicInst_8cpp.html#a62421cf3ca91caf08088f49ddf8fdc05',1,'bzero__7JASCalcFPvUl():&#160;JASBasicInst.cpp']]],
