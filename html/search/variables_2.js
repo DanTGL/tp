@@ -108,8 +108,8 @@ var searchData=
   ['boot_5fregion_5fstart_105',['BOOT_REGION_START',['../OS_8c.html#a982f0034f80234c687a227289a768202',1,'OS.c']]],
   ['bootdol_106',['bootDol',['../structOSExecParams.html#afafe99d07d53ba2947856b136d0c0342',1,'OSExecParams']]],
   ['bootfileposition_107',['bootFilePosition',['../structDVDBB2.html#a65feb4955390dc04cdecde2de1a30f37',1,'DVDBB2']]],
-  ['bootinfo_108',['BootInfo',['../dvdfs_8c.html#a543da2d195a8f0576fe4a625c4d15f39',1,'BootInfo():&#160;dvdfs.c'],['../OS_8c.html#a543da2d195a8f0576fe4a625c4d15f39',1,'BootInfo():&#160;OS.c']]],
-  ['bootinfo_109',['bootInfo',['../dvd_8c.html#ae01eb00e7e44cc8852fedb9d075b90e5',1,'dvd.c']]],
+  ['bootinfo_108',['bootInfo',['../dvd_8c.html#ae01eb00e7e44cc8852fedb9d075b90e5',1,'dvd.c']]],
+  ['bootinfo_109',['BootInfo',['../dvdfs_8c.html#a543da2d195a8f0576fe4a625c4d15f39',1,'BootInfo():&#160;dvdfs.c'],['../OS_8c.html#a543da2d195a8f0576fe4a625c4d15f39',1,'BootInfo():&#160;OS.c']]],
   ['bootthisdol_110',['bootThisDol',['../OSReset_8c.html#ab44038914dc7d78a3ad7c538162ade39',1,'OSReset.c']]],
   ['bordercolor0_111',['borderColor0',['../d__menu__fmap__map_8cpp.html#a470f4fe0636c68673afc9054326f08a0',1,'borderColor0():&#160;d_menu_fmap_map.cpp'],['../d__map_8cpp.html#a470f4fe0636c68673afc9054326f08a0',1,'borderColor0():&#160;d_map.cpp']]],
   ['bordercolor1_112',['borderColor1',['../d__menu__fmap__map_8cpp.html#a24ef828e0ab1514b2ebaaca40a05e47e',1,'borderColor1():&#160;d_menu_fmap_map.cpp'],['../d__map_8cpp.html#a24ef828e0ab1514b2ebaaca40a05e47e',1,'borderColor1():&#160;d_map.cpp']]],
@@ -127,7 +127,7 @@ var searchData=
   ['bpcp_5foutcode5_124',['BPCP_OUTCODE5',['../c__m3d_8cpp.html#a9c4ed593c3a7d3449d78a3655991f831',1,'c_m3d.cpp']]],
   ['bpk_5fname_125',['bpk_name',['../d__select__cursor_8cpp.html#a309b543e8363c7f949098126db997f30',1,'d_select_cursor.cpp']]],
   ['bpresent_126',['bPresent',['../structDBInterface.html#a6a156d7e9af779c5c0086d349feeea73',1,'DBInterface']]],
-  ['branch_5fprocess_127',['branch_process',['../structJMessage_1_1TSequenceProcessor_1_1TProcess__.html#af584bf24f1086c3eb2dd04eac88b4f96',1,'JMessage::TSequenceProcessor::TProcess_']]],
+  ['branch_5fprocess_127',['branch_process',['../structJMessage_1_1TSequenceProcessor_1_1TProcess__.html#a5167d8f4acc71c64016683cc9c72df69',1,'JMessage::TSequenceProcessor::TProcess_']]],
   ['branchfn_128',['branchFn',['../structJMessage_1_1TSequenceProcessor_1_1TProcess__.html#a63be288447e729cbb82f5e212e7cdc4c',1,'JMessage::TSequenceProcessor::TProcess_']]],
   ['breaking_129',['Breaking',['../dvdlow_8c.html#a377297e22b084c49b478fa3fcbe5daa9',1,'dvdlow.c']]],
   ['breakpointcb_130',['BreakPointCB',['../GXFifo_8c.html#ae769cc525929f3ec87cb780f2ee9bb88',1,'GXFifo.c']]],
@@ -154,5 +154,5 @@ var searchData=
   ['buildingbanktable_5f_151',['buildingBankTable_',['../classJAUSection.html#a5b4b1a55db9b583e3cfaf4059a0d53b1',1,'JAUSection']]],
   ['button_152',['button',['../structPADStatus.html#a51a820a2ac5f69fbb6ac0d3f9aa9f81e',1,'PADStatus']]],
   ['byte_5forder_153',['byte_order',['../structJStudio_1_1fvb_1_1data_1_1THeader.html#a201a9362ccbc1ccb9fb45c46a8273b37',1,'JStudio::fvb::data::THeader::byte_order()'],['../structJStudio_1_1stb_1_1data_1_1THeader.html#a75e0974a3325a04213190a826102e075',1,'JStudio::stb::data::THeader::byte_order()']]],
-  ['bytes_154',['bytes',['../structJAUAudibleParam.html#a55706b850624624ad15635e6df92d10d',1,'JAUAudibleParam']]]
+  ['bytes_154',['bytes',['../structJAUAudibleParam.html#ab764f83757a287aacc9fd4e6d872d1d8',1,'JAUAudibleParam']]]
 ];

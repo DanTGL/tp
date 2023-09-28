@@ -93,7 +93,7 @@ $(function() {
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">struct </span><a class="code hl_struct" href="structdStage__MapEvent__dt__c.html">dStage_MapEvent_dt_c</a>;</div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">class </span><a class="code hl_class" href="structfopAc__ac__c.html">fopAc_ac_c</a>;</div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="preprocessor">#if DEBUG</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="preprocessor">#ifdef DEBUG</span></div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="keyword">class </span>dEvDb_bit_c {</div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="keyword">public</span>:</div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    <span class="comment">/* 0x00 */</span> <span class="keywordtype">char</span>* mFlagName;</div>
@@ -122,9 +122,9 @@ $(function() {
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>    <span class="comment">/* 0x04 */</span> dEvDb_reg_c* mRegTable;</div>
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>    <span class="comment">/* 0x08 */</span> <span class="keywordtype">int</span> mBitNum;</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    <span class="comment">/* 0x0C */</span> <span class="keywordtype">int</span> mRegNum;</div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    <span class="comment">/* 0x10 */</span> field_0x10;</div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="comment">/* 0x14 */</span> field_0x14;</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>}</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    <span class="comment">/* 0x10 */</span> <span class="keywordtype">int</span> field_0x10;</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="comment">/* 0x14 */</span> <span class="keywordtype">int</span> field_0x14;</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>};</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span><span class="preprocessor">#endif</span></div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno"><a class="line" href="classdEvt__order__c.html">   44</a></span><span class="keyword">class </span><a class="code hl_class" href="classdEvt__order__c.html">dEvt_order_c</a> {</div>

@@ -113,7 +113,7 @@ var searchData=
   ['cspolar_110',['cSPolar',['../classcSPolar.html',1,'']]],
   ['cstcontrol_111',['CSTControl',['../structCSTControl.html',1,'']]],
   ['cstick_112',['CStick',['../structJUTGamePad_1_1CStick.html',1,'JUTGamePad']]],
-  ['csxyz_113',['csXyz',['../structcsXyz.html',1,'']]],
+  ['csxyz_113',['csXyz',['../classcsXyz.html',1,'']]],
   ['ctime_114',['CTime',['../classJUTProcBar_1_1CTime.html',1,'JUTProcBar']]],
   ['cull_5fbox_115',['cull_box',['../structcull__box.html',1,'']]],
   ['cull_5fsphere_116',['cull_sphere',['../structcull__sphere.html',1,'']]],
