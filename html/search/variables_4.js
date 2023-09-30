@@ -334,7 +334,7 @@ var searchData=
   ['dmalenl_331',['dmaLenL',['../structPPC__DMA__L__t.html#a709a73b373e2ac98201d8b900ba9c460',1,'PPC_DMA_L_t']]],
   ['dmalenu_332',['dmaLenU',['../structPPC__DMA__U__t.html#a6f199c21b0db709c6a195936067af7a5',1,'PPC_DMA_U_t']]],
   ['dmatrigger_333',['dmaTrigger',['../structPPC__DMA__L__t.html#a3000f4dfb4890009a5ca160f6fa5bf3a',1,'PPC_DMA_L_t']]],
-  ['dmc_334',['DMC',['../c__dylink_8cpp.html#a931e4a31a351b08545eece562e56ebfd',1,'c_dylink.cpp']]],
+  ['dmc_334',['DMC',['../c__dylink_8cpp.html#a4df0d571487b54fec93c3d78e0e41425',1,'c_dylink.cpp']]],
   ['dmc_5finitialized_335',['DMC_initialized',['../c__dylink_8cpp.html#a04e28cad914f34cc29b0be6d941c6526',1,'c_dylink.cpp']]],
   ['dmiss_336',['DMISS',['../structExtended1__PPC__6xx__7xx.html#ae745926f35e2f18d735c22e847bb3d1e',1,'Extended1_PPC_6xx_7xx']]],
   ['dmo_5fsoundmode_337',['dMo_soundMode',['../d__menu__option_8cpp.html#aa29626b8f2fb3db9c3658cec71706172',1,'d_menu_option.cpp']]],
