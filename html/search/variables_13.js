@@ -523,7 +523,7 @@ var searchData=
   ['stderr_5fbuff_520',['stderr_buff',['../ansi__files_8c.html#a509b1abe1dc5ceb53684d27bec136ca2',1,'ansi_files.c']]],
   ['stdin_5fbuff_521',['stdin_buff',['../ansi__files_8c.html#a03c77df09ae8dafc219fc26828abe60e',1,'ansi_files.c']]],
   ['stdout_5fbuff_522',['stdout_buff',['../ansi__files_8c.html#ae2a6f95608efe9abe1f37170b910d6fc',1,'ansi_files.c']]],
-  ['stexcoordscaletable_523',['sTexCoordScaleTable',['../structJ3DSys.html#a63427ecedb0bcc8b6059d8ac52356b38',1,'J3DSys::sTexCoordScaleTable()'],['../structJ3DSys.html#afcaefc94c7ff0e821dc2efffd02df892',1,'J3DSys::sTexCoordScaleTable()']]],
+  ['stexcoordscaletable_523',['sTexCoordScaleTable',['../structJ3DSys.html#a7314d4521bb4b23346d447df42ebb8ab',1,'J3DSys::sTexCoordScaleTable()'],['../structJ3DSys.html#affa2a461f381f017da7d0b75a2575452',1,'J3DSys::sTexCoordScaleTable()']]],
   ['stexcoordscaletable_5f_5f6j3dsys_524',['sTexCoordScaleTable__6J3DSys',['../J3DMatBlock_8cpp.html#a1c0da5bcb5cced5d87580744f54f300d',1,'sTexCoordScaleTable__6J3DSys():&#160;J3DMatBlock.cpp'],['../J3DTevs_8cpp.html#a1c0da5bcb5cced5d87580744f54f300d',1,'sTexCoordScaleTable__6J3DSys():&#160;J3DTevs.cpp']]],
   ['stexgenblock_525',['sTexGenBlock',['../classJ3DDifferedTexMtx.html#ad6534960377a777e8c0ef50cef38b576',1,'J3DDifferedTexMtx']]],
   ['stexgenblock_5f_5f17j3ddifferedtexmtx_526',['sTexGenBlock__17J3DDifferedTexMtx',['../J3DShapeMtx_8cpp.html#af4247e747bc0e2be11a5979e58686ec9',1,'J3DShapeMtx.cpp']]],
