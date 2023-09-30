@@ -102,17 +102,17 @@
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="structJGadget_1_1TLinkList.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="513.5,-615.57 414.5,-615.57 414.5,-585.57 513.5,-585.57 513.5,-615.57"/>
-<text text-anchor="start" x="422.5" y="-603.57" font-family="Helvetica,sans-Serif" font-size="10.00">JGadget::TLinkList</text>
-<text text-anchor="middle" x="464" y="-592.57" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; T, I &gt;</text>
+<polygon fill="white" stroke="#666666" points="513.5,-609.57 414.5,-609.57 414.5,-579.57 513.5,-579.57 513.5,-609.57"/>
+<text text-anchor="start" x="422.5" y="-597.57" font-family="Helvetica,sans-Serif" font-size="10.00">JGadget::TLinkList</text>
+<text text-anchor="middle" x="464" y="-586.57" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; T, I &gt;</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node4 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node4</title>
-<path fill="none" stroke="#63b8ff" d="M524.91,-600.57C538.05,-600.57 551.98,-600.57 565.2,-600.57"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="525.12,-597.07 515.12,-600.57 525.12,-604.07 525.12,-597.07"/>
+<path fill="none" stroke="#63b8ff" d="M524.91,-596.78C538.05,-597.27 551.98,-597.79 565.2,-598.28"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="525.24,-593.29 515.12,-596.42 524.98,-600.29 525.24,-593.29"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -126,32 +126,32 @@
 <!-- Node6&#45;&gt;Node5 -->
 <g id="edge5" class="edge">
 <title>Node6&#45;&gt;Node5</title>
-<path fill="none" stroke="#63b8ff" d="M365.33,-602.3C381.82,-602.01 399,-601.7 414.26,-601.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="365.51,-598.8 355.57,-602.47 365.63,-605.79 365.51,-598.8"/>
+<path fill="none" stroke="#63b8ff" d="M365.33,-599.77C381.82,-598.89 399,-597.97 414.26,-597.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="365.37,-596.26 355.57,-600.29 365.74,-603.25 365.37,-596.26"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="structJGadget_1_1TLinkListNode.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="131,-642.07 9,-642.07 9,-623.07 131,-623.07 131,-642.07"/>
-<text text-anchor="middle" x="70" y="-630.07" font-family="Helvetica,sans-Serif" font-size="10.00">JGadget::TLinkListNode</text>
+<polygon fill="white" stroke="#666666" points="131,-650.07 9,-650.07 9,-631.07 131,-631.07 131,-650.07"/>
+<text text-anchor="middle" x="70" y="-638.07" font-family="Helvetica,sans-Serif" font-size="10.00">JGadget::TLinkListNode</text>
 </a>
 </g>
 </g>
 <!-- Node7&#45;&gt;Node6 -->
 <g id="edge6" class="edge">
 <title>Node7&#45;&gt;Node6</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M141.69,-620.9C147.2,-620.08 152.69,-619.29 158,-618.57 182.01,-615.29 208.5,-612.21 231.56,-609.71"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="141.23,-617.43 131.87,-622.39 142.29,-624.35 141.23,-617.43"/>
-<text text-anchor="middle" x="181.5" y="-621.57" font-family="Helvetica,sans-Serif" font-size="10.00"> ocObject_</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M121.75,-628C133.6,-625.32 146.21,-622.66 158,-620.57 182.01,-616.29 208.63,-612.69 231.77,-609.91"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="121.1,-624.56 112.15,-630.23 122.68,-631.38 121.1,-624.56"/>
+<text text-anchor="middle" x="181.5" y="-623.57" font-family="Helvetica,sans-Serif" font-size="10.00"> ocObject_</text>
 </g>
 <!-- Node7&#45;&gt;Node7 -->
 <g id="edge7" class="edge">
 <title>Node7&#45;&gt;Node7</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M50.21,-653.5C52.68,-657.36 59.28,-660.07 70,-660.07 89.6,-660.07 95.42,-651 87.46,-642.43"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="53.59,-654.42 52.23,-643.92 46.74,-652.98 53.59,-654.42"/>
-<text text-anchor="middle" x="70" y="-674.07" font-family="Helvetica,sans-Serif" font-size="10.00"> mNext</text>
-<text text-anchor="middle" x="70" y="-663.07" font-family="Helvetica,sans-Serif" font-size="10.00">mPrev</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M50.21,-661.5C52.68,-665.36 59.28,-668.07 70,-668.07 89.6,-668.07 95.42,-659 87.46,-650.43"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="53.59,-662.42 52.23,-651.92 46.74,-660.98 53.59,-662.42"/>
+<text text-anchor="middle" x="70" y="-682.07" font-family="Helvetica,sans-Serif" font-size="10.00"> mNext</text>
+<text text-anchor="middle" x="70" y="-671.07" font-family="Helvetica,sans-Serif" font-size="10.00">mPrev</text>
 </g>
 <!-- Node19 -->
 <g id="node19" class="node">
@@ -165,8 +165,9 @@
 <!-- Node7&#45;&gt;Node19 -->
 <g id="edge22" class="edge">
 <title>Node7&#45;&gt;Node19</title>
-<path fill="none" stroke="#63b8ff" d="M142.72,-637.94C185.94,-640.73 242.1,-643.57 292,-643.57 292,-643.57 292,-643.57 629,-643.57 720.69,-643.57 820.93,-588.5 858.83,-565.49"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="143.18,-634.47 132.97,-637.3 142.72,-641.45 143.18,-634.47"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M142.76,-643.01C185.99,-644.28 242.15,-645.57 292,-645.57 292,-645.57 292,-645.57 629,-645.57 721.15,-645.57 821.53,-588.97 859.14,-565.54"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="143.11,-639.52 133.01,-642.72 142.9,-646.52 143.11,-639.52"/>
+<text text-anchor="middle" x="464" y="-648.57" font-family="Helvetica,sans-Serif" font-size="10.00"> ocObject_</text>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
@@ -213,48 +214,48 @@
 <g id="node10" class="node">
 <title>Node10</title>
 <g id="a_node10"><a xlink:href="structJGadget_1_1binary_1_1TParseData__aligned.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="363,-456.57 223,-456.57 223,-426.57 363,-426.57 363,-456.57"/>
-<text text-anchor="start" x="231" y="-444.57" font-family="Helvetica,sans-Serif" font-size="10.00">JGadget::binary::TParseData</text>
-<text text-anchor="middle" x="293" y="-433.57" font-family="Helvetica,sans-Serif" font-size="10.00">_aligned&lt; 4 &gt;</text>
+<polygon fill="white" stroke="#666666" points="363,-452.57 223,-452.57 223,-422.57 363,-422.57 363,-452.57"/>
+<text text-anchor="start" x="231" y="-440.57" font-family="Helvetica,sans-Serif" font-size="10.00">JGadget::binary::TParseData</text>
+<text text-anchor="middle" x="293" y="-429.57" font-family="Helvetica,sans-Serif" font-size="10.00">_aligned&lt; 4 &gt;</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node9 -->
 <g id="edge10" class="edge">
 <title>Node10&#45;&gt;Node9</title>
-<path fill="none" stroke="#63b8ff" d="M374.62,-433.58C433.98,-427.69 513.39,-419.82 567.17,-414.5"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="374.51,-430.07 364.91,-434.54 375.2,-437.04 374.51,-430.07"/>
+<path fill="none" stroke="#63b8ff" d="M374.62,-430.55C433.98,-425.38 513.39,-418.46 567.17,-413.78"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="374.57,-427.04 364.91,-431.39 375.18,-434.01 374.57,-427.04"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
 <g id="a_node13"><a xlink:href="structJMessage_1_1data_1_1TParse__TBlock.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="524.5,-510.57 403.5,-510.57 403.5,-480.57 524.5,-480.57 524.5,-510.57"/>
-<text text-anchor="start" x="411.5" y="-498.57" font-family="Helvetica,sans-Serif" font-size="10.00">JMessage::data::TParse</text>
-<text text-anchor="middle" x="464" y="-487.57" font-family="Helvetica,sans-Serif" font-size="10.00">_TBlock</text>
+<polygon fill="white" stroke="#666666" points="524.5,-495.57 403.5,-495.57 403.5,-465.57 524.5,-465.57 524.5,-495.57"/>
+<text text-anchor="start" x="411.5" y="-483.57" font-family="Helvetica,sans-Serif" font-size="10.00">JMessage::data::TParse</text>
+<text text-anchor="middle" x="464" y="-472.57" font-family="Helvetica,sans-Serif" font-size="10.00">_TBlock</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node13 -->
 <g id="edge14" class="edge">
 <title>Node10&#45;&gt;Node13</title>
-<path fill="none" stroke="#63b8ff" d="M353.31,-460.52C373.35,-466.92 395.47,-473.99 414.56,-480.09"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="354.46,-457.21 343.87,-457.5 352.33,-463.88 354.46,-457.21"/>
+<path fill="none" stroke="#63b8ff" d="M365.45,-455.74C378.01,-458.94 390.97,-462.24 403.17,-465.34"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="366.56,-452.42 356,-453.34 364.83,-459.2 366.56,-452.42"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
 <g id="a_node11"><a xlink:href="structJGadget_1_1binary_1_1TParseData.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="140,-451.07 0,-451.07 0,-432.07 140,-432.07 140,-451.07"/>
-<text text-anchor="middle" x="70" y="-439.07" font-family="Helvetica,sans-Serif" font-size="10.00">JGadget::binary::TParseData</text>
+<polygon fill="white" stroke="#666666" points="140,-447.07 0,-447.07 0,-428.07 140,-428.07 140,-447.07"/>
+<text text-anchor="middle" x="70" y="-435.07" font-family="Helvetica,sans-Serif" font-size="10.00">JGadget::binary::TParseData</text>
 </a>
 </g>
 </g>
 <!-- Node11&#45;&gt;Node10 -->
 <g id="edge11" class="edge">
 <title>Node11&#45;&gt;Node10</title>
-<path fill="none" stroke="#63b8ff" d="M151.57,-441.57C174.84,-441.57 200.02,-441.57 222.55,-441.57"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="151.83,-438.07 141.83,-441.57 151.83,-445.07 151.83,-438.07"/>
+<path fill="none" stroke="#63b8ff" d="M151.57,-437.57C174.84,-437.57 200.02,-437.57 222.55,-437.57"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="151.83,-434.07 141.83,-437.57 151.83,-441.07 151.83,-434.07"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node">
@@ -276,8 +277,8 @@
 <!-- Node13&#45;&gt;Node12 -->
 <g id="edge13" class="edge">
 <title>Node13&#45;&gt;Node12</title>
-<path fill="none" stroke="#63b8ff" d="M536,-478.47C546.38,-475.97 556.99,-473.42 567.11,-470.98"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="535.24,-475.06 526.33,-480.8 536.88,-481.86 535.24,-475.06"/>
+<path fill="none" stroke="#63b8ff" d="M536,-470.05C546.38,-468.51 556.99,-466.94 567.11,-465.44"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="535.74,-466.55 526.36,-471.48 536.76,-473.47 535.74,-466.55"/>
 </g>
 <!-- Node20 -->
 <g id="node20" class="node">
@@ -292,8 +293,8 @@
 <!-- Node13&#45;&gt;Node20 -->
 <g id="edge25" class="edge">
 <title>Node13&#45;&gt;Node20</title>
-<path fill="none" stroke="#63b8ff" d="M536.34,-499.53C546.61,-500.1 557.09,-500.68 567.11,-501.24"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="536.55,-496.04 526.37,-498.98 536.16,-503.03 536.55,-496.04"/>
+<path fill="none" stroke="#63b8ff" d="M536,-491.09C546.38,-492.62 556.99,-494.19 567.11,-495.69"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="536.76,-487.66 526.36,-489.66 535.74,-494.58 536.76,-487.66"/>
 </g>
 <!-- Node21 -->
 <g id="node21" class="node">
@@ -308,8 +309,8 @@
 <!-- Node13&#45;&gt;Node21 -->
 <g id="edge27" class="edge">
 <title>Node13&#45;&gt;Node21</title>
-<path fill="none" stroke="#63b8ff" d="M519.7,-514.81C540.36,-522.08 563.58,-530.25 583.13,-537.13"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="520.86,-511.51 510.27,-511.49 518.54,-518.11 520.86,-511.51"/>
+<path fill="none" stroke="#63b8ff" d="M505.53,-500.91C523.58,-509.74 545.2,-520 565,-528.57 571.67,-531.45 578.82,-534.37 585.8,-537.14"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="507.23,-497.84 496.71,-496.57 504.13,-504.12 507.23,-497.84"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">

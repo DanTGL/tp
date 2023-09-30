@@ -93,7 +93,7 @@ var searchData=
   ['cmemblock_90',['CMemBlock',['../classJKRExpHeap_1_1CMemBlock.html',1,'JKRExpHeap']]],
   ['cml_91',['cMl',['../structcMl.html',1,'']]],
   ['color_5frgb_5fclass_92',['color_RGB_class',['../structcolor__RGB__class.html',1,'']]],
-  ['const_5fiterator_93',['const_iterator',['../structJGadget_1_1TNodeLinkList_1_1const__iterator.html',1,'JGadget::TNodeLinkList']]],
+  ['const_5fiterator_93',['const_iterator',['../structJGadget_1_1TLinkList_1_1const__iterator.html',1,'JGadget::TLinkList&lt; T, I &gt;::const_iterator'],['../structJGadget_1_1TNodeLinkList_1_1const__iterator.html',1,'JGadget::TNodeLinkList::const_iterator']]],
   ['copyhelper_94',['copyhelper',['../structcopyhelper.html',1,'']]],
   ['counter_5fclass_95',['counter_class',['../structcounter__class.html',1,'']]],
   ['coutfont_5fc_96',['COutFont_c',['../structCOutFont__c.html',1,'']]],
