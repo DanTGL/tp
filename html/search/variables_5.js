@@ -26,7 +26,7 @@ var searchData=
   ['effnamewater_23',['effNameWater',['../d__a__alink_8cpp.html#ae6812413c21a9403f01d85a0314c1a01',1,'d_a_alink.cpp']]],
   ['effoffset_24',['effOffset',['../d__a__alink_8cpp.html#a7274c2f3f5efae798f1a700be64266bc',1,'d_a_alink.cpp']]],
   ['effscale_25',['effScale',['../d__a__alink_8cpp.html#a65af0954825ae86d071ddee77035d90d',1,'d_a_alink.cpp']]],
-  ['emitter_5fmax_26',['EMITTER_MAX',['../structdPa__control__c_1_1level__c.html#a46059044cf1703d5d9e43bc807f8952f',1,'dPa_control_c::level_c']]],
+  ['emitter_5fmax_26',['EMITTER_MAX',['../classdPa__control__c_1_1level__c.html#a46059044cf1703d5d9e43bc807f8952f',1,'dPa_control_c::level_c']]],
   ['empty_27',['empty',['../struct__files.html#af9f7b431728761b71b01b9603d19f3f3',1,'_files']]],
   ['enabled_28',['enabled',['../structSramControlBlock.html#ac97e80689ade0d9b306766e557dfac20',1,'SramControlBlock::enabled()'],['../classdStage__nextStage__c.html#ab0a33ffec1b75ab7c92da2e872391ae9',1,'dStage_nextStage_c::enabled()']]],
   ['enabled_29',['Enabled',['../EXIUart_8c.html#a72f26039fb06ac260943144ef8b3b682',1,'EXIUart.c']]],
