@@ -125,8 +125,6 @@ $(function() {
 <code>#include &quot;asm/m_Do/m_Do_ext/__ct__11J3DTexCoordFv.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/__ct__12J3DColorChanFv.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/__dt__9J3DPacketFv.s&quot;</code><br />
-<code>#include &quot;asm/m_Do/m_Do_ext/entryJoint__21mDoExt_invisibleModelFP4cXyz.s&quot;</code><br />
-<code>#include &quot;asm/m_Do/m_Do_ext/entryDL__21mDoExt_invisibleModelFP4cXyz.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/mDoExt_setupShareTexture__FP12J3DModelDataP12J3DModelData.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/calc__25mDoExt_MtxCalcAnmBlendTblFv.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/calc__28mDoExt_MtxCalcAnmBlendTblOldFv.s&quot;</code><br />
@@ -139,7 +137,6 @@ $(function() {
 <code>#include &quot;asm/m_Do/m_Do_ext/__dt__13mDoExt_morf_cFv.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/setMorf__13mDoExt_morf_cFf.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/frameUpdate__13mDoExt_morf_cFv.s&quot;</code><br />
-<code>#include &quot;asm/m_Do/m_Do_ext/func_8000FC4C.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/__dt__14mDoExt_McaMorfFv.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/func_8000FD94.s&quot;</code><br />
 <code>#include &quot;asm/m_Do/m_Do_ext/calc__14mDoExt_McaMorfFv.s&quot;</code><br />
@@ -203,6 +200,10 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJUTCacheFont.html">JUTCacheFont</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DMtxCalcNoAnm____template0.html">J3DMtxCalcNoAnm__template0</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DMtxCalcAnimationAdaptorBase.html">J3DMtxCalcAnimationAdaptorBase</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DMtxCalcAnimationAdaptorDefault.html">J3DMtxCalcAnimationAdaptorDefault&lt; A0 &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DMtxCalcAnmBase.html">J3DMtxCalcAnmBase</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -857,8 +858,8 @@ Functions</h2></td></tr>
 <tr class="separator:a3f61243ebf5cbb2ff90548d397b16772"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abed5bd59c54272a132a5b4da4beff66d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__ext_8cpp.html#abed5bd59c54272a132a5b4da4beff66d">_restgpr_29</a> ()</td></tr>
 <tr class="separator:abed5bd59c54272a132a5b4da4beff66d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a56dae0117d5edf3e11d0eb1c083bb931"><td class="memItemLeft" align="right" valign="top">static asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__ext_8cpp.html#a56dae0117d5edf3e11d0eb1c083bb931">mDoExt_setJ3DData</a> (<a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>(*param_0)[4], <a class="el" href="structJ3DTransformInfo.html">J3DTransformInfo</a> const *param_1, <a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> param_2)</td></tr>
-<tr class="separator:a56dae0117d5edf3e11d0eb1c083bb931"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb759a722dabfbc487e7768c952e2190"><td class="memItemLeft" align="right" valign="top">static asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__ext_8cpp.html#afb759a722dabfbc487e7768c952e2190">mDoExt_setJ3DData</a> (<a class="el" href="mtx_8h.html#afc58fc7f5dd84f97da2dab35156849ae">Mtx</a> <a class="el" href="c__lib_8cpp.html#acb9d23c4d464c6b0a4fd696c59ab4dcb">mtx</a>, const <a class="el" href="structJ3DTransformInfo.html">J3DTransformInfo</a> *transformInfo, <a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> param_2)</td></tr>
+<tr class="separator:afb759a722dabfbc487e7768c952e2190"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6409f39c70b0fea10dd4102876e620db"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a9d99eb16c89214979b98ba942a455e7b">SECTION_DATA</a> <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> l_invisibleMat[133+27]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__ext_8cpp.html#a6409f39c70b0fea10dd4102876e620db">ALIGN_DECL</a> (32)</td></tr>
 <tr class="separator:a6409f39c70b0fea10dd4102876e620db"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7862164f1146e35b8d11e378f38c072f"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="m__Do__ext_8cpp.html#a7862164f1146e35b8d11e378f38c072f">mDoExt_changeMaterial</a> (<a class="el" href="structJ3DModel.html">J3DModel</a> *i_model)</td></tr>
@@ -6710,8 +6711,8 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a56dae0117d5edf3e11d0eb1c083bb931" name="a56dae0117d5edf3e11d0eb1c083bb931"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a56dae0117d5edf3e11d0eb1c083bb931">&#9670;&#160;</a></span>mDoExt_setJ3DData()</h2>
+<a id="afb759a722dabfbc487e7768c952e2190" name="afb759a722dabfbc487e7768c952e2190"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb759a722dabfbc487e7768c952e2190">&#9670;&#160;</a></span>mDoExt_setJ3DData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -6722,14 +6723,14 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">static asm void mDoExt_setJ3DData </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>(*)&#160;</td>
-          <td class="paramname"><em>param_0</em>[4], </td>
+          <td class="paramtype"><a class="el" href="mtx_8h.html#afc58fc7f5dd84f97da2dab35156849ae">Mtx</a>&#160;</td>
+          <td class="paramname"><em>mtx</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structJ3DTransformInfo.html">J3DTransformInfo</a> const *&#160;</td>
-          <td class="paramname"><em>param_1</em>, </td>
+          <td class="paramtype">const <a class="el" href="structJ3DTransformInfo.html">J3DTransformInfo</a> *&#160;</td>
+          <td class="paramname"><em>transformInfo</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -8219,7 +8220,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#ab11ba51b819bb8871597baa3217d4993">__dt__12J3DFrameCtrlFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="am__Do__ext_8cpp_html_ab11ba51b819bb8871597baa3217d4993"><div class="ttname"><a href="m__Do__ext_8cpp.html#ab11ba51b819bb8871597baa3217d4993">__dt__12J3DFrameCtrlFv</a></div><div class="ttdeci">void __dt__12J3DFrameCtrlFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2522</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_ab11ba51b819bb8871597baa3217d4993"><div class="ttname"><a href="m__Do__ext_8cpp.html#ab11ba51b819bb8871597baa3217d4993">__dt__12J3DFrameCtrlFv</a></div><div class="ttdeci">void __dt__12J3DFrameCtrlFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2714</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -8255,7 +8256,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#ade5936fc1656a172e27a0cb2d20adc3e">func_8001505C</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#a8aa6e7291d10677940caa5135fb3c6c0">func_80015084</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="am__Do__ext_8cpp_html_a6d3a58f4f7a5bf04634be52ab62b6700"><div class="ttname"><a href="m__Do__ext_8cpp.html#a6d3a58f4f7a5bf04634be52ab62b6700">__dt__13mDoExt_morf_cFv</a></div><div class="ttdeci">void __dt__13mDoExt_morf_cFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2555</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_a6d3a58f4f7a5bf04634be52ab62b6700"><div class="ttname"><a href="m__Do__ext_8cpp.html#a6d3a58f4f7a5bf04634be52ab62b6700">__dt__13mDoExt_morf_cFv</a></div><div class="ttdeci">void __dt__13mDoExt_morf_cFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2747</div></div>
 <div class="ttc" id="am__Do__ext_8cpp_html_a8aa6e7291d10677940caa5135fb3c6c0"><div class="ttname"><a href="m__Do__ext_8cpp.html#a8aa6e7291d10677940caa5135fb3c6c0">func_80015084</a></div><div class="ttdeci">void func_80015084(void *_this)</div></div>
 <div class="ttc" id="am__Do__ext_8cpp_html_ade5936fc1656a172e27a0cb2d20adc3e"><div class="ttname"><a href="m__Do__ext_8cpp.html#ade5936fc1656a172e27a0cb2d20adc3e">func_8001505C</a></div><div class="ttdeci">void func_8001505C(void *_this, Vec const &amp;, f32 const (&amp;)[3][4])</div></div>
 </div><!-- fragment -->
@@ -8294,7 +8295,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#a4136dca2113670e245dea6e0f06994ff">calc__14mDoExt_McaMorfFv</a>,</div>
 <div class="line">}</div>
 <div class="ttc" id="am__Do__ext_8cpp_html_a4136dca2113670e245dea6e0f06994ff"><div class="ttname"><a href="m__Do__ext_8cpp.html#a4136dca2113670e245dea6e0f06994ff">calc__14mDoExt_McaMorfFv</a></div><div class="ttdeci">void calc__14mDoExt_McaMorfFv()</div></div>
-<div class="ttc" id="am__Do__ext_8cpp_html_abd3ab29c20749ddc9d285b088f58adaf"><div class="ttname"><a href="m__Do__ext_8cpp.html#abd3ab29c20749ddc9d285b088f58adaf">__dt__14mDoExt_McaMorfFv</a></div><div class="ttdeci">void __dt__14mDoExt_McaMorfFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2634</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_abd3ab29c20749ddc9d285b088f58adaf"><div class="ttname"><a href="m__Do__ext_8cpp.html#abd3ab29c20749ddc9d285b088f58adaf">__dt__14mDoExt_McaMorfFv</a></div><div class="ttdeci">void __dt__14mDoExt_McaMorfFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2824</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -8330,7 +8331,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#ade5936fc1656a172e27a0cb2d20adc3e">func_8001505C</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#a4cfeb821d4278d59b680208e002a1395">calc__15mDoExt_McaMorf2Fv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="am__Do__ext_8cpp_html_a47e45cf3b78e1313766f6b208dda936d"><div class="ttname"><a href="m__Do__ext_8cpp.html#a47e45cf3b78e1313766f6b208dda936d">__dt__15mDoExt_McaMorf2Fv</a></div><div class="ttdeci">void __dt__15mDoExt_McaMorf2Fv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2964</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_a47e45cf3b78e1313766f6b208dda936d"><div class="ttname"><a href="m__Do__ext_8cpp.html#a47e45cf3b78e1313766f6b208dda936d">__dt__15mDoExt_McaMorf2Fv</a></div><div class="ttdeci">void __dt__15mDoExt_McaMorf2Fv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3343</div></div>
 <div class="ttc" id="am__Do__ext_8cpp_html_a4cfeb821d4278d59b680208e002a1395"><div class="ttname"><a href="m__Do__ext_8cpp.html#a4cfeb821d4278d59b680208e002a1395">calc__15mDoExt_McaMorf2Fv</a></div><div class="ttdeci">void calc__15mDoExt_McaMorf2Fv()</div></div>
 </div><!-- fragment -->
 </div>
@@ -8405,7 +8406,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#ade5936fc1656a172e27a0cb2d20adc3e">func_8001505C</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#aedd18c31faaa73ef3dc334b42bf398a0">calc__16mDoExt_McaMorfSOFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="am__Do__ext_8cpp_html_a0d4aab53634ab8246e3fa0517616ac84"><div class="ttname"><a href="m__Do__ext_8cpp.html#a0d4aab53634ab8246e3fa0517616ac84">__dt__16mDoExt_McaMorfSOFv</a></div><div class="ttdeci">void __dt__16mDoExt_McaMorfSOFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2740</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_a0d4aab53634ab8246e3fa0517616ac84"><div class="ttname"><a href="m__Do__ext_8cpp.html#a0d4aab53634ab8246e3fa0517616ac84">__dt__16mDoExt_McaMorfSOFv</a></div><div class="ttdeci">void __dt__16mDoExt_McaMorfSOFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3119</div></div>
 <div class="ttc" id="am__Do__ext_8cpp_html_aedd18c31faaa73ef3dc334b42bf398a0"><div class="ttname"><a href="m__Do__ext_8cpp.html#aedd18c31faaa73ef3dc334b42bf398a0">calc__16mDoExt_McaMorfSOFv</a></div><div class="ttdeci">void calc__16mDoExt_McaMorfSOFv()</div></div>
 </div><!-- fragment -->
 </div>
@@ -8480,7 +8481,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="am__Do__ext_8cpp_html_a4b7c515d7204a64ee6e66928383fc2ba"><div class="ttname"><a href="m__Do__ext_8cpp.html#a4b7c515d7204a64ee6e66928383fc2ba">__dt__19J3DMtxCalcNoAnmBaseFv</a></div><div class="ttdeci">void __dt__19J3DMtxCalcNoAnmBaseFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2544</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_a4b7c515d7204a64ee6e66928383fc2ba"><div class="ttname"><a href="m__Do__ext_8cpp.html#a4b7c515d7204a64ee6e66928383fc2ba">__dt__19J3DMtxCalcNoAnmBaseFv</a></div><div class="ttdeci">void __dt__19J3DMtxCalcNoAnmBaseFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2736</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -8574,7 +8575,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#a0316f392ae5ee4e746bf26f8df044914">draw__19mDoExt_invJntPacketFv</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#a27ba32bc3c252b764e7ad302b5d15fc3">__dt__19mDoExt_invJntPacketFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="am__Do__ext_8cpp_html_a0316f392ae5ee4e746bf26f8df044914"><div class="ttname"><a href="m__Do__ext_8cpp.html#a0316f392ae5ee4e746bf26f8df044914">draw__19mDoExt_invJntPacketFv</a></div><div class="ttdeci">void draw__19mDoExt_invJntPacketFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3099</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_a0316f392ae5ee4e746bf26f8df044914"><div class="ttname"><a href="m__Do__ext_8cpp.html#a0316f392ae5ee4e746bf26f8df044914">draw__19mDoExt_invJntPacketFv</a></div><div class="ttdeci">void draw__19mDoExt_invJntPacketFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3478</div></div>
 <div class="ttc" id="am__Do__ext_8cpp_html_a27ba32bc3c252b764e7ad302b5d15fc3"><div class="ttname"><a href="m__Do__ext_8cpp.html#a27ba32bc3c252b764e7ad302b5d15fc3">__dt__19mDoExt_invJntPacketFv</a></div><div class="ttdeci">void __dt__19mDoExt_invJntPacketFv()</div></div>
 <div class="ttc" id="am__Do__ext_8cpp_html_ae6182f0ec775b094125fcf5d9f73cd28"><div class="ttname"><a href="m__Do__ext_8cpp.html#ae6182f0ec775b094125fcf5d9f73cd28">entry__9J3DPacketFP13J3DDrawBuffer</a></div><div class="ttdeci">bool entry__9J3DPacketFP13J3DDrawBuffer()</div></div>
 </div><!-- fragment -->
@@ -8613,7 +8614,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#a1906755018774154d471f2d793010c7b">calc__25mDoExt_MtxCalcAnmBlendTblFv</a>,</div>
 <div class="line">}</div>
 <div class="ttc" id="am__Do__ext_8cpp_html_a1906755018774154d471f2d793010c7b"><div class="ttname"><a href="m__Do__ext_8cpp.html#a1906755018774154d471f2d793010c7b">calc__25mDoExt_MtxCalcAnmBlendTblFv</a></div><div class="ttdeci">void calc__25mDoExt_MtxCalcAnmBlendTblFv()</div></div>
-<div class="ttc" id="am__Do__ext_8cpp_html_ae590edd470a700f3fa9cf605c5a830b9"><div class="ttname"><a href="m__Do__ext_8cpp.html#ae590edd470a700f3fa9cf605c5a830b9">__dt__25mDoExt_MtxCalcAnmBlendTblFv</a></div><div class="ttdeci">void __dt__25mDoExt_MtxCalcAnmBlendTblFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3719</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_ae590edd470a700f3fa9cf605c5a830b9"><div class="ttname"><a href="m__Do__ext_8cpp.html#ae590edd470a700f3fa9cf605c5a830b9">__dt__25mDoExt_MtxCalcAnmBlendTblFv</a></div><div class="ttdeci">void __dt__25mDoExt_MtxCalcAnmBlendTblFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:4098</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -8644,7 +8645,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#a8c468537491b9f5d1c3465ee0b2e01db">__dt__26mDoExt_3DlineMatSortPacketFv</a>,</div>
 <div class="line">}</div>
 <div class="ttc" id="am__Do__ext_8cpp_html_a8c468537491b9f5d1c3465ee0b2e01db"><div class="ttname"><a href="m__Do__ext_8cpp.html#a8c468537491b9f5d1c3465ee0b2e01db">__dt__26mDoExt_3DlineMatSortPacketFv</a></div><div class="ttdeci">void __dt__26mDoExt_3DlineMatSortPacketFv()</div></div>
-<div class="ttc" id="am__Do__ext_8cpp_html_aa836b786584a7748a184fd3fce559406"><div class="ttname"><a href="m__Do__ext_8cpp.html#aa836b786584a7748a184fd3fce559406">draw__26mDoExt_3DlineMatSortPacketFv</a></div><div class="ttdeci">void draw__26mDoExt_3DlineMatSortPacketFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3307</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_aa836b786584a7748a184fd3fce559406"><div class="ttname"><a href="m__Do__ext_8cpp.html#aa836b786584a7748a184fd3fce559406">draw__26mDoExt_3DlineMatSortPacketFv</a></div><div class="ttdeci">void draw__26mDoExt_3DlineMatSortPacketFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3686</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -8681,7 +8682,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#a530748ef5ee6c641ae0b429b8c27dca7">calc__28mDoExt_MtxCalcAnmBlendTblOldFv</a>,</div>
 <div class="line">}</div>
 <div class="ttc" id="am__Do__ext_8cpp_html_a530748ef5ee6c641ae0b429b8c27dca7"><div class="ttname"><a href="m__Do__ext_8cpp.html#a530748ef5ee6c641ae0b429b8c27dca7">calc__28mDoExt_MtxCalcAnmBlendTblOldFv</a></div><div class="ttdeci">void calc__28mDoExt_MtxCalcAnmBlendTblOldFv()</div></div>
-<div class="ttc" id="am__Do__ext_8cpp_html_a98357e0f0a1140ac2c7465dae69b6f7d"><div class="ttname"><a href="m__Do__ext_8cpp.html#a98357e0f0a1140ac2c7465dae69b6f7d">__dt__28mDoExt_MtxCalcAnmBlendTblOldFv</a></div><div class="ttdeci">void __dt__28mDoExt_MtxCalcAnmBlendTblOldFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3707</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_a98357e0f0a1140ac2c7465dae69b6f7d"><div class="ttname"><a href="m__Do__ext_8cpp.html#a98357e0f0a1140ac2c7465dae69b6f7d">__dt__28mDoExt_MtxCalcAnmBlendTblOldFv</a></div><div class="ttdeci">void __dt__28mDoExt_MtxCalcAnmBlendTblOldFv()</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:4086</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -8878,7 +8879,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#ade5936fc1656a172e27a0cb2d20adc3e">func_8001505C</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#a8aa6e7291d10677940caa5135fb3c6c0">func_80015084</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="am__Do__ext_8cpp_html_aa62fd7046a3078bcf5b044bfd7184b7d"><div class="ttname"><a href="m__Do__ext_8cpp.html#aa62fd7046a3078bcf5b044bfd7184b7d">func_8000FA20</a></div><div class="ttdeci">void func_8000FA20(void *_this)</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2533</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_aa62fd7046a3078bcf5b044bfd7184b7d"><div class="ttname"><a href="m__Do__ext_8cpp.html#aa62fd7046a3078bcf5b044bfd7184b7d">func_8000FA20</a></div><div class="ttdeci">void func_8000FA20(void *_this)</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:2725</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -8914,10 +8915,10 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#ab44b98b59254d33f2436ed7a259c616b">func_80015034</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="m__Do__ext_8cpp.html#ac01d09e4bd8799d0b4fad25497e8f764">func_800150AC</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="am__Do__ext_8cpp_html_a7f38923b71782364f1b2d07b1255830f"><div class="ttname"><a href="m__Do__ext_8cpp.html#a7f38923b71782364f1b2d07b1255830f">func_8000D8E4</a></div><div class="ttdeci">void func_8000D8E4(void *_this, J3DAnmTransform *)</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:1386</div></div>
-<div class="ttc" id="am__Do__ext_8cpp_html_ab44b98b59254d33f2436ed7a259c616b"><div class="ttname"><a href="m__Do__ext_8cpp.html#ab44b98b59254d33f2436ed7a259c616b">func_80015034</a></div><div class="ttdeci">void func_80015034(void *_this, Vec const &amp;, f32 const (&amp;)[3][4])</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3759</div></div>
-<div class="ttc" id="am__Do__ext_8cpp_html_ac01d09e4bd8799d0b4fad25497e8f764"><div class="ttname"><a href="m__Do__ext_8cpp.html#ac01d09e4bd8799d0b4fad25497e8f764">func_800150AC</a></div><div class="ttdeci">void func_800150AC(void *_this)</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3785</div></div>
-<div class="ttc" id="am__Do__ext_8cpp_html_ae27dd0b332c3c89cc813f53a1fa9b11e"><div class="ttname"><a href="m__Do__ext_8cpp.html#ae27dd0b332c3c89cc813f53a1fa9b11e">func_80014FC8</a></div><div class="ttdeci">void func_80014FC8(void *_this)</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:3747</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_a7f38923b71782364f1b2d07b1255830f"><div class="ttname"><a href="m__Do__ext_8cpp.html#a7f38923b71782364f1b2d07b1255830f">func_8000D8E4</a></div><div class="ttdeci">void func_8000D8E4(void *_this, J3DAnmTransform *)</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:1477</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_ab44b98b59254d33f2436ed7a259c616b"><div class="ttname"><a href="m__Do__ext_8cpp.html#ab44b98b59254d33f2436ed7a259c616b">func_80015034</a></div><div class="ttdeci">void func_80015034(void *_this, Vec const &amp;, f32 const (&amp;)[3][4])</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:4138</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_ac01d09e4bd8799d0b4fad25497e8f764"><div class="ttname"><a href="m__Do__ext_8cpp.html#ac01d09e4bd8799d0b4fad25497e8f764">func_800150AC</a></div><div class="ttdeci">void func_800150AC(void *_this)</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:4164</div></div>
+<div class="ttc" id="am__Do__ext_8cpp_html_ae27dd0b332c3c89cc813f53a1fa9b11e"><div class="ttname"><a href="m__Do__ext_8cpp.html#ae27dd0b332c3c89cc813f53a1fa9b11e">func_80014FC8</a></div><div class="ttdeci">void func_80014FC8(void *_this)</div><div class="ttdef"><b>Definition:</b> m_Do_ext.cpp:4126</div></div>
 </div><!-- fragment -->
 </div>
 </div>
