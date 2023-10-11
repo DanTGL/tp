@@ -157,6 +157,8 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:ae8ef68e88d61dc14aa4d291e50a26914"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0e742518f01eeb40ff1864134680e764"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmDoMtx__stack__c.html#a0e742518f01eeb40ff1864134680e764">XrotM</a> (<a class="el" href="types_8h.html#a5ffa4f640862b25ba6d4f635b78bdbe1">s16</a> x)</td></tr>
 <tr class="separator:a0e742518f01eeb40ff1864134680e764"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8177d062fd3c716ba065797b836575d8"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmDoMtx__stack__c.html#a8177d062fd3c716ba065797b836575d8">ZrotS</a> (<a class="el" href="types_8h.html#a5ffa4f640862b25ba6d4f635b78bdbe1">s16</a> z)</td></tr>
+<tr class="separator:a8177d062fd3c716ba065797b836575d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2ba07ce1f7f292731b897e7a64db9008"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmDoMtx__stack__c.html#a2ba07ce1f7f292731b897e7a64db9008">ZrotM</a> (<a class="el" href="types_8h.html#a5ffa4f640862b25ba6d4f635b78bdbe1">s16</a> z)</td></tr>
 <tr class="separator:a2ba07ce1f7f292731b897e7a64db9008"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a39763412cbc842d44eded53462cc4f6f"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmDoMtx__stack__c.html#a39763412cbc842d44eded53462cc4f6f">inverse</a> ()</td></tr>
@@ -1337,6 +1339,38 @@ Static Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <p >Rotates a new matrix on the z-axis then concatenates it with the <code>now</code> matrix </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">z</td><td>The rotation value </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a8177d062fd3c716ba065797b836575d8" name="a8177d062fd3c716ba065797b836575d8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8177d062fd3c716ba065797b836575d8">&#9670;&#160;</a></span>ZrotS()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void mDoMtx_stack_c::ZrotS </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="types_8h.html#a5ffa4f640862b25ba6d4f635b78bdbe1">s16</a>&#160;</td>
+          <td class="paramname"><em>z</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p >Rotates the <code>now</code> matrix on the Z-axis </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">z</td><td>The rotation value </td></tr>
   </table>

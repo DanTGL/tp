@@ -412,8 +412,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:acb641cfe5e6b85e77aa33da15e355249"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aee0a1c7b12af05dd89364a8447362392"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdCamera__c.html#aee0a1c7b12af05dd89364a8447362392">GetCameraTypeFromMapToolID</a> (<a class="el" href="types_8h.html#adafe97a8e4be18b0198f234819016582">s32</a>, <a class="el" href="types_8h.html#adafe97a8e4be18b0198f234819016582">s32</a>)</td></tr>
 <tr class="separator:aee0a1c7b12af05dd89364a8447362392"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abee40eea9f613864caded0e749b4a01c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdCamera__c.html#abee40eea9f613864caded0e749b4a01c">GetCameraTypeFromCameraName</a> (char const *)</td></tr>
-<tr class="separator:abee40eea9f613864caded0e749b4a01c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97dcf328f36d4ddad95893688447de83"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdCamera__c.html#a97dcf328f36d4ddad95893688447de83">GetCameraTypeFromCameraName</a> (char const *)</td></tr>
+<tr class="separator:a97dcf328f36d4ddad95893688447de83"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a580d613e670ec6f1e9dec6c8b9749d53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdCamera__c.html#a580d613e670ec6f1e9dec6c8b9749d53">GetCameraTypeFromToolData</a> (<a class="el" href="structstage__camera2__data__class.html">stage_camera2_data_class</a> *)</td></tr>
 <tr class="separator:a580d613e670ec6f1e9dec6c8b9749d53"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa99b3e2286841e6fc2ef16d38801b212"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdCamera__c.html#aa99b3e2286841e6fc2ef16d38801b212">pushInfo</a> (<a class="el" href="structdCamera__c_1_1dCamInfo__c.html">dCamera_c::dCamInfo_c</a> *, <a class="el" href="types_8h.html#a5ffa4f640862b25ba6d4f635b78bdbe1">s16</a>)</td></tr>
@@ -588,6 +588,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a5483b70a0ab32b833b68d84606808d01"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2a6dfb78ecb6b7fd40fa0e0062228e93"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdCamera__c.html#a2a6dfb78ecb6b7fd40fa0e0062228e93">TrimHeight</a> ()</td></tr>
 <tr class="separator:a2a6dfb78ecb6b7fd40fa0e0062228e93"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67a6848b93c072087cbe8f4e8defe6db"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdCamera__c.html#a67a6848b93c072087cbe8f4e8defe6db">Type</a> ()</td></tr>
+<tr class="separator:a67a6848b93c072087cbe8f4e8defe6db"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -1915,14 +1917,14 @@ Static Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="abee40eea9f613864caded0e749b4a01c" name="abee40eea9f613864caded0e749b4a01c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abee40eea9f613864caded0e749b4a01c">&#9670;&#160;</a></span>GetCameraTypeFromCameraName()</h2>
+<a id="a97dcf328f36d4ddad95893688447de83" name="a97dcf328f36d4ddad95893688447de83"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97dcf328f36d4ddad95893688447de83">&#9670;&#160;</a></span>GetCameraTypeFromCameraName()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void dCamera_c::GetCameraTypeFromCameraName </td>
+          <td class="memname">asm int dCamera_c::GetCameraTypeFromCameraName </td>
           <td>(</td>
           <td class="paramtype">char const *&#160;</td>
           <td class="paramname"><em>param_0</em></td><td>)</td>
@@ -5787,6 +5789,31 @@ Static Public Attributes</h2></td></tr>
           <td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a67a6848b93c072087cbe8f4e8defe6db" name="a67a6848b93c072087cbe8f4e8defe6db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67a6848b93c072087cbe8f4e8defe6db">&#9670;&#160;</a></span>Type()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int dCamera_c::Type </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
