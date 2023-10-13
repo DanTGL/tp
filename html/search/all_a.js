@@ -102,7 +102,7 @@ var searchData=
   ['j2dmanage_2eh_99',['J2DManage.h',['../J2DManage_8h.html',1,'']]],
   ['j2dmatblock_2ecpp_100',['J2DMatBlock.cpp',['../J2DMatBlock_8cpp.html',1,'']]],
   ['j2dmatblock_2eh_101',['J2DMatBlock.h',['../J2DMatBlock_8h.html',1,'']]],
-  ['j2dmaterial_102',['J2DMaterial',['../classJ2DMaterial.html#a7ef2ed1eee3dc4db0aefc23372e1768b',1,'J2DMaterial::J2DMaterial()'],['../classJ2DMaterial.html',1,'J2DMaterial']]],
+  ['j2dmaterial_102',['J2DMaterial',['../classJ2DMaterial.html#a00897ee7298d3a0c8412b9cde52883ae',1,'J2DMaterial::J2DMaterial()'],['../classJ2DMaterial.html',1,'J2DMaterial']]],
   ['j2dmaterial_2ecpp_103',['J2DMaterial.cpp',['../J2DMaterial_8cpp.html',1,'']]],
   ['j2dmaterial_2eh_104',['J2DMaterial.h',['../J2DMaterial_8h.html',1,'']]],
   ['j2dmaterialanmpointer_105',['J2DMaterialAnmPointer',['../structJ2DMaterial_1_1J2DMaterialAnmPointer.html',1,'J2DMaterial::J2DMaterialAnmPointer'],['../structJ2DMaterial_1_1J2DMaterialAnmPointer.html#afc3ab389adf43b8f287f0626615b91d3',1,'J2DMaterial::J2DMaterialAnmPointer::J2DMaterialAnmPointer()']]],

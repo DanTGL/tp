@@ -380,7 +380,7 @@ var searchData=
   ['dasnowefftag_5fc_377',['daSnowEffTag_c',['../classdaSnowEffTag__c.html',1,'']]],
   ['dasnowefftag_5fhio_5fc_378',['daSnowEffTag_HIO_c',['../classdaSnowEffTag__HIO__c.html',1,'']]],
   ['daspinner_5fc_379',['daSpinner_c',['../classdaSpinner__c.html',1,'']]],
-  ['dasus_5fc_380',['daSus_c',['../structdaSus__c.html',1,'']]],
+  ['dasus_5fc_380',['daSus_c',['../classdaSus__c.html',1,'']]],
   ['daswtime_5fc_381',['daSwTime_c',['../classdaSwTime__c.html',1,'']]],
   ['data_382',['data',['../structdMenuMapCommon__c_1_1data.html',1,'dMenuMapCommon_c']]],
   ['data_383',['Data',['../structJASOscillator_1_1Data.html',1,'JASOscillator']]],
