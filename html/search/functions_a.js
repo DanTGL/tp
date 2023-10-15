@@ -361,7 +361,7 @@ var searchData=
   ['jasseqctrl_358',['JASSeqCtrl',['../classJASSeqCtrl.html#a47531a8905899aa1ce0e16972313c02c',1,'JASSeqCtrl']]],
   ['jassimplewavebank_359',['JASSimpleWaveBank',['../structJASSimpleWaveBank.html#abd60c2fd65da2bcecb3af6e2a4305f4e',1,'JASSimpleWaveBank::JASSimpleWaveBank()'],['../structJASSimpleWaveBank.html#ad3839c652e4a8e9a98cb4d8edd30ca64',1,'JASSimpleWaveBank::JASSimpleWaveBank()']]],
   ['jassoundparams_360',['JASSoundParams',['../structJASSoundParams.html#a96999de16d9dee6a5fd6cc8f2f5da510',1,'JASSoundParams']]],
-  ['jastaskthread_361',['JASTaskThread',['../structJASTaskThread.html#a69540a2f0118102a5aeec42533f6f3af',1,'JASTaskThread']]],
+  ['jastaskthread_361',['JASTaskThread',['../structJASTaskThread.html#a6c347ee5b75d604a72d4ba8dff09e59e',1,'JASTaskThread']]],
   ['jastrack_362',['JASTrack',['../structJASTrack.html#a19289550ae687fc8403296a5d9be5baa',1,'JASTrack']]],
   ['jaswavearc_363',['JASWaveArc',['../structJASWaveArc.html#af7261694efda1982aafadce526f49d2a',1,'JASWaveArc::JASWaveArc()'],['../structJASWaveArc.html#af7261694efda1982aafadce526f49d2a',1,'JASWaveArc::JASWaveArc()']]],
   ['jaswaveinfo_364',['JASWaveInfo',['../structJASWaveInfo.html#a78bb874a1f40ae7ee7175f9784e9bf29',1,'JASWaveInfo']]],
