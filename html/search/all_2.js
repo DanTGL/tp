@@ -411,7 +411,7 @@ var searchData=
   ['byebye_5ftalk_5finit_408',['byebye_talk_init',['../classdaMyna__c.html#a96659567fa45fa2192d459332fb532e7',1,'daMyna_c']]],
   ['byebye_5ftalk_5fmove_409',['byebye_talk_move',['../classdaMyna__c.html#a712163a08bfd03764cbd819d5d72c686',1,'daMyna_c']]],
   ['byte_5forder_410',['byte_order',['../structJStudio_1_1stb_1_1data_1_1THeader.html#a75e0974a3325a04213190a826102e075',1,'JStudio::stb::data::THeader::byte_order()'],['../structJStudio_1_1fvb_1_1data_1_1THeader.html#a201a9362ccbc1ccb9fb45c46a8273b37',1,'JStudio::fvb::data::THeader::byte_order()']]],
-  ['bytes_411',['bytes',['../structJAUAudibleParam.html#abfdc34fdc968b83104ef08ff0ddde2b5',1,'JAUAudibleParam']]],
+  ['bytes_411',['bytes',['../structJAUAudibleParam.html#a3c8c60704145c73706ca7eb17dd0b4d2',1,'JAUAudibleParam']]],
   ['bytetoxlen_412',['byteToXLen',['../JUTProcBar_8cpp.html#a9215cf33f8a56fd58a6c03412069b325',1,'JUTProcBar.cpp']]],
   ['bzero_413',['bzero',['../structJASCalc.html#ac946a26e7b103e034ac53623dd2d0cf5',1,'JASCalc::bzero(void *, u32)'],['../structJASCalc.html#a193d03c32dae7b84f775de8f035581b9',1,'JASCalc::bzero(void *, u32)']]],
   ['bzero_5f_5f7jascalcfpvul_414',['bzero__7JASCalcFPvUl',['../JASAiCtrl_8cpp.html#a62421cf3ca91caf08088f49ddf8fdc05',1,'bzero__7JASCalcFPvUl():&#160;JASAiCtrl.cpp'],['../JASBasicBank_8cpp.html#a62421cf3ca91caf08088f49ddf8fdc05',1,'bzero__7JASCalcFPvUl():&#160;JASBasicBank.cpp'],['../JASBasicInst_8cpp.html#a62421cf3ca91caf08088f49ddf8fdc05',1,'bzero__7JASCalcFPvUl():&#160;JASBasicInst.cpp']]],

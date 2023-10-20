@@ -501,7 +501,7 @@ var searchData=
   ['jkrfileloader_498',['JKRFileLoader',['../structJKRFileLoader.html',1,'']]],
   ['jkrheap_499',['JKRHeap',['../structJKRHeap.html',1,'']]],
   ['jkrmemarchive_500',['JKRMemArchive',['../classJKRMemArchive.html',1,'']]],
-  ['jkrsolidheap_501',['JKRSolidHeap',['../structJKRSolidHeap.html',1,'']]],
+  ['jkrsolidheap_501',['JKRSolidHeap',['../classJKRSolidHeap.html',1,'']]],
   ['jkrtask_502',['JKRTask',['../structJKRTask.html',1,'']]],
   ['jkrthread_503',['JKRThread',['../classJKRThread.html',1,'']]],
   ['jkrthreadname_5f_504',['JKRThreadName_',['../structJKRThreadName__.html',1,'']]],
