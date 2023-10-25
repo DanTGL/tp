@@ -86,7 +86,7 @@ var searchData=
   ['cm3dgpla_83',['cM3dGPla',['../structcM3dGPla.html',1,'']]],
   ['cm3dgsph_84',['cM3dGSph',['../structcM3dGSph.html',1,'']]],
   ['cm3dgsphs_85',['cM3dGSphS',['../structcM3dGSphS.html',1,'']]],
-  ['cm3dgtri_86',['cM3dGTri',['../structcM3dGTri.html',1,'']]],
+  ['cm3dgtri_86',['cM3dGTri',['../classcM3dGTri.html',1,'']]],
   ['cm3dgtris_87',['cM3dGTriS',['../structcM3dGTriS.html',1,'']]],
   ['cm_5frnd_5fc_88',['cM_rnd_c',['../classcM__rnd__c.html',1,'']]],
   ['cmdinfo_89',['CmdInfo',['../structJASSeqParser_1_1CmdInfo.html',1,'JASSeqParser']]],
