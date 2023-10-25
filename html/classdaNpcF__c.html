@@ -130,9 +130,9 @@ Public Types</h2></td></tr>
 , <a class="el" href="classdaNpcF__c.html#a42c7ce7d12656a0e775c4e056c13f939a4e2c93b8ff95682e87da121511af0ac8">ANM_FLAG_800</a> = 0x0800
 , <br />
 &#160;&#160;<a class="el" href="classdaNpcF__c.html#a42c7ce7d12656a0e775c4e056c13f939a8427eb3ba5eae7ab06c9c2358718a689">ANM_PAUSE_EXPRESSION</a> = 0x1000
-, <a class="el" href="classdaNpcF__c.html#a42c7ce7d12656a0e775c4e056c13f939af812cb4c8a8737cd2237aaf7ed09fc69">ANM_MOTION_FLAGS</a> = ANM_PAUSE_MORF | ANM_PAUSE_BTK | ANM_PAUSE_BRK | ANM_PLAY_MORF | ANM_PLAY_BTK | ANM_PLAY_BRK
-, <a class="el" href="classdaNpcF__c.html#a42c7ce7d12656a0e775c4e056c13f939a4d060b3d974d02c83416e0dbb678d346">ANM_EXPRESSION_FLAGS</a> = ANM_PAUSE_BCK | ANM_PAUSE_BTP | ANM_PLAY_BCK | ANM_PLAY_BTP | ANM_FLAG_400 | ANM_FLAG_800 | ANM_PAUSE_EXPRESSION
-, <a class="el" href="classdaNpcF__c.html#a42c7ce7d12656a0e775c4e056c13f939a5f12bbd6d87a2992fcff632e7f1bf5d2">ANM_PAUSE_ALL</a> = ANM_PAUSE_MORF | ANM_PAUSE_BTK | ANM_PAUSE_BRK | ANM_PAUSE_BCK | ANM_PAUSE_BTP | ANM_PAUSE_EXPRESSION
+, <a class="el" href="classdaNpcF__c.html#a42c7ce7d12656a0e775c4e056c13f939af812cb4c8a8737cd2237aaf7ed09fc69">ANM_MOTION_FLAGS</a>
+, <a class="el" href="classdaNpcF__c.html#a42c7ce7d12656a0e775c4e056c13f939a4d060b3d974d02c83416e0dbb678d346">ANM_EXPRESSION_FLAGS</a>
+, <a class="el" href="classdaNpcF__c.html#a42c7ce7d12656a0e775c4e056c13f939a5f12bbd6d87a2992fcff632e7f1bf5d2">ANM_PAUSE_ALL</a>
 <br />
  }</td></tr>
 <tr class="separator:a42c7ce7d12656a0e775c4e056c13f939"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -271,6 +271,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a412798ad6c454f69f94bbea9d28612b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abdd77c28ff5099fdd748615534f11ea9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdaNpcF__c.html#abdd77c28ff5099fdd748615534f11ea9">checkHide</a> ()</td></tr>
 <tr class="separator:abdd77c28ff5099fdd748615534f11ea9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af25a9a154978411fb3561dec85e32a73"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdaNpcF__c.html#af25a9a154978411fb3561dec85e32a73">setIntDemander</a> (<a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actor)</td></tr>
+<tr class="separator:af25a9a154978411fb3561dec85e32a73"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d71f88d02a44175c93607b61ab5f875"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdaNpcF__c.html#a2d71f88d02a44175c93607b61ab5f875">setIntFlowNodeNo</a> (int i_flowNodeNo)</td></tr>
+<tr class="separator:a2d71f88d02a44175c93607b61ab5f875"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59a6e3728af14df0549b92cf73ea94d1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdaNpcF__c.html#a59a6e3728af14df0549b92cf73ea94d1">onInterrupt</a> (<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> param_0)</td></tr>
+<tr class="separator:a59a6e3728af14df0549b92cf73ea94d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a568e5d5af9226cc47134c44e0a3a9821"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdaNpcF__c.html#a568e5d5af9226cc47134c44e0a3a9821">draw</a> (int, int, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>, <a class="el" href="struct__GXColorS10.html">_GXColorS10</a> *, int)</td></tr>
 <tr class="separator:a568e5d5af9226cc47134c44e0a3a9821"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad1b7e07ebd217559f372f4e9a062e223"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdaNpcF__c.html#ad1b7e07ebd217559f372f4e9a062e223">setMtx</a> ()</td></tr>
@@ -2156,6 +2162,32 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="a59a6e3728af14df0549b92cf73ea94d1" name="a59a6e3728af14df0549b92cf73ea94d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59a6e3728af14df0549b92cf73ea94d1">&#9670;&#160;</a></span>onInterrupt()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void daNpcF_c::onInterrupt </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td>
+          <td class="paramname"><em>param_0</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="ad7bf577d96b1124ef2a3208c1403269e" name="ad7bf577d96b1124ef2a3208c1403269e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad7bf577d96b1124ef2a3208c1403269e">&#9670;&#160;</a></span>orderEvent() <span class="overload">[1/2]</span></h2>
 
@@ -2954,6 +2986,58 @@ Additional Inherited Members</h2></td></tr>
           <td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af25a9a154978411fb3561dec85e32a73" name="af25a9a154978411fb3561dec85e32a73"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af25a9a154978411fb3561dec85e32a73">&#9670;&#160;</a></span>setIntDemander()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void daNpcF_c::setIntDemander </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
+          <td class="paramname"><em>i_actor</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2d71f88d02a44175c93607b61ab5f875" name="a2d71f88d02a44175c93607b61ab5f875"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d71f88d02a44175c93607b61ab5f875">&#9670;&#160;</a></span>setIntFlowNodeNo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void daNpcF_c::setIntFlowNodeNo </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>i_flowNodeNo</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
