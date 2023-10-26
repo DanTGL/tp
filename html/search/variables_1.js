@@ -46,7 +46,7 @@ var searchData=
   ['analogmode_43',['AnalogMode',['../Pad_8c.html#a0a71a3d909958df78fdb33204ebf1844',1,'Pad.c']]],
   ['ang_5ftable2_44',['ang_table2',['../d__attention_8cpp.html#afce76768093184614e931ef62a7f3f3e',1,'d_attention.cpp']]],
   ['angle_45',['angle',['../structactor__place.html#a3da43425c797ed03b26c1fa6dfea5ed2',1,'actor_place']]],
-  ['animation_5f_46',['animation_',['../classZ2SoundObjAnime.html#a34f33e472522504abc1701a0700618a0',1,'Z2SoundObjAnime']]],
+  ['animationstate_46',['animationState',['../structJAISoundStatus__.html#aa86be6b0db8009f99bb1aedd116c1cc2',1,'JAISoundStatus_']]],
   ['animeframe_47',['animeFrame',['../d__timer_8cpp.html#acb9cd20b682c7d95ed963e586008b288',1,'d_timer.cpp']]],
   ['anmidx_48',['anmIdx',['../d__a__alink_8cpp.html#a57624ebb8c427e3ff9ea8c8d53016ccc',1,'d_a_alink.cpp']]],
   ['antialiasing_49',['antialiasing',['../struct__GXRenderModeObj.html#a83d0dbef3815f638c158998f3ff2a711',1,'_GXRenderModeObj']]],
