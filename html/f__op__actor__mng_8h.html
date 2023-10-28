@@ -147,6 +147,7 @@ Enumerations</h2></td></tr>
 , <a class="el" href="f__op__actor__mng_8h.html#a9a8f0caf5338c590123da43b40d903aba210c0886cfd5f2a742e644029edda232">fopAcM_CARRY_TYPE_8</a> = 8
 , <br />
 &#160;&#160;<a class="el" href="f__op__actor__mng_8h.html#a9a8f0caf5338c590123da43b40d903aba20604b6174c8536e7812a4c8a0ad8d89">fopAcM_CARRY_LIGHT</a> = 16
+, <a class="el" href="f__op__actor__mng_8h.html#a9a8f0caf5338c590123da43b40d903abaccd10fdf5751c1177da5dff1ee46df2d">fopAcM_CARRY_ITEM</a> = 32
 , <a class="el" href="f__op__actor__mng_8h.html#a9a8f0caf5338c590123da43b40d903aba2bc192ea31676580f658582661798be3">fopAcM_CARRY_UNK_30</a> = 0x30
 <br />
  }</td></tr>
@@ -252,6 +253,8 @@ Functions</h2></td></tr>
 <tr class="separator:acf6f418d883d30032a70022037474991"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adfcbf2e6d657fcefda1c45c0717683ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#adfcbf2e6d657fcefda1c45c0717683ce">fopAcM_getCullSizeFar</a> (const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actor)</td></tr>
 <tr class="separator:adfcbf2e6d657fcefda1c45c0717683ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c5be517e765b549ab7ef565e0803a92"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#a0c5be517e765b549ab7ef565e0803a92">fopAcM_SetCullSize</a> (<a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actor, <a class="el" href="types_8h.html#a151f780fb455885061d3b77ec1c90c03">s8</a> i_cullsize)</td></tr>
+<tr class="separator:a0c5be517e765b549ab7ef565e0803a92"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aee7d3446b3d5747278e0490033e209fe"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#aee7d3446b3d5747278e0490033e209fe">fopAcM_GetCullSize</a> (const <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *i_actor)</td></tr>
 <tr class="separator:aee7d3446b3d5747278e0490033e209fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a073d734a96ab9b85e4d0963015e20763"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="f__op__actor__mng_8h.html#a073d734a96ab9b85e4d0963015e20763">fopAcM_CULLSIZE_IS_BOX</a> (int i_culltype)</td></tr>
@@ -746,7 +749,7 @@ Functions</h2></td></tr>
 <div class="line">        fopAcM_OnCondition(ptr, <a class="code hl_enumvalue" href="f__op__actor_8h.html#ab1287a1d957b35b3d72048712ba82c35a36a6b534748c92fe19c0da633fe96bcb">fopAcCnd_INIT_e</a>); \</div>
 <div class="line">    }</div>
 <div class="ttc" id="af__op__actor_8h_html_ab1287a1d957b35b3d72048712ba82c35a36a6b534748c92fe19c0da633fe96bcb"><div class="ttname"><a href="f__op__actor_8h.html#ab1287a1d957b35b3d72048712ba82c35a36a6b534748c92fe19c0da633fe96bcb">fopAcCnd_INIT_e</a></div><div class="ttdeci">@ fopAcCnd_INIT_e</div><div class="ttdef"><b>Definition:</b> f_op_actor.h:48</div></div>
-<div class="ttc" id="af__op__actor__mng_8h_html_ae04f369129df519ebcf4a9109d3ee24a"><div class="ttname"><a href="f__op__actor__mng_8h.html#ae04f369129df519ebcf4a9109d3ee24a">fopAcM_CheckCondition</a></div><div class="ttdeci">bool fopAcM_CheckCondition(fopAc_ac_c *p_actor, u32 flag)</div><div class="ttdef"><b>Definition:</b> f_op_actor_mng.h:218</div></div>
+<div class="ttc" id="af__op__actor__mng_8h_html_ae04f369129df519ebcf4a9109d3ee24a"><div class="ttname"><a href="f__op__actor__mng_8h.html#ae04f369129df519ebcf4a9109d3ee24a">fopAcM_CheckCondition</a></div><div class="ttdeci">bool fopAcM_CheckCondition(fopAc_ac_c *p_actor, u32 flag)</div><div class="ttdef"><b>Definition:</b> f_op_actor_mng.h:219</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -797,6 +800,7 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="a9a8f0caf5338c590123da43b40d903aba9d1eddeb47a510e3fbb715388b393860" name="a9a8f0caf5338c590123da43b40d903aba9d1eddeb47a510e3fbb715388b393860"></a>fopAcM_CARRY_SIDE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a9a8f0caf5338c590123da43b40d903aba210c0886cfd5f2a742e644029edda232" name="a9a8f0caf5338c590123da43b40d903aba210c0886cfd5f2a742e644029edda232"></a>fopAcM_CARRY_TYPE_8&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a9a8f0caf5338c590123da43b40d903aba20604b6174c8536e7812a4c8a0ad8d89" name="a9a8f0caf5338c590123da43b40d903aba20604b6174c8536e7812a4c8a0ad8d89"></a>fopAcM_CARRY_LIGHT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9a8f0caf5338c590123da43b40d903abaccd10fdf5751c1177da5dff1ee46df2d" name="a9a8f0caf5338c590123da43b40d903abaccd10fdf5751c1177da5dff1ee46df2d"></a>fopAcM_CARRY_ITEM&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a9a8f0caf5338c590123da43b40d903aba2bc192ea31676580f658582661798be3" name="a9a8f0caf5338c590123da43b40d903aba2bc192ea31676580f658582661798be3"></a>fopAcM_CARRY_UNK_30&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
@@ -7773,6 +7777,42 @@ Functions</h2></td></tr>
           <td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0c5be517e765b549ab7ef565e0803a92" name="a0c5be517e765b549ab7ef565e0803a92"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c5be517e765b549ab7ef565e0803a92">&#9670;&#160;</a></span>fopAcM_SetCullSize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void fopAcM_SetCullSize </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
+          <td class="paramname"><em>i_actor</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="types_8h.html#a151f780fb455885061d3b77ec1c90c03">s8</a>&#160;</td>
+          <td class="paramname"><em>i_cullsize</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
