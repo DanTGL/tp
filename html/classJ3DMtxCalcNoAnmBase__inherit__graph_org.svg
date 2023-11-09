@@ -12,15 +12,15 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="230,-70 105,-70 105,-51 230,-51 230,-70"/>
-<text text-anchor="middle" x="167.5" y="-58" font-family="Helvetica,sans-Serif" font-size="10.00">J3DMtxCalcNoAnmBase</text>
+<polygon fill="#999999" stroke="#666666" points="230,-73 105,-73 105,-54 230,-54 230,-73"/>
+<text text-anchor="middle" x="167.5" y="-61" font-family="Helvetica,sans-Serif" font-size="10.00">J3DMtxCalcNoAnmBase</text>
 </a>
 </g>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="structJ3DMtxCalcNoAnm.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classJ3DMtxCalcNoAnm.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="438,-108 266,-108 266,-67 438,-67 438,-108"/>
 <text text-anchor="start" x="274" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00">J3DMtxCalcNoAnm&lt; J3DMtxCalc</text>
 <text text-anchor="start" x="274" y="-85" font-family="Helvetica,sans-Serif" font-size="10.00">CalcTransformMaya, J3DMtxCalcJ3</text>
@@ -31,39 +31,38 @@
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="#63b8ff" d="M241.68,-71.33C249.56,-72.49 257.63,-73.69 265.64,-74.87"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="242.19,-67.86 231.78,-69.86 241.16,-74.79 242.19,-67.86"/>
+<path fill="none" stroke="#63b8ff" d="M241.68,-73.12C249.56,-74.16 257.63,-75.22 265.64,-76.28"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="242.16,-69.66 231.79,-71.82 241.25,-76.6 242.16,-69.66"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="structJ3DMtxCalcNoAnm.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="414.5,-48.5 289.5,-48.5 289.5,-18.5 414.5,-18.5 414.5,-48.5"/>
-<text text-anchor="start" x="297.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">J3DMtxCalcNoAnm&lt; A0,</text>
-<text text-anchor="middle" x="352" y="-25.5" font-family="Helvetica,sans-Serif" font-size="10.00"> B0 &gt;</text>
+<g id="a_node10"><a xlink:href="classJ3DMtxCalcNoAnm.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="420.5,-49 283.5,-49 283.5,-30 420.5,-30 420.5,-49"/>
+<text text-anchor="middle" x="352" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">J3DMtxCalcNoAnm&lt; A, B &gt;</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node10 -->
 <g id="edge9" class="edge">
 <title>Node1&#45;&gt;Node10</title>
-<path fill="none" stroke="#63b8ff" d="M241.63,-49.68C257.42,-47.34 273.97,-44.9 289.28,-42.63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="241.16,-46.21 231.78,-51.14 242.19,-53.14 241.16,-46.21"/>
+<path fill="none" stroke="#63b8ff" d="M241.61,-53.89C255.27,-52.09 269.51,-50.22 283.01,-48.44"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="241.25,-50.4 231.79,-55.18 242.16,-57.34 241.25,-50.4"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="structJ3DMtxCalc.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="69,-70 0,-70 0,-51 69,-51 69,-70"/>
-<text text-anchor="middle" x="34.5" y="-58" font-family="Helvetica,sans-Serif" font-size="10.00">J3DMtxCalc</text>
+<g id="a_node2"><a xlink:href="classJ3DMtxCalc.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="69,-73 0,-73 0,-54 69,-54 69,-73"/>
+<text text-anchor="middle" x="34.5" y="-61" font-family="Helvetica,sans-Serif" font-size="10.00">J3DMtxCalc</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="#63b8ff" d="M80.62,-60.5C88.37,-60.5 96.55,-60.5 104.65,-60.5"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="80.75,-57 70.75,-60.5 80.75,-64 80.75,-57"/>
+<path fill="none" stroke="#63b8ff" d="M80.62,-63.5C88.37,-63.5 96.55,-63.5 104.65,-63.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="80.75,-60 70.75,-63.5 80.75,-67 80.75,-60"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
