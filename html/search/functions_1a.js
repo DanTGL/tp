@@ -58,7 +58,7 @@ var searchData=
   ['z2soundobjbase_55',['Z2SoundObjBase',['../classZ2SoundObjBase.html#ab1de88cec74ff45d809a7ea9aafedb11',1,'Z2SoundObjBase']]],
   ['z2soundobjbeegroup_56',['Z2SoundObjBeeGroup',['../structZ2SoundObjBeeGroup.html#a2fdcd15c7780b04faf5443e14fe56aa2',1,'Z2SoundObjBeeGroup']]],
   ['z2soundobjcoach_57',['Z2SoundObjCoach',['../structZ2SoundObjCoach.html#a9a8e92de8594caa70d5fe91be6b76e89',1,'Z2SoundObjCoach']]],
-  ['z2soundobjmgr_58',['Z2SoundObjMgr',['../structZ2SoundObjMgr.html#ada073a030f489a35c268d1c4aea3a034',1,'Z2SoundObjMgr']]],
+  ['z2soundobjmgr_58',['Z2SoundObjMgr',['../structZ2SoundObjMgr.html#a0429460a9304646496b99b7cf826ac22',1,'Z2SoundObjMgr']]],
   ['z2soundobjsimple_59',['Z2SoundObjSimple',['../classZ2SoundObjSimple.html#a1b9ade4245495c9a843ca538d10c68cc',1,'Z2SoundObjSimple']]],
   ['z2soundstarter_60',['Z2SoundStarter',['../structZ2SoundStarter.html#ae57588db70c4834d75c9050cfb379dfc',1,'Z2SoundStarter']]],
   ['z2speechmgr2_61',['Z2SpeechMgr2',['../structZ2SpeechMgr2.html#a9907b6dd91ff63d114ce1d2f35ebe276',1,'Z2SpeechMgr2']]],
