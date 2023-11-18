@@ -726,7 +726,7 @@ var searchData=
   ['_7ejutdirectfile_723',['~JUTDirectFile',['../structJUTDirectFile.html#a1607cd32a609d730e35956f7955c0978',1,'JUTDirectFile']]],
   ['_7ejutexception_724',['~JUTException',['../classJUTException.html#a9f0aed7323d820944a7ef4844713330d',1,'JUTException']]],
   ['_7ejutfader_725',['~JUTFader',['../structJUTFader.html#aac79e728db080f019385dff4a09ab56e',1,'JUTFader']]],
-  ['_7ejutfont_726',['~JUTFont',['../structJUTFont.html#a2660bd6eab54a2bacb2520f3d40f9210',1,'JUTFont::~JUTFont()'],['../structJUTFont.html#a3e59d9e08af51971bb601aef3cb80dc8',1,'JUTFont::~JUTFont()']]],
+  ['_7ejutfont_726',['~JUTFont',['../structJUTFont.html#a6e25eb7405c853df1fcf2523b0e201e9',1,'JUTFont::~JUTFont()'],['../structJUTFont.html#a3e59d9e08af51971bb601aef3cb80dc8',1,'JUTFont::~JUTFont()']]],
   ['_7ejutgamepad_727',['~JUTGamePad',['../structJUTGamePad.html#a5843617e0e19df03856ec9367552cb42',1,'JUTGamePad']]],
   ['_7ejutgraphfifo_728',['~JUTGraphFifo',['../classJUTGraphFifo.html#a98d7a1d2f16736b8eb18bb4108716fa6',1,'JUTGraphFifo']]],
   ['_7ejutnametab_729',['~JUTNameTab',['../structJUTNameTab.html#af035921d4cbd6deb7a617b4e7d65f32e',1,'JUTNameTab']]],
