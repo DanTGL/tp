@@ -53,7 +53,7 @@ var searchData=
   ['index_50',['index',['../structtbl__entry.html#a610cab6ebc951488a85be974339e2f7b',1,'tbl_entry']]],
   ['indextexture_51',['indexTexture',['../structResTIMG.html#aa66845d9a5263a06b9ae44c122e5debb',1,'ResTIMG']]],
   ['indmtx_52',['IndMtx',['../J3DSys_8cpp.html#a0d76a20d00454e879942ef9c3d937c6d',1,'J3DSys.cpp']]],
-  ['info_53',['info',['../structOSModuleInfo.html#a7b30c1549a953a12a01ebb69bc708ccc',1,'OSModuleInfo::info()'],['../classdComIfG__inf__c.html#a93faeb7c4404fd5175e7eb412fc0dd16',1,'dComIfG_inf_c::info()'],['../structSTRUCT__DSP__TASK.html#a3a3a8becac419639ed37c924c2b2d8cf',1,'STRUCT_DSP_TASK::info()']]],
+  ['info_53',['info',['../structOSModuleInfo.html#a40739fb2cd326d0c66977fe67b0555a9',1,'OSModuleInfo::info()'],['../classdComIfG__inf__c.html#a93faeb7c4404fd5175e7eb412fc0dd16',1,'dComIfG_inf_c::info()'],['../structSTRUCT__DSP__TASK.html#a3a3a8becac419639ed37c924c2b2d8cf',1,'STRUCT_DSP_TASK::info()']]],
   ['ingame_54',['inGame',['../structZ2SceneMgr.html#a011d76b851388a986a8d072a8db6e9d5',1,'Z2SceneMgr']]],
   ['init_55',['init',['../d__menu__option_8cpp.html#ad48c3180a84e8375c10c48c91cb51f50',1,'init():&#160;d_menu_option.cpp'],['../d__menu__collect_8cpp.html#aeff418655c503f7a6b8e0cf225fef294',1,'init():&#160;d_menu_collect.cpp'],['../structaction__class.html#a8f512790ee105dfbc7c11a70c970c760',1,'action_class::init()']]],
   ['init_5fcb_56',['init_cb',['../structDSPTaskInfo.html#a96861af66adbf63798cbedfc6c24bfcf',1,'DSPTaskInfo']]],
