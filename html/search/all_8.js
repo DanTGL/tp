@@ -20,7 +20,7 @@ var searchData=
   ['handler_17',['handler',['../structOSAlarm.html#a6840eae69d68c76d920e3387afe22e1e',1,'OSAlarm']]],
   ['hangmovebgcheck_18',['hangMoveBgCheck',['../structdaAlink__c.html#a81e9f73f2025d18a9f549838f176affe',1,'daAlink_c']]],
   ['hangmovebgcheck_5f_5f9daalink_5fcfsp4cxyz_19',['hangMoveBgCheck__9daAlink_cFsP4cXyz',['../d__a__alink_8cpp.html#ac55e1aac4e04f152dd45ad05985d912f',1,'d_a_alink.cpp']]],
-  ['hankakutocode_20',['HankakuToCode',['../OSFont_8c.html#a1e2a8cb112ba68f344e65b4adcdbcfdb',1,'OSFont.c']]],
+  ['hankakutocode_20',['HankakuToCode',['../OSFont_8c.html#aca6768aeba2d616325d140edae452547',1,'OSFont.c']]],
   ['hardware_5fbba_21',['HARDWARE_BBA',['../dolphin__trk__glue_8h.html#ae4dfd42394001deb6e8a0e60c81d6f7aa06657a30c689b5ffd0b05fdeed881c43',1,'dolphin_trk_glue.h']]],
   ['hardware_5fddh_22',['HARDWARE_DDH',['../dolphin__trk__glue_8h.html#ae4dfd42394001deb6e8a0e60c81d6f7aa39b6bca7207276beb7cdbb44a7a33ada',1,'dolphin_trk_glue.h']]],
   ['hardware_5fgdev_23',['HARDWARE_GDEV',['../dolphin__trk__glue_8h.html#ae4dfd42394001deb6e8a0e60c81d6f7aa181ac37291dea86149f13ddb1d84837e',1,'dolphin_trk_glue.h']]],
