@@ -27,8 +27,14 @@ var searchData=
   ['fopmsg_5fprm_5ftimer_24',['fopMsg_prm_timer',['../structfopMsg__prm__timer.html',1,'']]],
   ['fpcctit_5fjilprm_5fc_25',['fpcCtIt_jilprm_c',['../structfpcCtIt__jilprm__c.html',1,'']]],
   ['fpscrunion_26',['FpscrUnion',['../unionFpscrUnion.html',1,'']]],
-  ['fstentry_27',['FSTEntry',['../structFSTEntry.html',1,'']]],
-  ['functable_28',['FuncTable',['../structFuncTable.html',1,'']]],
-  ['fxbuf_29',['FxBuf',['../structJASDsp_1_1FxBuf.html',1,'JASDsp']]],
-  ['fxlineconfig_5f_30',['FxlineConfig_',['../structJASDsp_1_1FxlineConfig__.html',1,'JASDsp']]]
+  ['fs_5fkoro2_5fs_27',['fs_koro2_s',['../structfs__koro2__s.html',1,'']]],
+  ['fs_5flure_5fs_28',['fs_lure_s',['../structfs__lure__s.html',1,'']]],
+  ['fs_5frod_5fs_29',['fs_rod_s',['../structfs__rod__s.html',1,'']]],
+  ['fs_5ftsubo_5fs_30',['fs_tsubo_s',['../structfs__tsubo__s.html',1,'']]],
+  ['fs_5fweed_5fs_31',['fs_weed_s',['../structfs__weed__s.html',1,'']]],
+  ['fshop_5fclass_32',['fshop_class',['../classfshop__class.html',1,'']]],
+  ['fstentry_33',['FSTEntry',['../structFSTEntry.html',1,'']]],
+  ['functable_34',['FuncTable',['../structFuncTable.html',1,'']]],
+  ['fxbuf_35',['FxBuf',['../structJASDsp_1_1FxBuf.html',1,'JASDsp']]],
+  ['fxlineconfig_5f_36',['FxlineConfig_',['../structJASDsp_1_1FxlineConfig__.html',1,'JASDsp']]]
 ];
