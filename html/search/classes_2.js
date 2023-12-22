@@ -16,7 +16,9 @@ var searchData=
   ['blinkanime_13',['BlinkAnime',['../structdMeter__fmapHIO__c_1_1BlinkAnime.html',1,'dMeter_fmapHIO_c']]],
   ['blockheader_14',['BlockHeader',['../structBlockHeader.html',1,'']]],
   ['bloom_5fc_15',['bloom_c',['../classmDoGph__gInf__c_1_1bloom__c.html',1,'mDoGph_gInf_c']]],
-  ['boss_5flight_16',['BOSS_LIGHT',['../structBOSS__LIGHT.html',1,'']]],
-  ['btkgetparam_17',['btkGetParam',['../structbtkGetParam.html',1,'']]],
-  ['btpgetparam_18',['btpGetParam',['../structbtpGetParam.html',1,'']]]
+  ['bmg_5fheader_5ft_16',['bmg_header_t',['../structbmg__header__t.html',1,'']]],
+  ['bmg_5fsection_5ft_17',['bmg_section_t',['../structbmg__section__t.html',1,'']]],
+  ['boss_5flight_18',['BOSS_LIGHT',['../structBOSS__LIGHT.html',1,'']]],
+  ['btkgetparam_19',['btkGetParam',['../structbtkGetParam.html',1,'']]],
+  ['btpgetparam_20',['btpGetParam',['../structbtpGetParam.html',1,'']]]
 ];
