@@ -61,6 +61,7 @@ var searchData=
   ['struct_5fdsp_5ftask_58',['STRUCT_DSP_TASK',['../structSTRUCT__DSP__TASK.html',1,'']]],
   ['styledata_59',['StyleData',['../structdCamStyleData_1_1StyleData.html',1,'dCamStyleData']]],
   ['sub_5fkankyo_5f_5fclass_60',['sub_kankyo__class',['../structsub__kankyo____class.html',1,'']]],
-  ['svec_61',['SVec',['../structSVec.html',1,'']]],
-  ['syaz0header_62',['SYaz0Header',['../structSYaz0Header.html',1,'']]]
+  ['subblock_61',['SubBlock',['../structSubBlock.html',1,'']]],
+  ['svec_62',['SVec',['../structSVec.html',1,'']]],
+  ['syaz0header_63',['SYaz0Header',['../structSYaz0Header.html',1,'']]]
 ];
