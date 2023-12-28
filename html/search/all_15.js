@@ -1,7 +1,7 @@
 var searchData=
 [
   ['u_0',['U',['../structdCamera__c.html#a4c050aa9674936a2711702a831425478',1,'dCamera_c']]],
-  ['u_1',['u',['../unionFpscrUnion.html#abf23af085aace14bfb97591d75ce00ce',1,'FpscrUnion']]],
+  ['u_1',['u',['../unionFpscrUnion.html#aefefe13645fea4b1e944fbb95e33dc77',1,'FpscrUnion']]],
   ['u_2',['U',['../classcSGlobe.html#a1937b6fd8f657dcd986ccaf75dff6264',1,'cSGlobe']]],
   ['u_3',['u',['../structJStudio_1_1TAdaptor.html#aedb18683fd1bcd604beff8e14ce36bc8',1,'JStudio::TAdaptor']]],
   ['u16_4',['u16',['../unionPPCWGPipe.html#a54691399b526673acdb012dd9db1b3d1',1,'PPCWGPipe::u16()'],['../types_8h.html#a9e6c91d77e24643b888dbd1a1a590054',1,'u16():&#160;types.h']]],
@@ -188,7 +188,7 @@ var searchData=
   ['unmutescenebgm_5f_5f8z2seqmgrful_185',['unMuteSceneBgm__8Z2SeqMgrFUl',['../Z2SceneMgr_8cpp.html#a337cb58995c7ed2011e569015f1373b7',1,'Z2SceneMgr.cpp']]],
   ['unoriented_186',['UNORIENTED',['../ansi__files_8h.html#af6827b9bbcdbe2d4efa7ba30be248553af52ed2427e99ed120503006e807cfedd',1,'ansi_files.h']]],
   ['unreserveexi2port_187',['UnreserveEXI2Port',['../dolphin__trk__glue_8h.html#a5294015cc690bf80b188c26fa8e9838c',1,'UnreserveEXI2Port():&#160;dolphin_trk_glue.c'],['../dolphin__trk__glue_8c.html#a5294015cc690bf80b188c26fa8e9838c',1,'UnreserveEXI2Port():&#160;dolphin_trk_glue.c']]],
-  ['unselect_5fframe_188',['UNSELECT_FRAME',['../classdMeter__ringHIO__c.html#a5076e850a25f31fa2479e6f93c4639dea2539165f4caafee15ce57d9cfa630790',1,'dMeter_ringHIO_c']]],
+  ['unselect_5fframe_188',['UNSELECT_FRAME',['../classdMeter__ringHIO__c.html#acd0b42c0f430568acab67d64c1dc66e7a2539165f4caafee15ce57d9cfa630790',1,'dMeter_ringHIO_c']]],
   ['unsetrun_189',['UnsetRun',['../OSThread_8c.html#a5b16f1d9a607516405aa9bd6d05539f4',1,'UnsetRun(OSThread *thread):&#160;OSThread.c'],['../OSThread_8h.html#a5b16f1d9a607516405aa9bd6d05539f4',1,'UnsetRun(OSThread *thread):&#160;OSThread.h']]],
   ['unused_190',['unused',['../classdaLv6CstaSw__c.html#a691eba532f6d0ae179cdff4a9fd75cdf',1,'daLv6CstaSw_c::unused()'],['../ansi__fp_8c.html#a88b2f5d5be73b14f2c849c231377ba06',1,'unused():&#160;ansi_fp.c'],['../classdaObjE__CREATE__c.html#ad775abc14475bfd0cbb58ed96f08d8ac',1,'daObjE_CREATE_c::unused()'],['../classdaTagCstaSw__c.html#a3ef4d777d4a349b1182937afffb9b6ba',1,'daTagCstaSw_c::unused()']]],
   ['unused_5f0x568_191',['unused_0x568',['../classdaTagMist__c.html#aed3d9582bd0f2fa2a5f1cd7a0a874bbc',1,'daTagMist_c']]],
