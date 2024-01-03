@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['u_0',['u',['../structJStudio_1_1TAdaptor.html#aedb18683fd1bcd604beff8e14ce36bc8',1,'JStudio::TAdaptor']]],
-  ['u_1',['U',['../classcSGlobe.html#a1937b6fd8f657dcd986ccaf75dff6264',1,'cSGlobe::U()'],['../structdCamera__c.html#a4c050aa9674936a2711702a831425478',1,'dCamera_c::U()']]],
-  ['u_2',['u',['../unionFpscrUnion.html#aa9c24488d5c5f7b8b5903b87a6fb6906',1,'FpscrUnion']]],
+  ['u_0',['U',['../classcSGlobe.html#a1937b6fd8f657dcd986ccaf75dff6264',1,'cSGlobe']]],
+  ['u_1',['u',['../structJStudio_1_1TAdaptor.html#aedb18683fd1bcd604beff8e14ce36bc8',1,'JStudio::TAdaptor::u()'],['../unionFpscrUnion.html#aa9c24488d5c5f7b8b5903b87a6fb6906',1,'FpscrUnion::u()']]],
+  ['u_2',['U',['../structdCamera__c.html#a4c050aa9674936a2711702a831425478',1,'dCamera_c']]],
   ['u16_3',['u16',['../unionPPCWGPipe.html#a54691399b526673acdb012dd9db1b3d1',1,'PPCWGPipe::u16()'],['../types_8h.html#a9e6c91d77e24643b888dbd1a1a590054',1,'u16():&#160;types.h']]],
   ['u32_4',['u32',['../unionPPCWGPipe.html#a36f6c6095ee0cd5b7e1ad444ecd818af',1,'PPCWGPipe::u32()'],['../types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac',1,'u32():&#160;types.h']]],
   ['u32data_5',['u32data',['../structJStudio_1_1TFunctionValue__composite_1_1TData.html#a54fd6928f7f1b307d6056a6b7b6471c2',1,'JStudio::TFunctionValue_composite::TData']]],
@@ -153,9 +153,9 @@ var searchData=
   ['unk_5fprocess_5fnode_5fclass_150',['unk_process_node_class',['../f__pc__node__req_8h.html#ad8dc8d6bd1efa7f0c9e630f988c7a447',1,'unk_process_node_class():&#160;f_pc_node_req.h'],['../structunk__process__node__class.html',1,'unk_process_node_class']]],
   ['unkfunc_151',['UnkFunc',['../classJStudio_1_1TFunctionValue__composite.html#aa22042025b995f096c8c33cd1b1d4d1c',1,'JStudio::TFunctionValue_composite']]],
   ['unknown_152',['Unknown',['../structJKRSolidHeap_1_1Unknown.html',1,'JKRSolidHeap']]],
-  ['unknown_153',['unknown',['../structunknown.html',1,'unknown'],['../structResTIMG.html#a53bfe413bcb3c7c5db1ccd12ecbab0c1',1,'ResTIMG::unknown()']]],
+  ['unknown_153',['unknown',['../structunknown.html',1,'']]],
   ['unknown_154',['UNKNOWN',['../classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486a2de801cff5693dc0762b74549e5efeb1',1,'JKRAramStreamCommand']]],
-  ['unknown_155',['unknown',['../structbmg__header__t.html#a4b48a58b20569d771c9ff67d9a032eae',1,'bmg_header_t']]],
+  ['unknown_155',['unknown',['../structbmg__header__t.html#a4b48a58b20569d771c9ff67d9a032eae',1,'bmg_header_t::unknown()'],['../structResTIMG.html#a53bfe413bcb3c7c5db1ccd12ecbab0c1',1,'ResTIMG::unknown()']]],
   ['unknown_5fealloc_5fdirection_156',['UNKNOWN_EALLOC_DIRECTION',['../classJKRDvdRipper.html#add5351d092f559b4c2bef0b3e2199161aaa755b34b664d87cb5d121fe07d24c22',1,'JKRDvdRipper']]],
   ['unknown_5fmount_5fdirection_157',['UNKNOWN_MOUNT_DIRECTION',['../structJKRArchive.html#adcf19e3c6e754c27610ed30a8acd1b0fa7ada7bee31268bae4ae8b40f883df688',1,'JKRArchive']]],
   ['unknown_5fmount_5fmode_158',['UNKNOWN_MOUNT_MODE',['../structJKRArchive.html#afa04710b1fffa15f661f0dd3a66bba3ea59ff20ff12931705e7c27dd9f7dd78b9',1,'JKRArchive']]],
