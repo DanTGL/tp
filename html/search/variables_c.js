@@ -3579,6 +3579,6 @@ var searchData=
   ['losescale_3576',['loseScale',['../d__a__alink_8cpp.html#a00273422868bbd5a9dc4f5a8564ed898',1,'d_a_alink.cpp']]],
   ['low_5fwtrmark_3577',['low_wtrmark',['../struct__GXFifoObj.html#ab262081e08799aa5d30fd9701dcd2b85',1,'_GXFifoObj']]],
   ['lpsize_3578',['lpSize',['../struct__GXData.html#acb1e891626384843989ce9526409c433',1,'_GXData']]],
-  ['lr_3579',['lr',['../structOSContext.html#a00254ff67d8ee6eec2718c2d47d8031f',1,'OSContext']]],
-  ['lr_3580',['LR',['../structDefault__PPC.html#a59df8e4ca06b11edc3be052722ac968b',1,'Default_PPC::LR()'],['../structTRKState.html#a529bfe010821837ba52b8985b504b5b9',1,'TRKState::LR()']]]
+  ['lr_3579',['LR',['../structDefault__PPC.html#a59df8e4ca06b11edc3be052722ac968b',1,'Default_PPC::LR()'],['../structTRKState.html#a529bfe010821837ba52b8985b504b5b9',1,'TRKState::LR()']]],
+  ['lr_3580',['lr',['../structOSContext.html#a00254ff67d8ee6eec2718c2d47d8031f',1,'OSContext']]]
 ];

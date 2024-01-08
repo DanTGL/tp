@@ -4,7 +4,7 @@ var searchData=
   ['daalink_5fanmdata_1',['daAlink_AnmData',['../structdaAlink__AnmData.html',1,'']]],
   ['daalink_5fbckdata_2',['daAlink_BckData',['../structdaAlink__BckData.html',1,'']]],
   ['daalink_5fblur_5fc_3',['daAlink_blur_c',['../classdaAlink__blur__c.html',1,'']]],
-  ['daalink_5fc_4',['daAlink_c',['../structdaAlink__c.html',1,'']]],
+  ['daalink_5fc_4',['daAlink_c',['../classdaAlink__c.html',1,'']]],
   ['daalink_5fcutparamtbl_5',['daAlink_cutParamTbl',['../structdaAlink__cutParamTbl.html',1,'']]],
   ['daalink_5ffacetexdata_6',['daAlink_FaceTexData',['../structdaAlink__FaceTexData.html',1,'']]],
   ['daalink_5ffootdata_5fc_7',['daAlink_footData_c',['../classdaAlink__footData__c.html',1,'']]],

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['kandelaarmodelcallback_0',['kandelaarModelCallBack',['../structdaAlink__c.html#a17a17eb2826267fbd1862e717269f892',1,'daAlink_c']]],
+  ['kandelaarmodelcallback_0',['kandelaarModelCallBack',['../classdaAlink__c.html#a17a17eb2826267fbd1862e717269f892',1,'daAlink_c']]],
   ['kandelaarmodelcallback_5f_5f9daalink_5fcfv_1',['kandelaarModelCallBack__9daAlink_cFv',['../d__a__alink_8cpp.html#aa98327dc2ff560fdc8a005874a4452e9',1,'d_a_alink.cpp']]],
   ['kankyo_5fcolor_5fratio_5fcalc_2',['kankyo_color_ratio_calc',['../d__kankyo_8cpp.html#ab028b3f31af030c2313d9cfa313bcb78',1,'d_kankyo.cpp']]],
   ['kankyo_5fcolor_5fratio_5fcalc_5f_5ffp8_5fgxcolor11_5fgxcolors10f_3',['kankyo_color_ratio_calc__FP8_GXColor11_GXColorS10f',['../d__kankyo_8cpp.html#a236fefd8a49295fef9bd24adc2c6c615',1,'d_kankyo.cpp']]],
@@ -8,7 +8,7 @@ var searchData=
   ['kankyo_5fcolor_5fratio_5fcalc_5fcommon_5f_5ffsf_5',['kankyo_color_ratio_calc_common__Fsf',['../d__kankyo_8cpp.html#a3148ab02447cf76265351adac81d9e36',1,'d_kankyo.cpp']]],
   ['kankyo_5fcolor_5fratio_5fset_6',['kankyo_color_ratio_set',['../d__kankyo_8cpp.html#a1b0564e858763d077e335199ea2d1df0',1,'d_kankyo.cpp']]],
   ['kankyo_5fcolor_5fratio_5fset_5f_5ffucucfucucfsf_7',['kankyo_color_ratio_set__FUcUcfUcUcfsf',['../d__kankyo_8cpp.html#a7cb9b91a102c6e54015b37e242359ab7',1,'d_kankyo.cpp']]],
-  ['keepitemdata_8',['keepItemData',['../structdaAlink__c.html#a6b55eceb3284bc87bedfd4a55c053edc',1,'daAlink_c']]],
+  ['keepitemdata_8',['keepItemData',['../classdaAlink__c.html#a6b55eceb3284bc87bedfd4a55c053edc',1,'daAlink_c']]],
   ['keepitemdata_5f_5f9daalink_5fcfv_9',['keepItemData__9daAlink_cFv',['../d__a__alink_8cpp.html#aefbaa3a38b450d2b422590c57befcc2e',1,'d_a_alink.cpp']]],
   ['keeplock_10',['keepLock',['../classdAttention__c.html#aa38299409aca484ea1f8e1666aa5b77b',1,'dAttention_c']]],
   ['keeplock_5f_5f12dattention_5fcfi_11',['keepLock__12dAttention_cFi',['../d__camera_8cpp.html#a1e2f50de5f86859a9ff79a423043e264',1,'d_camera.cpp']]],
