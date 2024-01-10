@@ -14,5 +14,6 @@ var searchData=
   ['extended1_5fppc_5f6xx_5f7xx_11',['Extended1_PPC_6xx_7xx',['../targimpl_8h.html#ab11f42c32cd75b4ccad7cffa10e6e883',1,'targimpl.h']]],
   ['extended2_5fppc_5f6xx_5f7xx_12',['Extended2_PPC_6xx_7xx',['../targimpl_8h.html#a8de5fe032a1b0c0c6c8ee0ec492b23ae',1,'targimpl.h']]],
   ['extendfunc_13',['ExtendFunc',['../structJGadget_1_1vector.html#aa015a44ce2c87a7119aa4a5c606f1e99',1,'JGadget::vector']]],
-  ['extrapolateparameter_14',['ExtrapolateParameter',['../namespaceJStudio.html#afbc554908ae5faf7da2a60ca39ae4e3b',1,'JStudio']]]
+  ['extendfunc_14',['extendFunc',['../namespaceJGadget.html#a7443f4e3b01357e5e7264f4bc4c1f0e4',1,'JGadget']]],
+  ['extrapolateparameter_15',['ExtrapolateParameter',['../namespaceJStudio.html#afbc554908ae5faf7da2a60ca39ae4e3b',1,'JStudio']]]
 ];

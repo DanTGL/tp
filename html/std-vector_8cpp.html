@@ -84,17 +84,16 @@ $(function() {
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle"><div class="title">std-vector.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="std-vector_8h_source.html">JSystem/JGadget/std-vector.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="types_8h_source.html">dolphin/types.h</a>&quot;</code><br />
-<code>#include &quot;asm/JSystem/JGadget/std-vector/extend_default__Q27JGadget6vectorFUlUlUl.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JGadget/std-vector/func_802DCCD0.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JGadget/std-vector/__dt__Q27JGadget20TVector_pointer_voidFv.s&quot;</code><br />
+<code>#include &quot;<a class="el" href="algorithm_8h_source.html">algorithm.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="msl__memory_8h_source.html">msl_memory.h</a>&quot;</code><br />
 <code>#include &quot;asm/JSystem/JGadget/std-vector/insert__Q27JGadget20TVector_pointer_voidFPPvRCPv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JGadget/std-vector/erase__Q27JGadget20TVector_pointer_voidFPPvPPv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JGadget/std-vector/func_802DCE1C.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JGadget/std-vector/func_802DCE8C.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JGadget/std-vector/func_802DD130.s&quot;</code><br />
@@ -111,21 +110,28 @@ $(function() {
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1vector.html">JGadget::vector</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1TAllocator.html">JGadget::TAllocator&lt; A1 &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1TAllocator.html">JGadget::TAllocator&lt; T &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1TAllocator____template0.html">JGadget::TAllocator__template0</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1TVector__pointer__void.html">JGadget::TVector_pointer_void</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1TVector.html">JGadget::TVector&lt; T, Allocator &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1TVector.html">JGadget::TVector&lt; A1, B1 &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1TVector_1_1TDestructed__deallocate__.html">JGadget::TVector&lt; T, Allocator &gt;::TDestructed_deallocate_</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1TVector____template0.html">JGadget::TVector__template0</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJGadget_1_1TVector__pointer__void.html">JGadget::TVector_pointer_void</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
 <tr class="memitem:namespaceJGadget"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html">JGadget</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a7443f4e3b01357e5e7264f4bc4c1f0e4"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html#a7443f4e3b01357e5e7264f4bc4c1f0e4">JGadget::extendFunc</a>) (<a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>)</td></tr>
+<tr class="separator:a7443f4e3b01357e5e7264f4bc4c1f0e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>

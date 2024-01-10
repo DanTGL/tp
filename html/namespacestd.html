@@ -136,8 +136,20 @@ Functions</h2></td></tr>
 <tr class="memitem:ad843aca2b74c16de90356cb8e6b08117"><td class="memTemplParams" colspan="2">template&lt;class ForwardIt , class <a class="el" href="k__tan_8c.html#a3f23ef19f75a1358ade1d01a49060f77">T</a> &gt; </td></tr>
 <tr class="memitem:ad843aca2b74c16de90356cb8e6b08117"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacestd.html#ad843aca2b74c16de90356cb8e6b08117">fill</a> (ForwardIt first, ForwardIt last, const <a class="el" href="k__tan_8c.html#a3f23ef19f75a1358ade1d01a49060f77">T</a> &amp;value)</td></tr>
 <tr class="separator:ad843aca2b74c16de90356cb8e6b08117"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a38eee0a33c6ef400fd55de76501a38a2"><td class="memTemplParams" colspan="2">template&lt;class InputIt , class OutputIt &gt; </td></tr>
+<tr class="memitem:a38eee0a33c6ef400fd55de76501a38a2"><td class="memTemplItemLeft" align="right" valign="top">OutputIt&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacestd.html#a38eee0a33c6ef400fd55de76501a38a2">copy</a> (InputIt first, InputIt last, OutputIt d_first)</td></tr>
+<tr class="separator:a38eee0a33c6ef400fd55de76501a38a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca79d7fe3ae5d474756f1723db29ca0a"><td class="memTemplParams" colspan="2">template&lt;class BidirIt1 , class BidirIt2 &gt; </td></tr>
+<tr class="memitem:aca79d7fe3ae5d474756f1723db29ca0a"><td class="memTemplItemLeft" align="right" valign="top">BidirIt2&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacestd.html#aca79d7fe3ae5d474756f1723db29ca0a">copy_backward</a> (BidirIt1 first, BidirIt1 last, BidirIt2 d_last)</td></tr>
+<tr class="separator:aca79d7fe3ae5d474756f1723db29ca0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a90c9c7c41b0c8f13fa2071c2e52910fa"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacestd.html#a90c9c7c41b0c8f13fa2071c2e52910fa">__msl_error</a> (const char *param_0)</td></tr>
 <tr class="separator:a90c9c7c41b0c8f13fa2071c2e52910fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af995db2fcf846c60e15d87a920855e15"><td class="memTemplParams" colspan="2">template&lt;class ForwardIt , class Size , class <a class="el" href="k__tan_8c.html#a3f23ef19f75a1358ade1d01a49060f77">T</a> &gt; </td></tr>
+<tr class="memitem:af995db2fcf846c60e15d87a920855e15"><td class="memTemplItemLeft" align="right" valign="top">ForwardIt&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacestd.html#af995db2fcf846c60e15d87a920855e15">uninitialized_fill_n</a> (ForwardIt first, Size count, const <a class="el" href="k__tan_8c.html#a3f23ef19f75a1358ade1d01a49060f77">T</a> &amp;value)</td></tr>
+<tr class="separator:af995db2fcf846c60e15d87a920855e15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8bbcf920087045c2ffed0fb8277646f"><td class="memTemplParams" colspan="2">template&lt;class InputIt , class NoThrowForwardIt &gt; </td></tr>
+<tr class="memitem:ab8bbcf920087045c2ffed0fb8277646f"><td class="memTemplItemLeft" align="right" valign="top">NoThrowForwardIt&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacestd.html#ab8bbcf920087045c2ffed0fb8277646f">uninitialized_copy</a> (InputIt first, InputIt last, NoThrowForwardIt d_first)</td></tr>
+<tr class="separator:ab8bbcf920087045c2ffed0fb8277646f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0ecf8509113d1b5c6c99d1176a0471cb"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacestd.html#a0ecf8509113d1b5c6c99d1176a0471cb">abs</a> (float num)</td></tr>
 <tr class="separator:a0ecf8509113d1b5c6c99d1176a0471cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -182,6 +194,94 @@ Functions</h2></td></tr>
           <td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a38eee0a33c6ef400fd55de76501a38a2" name="a38eee0a33c6ef400fd55de76501a38a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a38eee0a33c6ef400fd55de76501a38a2">&#9670;&#160;</a></span>copy()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class InputIt , class OutputIt &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OutputIt std::copy </td>
+          <td>(</td>
+          <td class="paramtype">InputIt&#160;</td>
+          <td class="paramname"><em>first</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">InputIt&#160;</td>
+          <td class="paramname"><em>last</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">OutputIt&#160;</td>
+          <td class="paramname"><em>d_first</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aca79d7fe3ae5d474756f1723db29ca0a" name="aca79d7fe3ae5d474756f1723db29ca0a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca79d7fe3ae5d474756f1723db29ca0a">&#9670;&#160;</a></span>copy_backward()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class BidirIt1 , class BidirIt2 &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">BidirIt2 std::copy_backward </td>
+          <td>(</td>
+          <td class="paramtype">BidirIt1&#160;</td>
+          <td class="paramname"><em>first</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">BidirIt1&#160;</td>
+          <td class="paramname"><em>last</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">BidirIt2&#160;</td>
+          <td class="paramname"><em>d_last</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -616,6 +716,94 @@ template&lt;class ForwardIterator , class <a class="el" href="k__tan_8c.html#a3f
           <td></td><td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab8bbcf920087045c2ffed0fb8277646f" name="ab8bbcf920087045c2ffed0fb8277646f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8bbcf920087045c2ffed0fb8277646f">&#9670;&#160;</a></span>uninitialized_copy()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class InputIt , class NoThrowForwardIt &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">NoThrowForwardIt std::uninitialized_copy </td>
+          <td>(</td>
+          <td class="paramtype">InputIt&#160;</td>
+          <td class="paramname"><em>first</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">InputIt&#160;</td>
+          <td class="paramname"><em>last</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NoThrowForwardIt&#160;</td>
+          <td class="paramname"><em>d_first</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af995db2fcf846c60e15d87a920855e15" name="af995db2fcf846c60e15d87a920855e15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af995db2fcf846c60e15d87a920855e15">&#9670;&#160;</a></span>uninitialized_fill_n()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class ForwardIt , class Size , class <a class="el" href="k__tan_8c.html#a3f23ef19f75a1358ade1d01a49060f77">T</a> &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">ForwardIt std::uninitialized_fill_n </td>
+          <td>(</td>
+          <td class="paramtype">ForwardIt&#160;</td>
+          <td class="paramname"><em>first</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Size&#160;</td>
+          <td class="paramname"><em>count</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="k__tan_8c.html#a3f23ef19f75a1358ade1d01a49060f77">T</a> &amp;&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
