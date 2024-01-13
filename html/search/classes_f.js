@@ -33,8 +33,8 @@ var searchData=
   ['osthread_30',['OSThread',['../structOSThread.html',1,'']]],
   ['osthreadlink_31',['OSThreadLink',['../structOSThreadLink.html',1,'']]],
   ['osthreadqueue_32',['OSThreadQueue',['../structOSThreadQueue.html',1,'']]],
-  ['overlap1_5fclass_33',['overlap1_class',['../structoverlap1__class.html',1,'']]],
+  ['overlap1_5fclass_33',['overlap1_class',['../classoverlap1__class.html',1,'']]],
   ['overlap_5fprocess_5fprofile_5fdefinition_34',['overlap_process_profile_definition',['../structoverlap__process__profile__definition.html',1,'']]],
   ['overlap_5frequest_5fclass_35',['overlap_request_class',['../classoverlap__request__class.html',1,'']]],
-  ['overlap_5ftask_5fclass_36',['overlap_task_class',['../structoverlap__task__class.html',1,'']]]
+  ['overlap_5ftask_5fclass_36',['overlap_task_class',['../classoverlap__task__class.html',1,'']]]
 ];

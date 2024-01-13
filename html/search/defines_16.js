@@ -23,5 +23,7 @@ var searchData=
   ['vi_5fntsc_20',['VI_NTSC',['../vi_8h.html#ad3d26e24a4506143faa921167dbd4477',1,'vi.h']]],
   ['vi_5fpal_21',['VI_PAL',['../vi_8h.html#aa39531650431018a5d27b18e70d4c4bc',1,'vi.h']]],
   ['vi_5fprogressive_22',['VI_PROGRESSIVE',['../vi_8h.html#a5dfee597a86c115e23b237e771589d15',1,'vi.h']]],
-  ['vi_5ftvmode_23',['VI_TVMODE',['../vi_8h.html#a33c2bbc6807343485d53fe9e3e5d6c8c',1,'vi.h']]]
+  ['vi_5ftvmode_23',['VI_TVMODE',['../vi_8h.html#a33c2bbc6807343485d53fe9e3e5d6c8c',1,'vi.h']]],
+  ['vreg_5ff_24',['VREG_F',['../d__s__play_8h.html#a92dfbfafb794089bea70928aa22ae96d',1,'d_s_play.h']]],
+  ['vreg_5fs_25',['VREG_S',['../d__s__play_8h.html#a9faf439692cfebfafb76d1d18b131b8b',1,'d_s_play.h']]]
 ];

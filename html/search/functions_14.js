@@ -120,7 +120,7 @@ var searchData=
   ['thanks_5ftalk_5fmove_117',['thanks_talk_move',['../classdaMyna__c.html#a9f50d130e528a4d0a7d3980effb23c44',1,'daMyna_c']]],
   ['thdinit_118',['ThdInit',['../classmDoMemCd__Ctrl__c.html#a2cead89840ee1d4b46fb65d9a2ad53ee',1,'mDoMemCd_Ctrl_c']]],
   ['thdinit_5f_5f15mdomemcd_5fctrl_5fcfv_119',['ThdInit__15mDoMemCd_Ctrl_cFv',['../m__Do__machine_8cpp.html#a7cf75200a937844c23dffae99ea37f72',1,'m_Do_machine.cpp']]],
-  ['threadsleep_120',['threadSleep',['../structJFWDisplay.html#a5a7b68631d0cd0844caeda6b5b2264fa',1,'JFWDisplay']]],
+  ['threadsleep_120',['threadSleep',['../classJFWDisplay.html#a5a7b68631d0cd0844caeda6b5b2264fa',1,'JFWDisplay']]],
   ['throwboomerang_121',['throwBoomerang',['../classdaAlink__c.html#ac6e86c3037397f517fbeaf75198ad53d',1,'daAlink_c']]],
   ['throwboomerang_5f_5f9daalink_5fcfv_122',['throwBoomerang__9daAlink_cFv',['../d__a__alink_8cpp.html#a4d8addf2324589726961db1f06726a93',1,'d_a_alink.cpp']]],
   ['throwcopyrod_123',['throwCopyRod',['../classdaAlink__c.html#a956c826f829ad133593f1fe17280f68b',1,'daAlink_c']]],

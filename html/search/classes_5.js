@@ -18,10 +18,9 @@ var searchData=
   ['enemytable_15',['EnemyTable',['../structEnemyTable.html',1,'']]],
   ['enemytablelist_16',['EnemyTableList',['../structEnemyTableList.html',1,'']]],
   ['entry_17',['Entry',['../structResNTAB_1_1Entry.html',1,'ResNTAB']]],
-  ['estatus_18',['EStatus',['../structJUTFader_1_1EStatus.html',1,'JUTFader']]],
-  ['event_5fbinary_5fdata_5fheader_19',['event_binary_data_header',['../structevent__binary__data__header.html',1,'']]],
-  ['exception_20',['exception',['../structexception.html',1,'']]],
-  ['exicontrol_21',['EXIControl',['../structEXIControl.html',1,'']]],
-  ['extended1_5fppc_5f6xx_5f7xx_22',['Extended1_PPC_6xx_7xx',['../structExtended1__PPC__6xx__7xx.html',1,'']]],
-  ['extended2_5fppc_5f6xx_5f7xx_23',['Extended2_PPC_6xx_7xx',['../structExtended2__PPC__6xx__7xx.html',1,'']]]
+  ['event_5fbinary_5fdata_5fheader_18',['event_binary_data_header',['../structevent__binary__data__header.html',1,'']]],
+  ['exception_19',['exception',['../structexception.html',1,'']]],
+  ['exicontrol_20',['EXIControl',['../structEXIControl.html',1,'']]],
+  ['extended1_5fppc_5f6xx_5f7xx_21',['Extended1_PPC_6xx_7xx',['../structExtended1__PPC__6xx__7xx.html',1,'']]],
+  ['extended2_5fppc_5f6xx_5f7xx_22',['Extended2_PPC_6xx_7xx',['../structExtended2__PPC__6xx__7xx.html',1,'']]]
 ];

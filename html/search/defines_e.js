@@ -6,5 +6,9 @@ var searchData=
   ['node_5fget_5fprev_3',['NODE_GET_PREV',['../c__node_8h.html#acf1738f0418a2ad6e2959c26b82ebe36',1,'c_node.h']]],
   ['non_5fvirtual_5f3dlinemat_4',['NON_VIRTUAL_3DLINEMAT',['../m__Do__ext_8cpp.html#a873fa10eafceb85ce1dccfe61b7ac8ec',1,'m_Do_ext.cpp']]],
   ['nop_5',['NOP',['../OS_8c.html#a700f88377bf36711b711f69b06c52f5d',1,'OS.c']]],
-  ['null_6',['NULL',['../stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4',1,'stddef.h']]]
+  ['nreg_5ff_6',['NREG_F',['../d__s__play_8h.html#a4a2aed48132ac13d741f8899b9442a35',1,'d_s_play.h']]],
+  ['nreg_5ff_7',['nREG_F',['../d__s__play_8h.html#a406b503495f7a9e3b534c10e1a4e15fe',1,'d_s_play.h']]],
+  ['nreg_5fs_8',['nREG_S',['../d__s__play_8h.html#a576fe7baf9e860619467338a77ff424a',1,'d_s_play.h']]],
+  ['nreg_5fs_9',['NREG_S',['../d__s__play_8h.html#aa427bbf9541e941f9d61283d5a2e4507',1,'d_s_play.h']]],
+  ['null_10',['NULL',['../stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4',1,'stddef.h']]]
 ];

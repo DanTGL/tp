@@ -22,7 +22,7 @@ var searchData=
   ['wait_5ftype1_19',['wait_type1',['../classdaNpcAsh__c.html#a9091be2f4a791938ffe02c2e4e2c78db',1,'daNpcAsh_c']]],
   ['waitaction_20',['WaitAction',['../classdaE__PM__c.html#adef87d97f995a1dabeaf746e13e0016f',1,'daE_PM_c']]],
   ['waitbeforeread_21',['WaitBeforeRead',['../dvdlow_8c.html#a6c5085ceebdeaec56b6bf6e22331147b',1,'dvdlow.c']]],
-  ['waitblanking_22',['waitBlanking',['../structJFWDisplay.html#aad35211629db6002815fbd4e794b4758',1,'JFWDisplay::waitBlanking()'],['../structmDoGph__gInf__c.html#a5ddf031531c17e16454fc41d63b751cb',1,'mDoGph_gInf_c::waitBlanking()']]],
+  ['waitblanking_22',['waitBlanking',['../classJFWDisplay.html#aad35211629db6002815fbd4e794b4758',1,'JFWDisplay::waitBlanking()'],['../structmDoGph__gInf__c.html#a5ddf031531c17e16454fc41d63b751cb',1,'mDoGph_gInf_c::waitBlanking()']]],
   ['waitbrave_23',['waitBrave',['../classdaNpc__GWolf__c.html#a2007c5c85f66119c18f162ea1ab9e248',1,'daNpc_GWolf_c']]],
   ['waitforkick_24',['waitForKick',['../classmDoDvdThd__param__c.html#a6f2cb63c6ed94305d7064e22e4782f9a',1,'mDoDvdThd_param_c']]],
   ['waitfortick_25',['waitForTick',['../JFWDisplay_8cpp.html#a98f15c3d6f90953b135c74c30aeb5551',1,'waitForTick(u32 p1, u16 p2):&#160;JFWDisplay.cpp'],['../JFWDisplay_8h.html#afa1f5b052f4a8c7c512a3a6d86550bfa',1,'waitForTick(u32, u16):&#160;JFWDisplay.h']]],
