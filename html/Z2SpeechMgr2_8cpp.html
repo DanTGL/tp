@@ -89,19 +89,17 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="Z2SpeechMgr2_8h_source.html">Z2AudioLib/Z2SpeechMgr2.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2SeqMgr_8h_source.html">Z2AudioLib/Z2SeqMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2EnvSeMgr_8h_source.html">Z2AudioLib/Z2EnvSeMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2AudioMgr_8h_source.html">Z2AudioLib/Z2AudioMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J3DUD_8h_source.html">JSystem/J3DU/J3DUD.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/__ct__12Z2SpeechMgr2Fv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/__dt__15Z2SpeechStarterFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/setString__12Z2SpeechMgr2FPCUssUcUs.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/setTextCount__12Z2SpeechMgr2Fs.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/speakOneWord__12Z2SpeechMgr2Fb.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/isNonVerbal__12Z2SpeechMgr2Fv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/selectUnit__12Z2SpeechMgr2Fb.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/selectTail__12Z2SpeechMgr2Fv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/framework__12Z2SpeechMgr2Fv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/playOneShotVoice__12Z2SpeechMgr2FUcUsP3VecSc.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/isMidnaSpeak__12Z2SpeechMgr2Fv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/__ct__15Z2SpeechStarterFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SpeechMgr2/func_802CCFF8.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for Z2SpeechMgr2.cpp:</div>
@@ -114,13 +112,11 @@ $(function() {
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2SeqMgr.html">Z2SeqMgr</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structsPrmStruct.html">sPrmStruct</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2MdnPrm.html">Z2MdnPrm</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2EnvSeMgr.html">Z2EnvSeMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2AudioMgr.html">Z2AudioMgr</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2ConnectCost.html">Z2ConnectCost</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
@@ -243,7 +239,7 @@ Functions</h2></td></tr>
 <tr class="separator:a2693bd5e3d363c4f04548d5ab2bd4959"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adfb451f7c177181d618bb20bdb7ea722"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#adfb451f7c177181d618bb20bdb7ea722">COMPILER_STRIP_GATE</a> (0x8039C980, &amp;<a class="el" href="structZ2MdnPrm.html#a89c8d0a2cc4268e521262e446be5034f">Z2MdnPrm::sAffordTail</a>)</td></tr>
 <tr class="separator:adfb451f7c177181d618bb20bdb7ea722"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a683f3e50a732724888efc6fc9f57ca43"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a683f3e50a732724888efc6fc9f57ca43">COMPILER_STRIP_GATE</a> (0x8039C98C, &amp;<a class="el" href="structZ2MdnPrm.html#a5d356bdedb27cb6363f74a76eb62414f">Z2MdnPrm::sPrm</a>)</td></tr>
+<tr class="memitem:a683f3e50a732724888efc6fc9f57ca43"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a683f3e50a732724888efc6fc9f57ca43">COMPILER_STRIP_GATE</a> (0x8039C98C, &amp;<a class="el" href="structZ2MdnPrm.html#aae3002ba6d398dfdf4249a675d593ed7">Z2MdnPrm::sPrm</a>)</td></tr>
 <tr class="separator:a683f3e50a732724888efc6fc9f57ca43"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
@@ -298,26 +294,26 @@ Variables</h2></td></tr>
 <tr class="separator:afe6ebe7d4cb97776ba0b34d23317f59c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4287827dafb14e2b4d980953221fdf3d"><td class="memItemLeft" align="right" valign="top">void *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a4287827dafb14e2b4d980953221fdf3d">sPrm__8Z2MdnPrm</a> [51]</td></tr>
 <tr class="separator:a4287827dafb14e2b4d980953221fdf3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6753258753d8d134d78a0a98c2561f5f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a6753258753d8d134d78a0a98c2561f5f">sBoringTail__8Z2MdnPrm</a> [6+2]</td></tr>
-<tr class="separator:a6753258753d8d134d78a0a98c2561f5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa80b2de8a753a127a2080787163f7fe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#aaa80b2de8a753a127a2080787163f7fe">sOrderTail__8Z2MdnPrm</a> [6+2]</td></tr>
-<tr class="separator:aaa80b2de8a753a127a2080787163f7fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9817e972ff095023e987167d642a575c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a9817e972ff095023e987167d642a575c">sResentTail__8Z2MdnPrm</a> [5+3]</td></tr>
-<tr class="separator:a9817e972ff095023e987167d642a575c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa7bd0e956baf5bdd03141c9a2290229a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#aa7bd0e956baf5bdd03141c9a2290229a">sCheerfulTail__8Z2MdnPrm</a> [8]</td></tr>
-<tr class="separator:aa7bd0e956baf5bdd03141c9a2290229a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16b303ea6bda264a6086a9bb4b1d4c20"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a16b303ea6bda264a6086a9bb4b1d4c20">sConfusedTail__8Z2MdnPrm</a> [5+3]</td></tr>
-<tr class="separator:a16b303ea6bda264a6086a9bb4b1d4c20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4876dcc17b7003e4e5078fa17ddcf393"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a4876dcc17b7003e4e5078fa17ddcf393">sHostilityTail__8Z2MdnPrm</a> [7+1]</td></tr>
-<tr class="separator:a4876dcc17b7003e4e5078fa17ddcf393"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb938da2a7538cc425f0321114bd9d2b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#abb938da2a7538cc425f0321114bd9d2b">sTiredTail__8Z2MdnPrm</a> [8]</td></tr>
-<tr class="separator:abb938da2a7538cc425f0321114bd9d2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a24e9944ce135fbbd8c831a5529b271d2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a24e9944ce135fbbd8c831a5529b271d2">sSeriousTail__8Z2MdnPrm</a> [7+1]</td></tr>
-<tr class="separator:a24e9944ce135fbbd8c831a5529b271d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a56c129cba733e4c64279a17182db023f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a56c129cba733e4c64279a17182db023f">sReplybTail__8Z2MdnPrm</a> [7+1]</td></tr>
-<tr class="separator:a56c129cba733e4c64279a17182db023f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a187e002c0ae5216f08584f7c939a08d8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a187e002c0ae5216f08584f7c939a08d8">sDesideTail__8Z2MdnPrm</a> [8]</td></tr>
-<tr class="separator:a187e002c0ae5216f08584f7c939a08d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79acc98a476564f9cf8a5ef734788c9d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a79acc98a476564f9cf8a5ef734788c9d">sBoringTail__8Z2MdnPrm</a> [6+2]</td></tr>
+<tr class="separator:a79acc98a476564f9cf8a5ef734788c9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c913a8fe381e548cea4aaab90bd7956"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a9c913a8fe381e548cea4aaab90bd7956">sOrderTail__8Z2MdnPrm</a> [6+2]</td></tr>
+<tr class="separator:a9c913a8fe381e548cea4aaab90bd7956"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5a38a95d8f939cb4883dba3dc79741a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#ad5a38a95d8f939cb4883dba3dc79741a">sResentTail__8Z2MdnPrm</a> [5+3]</td></tr>
+<tr class="separator:ad5a38a95d8f939cb4883dba3dc79741a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac45a44c540aa4a91076fbd8bb00fd979"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#ac45a44c540aa4a91076fbd8bb00fd979">sCheerfulTail__8Z2MdnPrm</a> [8]</td></tr>
+<tr class="separator:ac45a44c540aa4a91076fbd8bb00fd979"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a302799ecce3f1b4660bcf9d42294a704"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a302799ecce3f1b4660bcf9d42294a704">sConfusedTail__8Z2MdnPrm</a> [5+3]</td></tr>
+<tr class="separator:a302799ecce3f1b4660bcf9d42294a704"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fc78db33554a14c2a0a74a867b094e3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a7fc78db33554a14c2a0a74a867b094e3">sHostilityTail__8Z2MdnPrm</a> [7+1]</td></tr>
+<tr class="separator:a7fc78db33554a14c2a0a74a867b094e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a151d975ea75d45d97fbc47fd034abd85"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a151d975ea75d45d97fbc47fd034abd85">sTiredTail__8Z2MdnPrm</a> [8]</td></tr>
+<tr class="separator:a151d975ea75d45d97fbc47fd034abd85"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac69ded340fadf6c6e25251eec37c0b4e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#ac69ded340fadf6c6e25251eec37c0b4e">sSeriousTail__8Z2MdnPrm</a> [7+1]</td></tr>
+<tr class="separator:ac69ded340fadf6c6e25251eec37c0b4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a599b97f3de819192c92e8f4f340b6084"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a599b97f3de819192c92e8f4f340b6084">sReplybTail__8Z2MdnPrm</a> [7+1]</td></tr>
+<tr class="separator:a599b97f3de819192c92e8f4f340b6084"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b40843aaa030ed44e5af091435d0b6c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a6b40843aaa030ed44e5af091435d0b6c">sDesideTail__8Z2MdnPrm</a> [8]</td></tr>
+<tr class="separator:a6b40843aaa030ed44e5af091435d0b6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a315d70e26635968c089f5a925757ee5c"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#a315d70e26635968c089f5a925757ee5c">__vt__14Z2SoundStarter</a> [5+1]</td></tr>
 <tr class="separator:a315d70e26635968c089f5a925757ee5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afc8b1bba65c3f9e0f49c38e0e479eaa5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SpeechMgr2_8cpp.html#afc8b1bba65c3f9e0f49c38e0e479eaa5">data_80450B3C</a> [4]</td></tr>
@@ -1268,7 +1264,7 @@ Variables</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">&amp;<a class="el" href="structZ2MdnPrm.html#a5d356bdedb27cb6363f74a76eb62414f">Z2MdnPrm::sPrm</a>&#160;</td>
+          <td class="paramtype">&amp;<a class="el" href="structZ2MdnPrm.html#aae3002ba6d398dfdf4249a675d593ed7">Z2MdnPrm::sPrm</a>&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -2197,14 +2193,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a6753258753d8d134d78a0a98c2561f5f" name="a6753258753d8d134d78a0a98c2561f5f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6753258753d8d134d78a0a98c2561f5f">&#9670;&#160;</a></span>sBoringTail__8Z2MdnPrm</h2>
+<a id="a79acc98a476564f9cf8a5ef734788c9d" name="a79acc98a476564f9cf8a5ef734788c9d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79acc98a476564f9cf8a5ef734788c9d">&#9670;&#160;</a></span>sBoringTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sBoringTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sBoringTail__8Z2MdnPrm[6+2]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2225,14 +2221,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="aa7bd0e956baf5bdd03141c9a2290229a" name="aa7bd0e956baf5bdd03141c9a2290229a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa7bd0e956baf5bdd03141c9a2290229a">&#9670;&#160;</a></span>sCheerfulTail__8Z2MdnPrm</h2>
+<a id="ac45a44c540aa4a91076fbd8bb00fd979" name="ac45a44c540aa4a91076fbd8bb00fd979"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac45a44c540aa4a91076fbd8bb00fd979">&#9670;&#160;</a></span>sCheerfulTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sCheerfulTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sCheerfulTail__8Z2MdnPrm[8]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2253,14 +2249,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a16b303ea6bda264a6086a9bb4b1d4c20" name="a16b303ea6bda264a6086a9bb4b1d4c20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16b303ea6bda264a6086a9bb4b1d4c20">&#9670;&#160;</a></span>sConfusedTail__8Z2MdnPrm</h2>
+<a id="a302799ecce3f1b4660bcf9d42294a704" name="a302799ecce3f1b4660bcf9d42294a704"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a302799ecce3f1b4660bcf9d42294a704">&#9670;&#160;</a></span>sConfusedTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sConfusedTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sConfusedTail__8Z2MdnPrm[5+3]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2281,14 +2277,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a187e002c0ae5216f08584f7c939a08d8" name="a187e002c0ae5216f08584f7c939a08d8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a187e002c0ae5216f08584f7c939a08d8">&#9670;&#160;</a></span>sDesideTail__8Z2MdnPrm</h2>
+<a id="a6b40843aaa030ed44e5af091435d0b6c" name="a6b40843aaa030ed44e5af091435d0b6c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b40843aaa030ed44e5af091435d0b6c">&#9670;&#160;</a></span>sDesideTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sDesideTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sDesideTail__8Z2MdnPrm[8]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2309,14 +2305,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a4876dcc17b7003e4e5078fa17ddcf393" name="a4876dcc17b7003e4e5078fa17ddcf393"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4876dcc17b7003e4e5078fa17ddcf393">&#9670;&#160;</a></span>sHostilityTail__8Z2MdnPrm</h2>
+<a id="a7fc78db33554a14c2a0a74a867b094e3" name="a7fc78db33554a14c2a0a74a867b094e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7fc78db33554a14c2a0a74a867b094e3">&#9670;&#160;</a></span>sHostilityTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sHostilityTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sHostilityTail__8Z2MdnPrm[7+1]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2393,14 +2389,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="aaa80b2de8a753a127a2080787163f7fe" name="aaa80b2de8a753a127a2080787163f7fe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa80b2de8a753a127a2080787163f7fe">&#9670;&#160;</a></span>sOrderTail__8Z2MdnPrm</h2>
+<a id="a9c913a8fe381e548cea4aaab90bd7956" name="a9c913a8fe381e548cea4aaab90bd7956"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c913a8fe381e548cea4aaab90bd7956">&#9670;&#160;</a></span>sOrderTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sOrderTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sOrderTail__8Z2MdnPrm[6+2]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2449,14 +2445,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a56c129cba733e4c64279a17182db023f" name="a56c129cba733e4c64279a17182db023f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a56c129cba733e4c64279a17182db023f">&#9670;&#160;</a></span>sReplybTail__8Z2MdnPrm</h2>
+<a id="a599b97f3de819192c92e8f4f340b6084" name="a599b97f3de819192c92e8f4f340b6084"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a599b97f3de819192c92e8f4f340b6084">&#9670;&#160;</a></span>sReplybTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sReplybTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sReplybTail__8Z2MdnPrm[7+1]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2491,14 +2487,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a9817e972ff095023e987167d642a575c" name="a9817e972ff095023e987167d642a575c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9817e972ff095023e987167d642a575c">&#9670;&#160;</a></span>sResentTail__8Z2MdnPrm</h2>
+<a id="ad5a38a95d8f939cb4883dba3dc79741a" name="ad5a38a95d8f939cb4883dba3dc79741a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5a38a95d8f939cb4883dba3dc79741a">&#9670;&#160;</a></span>sResentTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sResentTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sResentTail__8Z2MdnPrm[5+3]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2547,14 +2543,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a24e9944ce135fbbd8c831a5529b271d2" name="a24e9944ce135fbbd8c831a5529b271d2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a24e9944ce135fbbd8c831a5529b271d2">&#9670;&#160;</a></span>sSeriousTail__8Z2MdnPrm</h2>
+<a id="ac69ded340fadf6c6e25251eec37c0b4e" name="ac69ded340fadf6c6e25251eec37c0b4e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac69ded340fadf6c6e25251eec37c0b4e">&#9670;&#160;</a></span>sSeriousTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sSeriousTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sSeriousTail__8Z2MdnPrm[7+1]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2603,14 +2599,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="abb938da2a7538cc425f0321114bd9d2b" name="abb938da2a7538cc425f0321114bd9d2b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb938da2a7538cc425f0321114bd9d2b">&#9670;&#160;</a></span>sTiredTail__8Z2MdnPrm</h2>
+<a id="a151d975ea75d45d97fbc47fd034abd85" name="a151d975ea75d45d97fbc47fd034abd85"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a151d975ea75d45d97fbc47fd034abd85">&#9670;&#160;</a></span>sTiredTail__8Z2MdnPrm</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sTiredTail__8Z2MdnPrm</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> sTiredTail__8Z2MdnPrm[8]</td>
         </tr>
       </table>
 </div><div class="memdoc">

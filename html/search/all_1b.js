@@ -879,9 +879,9 @@ var searchData=
   ['_7ez2ridesoundstarter_876',['~Z2RideSoundStarter',['../structZ2RideSoundStarter.html#ad5ee6e17c306e923752d22926293de20',1,'Z2RideSoundStarter']]],
   ['_7ez2soundhandlepool_877',['~Z2SoundHandlePool',['../classZ2SoundHandlePool.html#a3d1d2b13b053479987bcb5a9e35dd5cb',1,'Z2SoundHandlePool']]],
   ['_7ez2soundhandles_878',['~Z2SoundHandles',['../classZ2SoundHandles.html#a2eeb9cb744053793c0985bdaf12c5988',1,'Z2SoundHandles']]],
-  ['_7ez2soundinfo_879',['~Z2SoundInfo',['../structZ2SoundInfo.html#a204dc2e8515e7fbd09126ae80e109dea',1,'Z2SoundInfo']]],
+  ['_7ez2soundinfo_879',['~Z2SoundInfo',['../structZ2SoundInfo.html#a68b1861ed4ac0631ba2e50eed5dc50d5',1,'Z2SoundInfo']]],
   ['_7ez2soundobjbase_880',['~Z2SoundObjBase',['../classZ2SoundObjBase.html#aa6abd1f2dae346f8c0370e78a9300fa4',1,'Z2SoundObjBase']]],
   ['_7ez2soundobjsimple_881',['~Z2SoundObjSimple',['../classZ2SoundObjSimple.html#a650499b692a563d56a7d859b8a779964',1,'Z2SoundObjSimple']]],
-  ['_7ez2soundstarter_882',['~Z2SoundStarter',['../structZ2SoundStarter.html#ae39bfb285beb31419152618cf6b8b8d7',1,'Z2SoundStarter']]],
-  ['_7ez2speechstarter_883',['~Z2SpeechStarter',['../structZ2SpeechStarter.html#a12f9eefbdb3d7fe9adc394ed1672ab9d',1,'Z2SpeechStarter']]]
+  ['_7ez2soundstarter_882',['~Z2SoundStarter',['../structZ2SoundStarter.html#a468cf3ca35503e3b6a44c9007624e8cd',1,'Z2SoundStarter']]],
+  ['_7ez2speechstarter_883',['~Z2SpeechStarter',['../structZ2SpeechStarter.html#abbe73a93bfdde4a2f25a49775eec8b9a',1,'Z2SpeechStarter']]]
 ];

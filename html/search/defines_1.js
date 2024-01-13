@@ -11,8 +11,8 @@ var searchData=
   ['align_5fprev_8',['ALIGN_PREV',['../global_8h.html#abf268ea9349b8a1a04d44b23aac6ccb1',1,'global.h']]],
   ['areg_5ff_9',['AREG_F',['../d__s__play_8h.html#abd5715844f9abd8457559cc6ade6304c',1,'d_s_play.h']]],
   ['areg_5ff_10',['aREG_F',['../d__s__play_8h.html#aff60c99fd31bb901f5d0249c9f83def6',1,'d_s_play.h']]],
-  ['areg_5fs_11',['AREG_S',['../d__s__play_8h.html#a7693fd76f06172020ef21b6b3cc3482e',1,'d_s_play.h']]],
-  ['areg_5fs_12',['aREG_S',['../d__s__play_8h.html#a76048d18403208554ee0f47ebde45413',1,'d_s_play.h']]],
+  ['areg_5fs_11',['aREG_S',['../d__s__play_8h.html#a76048d18403208554ee0f47ebde45413',1,'d_s_play.h']]],
+  ['areg_5fs_12',['AREG_S',['../d__s__play_8h.html#a7693fd76f06172020ef21b6b3cc3482e',1,'d_s_play.h']]],
   ['arq_5fchunk_5fsize_5fdefault_13',['ARQ_CHUNK_SIZE_DEFAULT',['../arq_8h.html#a864f7c7c98046d10e969cf4be2584bac',1,'arq.h']]],
   ['array_5fsize_14',['ARRAY_SIZE',['../global_8h.html#a949a254e1e990fb6ad81ab2ad1a5111c',1,'global.h']]],
   ['assert_15',['ASSERT',['../global_8h.html#a821326052e3e2bf1fb2d678e9e9a6004',1,'global.h']]]
