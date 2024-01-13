@@ -18,7 +18,7 @@ var searchData=
   ['wf_15',['WF',['../classdSvBit__childTransformHIO__c.html#ae666db3eeaf6dee1538921e1b27d26fa',1,'dSvBit_childTransformHIO_c']]],
   ['white_5fcolor_5f4635_16',['white_color_4635',['../d__meter2__info_8cpp.html#a3dd4e02f85044c575eb816378163df76',1,'d_meter2_info.cpp']]],
   ['white_5fcolor_5f4676_17',['white_color_4676',['../d__meter2__info_8cpp.html#a623cc9557c35bdfbd2c6d14188200543',1,'d_meter2_info.cpp']]],
-  ['width_18',['width',['../structOSFontHeader.html#aa654472af7959c92ec270d55a7f94188',1,'OSFontHeader::width()'],['../structResFONT_1_1INF1.html#a1c2f671a7fd0f82ab399b0288afa32d3',1,'ResFONT::INF1::width()'],['../structResTIMG.html#a371834a76a41f01f5c5ca065e9527a3f',1,'ResTIMG::width()']]],
+  ['width_18',['width',['../structResTIMG.html#a371834a76a41f01f5c5ca065e9527a3f',1,'ResTIMG::width()'],['../structResFONT_1_1INF1.html#a1c2f671a7fd0f82ab399b0288afa32d3',1,'ResFONT::INF1::width()'],['../structOSFontHeader.html#aa654472af7959c92ec270d55a7f94188',1,'OSFontHeader::width()']]],
   ['widthtableofs_19',['widthTableOfs',['../structOSFontHeader.html#a5d42583eb0ab03f4b1c9f88cf46539e2',1,'OSFontHeader']]],
   ['wipe_20',['wipe',['../classdStage__nextStage__c.html#a4c244d2924347f86cdfb122b166bac0a',1,'dStage_nextStage_c']]],
   ['wipe_5fspeed_21',['wipe_speed',['../classdStage__nextStage__c.html#a20dbc3bb9378ab8ff11ef8de0021b9f4',1,'dStage_nextStage_c']]],
@@ -44,5 +44,5 @@ var searchData=
   ['wrapt_41',['wrapT',['../structResTIMG.html#aa2a52f83806da1420efbb167e27c9026',1,'ResTIMG']]],
   ['write_5ffn_42',['write_fn',['../struct__FILE.html#a9fdb8e5a0e9bc8b2a0bd8367c919bc97',1,'_FILE']]],
   ['write_5ffunc_43',['write_func',['../structDBCommTable.html#abc85cac5c3ea6f7b5c6fb90e238aa85f',1,'DBCommTable']]],
-  ['write_5fptr_44',['write_ptr',['../struct__GXFifoObj.html#a1f36f43afb1dde38f96318580cea9018',1,'_GXFifoObj']]]
+  ['write_5fptr_44',['write_ptr',['../structCircleBuffer.html#a8f98f1e679300444ec7bf30d14c45e2a',1,'CircleBuffer::write_ptr()'],['../struct__GXFifoObj.html#a1f36f43afb1dde38f96318580cea9018',1,'_GXFifoObj::write_ptr()']]]
 ];

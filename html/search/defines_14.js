@@ -28,6 +28,7 @@ var searchData=
   ['trk_5fdispatch_5fcmd_5fstop_25',['TRK_DISPATCH_CMD_STOP',['../dispatch_8h.html#a72ee518192dd3b2aa8dbf092bc7196de',1,'dispatch.h']]],
   ['trk_5fdispatch_5fcmd_5fwritemem_26',['TRK_DISPATCH_CMD_WRITEMEM',['../dispatch_8h.html#a42ff22f9bca1049afe4bcace08bb316f',1,'dispatch.h']]],
   ['trk_5fdispatch_5fcmd_5fwriteregs_27',['TRK_DISPATCH_CMD_WRITEREGS',['../dispatch_8h.html#a42a3e5de5e3b8ba04a1a839875b4aa5e',1,'dispatch.h']]],
-  ['true_28',['TRUE',['../types_8h.html#aa8cecfc5c5c054d2875c03e77b7be15d',1,'types.h']]],
-  ['trunc_29',['TRUNC',['../OSMemory_8c.html#a83e259a5fda83049d03471292d5e4177',1,'TRUNC():&#160;OSMemory.c'],['../CARDPriv_8h.html#a83e259a5fda83049d03471292d5e4177',1,'TRUNC():&#160;CARDPriv.h']]]
+  ['trkmsgbuf_5fsize_28',['TRKMSGBUF_SIZE',['../msgbuf_8h.html#a802a5a5dcebd62d1817581ad032269c4',1,'msgbuf.h']]],
+  ['true_29',['TRUE',['../types_8h.html#aa8cecfc5c5c054d2875c03e77b7be15d',1,'types.h']]],
+  ['trunc_30',['TRUNC',['../OSMemory_8c.html#a83e259a5fda83049d03471292d5e4177',1,'TRUNC():&#160;OSMemory.c'],['../CARDPriv_8h.html#a83e259a5fda83049d03471292d5e4177',1,'TRUNC():&#160;CARDPriv.h']]]
 ];

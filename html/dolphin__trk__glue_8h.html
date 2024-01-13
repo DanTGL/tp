@@ -84,12 +84,12 @@ $(function() {
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle"><div class="title">dolphin_trk_glue.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="OS_8h_source.html">dolphin/os/OS.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="trk_8h_source.html">trk.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for dolphin_trk_glue.h:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -103,7 +103,7 @@ $(function() {
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="dolphin__trk__glue_8h__dep__incl.svg" width="214" height="168"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="dolphin__trk__glue_8h__dep__incl.svg" width="443" height="168"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </div>
@@ -126,14 +126,6 @@ Typedefs</h2></td></tr>
 <tr class="separator:a2c6a2dad34caf7ac2882689b98d2a89b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a411ab7f8281000ccefd7c749bfb7301b"><td class="memItemLeft" align="right" valign="top">typedef struct <a class="el" href="structDBCommTable.html">DBCommTable</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#a411ab7f8281000ccefd7c749bfb7301b">DBCommTable</a></td></tr>
 <tr class="separator:a411ab7f8281000ccefd7c749bfb7301b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:ae4dfd42394001deb6e8a0e60c81d6f7a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#ae4dfd42394001deb6e8a0e60c81d6f7a">HardwareType</a> { <a class="el" href="dolphin__trk__glue_8h.html#ae4dfd42394001deb6e8a0e60c81d6f7aa181ac37291dea86149f13ddb1d84837e">HARDWARE_GDEV</a> = 0
-, <a class="el" href="dolphin__trk__glue_8h.html#ae4dfd42394001deb6e8a0e60c81d6f7aa39b6bca7207276beb7cdbb44a7a33ada">HARDWARE_DDH</a> = 1
-, <a class="el" href="dolphin__trk__glue_8h.html#ae4dfd42394001deb6e8a0e60c81d6f7aa06657a30c689b5ffd0b05fdeed881c43">HARDWARE_BBA</a> = 2
- }</td></tr>
-<tr class="separator:ae4dfd42394001deb6e8a0e60c81d6f7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -212,26 +204,6 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ae4dfd42394001deb6e8a0e60c81d6f7a" name="ae4dfd42394001deb6e8a0e60c81d6f7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae4dfd42394001deb6e8a0e60c81d6f7a">&#9670;&#160;</a></span>HardwareType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="dolphin__trk__glue_8h.html#ae4dfd42394001deb6e8a0e60c81d6f7a">HardwareType</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae4dfd42394001deb6e8a0e60c81d6f7aa181ac37291dea86149f13ddb1d84837e" name="ae4dfd42394001deb6e8a0e60c81d6f7aa181ac37291dea86149f13ddb1d84837e"></a>HARDWARE_GDEV&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae4dfd42394001deb6e8a0e60c81d6f7aa39b6bca7207276beb7cdbb44a7a33ada" name="ae4dfd42394001deb6e8a0e60c81d6f7aa39b6bca7207276beb7cdbb44a7a33ada"></a>HARDWARE_DDH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae4dfd42394001deb6e8a0e60c81d6f7aa06657a30c689b5ffd0b05fdeed881c43" name="ae4dfd42394001deb6e8a0e60c81d6f7aa06657a30c689b5ffd0b05fdeed881c43"></a>HARDWARE_BBA&#160;</td><td class="fielddoc"></td></tr>
-</table>
 
 </div>
 </div>

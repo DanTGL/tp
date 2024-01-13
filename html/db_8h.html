@@ -91,12 +91,13 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="types_8h_source.html">dolphin/types.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="AmcExi2Stubs_8h_source.html">amcstubs/AmcExi2Stubs.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for db.h:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="db_8h__incl.svg" width="166" height="183"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="db_8h__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 </div><div class="textblock"><div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -104,7 +105,7 @@ $(function() {
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="db_8h__dep__incl.svg" width="100%" height="382"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="db_8h__dep__incl.svg" width="100%" height="393"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 </div>
@@ -135,6 +136,20 @@ Functions</h2></td></tr>
 <tr class="separator:a419ae48035694a6a1bdfaab3ea815429"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a67347531abdef78b055633ba82c1b57d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db_8h.html#a67347531abdef78b055633ba82c1b57d">DBPrintf</a> (char *format,...)</td></tr>
 <tr class="separator:a67347531abdef78b055633ba82c1b57d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8478353dc85ec361146c3a15f326b6d6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db_8h.html#a8478353dc85ec361146c3a15f326b6d6">DBInitComm</a> (<a class="el" href="types_8h.html#a1a2a3100a902c32a55d8b08915bce044">vu8</a> **, <a class="el" href="AmcExi2Stubs_8h.html#a55ec2562afb4ec42185ea2133a87f158">AmcEXICallback</a>)</td></tr>
+<tr class="separator:a8478353dc85ec361146c3a15f326b6d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4607513c24ebef40694803e7f9072bc5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db_8h.html#a4607513c24ebef40694803e7f9072bc5">DBInitInterrupts</a> ()</td></tr>
+<tr class="separator:a4607513c24ebef40694803e7f9072bc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c17c66d49479bce303d50d4982408c6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db_8h.html#a6c17c66d49479bce303d50d4982408c6">DBQueryData</a> ()</td></tr>
+<tr class="separator:a6c17c66d49479bce303d50d4982408c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8f666c9ef9bb0535e9e85e1219f10f9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db_8h.html#ae8f666c9ef9bb0535e9e85e1219f10f9">DBRead</a> (void *, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>)</td></tr>
+<tr class="separator:ae8f666c9ef9bb0535e9e85e1219f10f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6bc7926dc3dc073dcf3c78f62168a5c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db_8h.html#ab6bc7926dc3dc073dcf3c78f62168a5c">DBWrite</a> (const void *, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>)</td></tr>
+<tr class="separator:ab6bc7926dc3dc073dcf3c78f62168a5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab92e94e48e39e6b1e88bd8b19984ae8e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db_8h.html#ab92e94e48e39e6b1e88bd8b19984ae8e">DBOpen</a> ()</td></tr>
+<tr class="separator:ab92e94e48e39e6b1e88bd8b19984ae8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae14be2b8bedc954cb27e8ad07d8a3830"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db_8h.html#ae14be2b8bedc954cb27e8ad07d8a3830">DBClose</a> ()</td></tr>
+<tr class="separator:ae14be2b8bedc954cb27e8ad07d8a3830"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
@@ -208,6 +223,23 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a id="ae14be2b8bedc954cb27e8ad07d8a3830" name="ae14be2b8bedc954cb27e8ad07d8a3830"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae14be2b8bedc954cb27e8ad07d8a3830">&#9670;&#160;</a></span>DBClose()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DBClose </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a5ee402ce924b9ac2bcbe5b2e0ccc7d25" name="a5ee402ce924b9ac2bcbe5b2e0ccc7d25"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5ee402ce924b9ac2bcbe5b2e0ccc7d25">&#9670;&#160;</a></span>DBInit()</h2>
 
@@ -218,6 +250,68 @@ Variables</h2></td></tr>
           <td class="memname">void DBInit </td>
           <td>(</td>
           <td class="paramtype">void&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8478353dc85ec361146c3a15f326b6d6" name="a8478353dc85ec361146c3a15f326b6d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8478353dc85ec361146c3a15f326b6d6">&#9670;&#160;</a></span>DBInitComm()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DBInitComm </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="types_8h.html#a1a2a3100a902c32a55d8b08915bce044">vu8</a> **&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="AmcExi2Stubs_8h.html#a55ec2562afb4ec42185ea2133a87f158">AmcEXICallback</a>&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a4607513c24ebef40694803e7f9072bc5" name="a4607513c24ebef40694803e7f9072bc5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4607513c24ebef40694803e7f9072bc5">&#9670;&#160;</a></span>DBInitInterrupts()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DBInitInterrupts </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab92e94e48e39e6b1e88bd8b19984ae8e" name="ab92e94e48e39e6b1e88bd8b19984ae8e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab92e94e48e39e6b1e88bd8b19984ae8e">&#9670;&#160;</a></span>DBOpen()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DBOpen </td>
+          <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -243,6 +337,79 @@ Variables</h2></td></tr>
           <td></td>
           <td class="paramtype">&#160;</td>
           <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6c17c66d49479bce303d50d4982408c6" name="a6c17c66d49479bce303d50d4982408c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c17c66d49479bce303d50d4982408c6">&#9670;&#160;</a></span>DBQueryData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> DBQueryData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae8f666c9ef9bb0535e9e85e1219f10f9" name="ae8f666c9ef9bb0535e9e85e1219f10f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8f666c9ef9bb0535e9e85e1219f10f9">&#9670;&#160;</a></span>DBRead()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a> DBRead </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab6bc7926dc3dc073dcf3c78f62168a5c" name="ab6bc7926dc3dc073dcf3c78f62168a5c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6bc7926dc3dc073dcf3c78f62168a5c">&#9670;&#160;</a></span>DBWrite()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a> DBWrite </td>
+          <td>(</td>
+          <td class="paramtype">const void *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>

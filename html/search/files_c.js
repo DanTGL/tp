@@ -68,7 +68,7 @@ var searchData=
   ['mtxvec_2eh_65',['mtxvec.h',['../mtxvec_8h.html',1,'']]],
   ['mutex_5ftrk_2ec_66',['mutex_TRK.c',['../mutex__TRK_8c.html',1,'']]],
   ['mutex_5ftrk_2eh_67',['mutex_TRK.h',['../mutex__TRK_8h.html',1,'']]],
-  ['mwcriticalsection_5fgc_2ec_68',['MWCriticalSection_gc.c',['../MWCriticalSection__gc_8c.html',1,'']]],
+  ['mwcriticalsection_5fgc_2ecpp_68',['MWCriticalSection_gc.cpp',['../MWCriticalSection__gc_8cpp.html',1,'']]],
   ['mwcriticalsection_5fgc_2eh_69',['MWCriticalSection_gc.h',['../MWCriticalSection__gc_8h.html',1,'']]],
   ['mwtrace_2ec_70',['MWTrace.c',['../MWTrace_8c.html',1,'']]],
   ['mwtrace_2eh_71',['MWTrace.h',['../MWTrace_8h.html',1,'']]]
