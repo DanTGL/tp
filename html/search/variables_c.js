@@ -78,7 +78,7 @@ var searchData=
   ['l_5fdscnlogo_5fmethod_75',['l_dScnLogo_Method',['../d__s__logo_8cpp.html#aeb6b12ccaa5c7e99c5f234d11cb6dc59',1,'d_s_logo.cpp']]],
   ['l_5fdscnname_5fmethod_76',['l_dScnName_Method',['../d__s__name_8cpp.html#a00dab11153ae8fcfc403538647259c4e',1,'d_s_name.cpp']]],
   ['l_5fdscnply_5fmethod_77',['l_dScnPly_Method',['../d__s__play_8cpp.html#ad2315441884bece2ff5ee986e9e792e9',1,'d_s_play.cpp']]],
-  ['l_5fdscnroom_5fmethod_78',['l_dScnRoom_Method',['../d__s__room_8cpp.html#add3cc16ce491d1107144d4090b2fc1e6',1,'d_s_room.cpp']]],
+  ['l_5fdscnroom_5fmethod_78',['l_dScnRoom_Method',['../d__s__room_8cpp.html#a9ee6148b9b52d85949ef63808b09fcb3',1,'d_s_room.cpp']]],
   ['l_5fdthunder_5fmethod_79',['l_dThunder_Method',['../d__ky__thunder_8cpp.html#a9dcc9ef86b9de99d8de4480afd317cc4',1,'d_ky_thunder.cpp']]],
   ['l_5fdtimer_5fmethod_80',['l_dTimer_Method',['../d__timer_8cpp.html#ac075eed0562f29eee16dc0b72ec61baa',1,'d_timer.cpp']]],
   ['l_5fdungeon_5foffcolor_81',['l_dungeon_offColor',['../d__menu__dmap__map_8cpp.html#a583a4e017e296863c1999f68e7586c47',1,'l_dungeon_offColor():&#160;d_menu_dmap_map.cpp'],['../d__map_8cpp.html#a583a4e017e296863c1999f68e7586c47',1,'l_dungeon_offColor():&#160;d_map.cpp']]],
@@ -3459,6 +3459,6 @@ var searchData=
   ['losescale_3456',['loseScale',['../d__a__alink_8cpp.html#a00273422868bbd5a9dc4f5a8564ed898',1,'d_a_alink.cpp']]],
   ['low_5fwtrmark_3457',['low_wtrmark',['../struct__GXFifoObj.html#ab262081e08799aa5d30fd9701dcd2b85',1,'_GXFifoObj']]],
   ['lpsize_3458',['lpSize',['../struct__GXData.html#acb1e891626384843989ce9526409c433',1,'_GXData']]],
-  ['lr_3459',['lr',['../structOSContext.html#a00254ff67d8ee6eec2718c2d47d8031f',1,'OSContext']]],
-  ['lr_3460',['LR',['../structDefault__PPC.html#a59df8e4ca06b11edc3be052722ac968b',1,'Default_PPC::LR()'],['../structTRKState.html#a529bfe010821837ba52b8985b504b5b9',1,'TRKState::LR()']]]
+  ['lr_3459',['LR',['../structDefault__PPC.html#a59df8e4ca06b11edc3be052722ac968b',1,'Default_PPC::LR()'],['../structTRKState.html#a529bfe010821837ba52b8985b504b5b9',1,'TRKState::LR()']]],
+  ['lr_3460',['lr',['../structOSContext.html#a00254ff67d8ee6eec2718c2d47d8031f',1,'OSContext']]]
 ];
