@@ -31,5 +31,6 @@ var searchData=
   ['process_5fpriority_5fqueue_5finfo_28',['process_priority_queue_info',['../structprocess__priority__queue__info.html',1,'']]],
   ['process_5fprofile_5fdefinition_29',['process_profile_definition',['../structprocess__profile__definition.html',1,'']]],
   ['processorstate_5fppc_5f6xx_5f7xx_30',['ProcessorState_PPC_6xx_7xx',['../structProcessorState__PPC__6xx__7xx.html',1,'']]],
-  ['psettbl_31',['PSetTbl',['../structdaObjHBombkoya__c_1_1PSetTbl.html',1,'daObjHBombkoya_c']]]
+  ['proloadinfostruct_31',['ProLoadInfoStruct',['../structProLoadInfoStruct.html',1,'']]],
+  ['psettbl_32',['PSetTbl',['../structdaObjHBombkoya__c_1_1PSetTbl.html',1,'daObjHBombkoya_c']]]
 ];
