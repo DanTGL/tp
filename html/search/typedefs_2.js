@@ -9,6 +9,5 @@ var searchData=
   ['bmg_5fheader_5ft_6',['bmg_header_t',['../d__msg__unit_8h.html#acff54ba44084f28f7b666391b5fe1301',1,'d_msg_unit.h']]],
   ['bmg_5fsection_5ft_7',['bmg_section_t',['../d__msg__unit_8h.html#aab3342025acc0295fd11bf6ed092780a',1,'d_msg_unit.h']]],
   ['bool_8',['BOOL',['../types_8h.html#a050c65e107f0c828f856a231f4b4e788',1,'types.h']]],
-  ['branchpfn_9',['branchPfn',['../structJMessage_1_1TSequenceProcessor.html#ac3bbcf68c85497d8443f7dfc57c38e0e',1,'JMessage::TSequenceProcessor']]],
-  ['brightcheckfunc_10',['BrightCheckFunc',['../d__bright__check_8cpp.html#a30b56742762492ad63ec5a8d45935d7d',1,'d_bright_check.cpp']]]
+  ['branchpfn_9',['branchPfn',['../structJMessage_1_1TSequenceProcessor.html#ac3bbcf68c85497d8443f7dfc57c38e0e',1,'JMessage::TSequenceProcessor']]]
 ];
