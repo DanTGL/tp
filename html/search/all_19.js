@@ -1,7 +1,7 @@
 var searchData=
 [
   ['y_0',['y',['../structQuaternion.html#ae4ce5f79487262ab16353d1148bb0cd6',1,'Quaternion::y()'],['../structdDlst__peekZ__c_1_1dDlst__peekZ__entry.html#a79ca4ddc900af90fb498ce8299ccd52b',1,'dDlst_peekZ_c::dDlst_peekZ_entry::y()']]],
-  ['y_1',['Y',['../namespaceCButton.html#af39bf4b4c84a6a7438354c22d03a3dbaad4dc0ea99d303724f1c86466c2da4423',1,'CButton']]],
+  ['y_1',['Y',['../namespaceCButton.html#aefef9b1bcc95b702239cf240a696cda1ad4dc0ea99d303724f1c86466c2da4423',1,'CButton']]],
   ['y_2',['y',['../structJGeometry_1_1TVec2.html#ab045dc9b5f73de3d99bacd384bc59314',1,'JGeometry::TVec2::y()'],['../structJGeometry_1_1TVec3_3_01f32_01_4.html#a8196d9ad7e3844ff827f4b9dc08b8e67',1,'JGeometry::TVec3&lt; f32 &gt;::y()'],['../structJGeometry_1_1TVec3_3_01s16_01_4.html#ab4ac459063e022ac6881380c61e86cf7',1,'JGeometry::TVec3&lt; s16 &gt;::y()'],['../structDOUBLE__POS.html#a081e277344f897d3f4cdc97eb0a33060',1,'DOUBLE_POS::y()'],['../structSVec.html#a859b2828adfc78271dcbeddb0f59e331',1,'SVec::y()'],['../structVec.html#a48232f97ea29848c051edb006e66310a',1,'Vec::y()'],['../structJGeometry_1_1TVec3.html#aaffed768d1dabe9424347bdc219faed2',1,'JGeometry::TVec3::y()']]],
   ['y_5fitem_3',['Y_ITEM',['../classdMeter2__c.html#a30da167928d117d019f5013fd7e5e3a7aad09be841af1af7c394d9246e5c89faf',1,'dMeter2_c']]],
   ['y_5fstatus_4',['Y_STATUS',['../classdMeter2__c.html#a30da167928d117d019f5013fd7e5e3a7a91e09ed313fe147645f9766abaac0be5',1,'dMeter2_c']]],
@@ -84,8 +84,8 @@ var searchData=
   ['ynselstartframetbl_81',['YnSelStartFrameTbl',['../d__file__select_8cpp.html#a29ee969b9ac1b96ac7b556e8c8746e52',1,'YnSelStartFrameTbl():&#160;d_file_select.cpp'],['../d__menu__save_8cpp.html#a5d3890e0c58e50bea2a3ffd0eabe5eb5',1,'YnSelStartFrameTbl():&#160;d_menu_save.cpp']]],
   ['yreg_5ff_82',['YREG_F',['../d__s__play_8h.html#a1d8b91f447d8a738cc5874636d8f7c2e',1,'d_s_play.h']]],
   ['yreg_5ff_83',['yREG_F',['../d__s__play_8h.html#a89322e146cf98da40d1129c5123d99c0',1,'d_s_play.h']]],
-  ['yreg_5fs_84',['yREG_S',['../d__s__play_8h.html#a46f2a32fb56ad85f4e19f53c423d8e3b',1,'d_s_play.h']]],
-  ['yreg_5fs_85',['YREG_S',['../d__s__play_8h.html#a608523af322a2dc9f00326853174ee68',1,'d_s_play.h']]],
+  ['yreg_5fs_84',['YREG_S',['../d__s__play_8h.html#a608523af322a2dc9f00326853174ee68',1,'d_s_play.h']]],
+  ['yreg_5fs_85',['yREG_S',['../d__s__play_8h.html#a46f2a32fb56ad85f4e19f53c423d8e3b',1,'d_s_play.h']]],
   ['yrotm_86',['YrotM',['../structmDoMtx__stack__c.html#a8e6930a68d464e0f51d08fe7e1247601',1,'mDoMtx_stack_c']]],
   ['yrots_87',['YrotS',['../structmDoMtx__stack__c.html#aca5aa5e2bd5e8e438c30f76b8cd7a4d1',1,'mDoMtx_stack_c']]]
 ];
