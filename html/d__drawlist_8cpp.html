@@ -94,9 +94,9 @@ $(function() {
 <code>#include &quot;<a class="el" href="c__bg__s__shdw__draw_8h_source.html">SSystem/SComponent/c_bg_s_shdw_draw.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__com__inf__game_8h_source.html">d/com/d_com_inf_game.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="GX_8h_source.html">dolphin/gx/GX.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="gx_8h_source.html">dolphin/gx.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="mtx44_8h_source.html">dolphin/mtx/mtx44.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="mtxvec_8h_source.html">dolphin/mtx/mtxvec.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="mtx_8h_source.html">dolphin/mtx.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="m__Do__graphic_8h_source.html">m_Do/m_Do_graphic.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="m__Do__lib_8h_source.html">m_Do/m_Do_lib.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="m__Do__mtx_8h_source.html">m_Do/m_Do_mtx.h</a>&quot;</code><br />
@@ -2317,7 +2317,6 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">void GXPixModeSync </td>
           <td>(</td>
-          <td class="paramtype">void&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -4147,10 +4146,10 @@ Variables</h2></td></tr>
 <div class="line">    <a class="code hl_enumvalue" href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71ea52b4ac458f8f3531f01cfb6bc6491441">GX_CH_BLUE</a>,</div>
 <div class="line">    <a class="code hl_enumvalue" href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71ea996f462db57491cd93f7029051c346ca">GX_CH_ALPHA</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="aGXEnum_8h_html_a8779cb27c7377ca867c0d8ba6fc2f71ea52b4ac458f8f3531f01cfb6bc6491441"><div class="ttname"><a href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71ea52b4ac458f8f3531f01cfb6bc6491441">GX_CH_BLUE</a></div><div class="ttdeci">@ GX_CH_BLUE</div><div class="ttdef"><b>Definition:</b> GXEnum.h:307</div></div>
-<div class="ttc" id="aGXEnum_8h_html_a8779cb27c7377ca867c0d8ba6fc2f71ea830b63413ce052476d2530c26442b98f"><div class="ttname"><a href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71ea830b63413ce052476d2530c26442b98f">GX_CH_GREEN</a></div><div class="ttdeci">@ GX_CH_GREEN</div><div class="ttdef"><b>Definition:</b> GXEnum.h:306</div></div>
-<div class="ttc" id="aGXEnum_8h_html_a8779cb27c7377ca867c0d8ba6fc2f71ea996f462db57491cd93f7029051c346ca"><div class="ttname"><a href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71ea996f462db57491cd93f7029051c346ca">GX_CH_ALPHA</a></div><div class="ttdeci">@ GX_CH_ALPHA</div><div class="ttdef"><b>Definition:</b> GXEnum.h:308</div></div>
-<div class="ttc" id="aGXEnum_8h_html_a8779cb27c7377ca867c0d8ba6fc2f71eaf9a870bac0f96ffcee4d35bdeb383faa"><div class="ttname"><a href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71eaf9a870bac0f96ffcee4d35bdeb383faa">GX_CH_RED</a></div><div class="ttdeci">@ GX_CH_RED</div><div class="ttdef"><b>Definition:</b> GXEnum.h:305</div></div>
+<div class="ttc" id="aGXEnum_8h_html_a8779cb27c7377ca867c0d8ba6fc2f71ea52b4ac458f8f3531f01cfb6bc6491441"><div class="ttname"><a href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71ea52b4ac458f8f3531f01cfb6bc6491441">GX_CH_BLUE</a></div><div class="ttdeci">@ GX_CH_BLUE</div><div class="ttdef"><b>Definition:</b> GXEnum.h:314</div></div>
+<div class="ttc" id="aGXEnum_8h_html_a8779cb27c7377ca867c0d8ba6fc2f71ea830b63413ce052476d2530c26442b98f"><div class="ttname"><a href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71ea830b63413ce052476d2530c26442b98f">GX_CH_GREEN</a></div><div class="ttdeci">@ GX_CH_GREEN</div><div class="ttdef"><b>Definition:</b> GXEnum.h:313</div></div>
+<div class="ttc" id="aGXEnum_8h_html_a8779cb27c7377ca867c0d8ba6fc2f71ea996f462db57491cd93f7029051c346ca"><div class="ttname"><a href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71ea996f462db57491cd93f7029051c346ca">GX_CH_ALPHA</a></div><div class="ttdeci">@ GX_CH_ALPHA</div><div class="ttdef"><b>Definition:</b> GXEnum.h:315</div></div>
+<div class="ttc" id="aGXEnum_8h_html_a8779cb27c7377ca867c0d8ba6fc2f71eaf9a870bac0f96ffcee4d35bdeb383faa"><div class="ttname"><a href="GXEnum_8h.html#a8779cb27c7377ca867c0d8ba6fc2f71eaf9a870bac0f96ffcee4d35bdeb383faa">GX_CH_RED</a></div><div class="ttdeci">@ GX_CH_RED</div><div class="ttdef"><b>Definition:</b> GXEnum.h:312</div></div>
 </div><!-- fragment -->
 </div>
 </div>

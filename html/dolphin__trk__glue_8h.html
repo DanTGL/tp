@@ -88,7 +88,7 @@ $(function() {
   <div class="headertitle"><div class="title">dolphin_trk_glue.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="OS_8h_source.html">dolphin/os/OS.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="os_8h_source.html">dolphin/os.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="trk_8h_source.html">trk.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for dolphin_trk_glue.h:</div>
@@ -103,7 +103,7 @@ $(function() {
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="dolphin__trk__glue_8h__dep__incl.svg" width="443" height="168"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="dolphin__trk__glue_8h__dep__incl.svg" width="100%" height="426"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 </div>
@@ -118,8 +118,8 @@ Classes</h2></td></tr>
 Typedefs</h2></td></tr>
 <tr class="memitem:a687dd1621ec8048d7452f599bae51276"><td class="memItemLeft" align="right" valign="top">typedef int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#a687dd1621ec8048d7452f599bae51276">DBCommFunc</a>) ()</td></tr>
 <tr class="separator:a687dd1621ec8048d7452f599bae51276"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4fb18254de3e2b4f534290cc15cb615f"><td class="memItemLeft" align="right" valign="top">typedef int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#a4fb18254de3e2b4f534290cc15cb615f">DBCommInitFunc</a>) (void *, <a class="el" href="OSInterrupt_8h.html#aaf338797f75922de0f63e0ce14935954">OSInterruptHandler</a>)</td></tr>
-<tr class="separator:a4fb18254de3e2b4f534290cc15cb615f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad3184b58230d0e8a60496cc1051f7a89"><td class="memItemLeft" align="right" valign="top">typedef int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#ad3184b58230d0e8a60496cc1051f7a89">DBCommInitFunc</a>) (void *, <a class="el" href="OSInterrupt_8h.html#a1e286c7d5bce3836ed414887019ea4cd">__OSInterruptHandler</a>)</td></tr>
+<tr class="separator:ad3184b58230d0e8a60496cc1051f7a89"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8ada0547f0570288a724ef065f79adb6"><td class="memItemLeft" align="right" valign="top">typedef int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#a8ada0547f0570288a724ef065f79adb6">DBCommReadFunc</a>) (<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> *, int)</td></tr>
 <tr class="separator:a8ada0547f0570288a724ef065f79adb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2c6a2dad34caf7ac2882689b98d2a89b"><td class="memItemLeft" align="right" valign="top">typedef int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#a2c6a2dad34caf7ac2882689b98d2a89b">DBCommWriteFunc</a>) (const <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> *, int)</td></tr>
@@ -133,8 +133,12 @@ Functions</h2></td></tr>
 <tr class="separator:a5294015cc690bf80b188c26fa8e9838c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6ff231c8a337d0d710657d7136f3c9cd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#a6ff231c8a337d0d710657d7136f3c9cd">ReserveEXI2Port</a> ()</td></tr>
 <tr class="separator:a6ff231c8a337d0d710657d7136f3c9cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8418221045ec9b69b9ca00f39c9b4ddf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#adafe97a8e4be18b0198f234819016582">s32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#a8418221045ec9b69b9ca00f39c9b4ddf">TRKWriteUARTN</a> (const void *, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>)</td></tr>
-<tr class="separator:a8418221045ec9b69b9ca00f39c9b4ddf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75eb3cfb84c5a753de2bcf085fb64a39"><td class="memItemLeft" align="right" valign="top"><a class="el" href="trk_8h.html#a88256575d7bc3e8d7fc9ec75628225f7">UARTError</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#a75eb3cfb84c5a753de2bcf085fb64a39">TRKWriteUARTN</a> (const void *, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>)</td></tr>
+<tr class="separator:a75eb3cfb84c5a753de2bcf085fb64a39"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1ff6ae39db31bf0670b3060d5d9c786"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#ac1ff6ae39db31bf0670b3060d5d9c786">TRKLoadContext</a> (<a class="el" href="structOSContext.html">OSContext</a> *ctx, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> r4)</td></tr>
+<tr class="separator:ac1ff6ae39db31bf0670b3060d5d9c786"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe7403d68dd17fcf6dc14bd0e6dd15b2"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dolphin__trk__glue_8h.html#afe7403d68dd17fcf6dc14bd0e6dd15b2">InitMetroTRKCommTable</a> (int hwId)</td></tr>
+<tr class="separator:afe7403d68dd17fcf6dc14bd0e6dd15b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a id="a687dd1621ec8048d7452f599bae51276" name="a687dd1621ec8048d7452f599bae51276"></a>
@@ -151,14 +155,14 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a4fb18254de3e2b4f534290cc15cb615f" name="a4fb18254de3e2b4f534290cc15cb615f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4fb18254de3e2b4f534290cc15cb615f">&#9670;&#160;</a></span>DBCommInitFunc</h2>
+<a id="ad3184b58230d0e8a60496cc1051f7a89" name="ad3184b58230d0e8a60496cc1051f7a89"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3184b58230d0e8a60496cc1051f7a89">&#9670;&#160;</a></span>DBCommInitFunc</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef int(* DBCommInitFunc) (void *, <a class="el" href="OSInterrupt_8h.html#aaf338797f75922de0f63e0ce14935954">OSInterruptHandler</a>)</td>
+          <td class="memname">typedef int(* DBCommInitFunc) (void *, <a class="el" href="OSInterrupt_8h.html#a1e286c7d5bce3836ed414887019ea4cd">__OSInterruptHandler</a>)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -208,6 +212,24 @@ Functions</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
+<a id="afe7403d68dd17fcf6dc14bd0e6dd15b2" name="afe7403d68dd17fcf6dc14bd0e6dd15b2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afe7403d68dd17fcf6dc14bd0e6dd15b2">&#9670;&#160;</a></span>InitMetroTRKCommTable()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int InitMetroTRKCommTable </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>hwId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a6ff231c8a337d0d710657d7136f3c9cd" name="a6ff231c8a337d0d710657d7136f3c9cd"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6ff231c8a337d0d710657d7136f3c9cd">&#9670;&#160;</a></span>ReserveEXI2Port()</h2>
 
@@ -225,14 +247,42 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a8418221045ec9b69b9ca00f39c9b4ddf" name="a8418221045ec9b69b9ca00f39c9b4ddf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8418221045ec9b69b9ca00f39c9b4ddf">&#9670;&#160;</a></span>TRKWriteUARTN()</h2>
+<a id="ac1ff6ae39db31bf0670b3060d5d9c786" name="ac1ff6ae39db31bf0670b3060d5d9c786"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1ff6ae39db31bf0670b3060d5d9c786">&#9670;&#160;</a></span>TRKLoadContext()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="types_8h.html#adafe97a8e4be18b0198f234819016582">s32</a> TRKWriteUARTN </td>
+          <td class="memname">void TRKLoadContext </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structOSContext.html">OSContext</a> *&#160;</td>
+          <td class="paramname"><em>ctx</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td>
+          <td class="paramname"><em>r4</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a75eb3cfb84c5a753de2bcf085fb64a39" name="a75eb3cfb84c5a753de2bcf085fb64a39"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75eb3cfb84c5a753de2bcf085fb64a39">&#9670;&#160;</a></span>TRKWriteUARTN()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="trk_8h.html#a88256575d7bc3e8d7fc9ec75628225f7">UARTError</a> TRKWriteUARTN </td>
           <td>(</td>
           <td class="paramtype">const void *&#160;</td>
           <td class="paramname"><em>bytes</em>, </td>

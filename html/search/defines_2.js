@@ -11,5 +11,6 @@ var searchData=
   ['bomb_5fbag_5fmax_8',['BOMB_BAG_MAX',['../d__save_8h.html#abbe1030412b516dea408c4e196e2e8c3',1,'d_save.h']]],
   ['bottle_5fmax_9',['BOTTLE_MAX',['../d__save_8h.html#a8050b007b8d2757090cd0d60314e4b5f',1,'d_save.h']]],
   ['breg_5ff_10',['BREG_F',['../d__s__play_8h.html#ae2f5667a7cd5450967a065900f9ffa1a',1,'d_s_play.h']]],
-  ['breg_5fs_11',['BREG_S',['../d__s__play_8h.html#a49111fa2a7ab182e4067f62fd9bc0bb8',1,'d_s_play.h']]]
+  ['breg_5fs_11',['BREG_S',['../d__s__play_8h.html#a49111fa2a7ab182e4067f62fd9bc0bb8',1,'d_s_play.h']]],
+  ['byte_12',['byte',['../targimpl_8c.html#a71809484a26cd96c6abe839a0a8a289d',1,'targimpl.c']]]
 ];

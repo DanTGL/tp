@@ -87,10 +87,9 @@ $(function() {
   <div class="headertitle"><div class="title">ai.c File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="ai_8h_source.html">dolphin/ai/ai.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="dsp_8h_source.html">dolphin/dsp/dsp.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="OS_8h_source.html">dolphin/os/OS.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="ai_8h_source.html">dolphin/ai.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="dsp_8h_source.html">dolphin/dsp.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="os_8h_source.html">dolphin/os.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for ai.c:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -149,14 +148,12 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
+<tr class="memitem:ad8007d6006df031be09662f130bb3a98"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#ad8007d6006df031be09662f130bb3a98">__AIVersion</a> = &quot;&lt;&lt; Dolphin SDK - AI\trelease build: Apr 5 2004 04:15:02 (0x2301) &gt;&gt;&quot;</td></tr>
+<tr class="separator:ad8007d6006df031be09662f130bb3a98"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a800c72932f08a1e7a960fdd77afe4cee"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="ai_8h.html#a59765ba0ce39c3bc3ef518b6301cace4">AISCallback</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#a800c72932f08a1e7a960fdd77afe4cee">__AIS_Callback</a></td></tr>
 <tr class="separator:a800c72932f08a1e7a960fdd77afe4cee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac8996ddd440af33fda7fefe22dfa1247"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="ai_8h.html#af3948d07e4b7320d04ab931a43d18b4e">AIDCallback</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#ac8996ddd440af33fda7fefe22dfa1247">__AID_Callback</a></td></tr>
 <tr class="separator:ac8996ddd440af33fda7fefe22dfa1247"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a6069729885614d1c28f573d06bd419"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a9d99eb16c89214979b98ba942a455e7b">SECTION_DATA</a> char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#a1a6069729885614d1c28f573d06bd419">lit_1</a> []</td></tr>
-<tr class="separator:a1a6069729885614d1c28f573d06bd419"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a12520e388c9f2ee5a5e273ea6eeeb296"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#a12520e388c9f2ee5a5e273ea6eeeb296">__AIVersion</a> = <a class="el" href="ai_8c.html#a1a6069729885614d1c28f573d06bd419">lit_1</a></td></tr>
-<tr class="separator:a12520e388c9f2ee5a5e273ea6eeeb296"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75bb7b2fa85de3ab22d188540dab4d64"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#a75bb7b2fa85de3ab22d188540dab4d64">__CallbackStack</a></td></tr>
 <tr class="separator:a75bb7b2fa85de3ab22d188540dab4d64"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae51fedf223b41d3da83fd7c809e46acc"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ai_8c.html#ae51fedf223b41d3da83fd7c809e46acc">__OldStack</a></td></tr>
@@ -472,9 +469,6 @@ Variables</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">void AIResetStreamSampleCount </td>
@@ -484,11 +478,6 @@ Variables</h2></td></tr>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
@@ -534,9 +523,6 @@ Variables</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">void AISetStreamTrigger </td>
@@ -546,11 +532,6 @@ Variables</h2></td></tr>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
@@ -716,24 +697,16 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a12520e388c9f2ee5a5e273ea6eeeb296" name="a12520e388c9f2ee5a5e273ea6eeeb296"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a12520e388c9f2ee5a5e273ea6eeeb296">&#9670;&#160;</a></span>__AIVersion</h2>
+<a id="ad8007d6006df031be09662f130bb3a98" name="ad8007d6006df031be09662f130bb3a98"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8007d6006df031be09662f130bb3a98">&#9670;&#160;</a></span>__AIVersion</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> const char* __AIVersion = <a class="el" href="ai_8c.html#a1a6069729885614d1c28f573d06bd419">lit_1</a></td>
+          <td class="memname">char* __AIVersion = &quot;&lt;&lt; Dolphin SDK - AI\trelease build: Apr 5 2004 04:15:02 (0x2301) &gt;&gt;&quot;</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
@@ -846,30 +819,6 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a1a6069729885614d1c28f573d06bd419" name="a1a6069729885614d1c28f573d06bd419"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a6069729885614d1c28f573d06bd419">&#9670;&#160;</a></span>lit_1</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a9d99eb16c89214979b98ba942a455e7b">SECTION_DATA</a> char lit_1[]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">    <span class="stringliteral">&quot;&lt;&lt; Dolphin SDK - AI\trelease build: Apr  5 2004 04:15:02 (0x2301) &gt;&gt;&quot;</span></div>
-</div><!-- fragment -->
 </div>
 </div>
 <a id="a3c65512ce22bff64abd58fc6b6180a6a" name="a3c65512ce22bff64abd58fc6b6180a6a"></a>

@@ -9,7 +9,7 @@ var searchData=
   ['datbox_5factionfn_6',['daTbox_actionFn',['../d__a__tbox_8h.html#a394f3f3676bc6e615946e5bca0c4513f',1,'d_a_tbox.h']]],
   ['datbox_5fmodefn_7',['daTbox_modeFn',['../d__a__tbox_8h.html#a9f29810becefe6761188d5a0c644b6c8',1,'d_a_tbox.h']]],
   ['dbcommfunc_8',['DBCommFunc',['../dolphin__trk__glue_8h.html#a687dd1621ec8048d7452f599bae51276',1,'dolphin_trk_glue.h']]],
-  ['dbcomminitfunc_9',['DBCommInitFunc',['../dolphin__trk__glue_8h.html#a4fb18254de3e2b4f534290cc15cb615f',1,'dolphin_trk_glue.h']]],
+  ['dbcomminitfunc_9',['DBCommInitFunc',['../dolphin__trk__glue_8h.html#ad3184b58230d0e8a60496cc1051f7a89',1,'dolphin_trk_glue.h']]],
   ['dbcommreadfunc_10',['DBCommReadFunc',['../dolphin__trk__glue_8h.html#a8ada0547f0570288a724ef065f79adb6',1,'dolphin_trk_glue.h']]],
   ['dbcommtable_11',['DBCommTable',['../dolphin__trk__glue_8h.html#a411ab7f8281000ccefd7c749bfb7301b',1,'dolphin_trk_glue.h']]],
   ['dbcommwritefunc_12',['DBCommWriteFunc',['../dolphin__trk__glue_8h.html#a2c6a2dad34caf7ac2882689b98d2a89b',1,'dolphin_trk_glue.h']]],

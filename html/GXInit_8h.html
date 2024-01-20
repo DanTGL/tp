@@ -90,15 +90,14 @@ $(function() {
   <div class="headertitle"><div class="title">GXInit.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="GXEnum_8h_source.html">dolphin/gx/GXEnum.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="GXStruct_8h_source.html">dolphin/gx/GXStruct.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="mtx_8h_source.html">dolphin/mtx/mtx.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="GXTexture_8h_source.html">dolphin/gx/GXTexture.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="mtx_8h_source.html">dolphin/mtx.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for GXInit.h:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="GXInit_8h__incl.svg" width="612" height="418"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="GXInit_8h__incl.svg" width="614" height="418"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </div><div class="textblock"><div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -146,10 +145,6 @@ Macros</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a2e6429cb62d0935a264384c9a9e9eca6"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="GXStruct_8h.html#aea8423b7092e3b999be3337cf3c4b9aa">GXTexRegion</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXInit_8h.html#a2e6429cb62d0935a264384c9a9e9eca6">GXTexRegionCallback</a>) (<a class="el" href="GXStruct_8h.html#a300d2e5e09d00f766ea22f9969237c98">GXTexObj</a> *obj)</td></tr>
-<tr class="separator:a2e6429cb62d0935a264384c9a9e9eca6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ace40845d2ddae5d038dccde57cb42eb5"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="GXStruct_8h.html#ac45538f651d3d85f644158fb95413bb6">GXTlutRegion</a> *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXInit_8h.html#ace40845d2ddae5d038dccde57cb42eb5">GXTlutRegionCallback</a>) (<a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> name)</td></tr>
-<tr class="separator:ace40845d2ddae5d038dccde57cb42eb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6f1be31bdf6491074a13f515ab26f2bc"><td class="memItemLeft" align="right" valign="top">typedef struct <a class="el" href="struct__GXData.html">_GXData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXInit_8h.html#a6f1be31bdf6491074a13f515ab26f2bc">GXData</a></td></tr>
 <tr class="separator:a6f1be31bdf6491074a13f515ab26f2bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -163,8 +158,8 @@ Functions</h2></td></tr>
 <tr class="separator:aaf270fd15360a8bf9ed85dc06cd41baa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aac363880e96fbfdbbc9b5170e8e9bf74"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXInit_8h.html#aac363880e96fbfdbbc9b5170e8e9bf74">GXReadMEMReg</a> (<a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> addrLo, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> addrHi)</td></tr>
 <tr class="separator:aac363880e96fbfdbbc9b5170e8e9bf74"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6191b2a1740adae03bdd61e228fdab5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="GXStruct_8h.html#aea8423b7092e3b999be3337cf3c4b9aa">GXTexRegion</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXInit_8h.html#ab6191b2a1740adae03bdd61e228fdab5">__GXDefaultTexRegionCallback</a> (<a class="el" href="GXStruct_8h.html#a300d2e5e09d00f766ea22f9969237c98">GXTexObj</a> *obj, <a class="el" href="GXEnum_8h.html#a72532f5d20cdea292c5f2f9c296848ab">GXTexMapID</a> mapID)</td></tr>
-<tr class="separator:ab6191b2a1740adae03bdd61e228fdab5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a357f11baddd7758a8afb12707a293050"><td class="memItemLeft" align="right" valign="top"><a class="el" href="GXStruct_8h.html#aea8423b7092e3b999be3337cf3c4b9aa">GXTexRegion</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXInit_8h.html#a357f11baddd7758a8afb12707a293050">__GXDefaultTexRegionCallback</a> (const <a class="el" href="GXStruct_8h.html#a300d2e5e09d00f766ea22f9969237c98">GXTexObj</a> *obj, <a class="el" href="GXEnum_8h.html#a72532f5d20cdea292c5f2f9c296848ab">GXTexMapID</a> mapID)</td></tr>
+<tr class="separator:a357f11baddd7758a8afb12707a293050"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2b6b909aa3b14a23b812e73a1c7fecde"><td class="memItemLeft" align="right" valign="top"><a class="el" href="GXStruct_8h.html#ac45538f651d3d85f644158fb95413bb6">GXTlutRegion</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXInit_8h.html#a2b6b909aa3b14a23b812e73a1c7fecde">__GXDefaultTlutRegionCallback</a> (<a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> tlut)</td></tr>
 <tr class="separator:a2b6b909aa3b14a23b812e73a1c7fecde"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa443dbce7ddf92b191aefa5f716131b9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXInit_8h.html#aa443dbce7ddf92b191aefa5f716131b9">__GXShutdown</a> (<a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a>)</td></tr>
@@ -445,37 +440,9 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a2e6429cb62d0935a264384c9a9e9eca6" name="a2e6429cb62d0935a264384c9a9e9eca6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e6429cb62d0935a264384c9a9e9eca6">&#9670;&#160;</a></span>GXTexRegionCallback</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef <a class="el" href="GXStruct_8h.html#aea8423b7092e3b999be3337cf3c4b9aa">GXTexRegion</a>(* GXTexRegionCallback) (<a class="el" href="GXStruct_8h.html#a300d2e5e09d00f766ea22f9969237c98">GXTexObj</a> *obj)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ace40845d2ddae5d038dccde57cb42eb5" name="ace40845d2ddae5d038dccde57cb42eb5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace40845d2ddae5d038dccde57cb42eb5">&#9670;&#160;</a></span>GXTlutRegionCallback</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef <a class="el" href="GXStruct_8h.html#ac45538f651d3d85f644158fb95413bb6">GXTlutRegion</a> *(* GXTlutRegionCallback) (<a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> name)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="ab6191b2a1740adae03bdd61e228fdab5" name="ab6191b2a1740adae03bdd61e228fdab5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab6191b2a1740adae03bdd61e228fdab5">&#9670;&#160;</a></span>__GXDefaultTexRegionCallback()</h2>
+<a id="a357f11baddd7758a8afb12707a293050" name="a357f11baddd7758a8afb12707a293050"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a357f11baddd7758a8afb12707a293050">&#9670;&#160;</a></span>__GXDefaultTexRegionCallback()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -483,7 +450,7 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname"><a class="el" href="GXStruct_8h.html#aea8423b7092e3b999be3337cf3c4b9aa">GXTexRegion</a> * __GXDefaultTexRegionCallback </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="GXStruct_8h.html#a300d2e5e09d00f766ea22f9969237c98">GXTexObj</a> *&#160;</td>
+          <td class="paramtype">const <a class="el" href="GXStruct_8h.html#a300d2e5e09d00f766ea22f9969237c98">GXTexObj</a> *&#160;</td>
           <td class="paramname"><em>obj</em>, </td>
         </tr>
         <tr>

@@ -108,7 +108,7 @@ Macros</h2></td></tr>
 <tr class="separator:a0b5bc6f9dcf7e2f6172ca22e67154606"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adb13687a896636dc481916a3a3d32fe8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="strtoul_8c.html#adb13687a896636dc481916a3a3d32fe8">success</a>(scan_state)&#160;&#160;&#160;(scan_state &amp; (<a class="el" href="strtoul_8c.html#ac812c5ecefd961b87d832c6c9a2f1bdfab2f043e422fd3c6f193fd972fc1957c7">leading_zero</a> | <a class="el" href="strtoul_8c.html#ac812c5ecefd961b87d832c6c9a2f1bdfadc872e59cb138425a5b0f40ceda358f1">digit_loop</a> | <a class="el" href="strtoul_8c.html#ac812c5ecefd961b87d832c6c9a2f1bdfaaf38e35232eb6728664f98c8110d11a4">finished</a>))</td></tr>
 <tr class="separator:adb13687a896636dc481916a3a3d32fe8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93cf5c67ba0f12a50c8a426c8b7d6bde"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="strtoul_8c.html#a93cf5c67ba0f12a50c8a426c8b7d6bde">fetch</a>()&#160;&#160;&#160;(count++, (*ReadProc)(ReadProcArg, 0, <a class="el" href="scanf_8h.html#aa6e041279607328774c95d4d978df469a52228ebebf5f820233a168fc6c9e84a2">__GetAChar</a>))</td></tr>
+<tr class="memitem:a93cf5c67ba0f12a50c8a426c8b7d6bde"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="strtoul_8c.html#a93cf5c67ba0f12a50c8a426c8b7d6bde">fetch</a>()&#160;&#160;&#160;(<a class="el" href="targimpl_8c.html#ac74ae34e9c58234aacabb6867b245c58">count</a>++, (*ReadProc)(ReadProcArg, 0, <a class="el" href="scanf_8h.html#aa6e041279607328774c95d4d978df469a52228ebebf5f820233a168fc6c9e84a2">__GetAChar</a>))</td></tr>
 <tr class="separator:a93cf5c67ba0f12a50c8a426c8b7d6bde"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae21f63fba0b6473bd59ef6a15e9938c9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="strtoul_8c.html#ae21f63fba0b6473bd59ef6a15e9938c9">unfetch</a>(c)&#160;&#160;&#160;(*ReadProc)(ReadProcArg, c, <a class="el" href="scanf_8h.html#aa6e041279607328774c95d4d978df469aa01eb9afc995671621bbfce1e1a34f7a">__UngetAChar</a>)</td></tr>
 <tr class="separator:ae21f63fba0b6473bd59ef6a15e9938c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -148,7 +148,7 @@ Functions</h2></td></tr>
           <td class="memname">#define fetch</td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td>&#160;&#160;&#160;(count++, (*ReadProc)(ReadProcArg, 0, <a class="el" href="scanf_8h.html#aa6e041279607328774c95d4d978df469a52228ebebf5f820233a168fc6c9e84a2">__GetAChar</a>))</td>
+          <td>&#160;&#160;&#160;(<a class="el" href="targimpl_8c.html#ac74ae34e9c58234aacabb6867b245c58">count</a>++, (*ReadProc)(ReadProcArg, 0, <a class="el" href="scanf_8h.html#aa6e041279607328774c95d4d978df469a52228ebebf5f820233a168fc6c9e84a2">__GetAChar</a>))</td>
         </tr>
       </table>
 </div><div class="memdoc">

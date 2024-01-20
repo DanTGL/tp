@@ -8,7 +8,7 @@ var searchData=
   ['oil_5fbottle3_5',['OIL_BOTTLE3',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2a13c49fd7b1d56e0bac2f98de421627c4',1,'d_save.h']]],
   ['oil_5fbottle_5f2_6',['OIL_BOTTLE_2',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2a3eb77b0702e821844b778556652f038c',1,'d_save.h']]],
   ['only_5fminus_7',['only_minus',['../printf_8c.html#ae53c6bc5f86385ca1788677627d07d03ab5eefbf869f06b2be2ee516f35fb1191',1,'printf.c']]],
-  ['ooccoo_5fnote_8',['OOCCOO_NOTE',['../structdSv__memBit__c.html#aa082398d96cd3320d78e2ca6ce0bb967a46ffed48b5c8a931c9ac433e48ffe347',1,'dSv_memBit_c']]],
+  ['ooccoo_5fnote_8',['OOCCOO_NOTE',['../structdSv__memBit__c.html#a31918a7a14ea8ab6dd3acdcb352762a6a46ffed48b5c8a931c9ac433e48ffe347',1,'dSv_memBit_c']]],
   ['opa_5ftex_5fedge_9',['OPA_TEX_EDGE',['../structJ3DSys.html#a30cc363d626b82865300b658c387eab9a4a18837b3c53b54c677be6c39ab77d11',1,'J3DSys']]],
   ['open_5fe_10',['OPEN_e',['../classdaDoorPush__c.html#a2e894bffd2bde5db2a433b4d6a50d0d6a25625ece8a06aeddd950543817fb5bf9',1,'daDoorPush_c']]],
   ['options_5fclose_11',['OPTIONS_CLOSE',['../classdMw__c.html#a9c12bf96930db318a3d8b6704985facea8fca1627451959ea8f4684dcb8f50368',1,'dMw_c']]],
@@ -56,10 +56,11 @@ var searchData=
   ['os_5fintr_5fpi_5frsw_53',['OS_INTR_PI_RSW',['../OSInterrupt_8h.html#adc17d9a1e33c0ee38de989de1854a849a4728598a1974eb482b4f5640da93f9d5',1,'OSInterrupt.h']]],
   ['os_5fintr_5fpi_5fsi_54',['OS_INTR_PI_SI',['../OSInterrupt_8h.html#adc17d9a1e33c0ee38de989de1854a849a48c6edbee1033fceaa81771b8361d2b5',1,'OSInterrupt.h']]],
   ['os_5fintr_5fpi_5fvi_55',['OS_INTR_PI_VI',['../OSInterrupt_8h.html#adc17d9a1e33c0ee38de989de1854a849a2cfba014e30f65f2cd56b1909f675243',1,'OSInterrupt.h']]],
-  ['out_5finit_56',['OUT_INIT',['../classJStudio_1_1TFunctionValue.html#aed12c4e15d04deacdf481c76184947bda0bf61c0d1b5283bc80447261eb654f8f',1,'JStudio::TFunctionValue']]],
-  ['output_5fconsole_57',['OUTPUT_CONSOLE',['../classJUTConsole.html#a6932adf6a81c4c2d4f2dd8f76dc3f0a1aaba7be9daff3eab9a89779be2412fb48',1,'JUTConsole']]],
-  ['output_5fnone_58',['OUTPUT_NONE',['../classJUTConsole.html#a6932adf6a81c4c2d4f2dd8f76dc3f0a1a07e56d0ccc9f35caf69a2461052dbaab',1,'JUTConsole']]],
-  ['output_5fosr_5fand_5fconsole_59',['OUTPUT_OSR_AND_CONSOLE',['../classJUTConsole.html#a6932adf6a81c4c2d4f2dd8f76dc3f0a1aa292b2475f8114cc75c6b5101e48f739',1,'JUTConsole']]],
-  ['output_5fosreport_60',['OUTPUT_OSREPORT',['../classJUTConsole.html#a6932adf6a81c4c2d4f2dd8f76dc3f0a1a3b33a43fad34bab707a246827a61cc6d',1,'JUTConsole']]],
-  ['output_5frate_5f0_61',['OUTPUT_RATE_0',['../JASAiCtrl_8h.html#a17798305b6b8f32e641d4de5c1382286a543e42b9012415c9b66130a01a1e9d05',1,'JASAiCtrl.h']]]
+  ['os_5fmsg_5fpersistent_56',['OS_MSG_PERSISTENT',['../OSMessage_8h.html#a7f0952f940e3669382cb7a05a02ca9cfae00ac62c883fe7791e2f2698f5da7fbf',1,'OSMessage.h']]],
+  ['out_5finit_57',['OUT_INIT',['../classJStudio_1_1TFunctionValue.html#aed12c4e15d04deacdf481c76184947bda0bf61c0d1b5283bc80447261eb654f8f',1,'JStudio::TFunctionValue']]],
+  ['output_5fconsole_58',['OUTPUT_CONSOLE',['../classJUTConsole.html#a6932adf6a81c4c2d4f2dd8f76dc3f0a1aaba7be9daff3eab9a89779be2412fb48',1,'JUTConsole']]],
+  ['output_5fnone_59',['OUTPUT_NONE',['../classJUTConsole.html#a6932adf6a81c4c2d4f2dd8f76dc3f0a1a07e56d0ccc9f35caf69a2461052dbaab',1,'JUTConsole']]],
+  ['output_5fosr_5fand_5fconsole_60',['OUTPUT_OSR_AND_CONSOLE',['../classJUTConsole.html#a6932adf6a81c4c2d4f2dd8f76dc3f0a1aa292b2475f8114cc75c6b5101e48f739',1,'JUTConsole']]],
+  ['output_5fosreport_61',['OUTPUT_OSREPORT',['../classJUTConsole.html#a6932adf6a81c4c2d4f2dd8f76dc3f0a1a3b33a43fad34bab707a246827a61cc6d',1,'JUTConsole']]],
+  ['output_5frate_5f0_62',['OUTPUT_RATE_0',['../JASAiCtrl_8h.html#a17798305b6b8f32e641d4de5c1382286a543e42b9012415c9b66130a01a1e9d05',1,'JASAiCtrl.h']]]
 ];

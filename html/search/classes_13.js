@@ -57,13 +57,14 @@ var searchData=
   ['standard_5fcreate_5frequest_5fclass_54',['standard_create_request_class',['../structstandard__create__request__class.html',1,'']]],
   ['star_5feff_55',['STAR_EFF',['../structSTAR__EFF.html',1,'']]],
   ['stcontrol_56',['STControl',['../structSTControl.html',1,'']]],
-  ['str1_5fentry_5ft_57',['str1_entry_t',['../structstr1__entry__t.html',1,'']]],
-  ['str1_5fsection_5ft_58',['str1_section_t',['../structstr1__section__t.html',1,'']]],
-  ['stringoffset_59',['StringOffset',['../structJAUStdSoundTableType_1_1StringOffset.html',1,'JAUStdSoundTableType']]],
-  ['struct_5fdsp_5ftask_60',['STRUCT_DSP_TASK',['../structSTRUCT__DSP__TASK.html',1,'']]],
-  ['styledata_61',['StyleData',['../structdCamStyleData_1_1StyleData.html',1,'dCamStyleData']]],
-  ['sub_5fkankyo_5f_5fclass_62',['sub_kankyo__class',['../structsub__kankyo____class.html',1,'']]],
-  ['subblock_63',['SubBlock',['../structSubBlock.html',1,'']]],
-  ['svec_64',['SVec',['../structSVec.html',1,'']]],
-  ['syaz0header_65',['SYaz0Header',['../structSYaz0Header.html',1,'']]]
+  ['stopinfo_5fppc_57',['StopInfo_PPC',['../structStopInfo__PPC.html',1,'']]],
+  ['str1_5fentry_5ft_58',['str1_entry_t',['../structstr1__entry__t.html',1,'']]],
+  ['str1_5fsection_5ft_59',['str1_section_t',['../structstr1__section__t.html',1,'']]],
+  ['stringoffset_60',['StringOffset',['../structJAUStdSoundTableType_1_1StringOffset.html',1,'JAUStdSoundTableType']]],
+  ['struct_5fdsp_5ftask_61',['STRUCT_DSP_TASK',['../structSTRUCT__DSP__TASK.html',1,'']]],
+  ['styledata_62',['StyleData',['../structdCamStyleData_1_1StyleData.html',1,'dCamStyleData']]],
+  ['sub_5fkankyo_5f_5fclass_63',['sub_kankyo__class',['../structsub__kankyo____class.html',1,'']]],
+  ['subblock_64',['SubBlock',['../structSubBlock.html',1,'']]],
+  ['svec_65',['SVec',['../structSVec.html',1,'']]],
+  ['syaz0header_66',['SYaz0Header',['../structSYaz0Header.html',1,'']]]
 ];

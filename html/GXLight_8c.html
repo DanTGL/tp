@@ -87,12 +87,8 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="GXLight_8h_source.html">dolphin/gx/GXLight.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="gx_8h_source.html">dolphin/gx.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="math_8h_source.html">math.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="GX_8h_source.html">dolphin/gx/GX.h</a>&quot;</code><br />
-<code>#include &quot;asm/dolphin/gx/GXLight/GXSetChanAmbColor.s&quot;</code><br />
-<code>#include &quot;asm/dolphin/gx/GXLight/GXSetChanMatColor.s&quot;</code><br />
-<code>#include &quot;asm/dolphin/gx/GXLight/GXSetNumChans.s&quot;</code><br />
-<code>#include &quot;asm/dolphin/gx/GXLight/GXSetChanCtrl.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for GXLight.c:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -116,16 +112,18 @@ Functions</h2></td></tr>
 <tr class="separator:a3fb5b17d523fa3aa1025236131b0d241"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae8aeb7fa2262d1f2c0b31e47858f674a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#ae8aeb7fa2262d1f2c0b31e47858f674a">GXInitLightColor</a> (<a class="el" href="GXStruct_8h.html#a7034f8202cd531da2f6f159bbbfdcb25">GXLightObj</a> *obj, <a class="el" href="GXStruct_8h.html#a0419d171f4d66c2b2a77bd299ddbdcdc">GXColor</a> color)</td></tr>
 <tr class="separator:ae8aeb7fa2262d1f2c0b31e47858f674a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1fee1d39f4e59bfc0a4a526be1574300"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#a1fee1d39f4e59bfc0a4a526be1574300">GXLoadLightObjImm</a> (register <a class="el" href="GXStruct_8h.html#a7034f8202cd531da2f6f159bbbfdcb25">GXLightObj</a> *obj, register <a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a> <a class="el" href="d__a__npc__cd_8cpp.html#ab7710104fe587e0c8b4be67c675f3e0c">id</a>)</td></tr>
-<tr class="separator:a1fee1d39f4e59bfc0a4a526be1574300"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa7e0c16a2db159e2f226edef48e97fc2"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#aa7e0c16a2db159e2f226edef48e97fc2">GXSetChanAmbColor</a> (<a class="el" href="GXEnum_8h.html#abc4e79b15060ac94997a8953439ce6d4">GXChannelID</a> channel, <a class="el" href="GXStruct_8h.html#a0419d171f4d66c2b2a77bd299ddbdcdc">GXColor</a> color)</td></tr>
-<tr class="separator:aa7e0c16a2db159e2f226edef48e97fc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8c379b3ee8db4bccae1441d4e2428d31"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#a8c379b3ee8db4bccae1441d4e2428d31">GXSetChanMatColor</a> (<a class="el" href="GXEnum_8h.html#abc4e79b15060ac94997a8953439ce6d4">GXChannelID</a> channel, <a class="el" href="GXStruct_8h.html#a0419d171f4d66c2b2a77bd299ddbdcdc">GXColor</a> color)</td></tr>
-<tr class="separator:a8c379b3ee8db4bccae1441d4e2428d31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a61e200875a38bd934a7c27dfacdcc155"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#a61e200875a38bd934a7c27dfacdcc155">GXSetNumChans</a> (<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> chan_num)</td></tr>
-<tr class="separator:a61e200875a38bd934a7c27dfacdcc155"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a36aabe0673ddf2b121524299d00ea9cc"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#a36aabe0673ddf2b121524299d00ea9cc">GXSetChanCtrl</a> (<a class="el" href="GXEnum_8h.html#abc4e79b15060ac94997a8953439ce6d4">GXChannelID</a> channel, <a class="el" href="GXEnum_8h.html#af649d9b5b9edfd6b1587a5d363729b52">GXBool</a> enable, <a class="el" href="GXEnum_8h.html#ace6a973ec8662fd35b4692add43f5bea">GXColorSrc</a> amb_src, <a class="el" href="GXEnum_8h.html#ace6a973ec8662fd35b4692add43f5bea">GXColorSrc</a> mat_src, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> light_mask, <a class="el" href="GXEnum_8h.html#a5527aa6ec820423661b9651854e98d4e">GXDiffuseFn</a> diff_fn, <a class="el" href="GXEnum_8h.html#a69c866767acef9b8c4a1c27f38190794">GXAttnFn</a> attn_fn)</td></tr>
-<tr class="separator:a36aabe0673ddf2b121524299d00ea9cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab512f06fceaa5f5a1acc707ef27bc897"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#ab512f06fceaa5f5a1acc707ef27bc897">PushLight</a> (const register <a class="el" href="GXStruct_8h.html#a7034f8202cd531da2f6f159bbbfdcb25">GXLightObj</a> *lt_obj, register void *dest)</td></tr>
+<tr class="separator:ab512f06fceaa5f5a1acc707ef27bc897"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac30334b98476ae84b3e7a6e83ced17b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#aac30334b98476ae84b3e7a6e83ced17b">GXLoadLightObjImm</a> (<a class="el" href="GXStruct_8h.html#a7034f8202cd531da2f6f159bbbfdcb25">GXLightObj</a> *obj, <a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a> light)</td></tr>
+<tr class="separator:aac30334b98476ae84b3e7a6e83ced17b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a25c196557666de4a4c716fc34dd3bd49"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#a25c196557666de4a4c716fc34dd3bd49">GXSetChanAmbColor</a> (<a class="el" href="GXEnum_8h.html#abc4e79b15060ac94997a8953439ce6d4">GXChannelID</a> channel, <a class="el" href="GXStruct_8h.html#a0419d171f4d66c2b2a77bd299ddbdcdc">GXColor</a> color)</td></tr>
+<tr class="separator:a25c196557666de4a4c716fc34dd3bd49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acfb3627b03d06496b0fa6ef1adfd3049"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#acfb3627b03d06496b0fa6ef1adfd3049">GXSetChanMatColor</a> (<a class="el" href="GXEnum_8h.html#abc4e79b15060ac94997a8953439ce6d4">GXChannelID</a> channel, <a class="el" href="GXStruct_8h.html#a0419d171f4d66c2b2a77bd299ddbdcdc">GXColor</a> color)</td></tr>
+<tr class="separator:acfb3627b03d06496b0fa6ef1adfd3049"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85e7efedbebdefaccbc4da502344a690"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#a85e7efedbebdefaccbc4da502344a690">GXSetNumChans</a> (<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> <a class="el" href="targimpl_8c.html#ac74ae34e9c58234aacabb6867b245c58">count</a>)</td></tr>
+<tr class="separator:a85e7efedbebdefaccbc4da502344a690"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1792ebb65fd32a700afe3e0a6f07d132"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="GXLight_8c.html#a1792ebb65fd32a700afe3e0a6f07d132">GXSetChanCtrl</a> (<a class="el" href="GXEnum_8h.html#abc4e79b15060ac94997a8953439ce6d4">GXChannelID</a> channel, <a class="el" href="GXEnum_8h.html#af649d9b5b9edfd6b1587a5d363729b52">GXBool</a> doEnable, <a class="el" href="GXEnum_8h.html#ace6a973ec8662fd35b4692add43f5bea">GXColorSrc</a> ambSrc, <a class="el" href="GXEnum_8h.html#ace6a973ec8662fd35b4692add43f5bea">GXColorSrc</a> matSrc, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> mask, <a class="el" href="GXEnum_8h.html#a5527aa6ec820423661b9651854e98d4e">GXDiffuseFn</a> diffFunc, <a class="el" href="GXEnum_8h.html#a69c866767acef9b8c4a1c27f38190794">GXAttnFn</a> attnFunc)</td></tr>
+<tr class="separator:a1792ebb65fd32a700afe3e0a6f07d132"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a2a709ae0c9a93d0dd70b6f15eae53431" name="a2a709ae0c9a93d0dd70b6f15eae53431"></a>
@@ -369,23 +367,23 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a1fee1d39f4e59bfc0a4a526be1574300" name="a1fee1d39f4e59bfc0a4a526be1574300"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1fee1d39f4e59bfc0a4a526be1574300">&#9670;&#160;</a></span>GXLoadLightObjImm()</h2>
+<a id="aac30334b98476ae84b3e7a6e83ced17b" name="aac30334b98476ae84b3e7a6e83ced17b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac30334b98476ae84b3e7a6e83ced17b">&#9670;&#160;</a></span>GXLoadLightObjImm()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void GXLoadLightObjImm </td>
+          <td class="memname">void GXLoadLightObjImm </td>
           <td>(</td>
-          <td class="paramtype">register <a class="el" href="GXStruct_8h.html#a7034f8202cd531da2f6f159bbbfdcb25">GXLightObj</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="GXStruct_8h.html#a7034f8202cd531da2f6f159bbbfdcb25">GXLightObj</a> *&#160;</td>
           <td class="paramname"><em>obj</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">register <a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a>&#160;</td>
-          <td class="paramname"><em>id</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a>&#160;</td>
+          <td class="paramname"><em>light</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -397,14 +395,14 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="aa7e0c16a2db159e2f226edef48e97fc2" name="aa7e0c16a2db159e2f226edef48e97fc2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa7e0c16a2db159e2f226edef48e97fc2">&#9670;&#160;</a></span>GXSetChanAmbColor()</h2>
+<a id="a25c196557666de4a4c716fc34dd3bd49" name="a25c196557666de4a4c716fc34dd3bd49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a25c196557666de4a4c716fc34dd3bd49">&#9670;&#160;</a></span>GXSetChanAmbColor()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void GXSetChanAmbColor </td>
+          <td class="memname">void GXSetChanAmbColor </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="GXEnum_8h.html#abc4e79b15060ac94997a8953439ce6d4">GXChannelID</a>&#160;</td>
           <td class="paramname"><em>channel</em>, </td>
@@ -425,14 +423,14 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a36aabe0673ddf2b121524299d00ea9cc" name="a36aabe0673ddf2b121524299d00ea9cc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a36aabe0673ddf2b121524299d00ea9cc">&#9670;&#160;</a></span>GXSetChanCtrl()</h2>
+<a id="a1792ebb65fd32a700afe3e0a6f07d132" name="a1792ebb65fd32a700afe3e0a6f07d132"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1792ebb65fd32a700afe3e0a6f07d132">&#9670;&#160;</a></span>GXSetChanCtrl()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void GXSetChanCtrl </td>
+          <td class="memname">void GXSetChanCtrl </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="GXEnum_8h.html#abc4e79b15060ac94997a8953439ce6d4">GXChannelID</a>&#160;</td>
           <td class="paramname"><em>channel</em>, </td>
@@ -441,37 +439,37 @@ Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="GXEnum_8h.html#af649d9b5b9edfd6b1587a5d363729b52">GXBool</a>&#160;</td>
-          <td class="paramname"><em>enable</em>, </td>
+          <td class="paramname"><em>doEnable</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="GXEnum_8h.html#ace6a973ec8662fd35b4692add43f5bea">GXColorSrc</a>&#160;</td>
-          <td class="paramname"><em>amb_src</em>, </td>
+          <td class="paramname"><em>ambSrc</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="GXEnum_8h.html#ace6a973ec8662fd35b4692add43f5bea">GXColorSrc</a>&#160;</td>
-          <td class="paramname"><em>mat_src</em>, </td>
+          <td class="paramname"><em>matSrc</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td>
-          <td class="paramname"><em>light_mask</em>, </td>
+          <td class="paramname"><em>mask</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="GXEnum_8h.html#a5527aa6ec820423661b9651854e98d4e">GXDiffuseFn</a>&#160;</td>
-          <td class="paramname"><em>diff_fn</em>, </td>
+          <td class="paramname"><em>diffFunc</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="GXEnum_8h.html#a69c866767acef9b8c4a1c27f38190794">GXAttnFn</a>&#160;</td>
-          <td class="paramname"><em>attn_fn</em>&#160;</td>
+          <td class="paramname"><em>attnFunc</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -483,14 +481,14 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a8c379b3ee8db4bccae1441d4e2428d31" name="a8c379b3ee8db4bccae1441d4e2428d31"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8c379b3ee8db4bccae1441d4e2428d31">&#9670;&#160;</a></span>GXSetChanMatColor()</h2>
+<a id="acfb3627b03d06496b0fa6ef1adfd3049" name="acfb3627b03d06496b0fa6ef1adfd3049"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acfb3627b03d06496b0fa6ef1adfd3049">&#9670;&#160;</a></span>GXSetChanMatColor()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void GXSetChanMatColor </td>
+          <td class="memname">void GXSetChanMatColor </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="GXEnum_8h.html#abc4e79b15060ac94997a8953439ce6d4">GXChannelID</a>&#160;</td>
           <td class="paramname"><em>channel</em>, </td>
@@ -511,20 +509,56 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a61e200875a38bd934a7c27dfacdcc155" name="a61e200875a38bd934a7c27dfacdcc155"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a61e200875a38bd934a7c27dfacdcc155">&#9670;&#160;</a></span>GXSetNumChans()</h2>
+<a id="a85e7efedbebdefaccbc4da502344a690" name="a85e7efedbebdefaccbc4da502344a690"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85e7efedbebdefaccbc4da502344a690">&#9670;&#160;</a></span>GXSetNumChans()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void GXSetNumChans </td>
+          <td class="memname">void GXSetNumChans </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td>
-          <td class="paramname"><em>chan_num</em></td><td>)</td>
+          <td class="paramname"><em>count</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab512f06fceaa5f5a1acc707ef27bc897" name="ab512f06fceaa5f5a1acc707ef27bc897"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab512f06fceaa5f5a1acc707ef27bc897">&#9670;&#160;</a></span>PushLight()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void PushLight </td>
+          <td>(</td>
+          <td class="paramtype">const register <a class="el" href="GXStruct_8h.html#a7034f8202cd531da2f6f159bbbfdcb25">GXLightObj</a> *&#160;</td>
+          <td class="paramname"><em>lt_obj</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">register void *&#160;</td>
+          <td class="paramname"><em>dest</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>

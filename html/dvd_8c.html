@@ -89,10 +89,9 @@ $(function() {
   <div class="headertitle"><div class="title">dvd.c File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="dvd_8h_source.html">dolphin/dvd/dvd.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="dvd_8h_source.html">dolphin/dvd.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dvdlow_8h_source.html">dolphin/dvd/dvdlow.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="OS_8h_source.html">dolphin/os/OS.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="os_8h_source.html">dolphin/os.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for dvd.c:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -311,10 +310,10 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a0764984f4a23336c239ccbc9fec3e724"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structOSThreadQueue.html">OSThreadQueue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dvd_8c.html#a0764984f4a23336c239ccbc9fec3e724">__DVDThreadQueue</a></td></tr>
-<tr class="separator:a0764984f4a23336c239ccbc9fec3e724"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab642e6ae2b12c0c51ec296dca7bb7612"><td class="memItemLeft" align="right" valign="top">static char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dvd_8c.html#ab642e6ae2b12c0c51ec296dca7bb7612">__DVDVersion</a> = &quot;&lt;&lt; Dolphin SDK - DVD\trelease build: Apr 5 2004 04:14:51 (0x2301) &gt;&gt;&quot;</td></tr>
 <tr class="separator:ab642e6ae2b12c0c51ec296dca7bb7612"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0764984f4a23336c239ccbc9fec3e724"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structOSThreadQueue.html">OSThreadQueue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dvd_8c.html#a0764984f4a23336c239ccbc9fec3e724">__DVDThreadQueue</a></td></tr>
+<tr class="separator:a0764984f4a23336c239ccbc9fec3e724"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaccd32ed8eb5e24cef959c8c7da2575f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="structDVDCommandBlock.html">DVDCommandBlock</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dvd_8c.html#aaccd32ed8eb5e24cef959c8c7da2575f">executing</a></td></tr>
 <tr class="separator:aaccd32ed8eb5e24cef959c8c7da2575f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75a3acbdfa08c3318d213ee97b54db8a"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="structDVDDiskID.html">DVDDiskID</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dvd_8c.html#a75a3acbdfa08c3318d213ee97b54db8a">IDShouldBe</a></td></tr>
@@ -363,8 +362,8 @@ Variables</h2></td></tr>
 <tr class="separator:a012ace3d9bea281aa7fb9d0bcc78d746"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a018f323966457859f869e4349afbe5a0"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dvd_8c.html#a018f323966457859f869e4349afbe5a0">ImmCommand</a> [] = {0xFFFFFFFF, 0xFFFFFFFF, 0xFFFFFFFF}</td></tr>
 <tr class="separator:a018f323966457859f869e4349afbe5a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4d6133f6e1dabe242ae48fd0a64fb2d2"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dvd_8c.html#a4d6133f6e1dabe242ae48fd0a64fb2d2">DmaCommand</a> [] = {0xFFFFFFFF}</td></tr>
-<tr class="separator:a4d6133f6e1dabe242ae48fd0a64fb2d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1519286dd46cb731bc26f082887bda19"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dvd_8c.html#a1519286dd46cb731bc26f082887bda19">DmaCommand</a> [] = {0xFFFFFFFF}</td></tr>
+<tr class="separator:a1519286dd46cb731bc26f082887bda19"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a172411f34d3c0a1464e9b539554e52d3"><td class="memItemLeft" align="right" valign="top">static char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dvd_8c.html#a172411f34d3c0a1464e9b539554e52d3">string_DVDChangeDiskAsyncMsg</a> []</td></tr>
 <tr class="separator:a172411f34d3c0a1464e9b539554e52d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -591,7 +590,6 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">void __DVDPrintFatalMessage </td>
           <td>(</td>
-          <td class="paramtype">void&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -661,7 +659,6 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">void __fstLoad </td>
           <td>(</td>
-          <td class="paramtype">void&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -1501,7 +1498,7 @@ Variables</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -1556,9 +1553,6 @@ Variables</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a> DVDCancelAllAsync </td>
@@ -1568,11 +1562,6 @@ Variables</h2></td></tr>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
@@ -2011,9 +2000,6 @@ Variables</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">void DVDPause </td>
@@ -2023,11 +2009,6 @@ Variables</h2></td></tr>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
@@ -2237,7 +2218,7 @@ Variables</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -2263,7 +2244,7 @@ Variables</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -2299,7 +2280,7 @@ Variables</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -2479,7 +2460,7 @@ Variables</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -2556,7 +2537,7 @@ Variables</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -2582,7 +2563,7 @@ Variables</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -2634,7 +2615,7 @@ Variables</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -2710,7 +2691,7 @@ Variables</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -2938,8 +2919,8 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a4d6133f6e1dabe242ae48fd0a64fb2d2" name="a4d6133f6e1dabe242ae48fd0a64fb2d2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d6133f6e1dabe242ae48fd0a64fb2d2">&#9670;&#160;</a></span>DmaCommand</h2>
+<a id="a1519286dd46cb731bc26f082887bda19" name="a1519286dd46cb731bc26f082887bda19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1519286dd46cb731bc26f082887bda19">&#9670;&#160;</a></span>DmaCommand</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2948,7 +2929,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> DmaCommand[] = {0xFFFFFFFF}</td>
+          <td class="memname"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> DmaCommand[] = {0xFFFFFFFF}</td>
         </tr>
       </table>
   </td>
