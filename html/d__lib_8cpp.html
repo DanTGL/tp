@@ -82,21 +82,23 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">d_lib.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="d__lib_8h_source.html">d/d_lib.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="d__event_8h_source.html">d/event/d_event.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="d__stage_8h_source.html">d/d_stage.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="c__m3d_8h_source.html">SSystem/SComponent/c_m3d.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JKRAramArchive_8h_source.html">JSystem/JKernel/JKRAramArchive.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JKRAram_8h_source.html">JSystem/JKernel/JKRAram.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JKRDecomp_8h_source.html">JSystem/JKernel/JKRDecomp.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JKRDvdRipper_8h_source.html">JSystem/JKernel/JKRDvdRipper.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="f__op__actor_8h_source.html">f_op/f_op_actor.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="m__Do__controller__pad_8h_source.html">m_Do/m_Do_controller_pad.h</a>&quot;</code><br />
 <code>#include &quot;asm/d/d_lib/checkTrigger__9STControlFv.s&quot;</code><br />
-<code>#include &quot;asm/d/d_lib/dLib_getEventSwitchNo__Fi.s&quot;</code><br />
-<code>#include &quot;asm/d/d_lib/dLib_checkActorInRectangle__FP10fopAc_ac_cP10fopAc_ac_cPC4cXyzPC4cXyz.s&quot;</code><br />
-<code>#include &quot;asm/d/d_lib/dLib_getExpandSizeFromAramArchive__FP14JKRAramArchivePCc.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for d_lib.cpp:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -106,17 +108,6 @@ $(function() {
 </div>
 </div>
 </div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdEvt__control__c.html">dEvt_control_c</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJKRExpandSwitch.html">JKRExpandSwitch</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJKRAramArchive.html">JKRAramArchive</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJKRAram.html">JKRAram</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:a9d1e95bec334d0682e8cbcae5fd76a45"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__lib_8cpp.html#a9d1e95bec334d0682e8cbcae5fd76a45">__ct__9STControlFssssffss</a> ()</td></tr>
@@ -175,12 +166,12 @@ Functions</h2></td></tr>
 <tr class="separator:a5f3662cd06864ff7627d5424c192e6f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abed5bd59c54272a132a5b4da4beff66d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__lib_8cpp.html#abed5bd59c54272a132a5b4da4beff66d">_restgpr_29</a> ()</td></tr>
 <tr class="separator:abed5bd59c54272a132a5b4da4beff66d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb67cd87ab9fe125412661417c5575fc"><td class="memItemLeft" align="right" valign="top">asm <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__lib_8cpp.html#adb67cd87ab9fe125412661417c5575fc">dLib_getEventSwitchNo</a> (int param_0)</td></tr>
-<tr class="separator:adb67cd87ab9fe125412661417c5575fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0273d1c703726a6d9b60d0400c844fb0"><td class="memItemLeft" align="right" valign="top">asm <a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__lib_8cpp.html#a0273d1c703726a6d9b60d0400c844fb0">dLib_checkActorInRectangle</a> (<a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *param_0, <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *param_1, <a class="el" href="structcXyz.html">cXyz</a> const *param_2, <a class="el" href="structcXyz.html">cXyz</a> const *param_3)</td></tr>
-<tr class="separator:a0273d1c703726a6d9b60d0400c844fb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4caf8ee507b960a069f39fe7eb1b6909"><td class="memItemLeft" align="right" valign="top">asm <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__lib_8cpp.html#a4caf8ee507b960a069f39fe7eb1b6909">dLib_getExpandSizeFromAramArchive</a> (<a class="el" href="structJKRAramArchive.html">JKRAramArchive</a> *param_0, char const *param_1)</td></tr>
-<tr class="separator:a4caf8ee507b960a069f39fe7eb1b6909"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add3b769ad5592680ea61125a1706b1f8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__lib_8cpp.html#add3b769ad5592680ea61125a1706b1f8">dLib_getEventSwitchNo</a> (int param_0)</td></tr>
+<tr class="separator:add3b769ad5592680ea61125a1706b1f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a58d414ecbc4e73e32bfa0f9c57e35a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__lib_8cpp.html#a4a58d414ecbc4e73e32bfa0f9c57e35a">dLib_checkActorInRectangle</a> (<a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *param_0, <a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *param_1, <a class="el" href="structcXyz.html">cXyz</a> const *param_2, <a class="el" href="structcXyz.html">cXyz</a> const *param_3)</td></tr>
+<tr class="separator:a4a58d414ecbc4e73e32bfa0f9c57e35a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaab616e32fa02958578d5c6932ad8391"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__lib_8cpp.html#aaab616e32fa02958578d5c6932ad8391">dLib_getExpandSizeFromAramArchive</a> (<a class="el" href="structJKRAramArchive.html">JKRAramArchive</a> *i_aramArchive, char const *param_2)</td></tr>
+<tr class="separator:aaab616e32fa02958578d5c6932ad8391"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afdfbdf44b6b6c9f018e94d78aeb17054"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> <a class="el" href="d__a__obj_8cpp.html#a0e9b33809a138a37a0db973df1fcbe68">struct_80450DF0</a>[8]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__lib_8cpp.html#afdfbdf44b6b6c9f018e94d78aeb17054">ALIGN_DECL</a> (8)</td></tr>
 <tr class="separator:afdfbdf44b6b6c9f018e94d78aeb17054"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -392,14 +383,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a0273d1c703726a6d9b60d0400c844fb0" name="a0273d1c703726a6d9b60d0400c844fb0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0273d1c703726a6d9b60d0400c844fb0">&#9670;&#160;</a></span>dLib_checkActorInRectangle()</h2>
+<a id="a4a58d414ecbc4e73e32bfa0f9c57e35a" name="a4a58d414ecbc4e73e32bfa0f9c57e35a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a58d414ecbc4e73e32bfa0f9c57e35a">&#9670;&#160;</a></span>dLib_checkActorInRectangle()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm <a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a> dLib_checkActorInRectangle </td>
+          <td class="memname"><a class="el" href="types_8h.html#a050c65e107f0c828f856a231f4b4e788">BOOL</a> dLib_checkActorInRectangle </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="structfopAc__ac__c.html">fopAc_ac_c</a> *&#160;</td>
           <td class="paramname"><em>param_0</em>, </td>
@@ -449,14 +440,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="adb67cd87ab9fe125412661417c5575fc" name="adb67cd87ab9fe125412661417c5575fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adb67cd87ab9fe125412661417c5575fc">&#9670;&#160;</a></span>dLib_getEventSwitchNo()</h2>
+<a id="add3b769ad5592680ea61125a1706b1f8" name="add3b769ad5592680ea61125a1706b1f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add3b769ad5592680ea61125a1706b1f8">&#9670;&#160;</a></span>dLib_getEventSwitchNo()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> dLib_getEventSwitchNo </td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> dLib_getEventSwitchNo </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>param_0</em></td><td>)</td>
@@ -484,23 +475,23 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a4caf8ee507b960a069f39fe7eb1b6909" name="a4caf8ee507b960a069f39fe7eb1b6909"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4caf8ee507b960a069f39fe7eb1b6909">&#9670;&#160;</a></span>dLib_getExpandSizeFromAramArchive()</h2>
+<a id="aaab616e32fa02958578d5c6932ad8391" name="aaab616e32fa02958578d5c6932ad8391"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaab616e32fa02958578d5c6932ad8391">&#9670;&#160;</a></span>dLib_getExpandSizeFromAramArchive()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> dLib_getExpandSizeFromAramArchive </td>
+          <td class="memname"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> dLib_getExpandSizeFromAramArchive </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="structJKRAramArchive.html">JKRAramArchive</a> *&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramname"><em>i_aramArchive</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">char const *&#160;</td>
-          <td class="paramname"><em>param_1</em>&#160;</td>
+          <td class="paramname"><em>param_2</em>&#160;</td>
         </tr>
         <tr>
           <td></td>

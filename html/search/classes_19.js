@@ -56,5 +56,5 @@ var searchData=
   ['z2spotmic_53',['Z2SpotMic',['../structZ2SpotMic.html',1,'']]],
   ['z2statusmgr_54',['Z2StatusMgr',['../structZ2StatusMgr.html',1,'']]],
   ['z2wolfhowldata_55',['Z2WolfHowlData',['../structZ2WolfHowlData.html',1,'']]],
-  ['z2wolfhowlmgr_56',['Z2WolfHowlMgr',['../structZ2WolfHowlMgr.html',1,'']]]
+  ['z2wolfhowlmgr_56',['Z2WolfHowlMgr',['../classZ2WolfHowlMgr.html',1,'']]]
 ];

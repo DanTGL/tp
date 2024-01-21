@@ -66,7 +66,7 @@ var searchData=
   ['z2speechstarter_63',['Z2SpeechStarter',['../structZ2SpeechStarter.html#a8b68f42586bf7c669cab0c9e912779f7',1,'Z2SpeechStarter']]],
   ['z2spotmic_64',['Z2SpotMic',['../structZ2SpotMic.html#a692e90f5921d976c8e372ed1ab91f983',1,'Z2SpotMic']]],
   ['z2statusmgr_65',['Z2StatusMgr',['../structZ2StatusMgr.html#a1580fc77be02ec016d952fc9792509f4',1,'Z2StatusMgr']]],
-  ['z2wolfhowlmgr_66',['Z2WolfHowlMgr',['../structZ2WolfHowlMgr.html#a195a7c86303d9bd3a5574a4a31659ad8',1,'Z2WolfHowlMgr']]],
+  ['z2wolfhowlmgr_66',['Z2WolfHowlMgr',['../classZ2WolfHowlMgr.html#a195a7c86303d9bd3a5574a4a31659ad8',1,'Z2WolfHowlMgr']]],
   ['zeldagframework_67',['zeldaGFrameWork',['../structZ2AudioMgr.html#a2f7eb7ff564d7ab3aa55e87c162c455e',1,'Z2AudioMgr']]],
   ['zeldagframework_5f_5f10z2audiomgrfv_68',['zeldaGFrameWork__10Z2AudioMgrFv',['../Z2AudioMgr_8cpp.html#a98205266e573065a753ee29ca4ca28e4',1,'Z2AudioMgr.cpp']]],
   ['zero_69',['zero',['../structcXyz.html#aad2379e6d249c0cf10e3ea6670728f4d',1,'cXyz::zero()'],['../structJAISoundParamsTransition_1_1TTransition.html#a573777e396c2c4dbd593f1ff38aa8f44',1,'JAISoundParamsTransition::TTransition::zero()'],['../structJGeometry_1_1TVec3_3_01f32_01_4.html#ab9fe898e43ab4959740e5c13ce6e8cca',1,'JGeometry::TVec3&lt; f32 &gt;::zero()']]],

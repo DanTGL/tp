@@ -89,7 +89,9 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="d__drawlist_8h_source.html">d/d_drawlist.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="d__s__play_8h_source.html">d/s/d_s_play.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="J2DScreen_8h_source.html">JSystem/J2DGraph/J2DScreen.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J2DGrafContext_8h_source.html">JSystem/J2DGraph/J2DGrafContext.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="J3DDrawBuffer_8h_source.html">JSystem/J3DGraphBase/J3DDrawBuffer.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="c__bg__s__shdw__draw_8h_source.html">SSystem/SComponent/c_bg_s_shdw_draw.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__com__inf__game_8h_source.html">d/com/d_com_inf_game.h</a>&quot;</code><br />
@@ -108,7 +110,6 @@ $(function() {
 <code>#include &quot;asm/d/d_drawlist/draw__11dDlst_2DM_cFv.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/func_8005312C.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/draw__12dDlst_2DMt_cFv.s&quot;</code><br />
-<code>#include &quot;asm/d/d_drawlist/getTexture__10J2DPictureCFUc.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/draw__10dDlst_2D_cFv.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/draw__11dDlst_blo_cFv.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/clearAnmTransform__9J2DScreenFv.s&quot;</code><br />
@@ -135,7 +136,6 @@ $(function() {
 <code>#include &quot;asm/d/d_drawlist/__dt__17dDlst_shadowTri_cFv.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/__ct__18dDlst_shadowReal_cFv.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/__ct__17dDlst_shadowTri_cFv.s&quot;</code><br />
-<code>#include &quot;asm/d/d_drawlist/init__12dDlst_list_cFv.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/__dt__12dDlst_list_cFv.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/entryZSortXluDrawList__12dDlst_list_cFP13J3DDrawBufferP9J3DPacketR4cXyz.s&quot;</code><br />
 <code>#include &quot;asm/d/d_drawlist/wipeIn__12dDlst_list_cFfR8_GXColor.s&quot;</code><br />
@@ -453,10 +453,6 @@ Functions</h2></td></tr>
 <tr class="separator:a998a25fc202e7606c6824fc08e3d9789"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afd811cea2ec944d9df26fd2f64ac0823"><td class="memItemLeft" align="right" valign="top">static asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#afd811cea2ec944d9df26fd2f64ac0823">setkankyoShadow</a> (<a class="el" href="classdKy__tevstr__c.html">dKy_tevstr_c</a> *param_0, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> *param_1)</td></tr>
 <tr class="separator:afd811cea2ec944d9df26fd2f64ac0823"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a39a8670ad12eaa670696a1570c590965"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#a39a8670ad12eaa670696a1570c590965">COMPILER_STRIP_GATE</a> (0x8037A178, &amp;<a class="el" href="d__drawlist_8cpp.html#af863a48346fb2379e621490307ec8243">l_drawlistSize</a>)</td></tr>
-<tr class="separator:a39a8670ad12eaa670696a1570c590965"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8467a5de4e692e7ac94cd045167219f7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#a8467a5de4e692e7ac94cd045167219f7">COMPILER_STRIP_GATE</a> (0x8037A1A4, &amp;<a class="el" href="d__drawlist_8cpp.html#aafbb55a16186fa640a25e7d9c5c8e642">l_nonSortId</a>)</td></tr>
-<tr class="separator:a8467a5de4e692e7ac94cd045167219f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a287d90167ae59e87e96ae8749ed3abca"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> <a class="el" href="d__drawlist_8cpp.html#a3edef3b08e7f89044fe301dcaf6a329f">data_80450EE0</a>[8]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#a287d90167ae59e87e96ae8749ed3abca">ALIGN_DECL</a> (8)</td></tr>
 <tr class="separator:a287d90167ae59e87e96ae8749ed3abca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -494,8 +490,6 @@ Variables</h2></td></tr>
 <tr class="separator:a8e01467eed17327e0c624b22ccc7ed8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab3954c8ec887c98d760441edb7e95058"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#ab3954c8ec887c98d760441edb7e95058">mClipper__14mDoLib_clipper</a> [92]</td></tr>
 <tr class="separator:ab3954c8ec887c98d760441edb7e95058"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac60cc772cf87133b83607b2ac085f375"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#ac60cc772cf87133b83607b2ac085f375">g_envHIO</a> [68]</td></tr>
-<tr class="separator:ac60cc772cf87133b83607b2ac085f375"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e862148df6adc58098613dbd1f882cd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#a5e862148df6adc58098613dbd1f882cd">sincosTable___5JMath</a> [65536]</td></tr>
 <tr class="separator:a5e862148df6adc58098613dbd1f882cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac7ed21a8d37e63f30ca2790175e9770c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#ac7ed21a8d37e63f30ca2790175e9770c">mBackColor__13mDoGph_gInf_c</a> [4]</td></tr>
@@ -622,12 +616,12 @@ Variables</h2></td></tr>
 <tr class="separator:a0e6263e69483dd1aee982df1df225851"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af3e8d4734112cc9191ed8aaea72dd669"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#af3e8d4734112cc9191ed8aaea72dd669">lit_5553</a> = 0.0010000000474974513f</td></tr>
 <tr class="separator:af3e8d4734112cc9191ed8aaea72dd669"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af863a48346fb2379e621490307ec8243"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a4b9935e85afcb3a8dd9bb8636b23ce3b">SECTION_RODATA</a> <a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#af863a48346fb2379e621490307ec8243">l_drawlistSize</a> [21]</td></tr>
-<tr class="separator:af863a48346fb2379e621490307ec8243"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aafbb55a16186fa640a25e7d9c5c8e642"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a4b9935e85afcb3a8dd9bb8636b23ce3b">SECTION_RODATA</a> <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#aafbb55a16186fa640a25e7d9c5c8e642">l_nonSortId</a> [9]</td></tr>
-<tr class="separator:aafbb55a16186fa640a25e7d9c5c8e642"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32cf7bd67033e7012559fffc8fbe0469"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#a32cf7bd67033e7012559fffc8fbe0469">l_zSortId</a> [6]</td></tr>
-<tr class="separator:a32cf7bd67033e7012559fffc8fbe0469"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeeafead1204d38cbc3a2382576478d53"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#aeeafead1204d38cbc3a2382576478d53">l_drawlistSize</a> [21]</td></tr>
+<tr class="separator:aeeafead1204d38cbc3a2382576478d53"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d4ba039bed61cb045f43c363e02cf9c"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#a3d4ba039bed61cb045f43c363e02cf9c">l_nonSortId</a> [9]</td></tr>
+<tr class="separator:a3d4ba039bed61cb045f43c363e02cf9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1958aa4f5bf1dac6982c0220a67dfe3b"><td class="memItemLeft" align="right" valign="top">static const <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#a1958aa4f5bf1dac6982c0220a67dfe3b">l_zSortId</a> [6]</td></tr>
+<tr class="separator:a1958aa4f5bf1dac6982c0220a67dfe3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acbc66cd1c1c37b5436bfb2c83aef3cef"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#acbc66cd1c1c37b5436bfb2c83aef3cef">lit_5747</a> = 9999.0f</td></tr>
 <tr class="separator:acbc66cd1c1c37b5436bfb2c83aef3cef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4364cca0da8d43e2bad8186cb50f5318"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a0c3c364808dd7c2796cc0eae538b63d7">SECTION_DEAD</a> char const  *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__drawlist_8cpp.html#a4364cca0da8d43e2bad8186cb50f5318">stringBase_8037A1B0</a> = &quot;wipe_00.bti&quot;</td></tr>
@@ -1600,62 +1594,6 @@ Variables</h2></td></tr>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a39a8670ad12eaa670696a1570c590965" name="a39a8670ad12eaa670696a1570c590965"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a39a8670ad12eaa670696a1570c590965">&#9670;&#160;</a></span>COMPILER_STRIP_GATE() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">COMPILER_STRIP_GATE </td>
-          <td>(</td>
-          <td class="paramtype">0x8037A178&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&amp;&#160;</td>
-          <td class="paramname"><em>l_drawlistSize</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a8467a5de4e692e7ac94cd045167219f7" name="a8467a5de4e692e7ac94cd045167219f7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8467a5de4e692e7ac94cd045167219f7">&#9670;&#160;</a></span>COMPILER_STRIP_GATE() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">COMPILER_STRIP_GATE </td>
-          <td>(</td>
-          <td class="paramtype">0x8037A1A4&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&amp;&#160;</td>
-          <td class="paramname"><em>l_nonSortId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -3354,7 +3292,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a1a94831f5a9ceee6d720fff74a937eac">draw__10dDlst_2D_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_a1a94831f5a9ceee6d720fff74a937eac"><div class="ttname"><a href="d__drawlist_8cpp.html#a1a94831f5a9ceee6d720fff74a937eac">draw__10dDlst_2D_cFv</a></div><div class="ttdeci">void draw__10dDlst_2D_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1422</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_a1a94831f5a9ceee6d720fff74a937eac"><div class="ttname"><a href="d__drawlist_8cpp.html#a1a94831f5a9ceee6d720fff74a937eac">draw__10dDlst_2D_cFv</a></div><div class="ttdeci">void draw__10dDlst_2D_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1420</div></div>
 <div class="ttc" id="astddef_8h_html_a070d2ce7b6bb7e5c05602aa8c308d0c4"><div class="ttname"><a href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a></div><div class="ttdeci">#define NULL</div><div class="ttdef"><b>Definition:</b> stddef.h:19</div></div>
 </div><!-- fragment -->
 </div>
@@ -3384,8 +3322,8 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a15c2250dd3f5c2bbd6ab387392cbce7e">__dt__10J2DAnmBaseFv</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#adab638ff22c79d87e59a80b7ca6a2db8">searchUpdateMaterialID__10J2DAnmBaseFP9J2DScreen</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_a15c2250dd3f5c2bbd6ab387392cbce7e"><div class="ttname"><a href="d__drawlist_8cpp.html#a15c2250dd3f5c2bbd6ab387392cbce7e">__dt__10J2DAnmBaseFv</a></div><div class="ttdeci">void __dt__10J2DAnmBaseFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1508</div></div>
-<div class="ttc" id="ad__drawlist_8cpp_html_adab638ff22c79d87e59a80b7ca6a2db8"><div class="ttname"><a href="d__drawlist_8cpp.html#adab638ff22c79d87e59a80b7ca6a2db8">searchUpdateMaterialID__10J2DAnmBaseFP9J2DScreen</a></div><div class="ttdeci">void searchUpdateMaterialID__10J2DAnmBaseFP9J2DScreen()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:2892</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_a15c2250dd3f5c2bbd6ab387392cbce7e"><div class="ttname"><a href="d__drawlist_8cpp.html#a15c2250dd3f5c2bbd6ab387392cbce7e">__dt__10J2DAnmBaseFv</a></div><div class="ttdeci">void __dt__10J2DAnmBaseFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1506</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_adab638ff22c79d87e59a80b7ca6a2db8"><div class="ttname"><a href="d__drawlist_8cpp.html#adab638ff22c79d87e59a80b7ca6a2db8">searchUpdateMaterialID__10J2DAnmBaseFP9J2DScreen</a></div><div class="ttdeci">void searchUpdateMaterialID__10J2DAnmBaseFP9J2DScreen()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:2968</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3417,7 +3355,7 @@ Variables</h2></td></tr>
 <div class="line">    <a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    <a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_ab00d4ab2870b2d49c9446264d6ee4498"><div class="ttname"><a href="d__drawlist_8cpp.html#ab00d4ab2870b2d49c9446264d6ee4498">draw__11dDlst_2DM_cFv</a></div><div class="ttdeci">void draw__11dDlst_2DM_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1216</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_ab00d4ab2870b2d49c9446264d6ee4498"><div class="ttname"><a href="d__drawlist_8cpp.html#ab00d4ab2870b2d49c9446264d6ee4498">draw__11dDlst_2DM_cFv</a></div><div class="ttdeci">void draw__11dDlst_2DM_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1217</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3445,7 +3383,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a976987058ff350a3742d0bb18bd2167e">draw__11dDlst_2Dm_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_a976987058ff350a3742d0bb18bd2167e"><div class="ttname"><a href="d__drawlist_8cpp.html#a976987058ff350a3742d0bb18bd2167e">draw__11dDlst_2Dm_cFv</a></div><div class="ttdeci">void draw__11dDlst_2Dm_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1294</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_a976987058ff350a3742d0bb18bd2167e"><div class="ttname"><a href="d__drawlist_8cpp.html#a976987058ff350a3742d0bb18bd2167e">draw__11dDlst_2Dm_cFv</a></div><div class="ttdeci">void draw__11dDlst_2Dm_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1295</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3473,7 +3411,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a67782fdd94cd26910915306002e03893">draw__11dDlst_2DT_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_a67782fdd94cd26910915306002e03893"><div class="ttname"><a href="d__drawlist_8cpp.html#a67782fdd94cd26910915306002e03893">draw__11dDlst_2DT_cFv</a></div><div class="ttdeci">void draw__11dDlst_2DT_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:596</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_a67782fdd94cd26910915306002e03893"><div class="ttname"><a href="d__drawlist_8cpp.html#a67782fdd94cd26910915306002e03893">draw__11dDlst_2DT_cFv</a></div><div class="ttdeci">void draw__11dDlst_2DT_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:597</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3501,7 +3439,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#ada9f7cfba57bcb3491fc321648485d9b">draw__11dDlst_blo_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_ada9f7cfba57bcb3491fc321648485d9b"><div class="ttname"><a href="d__drawlist_8cpp.html#ada9f7cfba57bcb3491fc321648485d9b">draw__11dDlst_blo_cFv</a></div><div class="ttdeci">void draw__11dDlst_blo_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1440</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_ada9f7cfba57bcb3491fc321648485d9b"><div class="ttname"><a href="d__drawlist_8cpp.html#ada9f7cfba57bcb3491fc321648485d9b">draw__11dDlst_blo_cFv</a></div><div class="ttdeci">void draw__11dDlst_blo_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1438</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3529,7 +3467,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a414302348f2ce5218583935f3255b229">draw__12dDlst_2DMt_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_a414302348f2ce5218583935f3255b229"><div class="ttname"><a href="d__drawlist_8cpp.html#a414302348f2ce5218583935f3255b229">draw__12dDlst_2DMt_cFv</a></div><div class="ttdeci">void draw__12dDlst_2DMt_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1381</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_a414302348f2ce5218583935f3255b229"><div class="ttname"><a href="d__drawlist_8cpp.html#a414302348f2ce5218583935f3255b229">draw__12dDlst_2DMt_cFv</a></div><div class="ttdeci">void draw__12dDlst_2DMt_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1380</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3557,7 +3495,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#aabae8b1bc23f711afeecc0bec4bf324b">draw__12dDlst_2DT2_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_aabae8b1bc23f711afeecc0bec4bf324b"><div class="ttname"><a href="d__drawlist_8cpp.html#aabae8b1bc23f711afeecc0bec4bf324b">draw__12dDlst_2DT2_cFv</a></div><div class="ttdeci">void draw__12dDlst_2DT2_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:810</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_aabae8b1bc23f711afeecc0bec4bf324b"><div class="ttname"><a href="d__drawlist_8cpp.html#aabae8b1bc23f711afeecc0bec4bf324b">draw__12dDlst_2DT2_cFv</a></div><div class="ttdeci">void draw__12dDlst_2DT2_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:811</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3607,7 +3545,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a8325253157b2040932c5d3952e051305">draw__13dDlst_2DTri_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_a8325253157b2040932c5d3952e051305"><div class="ttname"><a href="d__drawlist_8cpp.html#a8325253157b2040932c5d3952e051305">draw__13dDlst_2DTri_cFv</a></div><div class="ttdeci">void draw__13dDlst_2DTri_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:425</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_a8325253157b2040932c5d3952e051305"><div class="ttname"><a href="d__drawlist_8cpp.html#a8325253157b2040932c5d3952e051305">draw__13dDlst_2DTri_cFv</a></div><div class="ttdeci">void draw__13dDlst_2DTri_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:426</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3635,7 +3573,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a18cb60a030c08471275b3efee259ce1e">draw__14dDlst_2DQuad_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_a18cb60a030c08471275b3efee259ce1e"><div class="ttname"><a href="d__drawlist_8cpp.html#a18cb60a030c08471275b3efee259ce1e">draw__14dDlst_2DQuad_cFv</a></div><div class="ttdeci">void draw__14dDlst_2DQuad_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:462</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_a18cb60a030c08471275b3efee259ce1e"><div class="ttname"><a href="d__drawlist_8cpp.html#a18cb60a030c08471275b3efee259ce1e">draw__14dDlst_2DQuad_cFv</a></div><div class="ttdeci">void draw__14dDlst_2DQuad_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:463</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3663,7 +3601,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#ae170a1a0d7f85de25c26aafb868459ae">__dt__14ShdwDrawPoly_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_ae170a1a0d7f85de25c26aafb868459ae"><div class="ttname"><a href="d__drawlist_8cpp.html#ae170a1a0d7f85de25c26aafb868459ae">__dt__14ShdwDrawPoly_cFv</a></div><div class="ttdeci">void __dt__14ShdwDrawPoly_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1877</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_ae170a1a0d7f85de25c26aafb868459ae"><div class="ttname"><a href="d__drawlist_8cpp.html#ae170a1a0d7f85de25c26aafb868459ae">__dt__14ShdwDrawPoly_cFv</a></div><div class="ttdeci">void __dt__14ShdwDrawPoly_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1875</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3691,7 +3629,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a37d2482baf075f4787cb349163cbbf35">draw__15dDlst_2DPoint_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_a37d2482baf075f4787cb349163cbbf35"><div class="ttname"><a href="d__drawlist_8cpp.html#a37d2482baf075f4787cb349163cbbf35">draw__15dDlst_2DPoint_cFv</a></div><div class="ttdeci">void draw__15dDlst_2DPoint_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:497</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_a37d2482baf075f4787cb349163cbbf35"><div class="ttname"><a href="d__drawlist_8cpp.html#a37d2482baf075f4787cb349163cbbf35">draw__15dDlst_2DPoint_cFv</a></div><div class="ttdeci">void draw__15dDlst_2DPoint_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:498</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3719,7 +3657,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a3b32b66ed85cfe2961a3d554f437d10b">draw__18dDlst_effectLine_cFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__drawlist_8cpp_html_a3b32b66ed85cfe2961a3d554f437d10b"><div class="ttname"><a href="d__drawlist_8cpp.html#a3b32b66ed85cfe2961a3d554f437d10b">draw__18dDlst_effectLine_cFv</a></div><div class="ttdeci">void draw__18dDlst_effectLine_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1630</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_a3b32b66ed85cfe2961a3d554f437d10b"><div class="ttname"><a href="d__drawlist_8cpp.html#a3b32b66ed85cfe2961a3d554f437d10b">draw__18dDlst_effectLine_cFv</a></div><div class="ttdeci">void draw__18dDlst_effectLine_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:1628</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3777,7 +3715,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="d__drawlist_8cpp.html#a279929987a697479e6d68d471068cabe">getTriMax__22dDlst_shadowRealPoly_cFv</a>,</div>
 <div class="line">}</div>
 <div class="ttc" id="ad__drawlist_8cpp_html_a279929987a697479e6d68d471068cabe"><div class="ttname"><a href="d__drawlist_8cpp.html#a279929987a697479e6d68d471068cabe">getTriMax__22dDlst_shadowRealPoly_cFv</a></div><div class="ttdeci">s32 getTriMax__22dDlst_shadowRealPoly_cFv()</div></div>
-<div class="ttc" id="ad__drawlist_8cpp_html_af2b07191afe8567b293b80f0a944805e"><div class="ttname"><a href="d__drawlist_8cpp.html#af2b07191afe8567b293b80f0a944805e">getTri__22dDlst_shadowRealPoly_cFv</a></div><div class="ttdeci">dDlst_shadowTri_c * getTri__22dDlst_shadowRealPoly_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:2877</div></div>
+<div class="ttc" id="ad__drawlist_8cpp_html_af2b07191afe8567b293b80f0a944805e"><div class="ttname"><a href="d__drawlist_8cpp.html#af2b07191afe8567b293b80f0a944805e">getTri__22dDlst_shadowRealPoly_cFv</a></div><div class="ttdeci">dDlst_shadowTri_c * getTri__22dDlst_shadowRealPoly_cFv()</div><div class="ttdef"><b>Definition:</b> d_drawlist.cpp:2953</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -3916,28 +3854,6 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="ac60cc772cf87133b83607b2ac085f375" name="ac60cc772cf87133b83607b2ac085f375"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac60cc772cf87133b83607b2ac085f375">&#9670;&#160;</a></span>g_envHIO</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> g_envHIO[68]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a8b007e6d468a6708fdb56c1fe058edf3" name="a8b007e6d468a6708fdb56c1fe058edf3"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8b007e6d468a6708fdb56c1fe058edf3">&#9670;&#160;</a></span>l_color_4033</h2>
 
@@ -3966,8 +3882,8 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="af863a48346fb2379e621490307ec8243" name="af863a48346fb2379e621490307ec8243"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af863a48346fb2379e621490307ec8243">&#9670;&#160;</a></span>l_drawlistSize</h2>
+<a id="aeeafead1204d38cbc3a2382576478d53" name="aeeafead1204d38cbc3a2382576478d53"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeeafead1204d38cbc3a2382576478d53">&#9670;&#160;</a></span>l_drawlistSize</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3976,7 +3892,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a4b9935e85afcb3a8dd9bb8636b23ce3b">SECTION_RODATA</a> <a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> const l_drawlistSize[21]</td>
+          <td class="memname"><a class="el" href="types_8h.html#a9e6c91d77e24643b888dbd1a1a590054">u16</a> const l_drawlistSize[21]</td>
         </tr>
       </table>
   </td>
@@ -4020,8 +3936,8 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="aafbb55a16186fa640a25e7d9c5c8e642" name="aafbb55a16186fa640a25e7d9c5c8e642"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aafbb55a16186fa640a25e7d9c5c8e642">&#9670;&#160;</a></span>l_nonSortId</h2>
+<a id="a3d4ba039bed61cb045f43c363e02cf9c" name="a3d4ba039bed61cb045f43c363e02cf9c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d4ba039bed61cb045f43c363e02cf9c">&#9670;&#160;</a></span>l_nonSortId</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -4030,7 +3946,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a4b9935e85afcb3a8dd9bb8636b23ce3b">SECTION_RODATA</a> <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> const l_nonSortId[9]</td>
+          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> const l_nonSortId[9]</td>
         </tr>
       </table>
   </td>
@@ -4153,8 +4069,8 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a32cf7bd67033e7012559fffc8fbe0469" name="a32cf7bd67033e7012559fffc8fbe0469"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a32cf7bd67033e7012559fffc8fbe0469">&#9670;&#160;</a></span>l_zSortId</h2>
+<a id="a1958aa4f5bf1dac6982c0220a67dfe3b" name="a1958aa4f5bf1dac6982c0220a67dfe3b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1958aa4f5bf1dac6982c0220a67dfe3b">&#9670;&#160;</a></span>l_zSortId</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -4163,7 +4079,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> l_zSortId[6]</td>
+          <td class="memname">const <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> l_zSortId[6]</td>
         </tr>
       </table>
   </td>
