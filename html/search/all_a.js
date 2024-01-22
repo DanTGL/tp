@@ -1900,7 +1900,7 @@ var searchData=
   ['jutnametab_1897',['JUTNameTab',['../structJUTNameTab.html#aa9dfb4cc0bf7132ad8be75b791cb8e06',1,'JUTNameTab::JUTNameTab()'],['../structJUTNameTab.html#a4f7bc83cbaee2e5c550f269b30660802',1,'JUTNameTab::JUTNameTab(ResNTAB const *)'],['../structJUTNameTab.html#aa9dfb4cc0bf7132ad8be75b791cb8e06',1,'JUTNameTab::JUTNameTab()'],['../structJUTNameTab.html#a0b997f2d13d4335a98123640b19261db',1,'JUTNameTab::JUTNameTab(const ResNTAB *pNameTable)'],['../structJUTNameTab.html',1,'JUTNameTab']]],
   ['jutnametab_2ecpp_1898',['JUTNameTab.cpp',['../JUTNameTab_8cpp.html',1,'']]],
   ['jutnametab_2eh_1899',['JUTNameTab.h',['../JUTNameTab_8h.html',1,'']]],
-  ['jutoutcheck_1900',['jutOutCheck',['../structdCamera__c.html#acde374089c4845f87f7e994f9d4bfe14',1,'dCamera_c']]],
+  ['jutoutcheck_1900',['jutOutCheck',['../classdCamera__c.html#acde374089c4845f87f7e994f9d4bfe14',1,'dCamera_c']]],
   ['jutoutcheck_5f_5f9dcamera_5fcfp4cxyzf_1901',['jutOutCheck__9dCamera_cFP4cXyzf',['../d__camera_8cpp.html#a8cbefe077bef939a3f76d700abb26074',1,'d_camera.cpp']]],
   ['jutpalette_1902',['JUTPalette',['../classJUTPalette.html#a757ca41e54d3d93846aae241f6329455',1,'JUTPalette::JUTPalette(_GXTlut p1, _GXTlutFmt p2, JUTTransparency p3, u16 p4, void *p5)'],['../classJUTPalette.html#a644ca0d725fc9ed1f6ee8d0bef434699',1,'JUTPalette::JUTPalette(GXTlut tlutNo, ResTLUT *p_tlutRes)'],['../classJUTPalette.html',1,'JUTPalette']]],
   ['jutpalette_2ecpp_1903',['JUTPalette.cpp',['../JUTPalette_8cpp.html',1,'']]],

@@ -253,7 +253,7 @@ var searchData=
   ['_7edbgwkcol_250',['~dBgWKCol',['../structdBgWKCol.html#a507c748bedc82ded63aee54fedf196f3',1,'dBgWKCol']]],
   ['_7edbgwsv_251',['~dBgWSv',['../classdBgWSv.html#a20b2ba0cb1f996f24a5e0857bb491dc3',1,'dBgWSv']]],
   ['_7edbrightcheck_5fc_252',['~dBrightCheck_c',['../classdBrightCheck__c.html#a8d31d546a9ede6609c0d3c124edf86d7',1,'dBrightCheck_c::~dBrightCheck_c()'],['../classdBrightCheck__c.html#a820a43974b4195d3cea52a19394bef99',1,'dBrightCheck_c::~dBrightCheck_c()']]],
-  ['_7edcamera_5fc_253',['~dCamera_c',['../structdCamera__c.html#a230a4a577c352cd069d360ad31a4f1b1',1,'dCamera_c']]],
+  ['_7edcamera_5fc_253',['~dCamera_c',['../classdCamera__c.html#a230a4a577c352cd069d360ad31a4f1b1',1,'dCamera_c']]],
   ['_7edcaminfo_5fc_254',['~dCamInfo_c',['../classdCamera__c_1_1dCamInfo__c.html#a87921beca1b5f2dc9a61535a3a0fab80',1,'dCamera_c::dCamInfo_c']]],
   ['_7edcamparam_5fc_255',['~dCamParam_c',['../classdCamParam__c.html#a423024132b0cc6dca71f8861a1ae9a43',1,'dCamParam_c']]],
   ['_7edcamsetup_5fc_256',['~dCamSetup_c',['../classdCamSetup__c.html#a2975e66cbfc55d84298225d206d2cb65',1,'dCamSetup_c']]],

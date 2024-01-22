@@ -180,6 +180,7 @@ var menudata={children:[
 {text:"j",url:"functions_type.html#index_j"},
 {text:"m",url:"functions_type.html#index_m"},
 {text:"p",url:"functions_type.html#index_p"},
+{text:"s",url:"functions_type.html#index_s"},
 {text:"t",url:"functions_type.html#index_t"},
 {text:"u",url:"functions_type.html#index_u"}]},
 {text:"Enumerations",url:"functions_enum.html",children:[

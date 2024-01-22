@@ -888,7 +888,7 @@ var searchData=
   ['jutgetwarningconsole_885',['JUTGetWarningConsole',['../JUTConsole_8cpp.html#a32031d278068b0c2f79df0293cbb740c',1,'JUTGetWarningConsole():&#160;JUTConsole.cpp'],['../JUTConsole_8h.html#a32031d278068b0c2f79df0293cbb740c',1,'JUTGetWarningConsole():&#160;JUTConsole.cpp']]],
   ['jutgraphfifo_886',['JUTGraphFifo',['../classJUTGraphFifo.html#ac3810e695f48268333cf460c7b17dd6d',1,'JUTGraphFifo']]],
   ['jutnametab_887',['JUTNameTab',['../structJUTNameTab.html#aa9dfb4cc0bf7132ad8be75b791cb8e06',1,'JUTNameTab::JUTNameTab()'],['../structJUTNameTab.html#a4f7bc83cbaee2e5c550f269b30660802',1,'JUTNameTab::JUTNameTab(ResNTAB const *)'],['../structJUTNameTab.html#aa9dfb4cc0bf7132ad8be75b791cb8e06',1,'JUTNameTab::JUTNameTab()'],['../structJUTNameTab.html#a0b997f2d13d4335a98123640b19261db',1,'JUTNameTab::JUTNameTab(const ResNTAB *pNameTable)']]],
-  ['jutoutcheck_888',['jutOutCheck',['../structdCamera__c.html#acde374089c4845f87f7e994f9d4bfe14',1,'dCamera_c']]],
+  ['jutoutcheck_888',['jutOutCheck',['../classdCamera__c.html#acde374089c4845f87f7e994f9d4bfe14',1,'dCamera_c']]],
   ['jutoutcheck_5f_5f9dcamera_5fcfp4cxyzf_889',['jutOutCheck__9dCamera_cFP4cXyzf',['../d__camera_8cpp.html#a8cbefe077bef939a3f76d700abb26074',1,'d_camera.cpp']]],
   ['jutpalette_890',['JUTPalette',['../classJUTPalette.html#a757ca41e54d3d93846aae241f6329455',1,'JUTPalette::JUTPalette(_GXTlut p1, _GXTlutFmt p2, JUTTransparency p3, u16 p4, void *p5)'],['../classJUTPalette.html#a644ca0d725fc9ed1f6ee8d0bef434699',1,'JUTPalette::JUTPalette(GXTlut tlutNo, ResTLUT *p_tlutRes)']]],
   ['jutprocbar_891',['JUTProcBar',['../classJUTProcBar.html#ad44b3e6ebe325ce996c425df7c3d510d',1,'JUTProcBar']]],

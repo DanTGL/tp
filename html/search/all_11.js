@@ -126,7 +126,7 @@ var searchData=
   ['quest_5flog_5fsize_123',['QUEST_LOG_SIZE',['../d__save_8h.html#a7f28642d970073645ad2a5c07306237a',1,'d_save.h']]],
   ['queue_124',['queue',['../structEXIControl.html#a1df2c9edabdbaaf35786d9bad080520d',1,'EXIControl::queue()'],['../structOSMutex.html#a94e38e16ab262180416736b11921867b',1,'OSMutex::queue()'],['../structOSCond.html#a589f00ff1643277e5a9702ad9c1c1a03',1,'OSCond::queue()'],['../structOSThread.html#ad4db9ecdbeb784a78a7d6abf52f1ff57',1,'OSThread::queue()']]],
   ['queuelength_125',['QueueLength',['../EXIUart_8c.html#ae499dd0dccf91bd67c7dae9d826448a6',1,'EXIUart.c']]],
-  ['quickstart_126',['QuickStart',['../structdCamera__c.html#a37ec7594e5517125c0766779b1370cb4',1,'dCamera_c']]],
+  ['quickstart_126',['QuickStart',['../classdCamera__c.html#a37ec7594e5517125c0766779b1370cb4',1,'dCamera_c']]],
   ['quickstart_5f_5f9dcamera_5fcfv_127',['QuickStart__9dCamera_cFv',['../d__camera_8cpp.html#a308e108dfec8345eaa1b2676abaef6ab',1,'QuickStart__9dCamera_cFv():&#160;d_camera.cpp'],['../d__event_8cpp.html#a308e108dfec8345eaa1b2676abaef6ab',1,'QuickStart__9dCamera_cFv():&#160;d_event.cpp']]],
   ['quitimmortalemitter_128',['quitImmortalEmitter',['../classJPABaseEmitter.html#a52875bae713308a57fddbb4f4d63844c',1,'JPABaseEmitter']]],
   ['quiver_5fmax_129',['QUIVER_MAX',['../d__save_8h.html#afc527526c793332a6166ba0cb6a016af',1,'d_save.h']]],
