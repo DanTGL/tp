@@ -90,15 +90,12 @@ $(function() {
 <div class="textblock"><code>#include &quot;<a class="el" href="JMath_8h_source.html">JSystem/JMath/JMath.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;asm/JSystem/JMath/JMath/JMAEulerToQuat__FsssP10Quaternion.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JMath/JMath/JMAFastVECNormalize__FPC3VecP3Vec.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JMath/JMath/JMAVECScaleAdd__FPC3VecPC3VecP3Vecf.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JMath/JMath/JMAMTXApplyScale__FPA4_CfPA4_ffff.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for JMath.cpp:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="JMath_8cpp__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="JMath_8cpp__incl.svg" width="658" height="506"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </div><table class="memberdecls">
@@ -118,19 +115,17 @@ Functions</h2></td></tr>
 <tr class="separator:a59fe9a3332c17d9e6e83e2b91e65ca71"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aac4090cc851c07f321302f3f9f5cc7f0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JMath_8cpp.html#aac4090cc851c07f321302f3f9f5cc7f0">JMAQuatLerp</a> (register const <a class="el" href="structQuaternion.html">Quaternion</a> *p, register const <a class="el" href="structQuaternion.html">Quaternion</a> *q, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> t, <a class="el" href="structQuaternion.html">Quaternion</a> *dst)</td></tr>
 <tr class="separator:aac4090cc851c07f321302f3f9f5cc7f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb5e3d7eb71c1fa25bcb8b5dee51a0a7"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JMath_8cpp.html#abb5e3d7eb71c1fa25bcb8b5dee51a0a7">JMAFastVECNormalize</a> (<a class="el" href="structVec.html">Vec</a> const *param_0, <a class="el" href="structVec.html">Vec</a> *param_1)</td></tr>
-<tr class="separator:abb5e3d7eb71c1fa25bcb8b5dee51a0a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a923416a17928c1b1f5051f759992141d"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JMath_8cpp.html#a923416a17928c1b1f5051f759992141d">JMAVECScaleAdd</a> (<a class="el" href="structVec.html">Vec</a> const *param_0, <a class="el" href="structVec.html">Vec</a> const *param_1, <a class="el" href="structVec.html">Vec</a> *param_2, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_3)</td></tr>
-<tr class="separator:a923416a17928c1b1f5051f759992141d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaaa1980f7cefc3bf074d30024aa5f412"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JMath_8cpp.html#aaaa1980f7cefc3bf074d30024aa5f412">JMAMTXApplyScale</a> (<a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> const (*param_0)[4], <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>(*param_1)[4], <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_2, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_3, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_4)</td></tr>
-<tr class="separator:aaaa1980f7cefc3bf074d30024aa5f412"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf2cfb725287fe442bbcc44f28f2aba0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JMath_8cpp.html#adf2cfb725287fe442bbcc44f28f2aba0">JMAFastVECNormalize</a> (register const <a class="el" href="structVec.html">Vec</a> *src, register <a class="el" href="structVec.html">Vec</a> *dst)</td></tr>
+<tr class="separator:adf2cfb725287fe442bbcc44f28f2aba0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b59568c4f576c49ce244a434b6db0d0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JMath_8cpp.html#a7b59568c4f576c49ce244a434b6db0d0">JMAVECScaleAdd</a> (register const <a class="el" href="structVec.html">Vec</a> *vec1, register const <a class="el" href="structVec.html">Vec</a> *vec2, register <a class="el" href="structVec.html">Vec</a> *dst, register <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> scale)</td></tr>
+<tr class="separator:a7b59568c4f576c49ce244a434b6db0d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a24147992a6084399ac3cee7c8906c225"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JMath_8cpp.html#a24147992a6084399ac3cee7c8906c225">JMAMTXApplyScale</a> (register const <a class="el" href="mtx_8h.html#afc58fc7f5dd84f97da2dab35156849ae">Mtx</a> src, register <a class="el" href="mtx_8h.html#afc58fc7f5dd84f97da2dab35156849ae">Mtx</a> dst, register <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> xScale, register <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> yScale, register <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> zScale)</td></tr>
+<tr class="separator:a24147992a6084399ac3cee7c8906c225"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
 <tr class="memitem:a5e862148df6adc58098613dbd1f882cd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JMath_8cpp.html#a5e862148df6adc58098613dbd1f882cd">sincosTable___5JMath</a> [65536]</td></tr>
 <tr class="separator:a5e862148df6adc58098613dbd1f882cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7bb9533c0f42a0baf41bfd64563135d9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="JMath_8cpp.html#a7bb9533c0f42a0baf41bfd64563135d9">lit_411</a> [1+1]</td></tr>
-<tr class="separator:a7bb9533c0f42a0baf41bfd64563135d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a59fe9a3332c17d9e6e83e2b91e65ca71" name="a59fe9a3332c17d9e6e83e2b91e65ca71"></a>
@@ -190,23 +185,23 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="abb5e3d7eb71c1fa25bcb8b5dee51a0a7" name="abb5e3d7eb71c1fa25bcb8b5dee51a0a7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb5e3d7eb71c1fa25bcb8b5dee51a0a7">&#9670;&#160;</a></span>JMAFastVECNormalize()</h2>
+<a id="adf2cfb725287fe442bbcc44f28f2aba0" name="adf2cfb725287fe442bbcc44f28f2aba0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf2cfb725287fe442bbcc44f28f2aba0">&#9670;&#160;</a></span>JMAFastVECNormalize()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void JMAFastVECNormalize </td>
+          <td class="memname">void JMAFastVECNormalize </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="structVec.html">Vec</a> const *&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramtype">register const <a class="el" href="structVec.html">Vec</a> *&#160;</td>
+          <td class="paramname"><em>src</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structVec.html">Vec</a> *&#160;</td>
-          <td class="paramname"><em>param_1</em>&#160;</td>
+          <td class="paramtype">register <a class="el" href="structVec.html">Vec</a> *&#160;</td>
+          <td class="paramname"><em>dst</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -235,41 +230,41 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="aaaa1980f7cefc3bf074d30024aa5f412" name="aaaa1980f7cefc3bf074d30024aa5f412"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaaa1980f7cefc3bf074d30024aa5f412">&#9670;&#160;</a></span>JMAMTXApplyScale()</h2>
+<a id="a24147992a6084399ac3cee7c8906c225" name="a24147992a6084399ac3cee7c8906c225"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a24147992a6084399ac3cee7c8906c225">&#9670;&#160;</a></span>JMAMTXApplyScale()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void JMAMTXApplyScale </td>
+          <td class="memname">void JMAMTXApplyScale </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> const (*)&#160;</td>
-          <td class="paramname"><em>param_0</em>[4], </td>
+          <td class="paramtype">register const <a class="el" href="mtx_8h.html#afc58fc7f5dd84f97da2dab35156849ae">Mtx</a>&#160;</td>
+          <td class="paramname"><em>src</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>(*)&#160;</td>
-          <td class="paramname"><em>param_1</em>[4], </td>
+          <td class="paramtype">register <a class="el" href="mtx_8h.html#afc58fc7f5dd84f97da2dab35156849ae">Mtx</a>&#160;</td>
+          <td class="paramname"><em>dst</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_2</em>, </td>
+          <td class="paramtype">register <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
+          <td class="paramname"><em>xScale</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_3</em>, </td>
+          <td class="paramtype">register <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
+          <td class="paramname"><em>yScale</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_4</em>&#160;</td>
+          <td class="paramtype">register <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
+          <td class="paramname"><em>zScale</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -355,35 +350,35 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a923416a17928c1b1f5051f759992141d" name="a923416a17928c1b1f5051f759992141d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a923416a17928c1b1f5051f759992141d">&#9670;&#160;</a></span>JMAVECScaleAdd()</h2>
+<a id="a7b59568c4f576c49ce244a434b6db0d0" name="a7b59568c4f576c49ce244a434b6db0d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b59568c4f576c49ce244a434b6db0d0">&#9670;&#160;</a></span>JMAVECScaleAdd()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void JMAVECScaleAdd </td>
+          <td class="memname">void JMAVECScaleAdd </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="structVec.html">Vec</a> const *&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramtype">register const <a class="el" href="structVec.html">Vec</a> *&#160;</td>
+          <td class="paramname"><em>vec1</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structVec.html">Vec</a> const *&#160;</td>
-          <td class="paramname"><em>param_1</em>, </td>
+          <td class="paramtype">register const <a class="el" href="structVec.html">Vec</a> *&#160;</td>
+          <td class="paramname"><em>vec2</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structVec.html">Vec</a> *&#160;</td>
-          <td class="paramname"><em>param_2</em>, </td>
+          <td class="paramtype">register <a class="el" href="structVec.html">Vec</a> *&#160;</td>
+          <td class="paramname"><em>dst</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_3</em>&#160;</td>
+          <td class="paramtype">register <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
+          <td class="paramname"><em>scale</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -413,33 +408,6 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a7bb9533c0f42a0baf41bfd64563135d9" name="a7bb9533c0f42a0baf41bfd64563135d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7bb9533c0f42a0baf41bfd64563135d9">&#9670;&#160;</a></span>lit_411</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> lit_411[1+1]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    1.0f,</div>
-<div class="line">    </div>
-<div class="line">    0.0f,</div>
-<div class="line">}</div>
-</div><!-- fragment -->
-</div>
-</div>
 <a id="a5e862148df6adc58098613dbd1f882cd" name="a5e862148df6adc58098613dbd1f882cd"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5e862148df6adc58098613dbd1f882cd">&#9670;&#160;</a></span>sincosTable___5JMath</h2>
 

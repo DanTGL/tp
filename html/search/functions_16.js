@@ -27,7 +27,7 @@ var searchData=
   ['viconfigure_24',['VIConfigure',['../vi_8h.html#abf636b244c1fdf55bad8f5d42fa3dbff',1,'VIConfigure(const GXRenderModeObj *):&#160;vi.c'],['../vi_8c.html#a8bb0fb35cada9436a5fbf0c3d9f10b2f',1,'VIConfigure(const GXRenderModeObj *):&#160;vi.c']]],
   ['view_5fsetup_25',['view_setup',['../d__camera_8cpp.html#a1100b9f0dbd620d02cadd1fd867365fb',1,'d_camera.cpp']]],
   ['view_5fsetup_5f_5ffp20camera_5fprocess_5fclass_26',['view_setup__FP20camera_process_class',['../d__camera_8cpp.html#a66ecae2ece38c7372fcf23d4dc3c90dc',1,'d_camera.cpp']]],
-  ['viewcalc_27',['viewCalc',['../structJ3DModel.html#abfb8745a10e677794b04523e4090483e',1,'J3DModel']]],
+  ['viewcalc_27',['viewCalc',['../classJ3DModel.html#abfb8745a10e677794b04523e4090483e',1,'J3DModel']]],
   ['viewcalc_5f_5f8j3dmodelfv_28',['viewCalc__8J3DModelFv',['../J3DModel_8cpp.html#a801db2d1375c11611e50c0acfe294640',1,'J3DModel.cpp']]],
   ['viflush_29',['VIFlush',['../m__Do__Reset_8cpp.html#a1e6c3cd1fbde41e7a7118a69df5e45a0',1,'VIFlush():&#160;vi.c'],['../vi_8c.html#a64c7f6b90c9e91290f5820e915711a2b',1,'VIFlush(void):&#160;vi.c'],['../vi_8h.html#a1e6c3cd1fbde41e7a7118a69df5e45a0',1,'VIFlush():&#160;vi.c']]],
   ['vigetcurrentframebuffer_30',['VIGetCurrentFrameBuffer',['../vi_8c.html#ab1cd8a0c1feb990e6da2cab595a0124e',1,'VIGetCurrentFrameBuffer():&#160;vi.c'],['../vi_8h.html#ab1cd8a0c1feb990e6da2cab595a0124e',1,'VIGetCurrentFrameBuffer():&#160;vi.c']]],

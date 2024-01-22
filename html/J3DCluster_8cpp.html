@@ -82,21 +82,20 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">J3DCluster.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="J3DCluster_8h_source.html">JSystem/J3DGraphAnimator/J3DCluster.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J3DAnimation_8h_source.html">JSystem/J3DGraphAnimator/J3DAnimation.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J3DModel_8h_source.html">JSystem/J3DGraphAnimator/J3DModel.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J3DSkinDeform_8h_source.html">JSystem/J3DGraphAnimator/J3DSkinDeform.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JMath_8h_source.html">JSystem/JMath/JMath.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JUTAssert_8h_source.html">JSystem/JUtility/JUTAssert.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/__ct__13J3DDeformDataFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/offAllFlag__13J3DDeformDataFUl.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/deform__13J3DDeformDataFP8J3DModel.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/deform__13J3DDeformDataFP15J3DVertexBuffer.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/setAnm__13J3DDeformDataFP13J3DAnmCluster.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/__ct__11J3DDeformerFP13J3DDeformData.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/deform__11J3DDeformerFP15J3DVertexBufferUs.s&quot;</code><br />
+<code>#include &quot;<a class="el" href="os_8h_source.html">dolphin/os.h</a>&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/func_8032E4A4.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/func_8032E60C.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphAnimator/J3DCluster/deform__11J3DDeformerFP15J3DVertexBufferUsPf.s&quot;</code><br />
@@ -106,24 +105,14 @@ $(function() {
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="J3DCluster_8cpp__incl.svg" width="100%" height="525"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="J3DCluster_8cpp__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 </div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJMath.html">JMath</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DVertexBuffer.html">J3DVertexBuffer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DModel.html">J3DModel</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DAnmCluster.html">J3DAnmCluster</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DDeformData.html">J3DDeformData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DDeformer.html">J3DDeformer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a599b8245d3b98775e1b676b63e4e4a84"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DCluster_8cpp.html#a599b8245d3b98775e1b676b63e4e4a84">J3D_ASSERT</a>(COND)</td></tr>
+<tr class="separator:a599b8245d3b98775e1b676b63e4e4a84"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -151,10 +140,6 @@ Functions</h2></td></tr>
 <tr class="separator:a17659be76032e81094c5ca9a05952aed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa87745bebb576eab61fbf1b1e03be275"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DCluster_8cpp.html#aa87745bebb576eab61fbf1b1e03be275">PPCSync</a> ()</td></tr>
 <tr class="separator:aa87745bebb576eab61fbf1b1e03be275"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad447114b3d91ab5c0a9dc74c6da0b71c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DCluster_8cpp.html#ad447114b3d91ab5c0a9dc74c6da0b71c">DCStoreRangeNoSync</a> ()</td></tr>
-<tr class="separator:ad447114b3d91ab5c0a9dc74c6da0b71c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad147100ce3c1b81ba959b43b39ad5a53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DCluster_8cpp.html#ad147100ce3c1b81ba959b43b39ad5a53">PSVECNormalize</a> ()</td></tr>
-<tr class="separator:ad147100ce3c1b81ba959b43b39ad5a53"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab132a97d6c068a9d01cba513d3066c21"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DCluster_8cpp.html#ab132a97d6c068a9d01cba513d3066c21">__cvt_fp2unsigned</a> ()</td></tr>
 <tr class="separator:ab132a97d6c068a9d01cba513d3066c21"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a110f2d74a6efff0065fa2b15f21165f5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DCluster_8cpp.html#a110f2d74a6efff0065fa2b15f21165f5">_savegpr_21</a> ()</td></tr>
@@ -201,6 +186,25 @@ Variables</h2></td></tr>
 <tr class="memitem:a63c5a187adebcda5dad21e6ae485f0a8"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DCluster_8cpp.html#a63c5a187adebcda5dad21e6ae485f0a8">lit_1027</a> = 4503599627370496.0</td></tr>
 <tr class="separator:a63c5a187adebcda5dad21e6ae485f0a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a599b8245d3b98775e1b676b63e4e4a84" name="a599b8245d3b98775e1b676b63e4e4a84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a599b8245d3b98775e1b676b63e4e4a84">&#9670;&#160;</a></span>J3D_ASSERT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define J3D_ASSERT</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">COND</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a5789403230111fa46ea0df0798da9602" name="a5789403230111fa46ea0df0798da9602"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5789403230111fa46ea0df0798da9602">&#9670;&#160;</a></span>__ct__11J3DDeformerFP13J3DDeformData()</h2>
@@ -389,23 +393,6 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="ad447114b3d91ab5c0a9dc74c6da0b71c" name="ad447114b3d91ab5c0a9dc74c6da0b71c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad447114b3d91ab5c0a9dc74c6da0b71c">&#9670;&#160;</a></span>DCStoreRangeNoSync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DCStoreRangeNoSync </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a8977276812e4d3572c96d136159e0832" name="a8977276812e4d3572c96d136159e0832"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8977276812e4d3572c96d136159e0832">&#9670;&#160;</a></span>deform__11J3DDeformerFP15J3DVertexBufferUs()</h2>
 
@@ -550,23 +537,6 @@ Variables</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">void PPCSync </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad147100ce3c1b81ba959b43b39ad5a53" name="ad147100ce3c1b81ba959b43b39ad5a53"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad147100ce3c1b81ba959b43b39ad5a53">&#9670;&#160;</a></span>PSVECNormalize()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void PSVECNormalize </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>

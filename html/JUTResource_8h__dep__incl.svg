@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 526;
+var viewWidth = 663;
 var viewHeight = 104;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,9 +58,9 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="325.5,-96 203.5,-96 203.5,-66 325.5,-66 325.5,-96"/>
-<text text-anchor="start" x="211.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JUtility</text>
-<text text-anchor="middle" x="264.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JUTResource.h</text>
+<polygon fill="#999999" stroke="#666666" points="394.5,-96 272.5,-96 272.5,-66 394.5,-66 394.5,-96"/>
+<text text-anchor="start" x="280.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JUtility</text>
+<text text-anchor="middle" x="333.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JUTResource.h</text>
 </a>
 </g>
 </g>
@@ -77,8 +77,8 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="#63b8ff" d="M207.65,-62.25C175.49,-52.21 135.8,-39.82 105.59,-30.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="206.2,-65.47 216.79,-65.11 208.29,-58.79 206.2,-65.47"/>
+<path fill="none" stroke="#63b8ff" d="M261.04,-63.08C216.85,-52.75 161.05,-39.72 119.37,-29.98"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="260,-66.43 270.54,-65.29 261.59,-59.61 260,-66.43"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -93,40 +93,56 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="#63b8ff" d="M241.22,-58.09C231.4,-48.85 220.26,-38.36 211.55,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="238.63,-60.45 248.31,-64.76 243.42,-55.36 238.63,-60.45"/>
+<path fill="none" stroke="#63b8ff" d="M292.52,-60.86C271.54,-51.05 246.42,-39.32 227.14,-30.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="290.84,-63.94 301.38,-65 293.8,-57.59 290.84,-63.94"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="J2DWindow_8cpp.html" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="J2DPicture_8cpp.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="393,-30 274,-30 274,0 393,0 393,-30"/>
 <text text-anchor="start" x="282" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
-<text text-anchor="middle" x="333.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DWindow.cpp</text>
+<text text-anchor="middle" x="333.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DPicture.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="#63b8ff" d="M288.12,-58.09C298.09,-48.85 309.39,-38.36 318.23,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="285.87,-55.4 280.92,-64.77 290.63,-60.53 285.87,-55.4"/>
+<path fill="none" stroke="#63b8ff" d="M333.5,-54.39C333.5,-46.13 333.5,-37.28 333.5,-30.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="330,-54.28 333.5,-64.28 337,-54.28 330,-54.28"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="JUTResource_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="517.5,-30 411.5,-30 411.5,0 517.5,0 517.5,-30"/>
-<text text-anchor="start" x="419.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JUtility</text>
-<text text-anchor="middle" x="464.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/JUTResource.cpp</text>
+<g id="a_node5"><a xlink:href="J2DWindow_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="530,-30 411,-30 411,0 530,0 530,-30"/>
+<text text-anchor="start" x="419" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/J2DGraph</text>
+<text text-anchor="middle" x="470.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/J2DWindow.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="#63b8ff" d="M320.13,-62.2C351.43,-52.18 390.02,-39.83 419.42,-30.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="319.28,-58.79 310.83,-65.18 321.42,-65.46 319.28,-58.79"/>
+<path fill="none" stroke="#63b8ff" d="M374.48,-60.86C395.46,-51.05 420.58,-39.32 439.86,-30.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="373.2,-57.59 365.62,-65 376.16,-63.94 373.2,-57.59"/>
+</g>
+<!-- Node6 -->
+<g id="node6" class="node">
+<title>Node6</title>
+<g id="a_node6"><a xlink:href="JUTResource_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="654.5,-30 548.5,-30 548.5,0 654.5,0 654.5,-30"/>
+<text text-anchor="start" x="556.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JUtility</text>
+<text text-anchor="middle" x="601.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/JUTResource.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node6 -->
+<g id="edge5" class="edge">
+<title>Node1&#45;&gt;Node6</title>
+<path fill="none" stroke="#63b8ff" d="M405.13,-62.89C450.07,-52.16 507.05,-38.55 548.05,-28.76"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="404.36,-59.48 395.45,-65.21 405.99,-66.29 404.36,-59.48"/>
 </g>
 </g>
 </svg>
