@@ -91,7 +91,6 @@ $(function() {
 <div class="textblock"><code>#include &quot;<a class="el" href="OSThread_8h_source.html">dolphin/os/OSThread.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="os_8h_source.html">dolphin/os.h</a>&quot;</code><br />
-<code>#include &quot;asm/dolphin/os/OSThread/__OSThreadInit.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for OSThread.c:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -124,8 +123,8 @@ Functions</h2></td></tr>
 <tr class="separator:af5134b068004245f3304ed497909d4cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3e409e22a6a4484089ac562e8eaca441"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="OSThread_8c.html#a3e409e22a6a4484089ac562e8eaca441">OSSetCurrentThread</a> (<a class="el" href="structOSThread.html">OSThread</a> *thread)</td></tr>
 <tr class="separator:a3e409e22a6a4484089ac562e8eaca441"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad957cebc6adf89c93e0ce189b8d628b8"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="OSThread_8c.html#ad957cebc6adf89c93e0ce189b8d628b8">__OSThreadInit</a> (void)</td></tr>
-<tr class="separator:ad957cebc6adf89c93e0ce189b8d628b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2190507a060e0debba7d5639a1a39f0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="OSThread_8c.html#af2190507a060e0debba7d5639a1a39f0">__OSThreadInit</a> ()</td></tr>
+<tr class="separator:af2190507a060e0debba7d5639a1a39f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9e24384a0b5c23564ecc3bd579b36c72"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="OSThread_8c.html#a9e24384a0b5c23564ecc3bd579b36c72">OSInitThreadQueue</a> (<a class="el" href="structOSThreadQueue.html">OSThreadQueue</a> *queue)</td></tr>
 <tr class="separator:a9e24384a0b5c23564ecc3bd579b36c72"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a31f38285bb86d3dee8ae11a66fb9e057"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structOSThread.html">OSThread</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="OSThread_8c.html#a31f38285bb86d3dee8ae11a66fb9e057">OSGetCurrentThread</a> (void)</td></tr>
@@ -513,14 +512,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="ad957cebc6adf89c93e0ce189b8d628b8" name="ad957cebc6adf89c93e0ce189b8d628b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad957cebc6adf89c93e0ce189b8d628b8">&#9670;&#160;</a></span>__OSThreadInit()</h2>
+<a id="af2190507a060e0debba7d5639a1a39f0" name="af2190507a060e0debba7d5639a1a39f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2190507a060e0debba7d5639a1a39f0">&#9670;&#160;</a></span>__OSThreadInit()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void __OSThreadInit </td>
+          <td class="memname">void __OSThreadInit </td>
           <td>(</td>
           <td class="paramtype">void&#160;</td>
           <td class="paramname"></td><td>)</td>
