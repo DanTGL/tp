@@ -12,8 +12,8 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="121,-303 0,-303 0,-284 121,-284 121,-303"/>
-<text text-anchor="middle" x="60.5" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">JStudio::object::TIDData</text>
+<polygon fill="#999999" stroke="#666666" points="121,-281 0,-281 0,-262 121,-262 121,-281"/>
+<text text-anchor="middle" x="60.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">JStudio::object::TIDData</text>
 </a>
 </g>
 </g>
@@ -29,8 +29,24 @@
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="#63b8ff" d="M132.47,-293.5C140.55,-293.5 148.76,-293.5 156.77,-293.5"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="132.69,-290 122.69,-293.5 132.69,-297 132.69,-290"/>
+<path fill="none" stroke="#63b8ff" d="M132.47,-281.17C140.55,-282.27 148.76,-283.39 156.77,-284.48"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="133.06,-277.72 122.68,-279.83 132.11,-284.65 133.06,-277.72"/>
+</g>
+<!-- Node23 -->
+<g id="node23" class="node">
+<title>Node23</title>
+<g id="a_node23"><a xlink:href="structJStudio_1_1object_1_1TPRObject__ID__equal.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="290.5,-265.5 157.5,-265.5 157.5,-235.5 290.5,-235.5 290.5,-265.5"/>
+<text text-anchor="start" x="165.5" y="-253.5" font-family="Helvetica,sans-Serif" font-size="10.00">JStudio::object::TPRObject</text>
+<text text-anchor="middle" x="224" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00">_ID_equal</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node23 -->
+<g id="edge22" class="edge">
+<title>Node1&#45;&gt;Node23</title>
+<path fill="none" stroke="#63b8ff" d="M132.56,-262.26C140.7,-261.2 148.98,-260.13 157.04,-259.08"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="132.14,-258.78 122.68,-263.54 133.05,-265.73 132.14,-258.78"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -74,8 +90,8 @@
 <!-- Node2&#45;&gt;Node12 -->
 <g id="edge11" class="edge">
 <title>Node2&#45;&gt;Node12</title>
-<path fill="none" stroke="#63b8ff" d="M242.48,-275.96C275.13,-243.2 344.37,-173.74 369.84,-148.19"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="240.31,-273.18 235.73,-282.73 245.27,-278.12 240.31,-273.18"/>
+<path fill="none" stroke="#63b8ff" d="M284.61,-278.65C286.84,-277.38 288.98,-276 291,-274.5 337.42,-240.15 366.25,-173.6 375.89,-148.45"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="283.29,-275.4 275.81,-282.9 286.33,-281.71 283.29,-275.4"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
