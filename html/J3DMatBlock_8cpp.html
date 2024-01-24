@@ -82,50 +82,33 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">J3DMatBlock.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="J3DMatBlock_8h_source.html">JSystem/J3DGraphBase/J3DMatBlock.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="gd_8h_source.html">dolphin/gd.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J3DGD_8h_source.html">JSystem/J3DGraphBase/J3DGD.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J3DSys_8h_source.html">JSystem/J3DGraphBase/J3DSys.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="os_8h_source.html">dolphin/os.h</a>&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__21J3DColorBlockLightOffFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__22J3DColorBlockAmbientOnFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__20J3DColorBlockLightOnFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__21J3DTexGenBlockPatchedFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__15J3DTexGenBlock4Fv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__19J3DTexGenBlockBasicFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__15J3DTevBlockNullFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__18J3DTevBlockPatchedFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__12J3DTevBlock1Fv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__12J3DTevBlock2Fv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__12J3DTevBlock4Fv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__13J3DTevBlock16Fv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__15J3DIndBlockFullFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__16J3DPEBlockFogOffFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/initialize__14J3DPEBlockFullFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/load__21J3DColorBlockLightOffFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/load__22J3DColorBlockAmbientOnFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/load__20J3DColorBlockLightOnFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/patch__21J3DColorBlockLightOffFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/patchMatColor__21J3DColorBlockLightOffFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/patchLight__21J3DColorBlockLightOffFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/patch__20J3DColorBlockLightOnFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/patchMatColor__20J3DColorBlockLightOnFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/patchLight__20J3DColorBlockLightOnFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/diff__21J3DColorBlockLightOffFUl.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/diffMatColor__21J3DColorBlockLightOffFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/diffColorChan__21J3DColorBlockLightOffFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/diff__20J3DColorBlockLightOnFUl.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/diffAmbColor__20J3DColorBlockLightOnFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/diffMatColor__20J3DColorBlockLightOnFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/diffColorChan__20J3DColorBlockLightOnFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/diffLightObj__20J3DColorBlockLightOnFUl.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/load__15J3DTexGenBlock4Fv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/load__19J3DTexGenBlockBasicFv.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/patch__21J3DTexGenBlockPatchedFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/patch__15J3DTexGenBlock4Fv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/patch__19J3DTexGenBlockBasicFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/diff__21J3DTexGenBlockPatchedFUl.s&quot;</code><br />
@@ -457,13 +440,18 @@ $(function() {
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/__dt__15J3DIndBlockFullFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DMatBlock/__sinit_J3DMatBlock_cpp.s&quot;</code><br />
 </div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DSys.html">J3DSys</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:a9bb45850cdd409fada0f5ad418d56c85"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#a9bb45850cdd409fada0f5ad418d56c85">loadMatColors</a> (const <a class="el" href="structJ3DGXColor.html">J3DGXColor</a> *color)</td></tr>
+<tr class="separator:a9bb45850cdd409fada0f5ad418d56c85"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a539f63941957d39d8978a0e5c0c77247"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#a539f63941957d39d8978a0e5c0c77247">loadAmbColors</a> (const <a class="el" href="structJ3DGXColor.html">J3DGXColor</a> *color)</td></tr>
+<tr class="separator:a539f63941957d39d8978a0e5c0c77247"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50bbae2e44d127f2240fc8b91d2a1e21"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#a50bbae2e44d127f2240fc8b91d2a1e21">loadTexCoordScale</a> (<a class="el" href="GXEnum_8h.html#a2f2455ac28878d571f2ab991d5674999">GXTexCoordID</a> coord, const <a class="el" href="structJ3DTexCoordScaleInfo.html">J3DTexCoordScaleInfo</a> &amp;info)</td></tr>
+<tr class="separator:a50bbae2e44d127f2240fc8b91d2a1e21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2bd6e033b0538cfee3844e650bb4d641"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#a2bd6e033b0538cfee3844e650bb4d641">loadTevColor</a> (<a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> reg, const <a class="el" href="structJ3DGXColorS10.html">J3DGXColorS10</a> &amp;color)</td></tr>
+<tr class="separator:a2bd6e033b0538cfee3844e650bb4d641"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae06923cd39df1114ffe453c6e608cc63"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#ae06923cd39df1114ffe453c6e608cc63">loadTevKColor</a> (<a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> reg, const <a class="el" href="structJ3DGXColor.html">J3DGXColor</a> &amp;color)</td></tr>
+<tr class="separator:ae06923cd39df1114ffe453c6e608cc63"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aab6df0b9208b315815433fc2ebc11c51"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#aab6df0b9208b315815433fc2ebc11c51">initialize__21J3DColorBlockLightOffFv</a> ()</td></tr>
 <tr class="separator:aab6df0b9208b315815433fc2ebc11c51"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af92a06695e889243838bda9b3b1b8744"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#af92a06695e889243838bda9b3b1b8744">initialize__22J3DColorBlockAmbientOnFv</a> ()</td></tr>
@@ -1597,8 +1585,6 @@ Variables</h2></td></tr>
 <tr class="separator:a8ec3d0f62ccf8f1336771acc81a82525"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad7e9edcdf4a9cb4233c491c6159964f6"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#ad7e9edcdf4a9cb4233c491c6159964f6">__vt__13J3DColorBlock</a> [36]</td></tr>
 <tr class="separator:ad7e9edcdf4a9cb4233c491c6159964f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae72d2e91667c54fa66f49a18c8aaa30b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#ae72d2e91667c54fa66f49a18c8aaa30b">j3dSys</a> [284]</td></tr>
-<tr class="separator:ae72d2e91667c54fa66f49a18c8aaa30b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1c0da5bcb5cced5d87580744f54f300d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#a1c0da5bcb5cced5d87580744f54f300d">sTexCoordScaleTable__6J3DSys</a> [64+4]</td></tr>
 <tr class="separator:a1c0da5bcb5cced5d87580744f54f300d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adafb8da6a4c60b710343c4275786e1a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#adafb8da6a4c60b710343c4275786e1a1">j3dTevSwapTableTable</a> [1024]</td></tr>
@@ -1607,8 +1593,6 @@ Variables</h2></td></tr>
 <tr class="separator:ac24fbe11bb460d622c2efd40f3b5f3e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeefcfe5f0f1f9f4c51d832619666f6d9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#aeefcfe5f0f1f9f4c51d832619666f6d9">j3dZModeTable</a> [96]</td></tr>
 <tr class="separator:aeefcfe5f0f1f9f4c51d832619666f6d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a656111290f8611fc6cea5822a56abef2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#a656111290f8611fc6cea5822a56abef2">__GDCurrentDL</a> [4]</td></tr>
-<tr class="separator:a656111290f8611fc6cea5822a56abef2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af19a1d9634c374d3429e65f40e2d6224"><td class="memItemLeft" align="right" valign="top"><a class="el" href="GXStruct_8h.html#a0419d171f4d66c2b2a77bd299ddbdcdc">GXColor</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#af19a1d9634c374d3429e65f40e2d6224">j3dDefaultColInfo</a> = {0xFF, 0xFF, 0xFF, 0xFF}</td></tr>
 <tr class="separator:af19a1d9634c374d3429e65f40e2d6224"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6b86abf65a9ceaf34be4d34671fa89d9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DMatBlock_8cpp.html#a6b86abf65a9ceaf34be4d34671fa89d9">j3dDefaultAmbInfo</a> = 0x32323232</td></tr>
@@ -6713,6 +6697,130 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a id="a539f63941957d39d8978a0e5c0c77247" name="a539f63941957d39d8978a0e5c0c77247"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a539f63941957d39d8978a0e5c0c77247">&#9670;&#160;</a></span>loadAmbColors()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void loadAmbColors </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structJ3DGXColor.html">J3DGXColor</a> *&#160;</td>
+          <td class="paramname"><em>color</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9bb45850cdd409fada0f5ad418d56c85" name="a9bb45850cdd409fada0f5ad418d56c85"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9bb45850cdd409fada0f5ad418d56c85">&#9670;&#160;</a></span>loadMatColors()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void loadMatColors </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structJ3DGXColor.html">J3DGXColor</a> *&#160;</td>
+          <td class="paramname"><em>color</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2bd6e033b0538cfee3844e650bb4d641" name="a2bd6e033b0538cfee3844e650bb4d641"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2bd6e033b0538cfee3844e650bb4d641">&#9670;&#160;</a></span>loadTevColor()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void loadTevColor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td>
+          <td class="paramname"><em>reg</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="structJ3DGXColorS10.html">J3DGXColorS10</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae06923cd39df1114ffe453c6e608cc63" name="ae06923cd39df1114ffe453c6e608cc63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae06923cd39df1114ffe453c6e608cc63">&#9670;&#160;</a></span>loadTevKColor()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void loadTevKColor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td>
+          <td class="paramname"><em>reg</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="structJ3DGXColor.html">J3DGXColor</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="ad605eb4bc1dcb4230100a7a13b6978c4" name="ad605eb4bc1dcb4230100a7a13b6978c4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad605eb4bc1dcb4230100a7a13b6978c4">&#9670;&#160;</a></span>loadTexCoordGens__FUlP11J3DTexCoord()</h2>
 
@@ -6726,6 +6834,42 @@ Variables</h2></td></tr>
           <td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a50bbae2e44d127f2240fc8b91d2a1e21" name="a50bbae2e44d127f2240fc8b91d2a1e21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a50bbae2e44d127f2240fc8b91d2a1e21">&#9670;&#160;</a></span>loadTexCoordScale()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void loadTexCoordScale </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="GXEnum_8h.html#a2f2455ac28878d571f2ab991d5674999">GXTexCoordID</a>&#160;</td>
+          <td class="paramname"><em>coord</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="structJ3DTexCoordScaleInfo.html">J3DTexCoordScaleInfo</a> &amp;&#160;</td>
+          <td class="paramname"><em>info</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -11196,28 +11340,6 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a656111290f8611fc6cea5822a56abef2" name="a656111290f8611fc6cea5822a56abef2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a656111290f8611fc6cea5822a56abef2">&#9670;&#160;</a></span>__GDCurrentDL</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> __GDCurrentDL[4]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a7cf37bf503202a2b843f7ea838bf61ab" name="a7cf37bf503202a2b843f7ea838bf61ab"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7cf37bf503202a2b843f7ea838bf61ab">&#9670;&#160;</a></span>__vt__10J3DPEBlock</h2>
 
@@ -11530,7 +11652,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a4af7119a941d177daa73af7182d3ba1e"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a4af7119a941d177daa73af7182d3ba1e">getType__15J3DIndBlockFullFv</a></div><div class="ttdeci">void getType__15J3DIndBlockFullFv()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a5a807538e097f4b93b0b4261edd934a9"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a5a807538e097f4b93b0b4261edd934a9">setIndTexCoordScale__15J3DIndBlockFullFUlPC19J3DIndTexCoordScale</a></div><div class="ttdeci">void setIndTexCoordScale__15J3DIndBlockFullFUlPC19J3DIndTexCoordScale()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a5ae3dd40ac9cadcea79711b179972466"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a5ae3dd40ac9cadcea79711b179972466">__dt__15J3DIndBlockFullFv</a></div><div class="ttdeci">void __dt__15J3DIndBlockFullFv()</div></div>
-<div class="ttc" id="aJ3DMatBlock_8cpp_html_a97786ceccc5009ac5083b06d65581d9a"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a97786ceccc5009ac5083b06d65581d9a">reset__15J3DIndBlockFullFP11J3DIndBlock</a></div><div class="ttdeci">void reset__15J3DIndBlockFullFP11J3DIndBlock()</div><div class="ttdef"><b>Definition:</b> J3DMatBlock.cpp:1923</div></div>
+<div class="ttc" id="aJ3DMatBlock_8cpp_html_a97786ceccc5009ac5083b06d65581d9a"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a97786ceccc5009ac5083b06d65581d9a">reset__15J3DIndBlockFullFP11J3DIndBlock</a></div><div class="ttdeci">void reset__15J3DIndBlockFullFP11J3DIndBlock()</div><div class="ttdef"><b>Definition:</b> J3DMatBlock.cpp:1915</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a989af44c4adca4c6f6a3df53677ada94"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a989af44c4adca4c6f6a3df53677ada94">getIndTexCoordScale__15J3DIndBlockFullFUl</a></div><div class="ttdeci">void getIndTexCoordScale__15J3DIndBlockFullFUl()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_aa2d8c0087d0730eb2853dde084fc7676"><div class="ttname"><a href="J3DMatBlock_8cpp.html#aa2d8c0087d0730eb2853dde084fc7676">getIndTexMtx__15J3DIndBlockFullFUl</a></div><div class="ttdeci">void getIndTexMtx__15J3DIndBlockFullFUl()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_ac164c33153833a10d764fa7d7a0f9230"><div class="ttname"><a href="J3DMatBlock_8cpp.html#ac164c33153833a10d764fa7d7a0f9230">setIndTexMtx__15J3DIndBlockFullFUlPC12J3DIndTexMtx</a></div><div class="ttdeci">void setIndTexMtx__15J3DIndBlockFullFUlPC12J3DIndTexMtx()</div></div>
@@ -11609,7 +11731,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a966b5b9907db6c4c3948eb7561557817"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a966b5b9907db6c4c3948eb7561557817">calcPostTexMtxWithoutViewMtx__21J3DTexGenBlockPatchedFPA4_Cf</a></div><div class="ttdeci">void calcPostTexMtxWithoutViewMtx__21J3DTexGenBlockPatchedFPA4_Cf()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a9e1225543f3edc9fcf4946e4e928699d"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a9e1225543f3edc9fcf4946e4e928699d">calcPostTexMtx__21J3DTexGenBlockPatchedFPA4_Cf</a></div><div class="ttdeci">void calcPostTexMtx__21J3DTexGenBlockPatchedFPA4_Cf()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_aa9346df8c1d5d6062835719d41d3e1c4"><div class="ttname"><a href="J3DMatBlock_8cpp.html#aa9346df8c1d5d6062835719d41d3e1c4">getTexGenNum__21J3DTexGenBlockPatchedCFv</a></div><div class="ttdeci">void getTexGenNum__21J3DTexGenBlockPatchedCFv()</div></div>
-<div class="ttc" id="aJ3DMatBlock_8cpp_html_aae10a0e0974323f3758d8e064912f9b6"><div class="ttname"><a href="J3DMatBlock_8cpp.html#aae10a0e0974323f3758d8e064912f9b6">reset__15J3DTexGenBlock4FP14J3DTexGenBlock</a></div><div class="ttdeci">void reset__15J3DTexGenBlock4FP14J3DTexGenBlock()</div><div class="ttdef"><b>Definition:</b> J3DMatBlock.cpp:1844</div></div>
+<div class="ttc" id="aJ3DMatBlock_8cpp_html_aae10a0e0974323f3758d8e064912f9b6"><div class="ttname"><a href="J3DMatBlock_8cpp.html#aae10a0e0974323f3758d8e064912f9b6">reset__15J3DTexGenBlock4FP14J3DTexGenBlock</a></div><div class="ttdeci">void reset__15J3DTexGenBlock4FP14J3DTexGenBlock()</div><div class="ttdef"><b>Definition:</b> J3DMatBlock.cpp:1836</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_ab4968dd50462430f6974387a84821327"><div class="ttname"><a href="J3DMatBlock_8cpp.html#ab4968dd50462430f6974387a84821327">setTexMtxOffset__21J3DTexGenBlockPatchedFUl</a></div><div class="ttdeci">void setTexMtxOffset__21J3DTexGenBlockPatchedFUl()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_ac6052ae69d54b0345ce7fabc17eeb233"><div class="ttname"><a href="J3DMatBlock_8cpp.html#ac6052ae69d54b0345ce7fabc17eeb233">getNBTScale__15J3DTexGenBlock4Fv</a></div><div class="ttdeci">void getNBTScale__15J3DTexGenBlock4Fv()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_ad54a85b590e1942b2c4b55efb298d584"><div class="ttname"><a href="J3DMatBlock_8cpp.html#ad54a85b590e1942b2c4b55efb298d584">getTexCoord__21J3DTexGenBlockPatchedFUl</a></div><div class="ttdeci">void getTexCoord__21J3DTexGenBlockPatchedFUl()</div></div>
@@ -11735,7 +11857,7 @@ Variables</h2></td></tr>
 <div class="line">}</div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a2bad59fb9aefd02160b1662400ffdcfe"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a2bad59fb9aefd02160b1662400ffdcfe">__dt__19J3DTexGenBlockBasicFv</a></div><div class="ttdeci">void __dt__19J3DTexGenBlockBasicFv()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a50e68b7bd5a4ba137cb323140192d154"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a50e68b7bd5a4ba137cb323140192d154">setNBTScale__19J3DTexGenBlockBasicF11J3DNBTScale</a></div><div class="ttdeci">void setNBTScale__19J3DTexGenBlockBasicF11J3DNBTScale()</div></div>
-<div class="ttc" id="aJ3DMatBlock_8cpp_html_a51cd704b7cb3fb6b16faeb66f12fb299"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a51cd704b7cb3fb6b16faeb66f12fb299">reset__19J3DTexGenBlockBasicFP14J3DTexGenBlock</a></div><div class="ttdeci">void reset__19J3DTexGenBlockBasicFP14J3DTexGenBlock()</div><div class="ttdef"><b>Definition:</b> J3DMatBlock.cpp:1856</div></div>
+<div class="ttc" id="aJ3DMatBlock_8cpp_html_a51cd704b7cb3fb6b16faeb66f12fb299"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a51cd704b7cb3fb6b16faeb66f12fb299">reset__19J3DTexGenBlockBasicFP14J3DTexGenBlock</a></div><div class="ttdeci">void reset__19J3DTexGenBlockBasicFP14J3DTexGenBlock()</div><div class="ttdef"><b>Definition:</b> J3DMatBlock.cpp:1848</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a954479536facf229ff77f7465e40ab37"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a954479536facf229ff77f7465e40ab37">countDLSize__19J3DTexGenBlockBasicFv</a></div><div class="ttdeci">s32 countDLSize__19J3DTexGenBlockBasicFv()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_aaf53d269faf693aa2d4a459419153521"><div class="ttname"><a href="J3DMatBlock_8cpp.html#aaf53d269faf693aa2d4a459419153521">getType__19J3DTexGenBlockBasicFv</a></div><div class="ttdeci">void getType__19J3DTexGenBlockBasicFv()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_ab1bcc903a88ca010acc270ac5d213f8f"><div class="ttname"><a href="J3DMatBlock_8cpp.html#ab1bcc903a88ca010acc270ac5d213f8f">load__19J3DTexGenBlockBasicFv</a></div><div class="ttdeci">void load__19J3DTexGenBlockBasicFv()</div></div>
@@ -11837,7 +11959,7 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="J3DMatBlock_8cpp.html#ab4968dd50462430f6974387a84821327">setTexMtxOffset__21J3DTexGenBlockPatchedFUl</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="J3DMatBlock_8cpp.html#a103c25c00015613f28395ba37a4f679e">__dt__21J3DTexGenBlockPatchedFv</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="aJ3DMatBlock_8cpp_html_a08a70a2653ebee897f8f488850de8e4c"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a08a70a2653ebee897f8f488850de8e4c">reset__21J3DTexGenBlockPatchedFP14J3DTexGenBlock</a></div><div class="ttdeci">void reset__21J3DTexGenBlockPatchedFP14J3DTexGenBlock()</div><div class="ttdef"><b>Definition:</b> J3DMatBlock.cpp:1832</div></div>
+<div class="ttc" id="aJ3DMatBlock_8cpp_html_a08a70a2653ebee897f8f488850de8e4c"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a08a70a2653ebee897f8f488850de8e4c">reset__21J3DTexGenBlockPatchedFP14J3DTexGenBlock</a></div><div class="ttdeci">void reset__21J3DTexGenBlockPatchedFP14J3DTexGenBlock()</div><div class="ttdef"><b>Definition:</b> J3DMatBlock.cpp:1824</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a0fd140ff9f2f224d4607ebd877676a9f"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a0fd140ff9f2f224d4607ebd877676a9f">load__21J3DTexGenBlockPatchedFv</a></div><div class="ttdeci">void load__21J3DTexGenBlockPatchedFv()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a103c25c00015613f28395ba37a4f679e"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a103c25c00015613f28395ba37a4f679e">__dt__21J3DTexGenBlockPatchedFv</a></div><div class="ttdeci">void __dt__21J3DTexGenBlockPatchedFv()</div></div>
 <div class="ttc" id="aJ3DMatBlock_8cpp_html_a16b820672d2223a9561a3c58ffaa1f44"><div class="ttname"><a href="J3DMatBlock_8cpp.html#a16b820672d2223a9561a3c58ffaa1f44">setNBTScale__14J3DTexGenBlockF11J3DNBTScale</a></div><div class="ttdeci">void setNBTScale__14J3DTexGenBlockF11J3DNBTScale()</div></div>
@@ -12014,28 +12136,6 @@ Variables</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">char const* const J3DMatBlock__stringBase0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae72d2e91667c54fa66f49a18c8aaa30b" name="ae72d2e91667c54fa66f49a18c8aaa30b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae72d2e91667c54fa66f49a18c8aaa30b">&#9670;&#160;</a></span>j3dSys</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> j3dSys[284]</td>
         </tr>
       </table>
   </td>

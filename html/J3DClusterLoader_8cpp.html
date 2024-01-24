@@ -89,9 +89,13 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="J3DClusterLoader_8h_source.html">JSystem/J3DGraphLoader/J3DClusterLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J3DAnimation_8h_source.html">JSystem/J3DGraphAnimator/J3DAnimation.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J3DCluster_8h_source.html">JSystem/J3DGraphAnimator/J3DCluster.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J3DSkinDeform_8h_source.html">JSystem/J3DGraphAnimator/J3DSkinDeform.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JSupport_8h_source.html">JSystem/JSupport/JSupport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JUTNameTab_8h_source.html">JSystem/JUtility/JUTNameTab.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="os_8h_source.html">dolphin/os.h</a>&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphLoader/J3DClusterLoader/load__24J3DClusterLoaderDataBaseFPCv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphLoader/J3DClusterLoader/__ct__20J3DClusterLoader_v15Fv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphLoader/J3DClusterLoader/__dt__20J3DClusterLoader_v15Fv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphLoader/J3DClusterLoader/load__20J3DClusterLoader_v15FPCv.s&quot;</code><br />
@@ -111,19 +115,11 @@ $(function() {
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structResNTAB.html">ResNTAB</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJ3DClusterBlock.html">J3DClusterBlock</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJUTNameTab.html">JUTNameTab</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJ3DClusterLoader.html">J3DClusterLoader</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DDeformData.html">J3DDeformData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DDeformer.html">J3DDeformer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DClusterBlock.html">J3DClusterBlock</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DClusterLoader__v15.html">J3DClusterLoader_v15</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJ3DClusterLoader.html">J3DClusterLoader</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJ3DClusterLoader__v15.html">J3DClusterLoader_v15</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
@@ -134,8 +130,8 @@ Functions</h2></td></tr>
 <tr class="separator:a98d3f253d0624c9c50c3b61e41611dab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0758e3936fc202a6f0a59aff8964f1cf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DClusterLoader_8cpp.html#a0758e3936fc202a6f0a59aff8964f1cf">__dt__20J3DClusterLoader_v15Fv</a> ()</td></tr>
 <tr class="separator:a0758e3936fc202a6f0a59aff8964f1cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a817f13eb954884199362c23d18952759"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DClusterLoader_8cpp.html#a817f13eb954884199362c23d18952759">load__20J3DClusterLoader_v15FPCv</a> ()</td></tr>
-<tr class="separator:a817f13eb954884199362c23d18952759"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec2e13352dadd8952677962b9f1d5719"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DClusterLoader_8cpp.html#aec2e13352dadd8952677962b9f1d5719">load__20J3DClusterLoader_v15FPCv</a> ()</td></tr>
+<tr class="separator:aec2e13352dadd8952677962b9f1d5719"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5fa38bd10dfee176431e7cf5817e83b7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DClusterLoader_8cpp.html#a5fa38bd10dfee176431e7cf5817e83b7">readCluster__20J3DClusterLoader_v15FPC15J3DClusterBlock</a> ()</td></tr>
 <tr class="separator:a5fa38bd10dfee176431e7cf5817e83b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae1aaca0e0a212205858a1caf1c8c3416"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DClusterLoader_8cpp.html#ae1aaca0e0a212205858a1caf1c8c3416">__dt__16J3DClusterLoaderFv</a> ()</td></tr>
@@ -633,14 +629,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a817f13eb954884199362c23d18952759" name="a817f13eb954884199362c23d18952759"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a817f13eb954884199362c23d18952759">&#9670;&#160;</a></span>load__20J3DClusterLoader_v15FPCv()</h2>
+<a id="aec2e13352dadd8952677962b9f1d5719" name="aec2e13352dadd8952677962b9f1d5719"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec2e13352dadd8952677962b9f1d5719">&#9670;&#160;</a></span>load__20J3DClusterLoader_v15FPCv()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void load__20J3DClusterLoader_v15FPCv </td>
+          <td class="memname">asm void load__20J3DClusterLoader_v15FPCv </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -754,11 +750,11 @@ Variables</h2></td></tr>
 <b>Initial value:</b><div class="fragment"><div class="line">= {</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a> ,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_define" href="stddef_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>,</div>
-<div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="J3DClusterLoader_8cpp.html#a817f13eb954884199362c23d18952759">load__20J3DClusterLoader_v15FPCv</a>,</div>
+<div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="J3DClusterLoader_8cpp.html#aec2e13352dadd8952677962b9f1d5719">load__20J3DClusterLoader_v15FPCv</a>,</div>
 <div class="line">    (<span class="keywordtype">void</span>*)<a class="code hl_function" href="J3DClusterLoader_8cpp.html#a0758e3936fc202a6f0a59aff8964f1cf">__dt__20J3DClusterLoader_v15Fv</a>,</div>
 <div class="line">}</div>
 <div class="ttc" id="aJ3DClusterLoader_8cpp_html_a0758e3936fc202a6f0a59aff8964f1cf"><div class="ttname"><a href="J3DClusterLoader_8cpp.html#a0758e3936fc202a6f0a59aff8964f1cf">__dt__20J3DClusterLoader_v15Fv</a></div><div class="ttdeci">void __dt__20J3DClusterLoader_v15Fv()</div></div>
-<div class="ttc" id="aJ3DClusterLoader_8cpp_html_a817f13eb954884199362c23d18952759"><div class="ttname"><a href="J3DClusterLoader_8cpp.html#a817f13eb954884199362c23d18952759">load__20J3DClusterLoader_v15FPCv</a></div><div class="ttdeci">void load__20J3DClusterLoader_v15FPCv()</div></div>
+<div class="ttc" id="aJ3DClusterLoader_8cpp_html_aec2e13352dadd8952677962b9f1d5719"><div class="ttname"><a href="J3DClusterLoader_8cpp.html#aec2e13352dadd8952677962b9f1d5719">load__20J3DClusterLoader_v15FPCv</a></div><div class="ttdeci">void load__20J3DClusterLoader_v15FPCv()</div><div class="ttdef"><b>Definition:</b> J3DClusterLoader.cpp:186</div></div>
 </div><!-- fragment -->
 </div>
 </div>

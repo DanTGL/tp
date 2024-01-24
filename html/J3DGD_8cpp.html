@@ -89,12 +89,8 @@ $(function() {
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="J3DGD_8h_source.html">JSystem/J3DGraphBase/J3DGD.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="gd_8h_source.html">dolphin/gd.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="os_8h_source.html">dolphin/os.h</a>&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DGD/J3DGDSetLightAttn__F10_GXLightIDffffff.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DGD/J3DGDSetLightColor__F10_GXLightID8_GXColor.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DGD/J3DGDSetLightPos__F10_GXLightIDfff.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DGD/J3DGDSetLightDir__F10_GXLightIDfff.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/J3DGraphBase/J3DGD/J3DGDSetIndTexMtx__F14_GXIndTexMtxIDPA3_fSc.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/J3DGraphBase/J3DGD/J3DFifoLoadTexCached__F11_GXTexMapIDUl15_GXTexCacheSizeUl15_GXTexCacheSize.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for J3DGD.cpp:</div>
@@ -197,14 +193,14 @@ Functions</h2></td></tr>
 <tr class="separator:a87c198a90ed38bc31d25655a1e0e6059"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a22f4333c7347c715b9f2104226d46a39"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a22f4333c7347c715b9f2104226d46a39">J3DGDSetGenMode_3Param</a> (<a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> texGenNum, <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> tevStageNum, <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> indTexStageNum)</td></tr>
 <tr class="separator:a22f4333c7347c715b9f2104226d46a39"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a201a15f73e6f6a11a5962e3735c68821"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a201a15f73e6f6a11a5962e3735c68821">J3DGDSetLightAttn</a> (<a class="el" href="GXEnum_8h.html#ae5045f79658333ace6b9d5dacec75e61">_GXLightID</a> param_0, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_1, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_2, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_3, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_4, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_5, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_6)</td></tr>
-<tr class="separator:a201a15f73e6f6a11a5962e3735c68821"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ed17222013e26745ba5aefa2c6ca16f"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a0ed17222013e26745ba5aefa2c6ca16f">J3DGDSetLightColor</a> (<a class="el" href="GXEnum_8h.html#ae5045f79658333ace6b9d5dacec75e61">_GXLightID</a> param_0, <a class="el" href="struct__GXColor.html">_GXColor</a> param_1)</td></tr>
-<tr class="separator:a0ed17222013e26745ba5aefa2c6ca16f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8ec2b33118784b9b8aeda9691f4fdc5e"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a8ec2b33118784b9b8aeda9691f4fdc5e">J3DGDSetLightPos</a> (<a class="el" href="GXEnum_8h.html#ae5045f79658333ace6b9d5dacec75e61">_GXLightID</a> param_0, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_1, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_2, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_3)</td></tr>
-<tr class="separator:a8ec2b33118784b9b8aeda9691f4fdc5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c6d6abdefd6bb894d6b4e82f9ab8af3"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a3c6d6abdefd6bb894d6b4e82f9ab8af3">J3DGDSetLightDir</a> (<a class="el" href="GXEnum_8h.html#ae5045f79658333ace6b9d5dacec75e61">_GXLightID</a> param_0, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_1, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_2, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> param_3)</td></tr>
-<tr class="separator:a3c6d6abdefd6bb894d6b4e82f9ab8af3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18d1f403035ffa9caa10a21a1159ed4e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a18d1f403035ffa9caa10a21a1159ed4e">J3DGDSetLightAttn</a> (<a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a> <a class="el" href="d__a__npc__cd_8cpp.html#ab7710104fe587e0c8b4be67c675f3e0c">id</a>, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> a0, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> a1, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> a2, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> k0, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> k1, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> k2)</td></tr>
+<tr class="separator:a18d1f403035ffa9caa10a21a1159ed4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29b4504ea473d6e03a647209a26fcc27"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a29b4504ea473d6e03a647209a26fcc27">J3DGDSetLightColor</a> (<a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a> <a class="el" href="d__a__npc__cd_8cpp.html#ab7710104fe587e0c8b4be67c675f3e0c">id</a>, <a class="el" href="GXStruct_8h.html#a0419d171f4d66c2b2a77bd299ddbdcdc">GXColor</a> color)</td></tr>
+<tr class="separator:a29b4504ea473d6e03a647209a26fcc27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab701e14db0e3778daa3759ddeae77595"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#ab701e14db0e3778daa3759ddeae77595">J3DGDSetLightPos</a> (<a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a> <a class="el" href="d__a__npc__cd_8cpp.html#ab7710104fe587e0c8b4be67c675f3e0c">id</a>, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> x, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> y, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> z)</td></tr>
+<tr class="separator:ab701e14db0e3778daa3759ddeae77595"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2bda452b403803428ac339ec2b67d19a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a2bda452b403803428ac339ec2b67d19a">J3DGDSetLightDir</a> (<a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a> <a class="el" href="d__a__npc__cd_8cpp.html#ab7710104fe587e0c8b4be67c675f3e0c">id</a>, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> x, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> y, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> z)</td></tr>
+<tr class="separator:a2bda452b403803428ac339ec2b67d19a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acefd179ff5b3830a94503b27e58f70a5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#acefd179ff5b3830a94503b27e58f70a5">J3DGDSetVtxAttrFmtv</a> (<a class="el" href="GXEnum_8h.html#a8d71c0c78270e3cbcb3055718cc7aaf8">GXVtxFmt</a> fmt, <a class="el" href="GXAttr_8h.html#a3866c1722396e46c63d437c31daf5624">GXVtxAttrFmtList</a> const *fmtList, bool param_2)</td></tr>
 <tr class="separator:acefd179ff5b3830a94503b27e58f70a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abfe3f7498a2161a298ca9295482a19a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#abfe3f7498a2161a298ca9295482a19a0">J3DGDSetTexCoordGen</a> (<a class="el" href="GXEnum_8h.html#aeb060846c8733660a9e4d636cc96e024">GXTexGenType</a> texGenType, <a class="el" href="GXEnum_8h.html#a544eb86bef16f64fc579369f59607bcf">GXTexGenSrc</a> texGenSrc)</td></tr>
@@ -223,8 +219,8 @@ Functions</h2></td></tr>
 <tr class="separator:ae06a086ac5ad9e89eb0fe36116cdd1c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:accb843a527d1c48972ad24cec939491a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#accb843a527d1c48972ad24cec939491a">J3DGDLoadTlut</a> (void *param_0, <a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> param_1, <a class="el" href="GXEnum_8h.html#a37b513bf7d7ccc0d24f68aca4db9e5bd">GXTlutSize</a> param_2)</td></tr>
 <tr class="separator:accb843a527d1c48972ad24cec939491a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a386713805c328286107eb514c9c52b4c"><td class="memItemLeft" align="right" valign="top">asm void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a386713805c328286107eb514c9c52b4c">J3DGDSetIndTexMtx</a> (<a class="el" href="GXEnum_8h.html#a75151704a7dd023a9415bee9aa2bf0e3">_GXIndTexMtxID</a> param_0, <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>(*param_1)[3], <a class="el" href="types_8h.html#a151f780fb455885061d3b77ec1c90c03">s8</a> param_2)</td></tr>
-<tr class="separator:a386713805c328286107eb514c9c52b4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad88711f7262893a4c8b4e53a808587e4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#ad88711f7262893a4c8b4e53a808587e4">J3DGDSetIndTexMtx</a> (<a class="el" href="GXEnum_8h.html#aa6004ad58bbea1d2e745b085ec630a68">GXIndTexMtxID</a> <a class="el" href="d__a__npc__cd_8cpp.html#ab7710104fe587e0c8b4be67c675f3e0c">id</a>, <a class="el" href="mtx_8h.html#ad5cef81430b3ca77c62e387fb26116fd">Mtx3P</a> <a class="el" href="c__lib_8cpp.html#acb9d23c4d464c6b0a4fd696c59ab4dcb">mtx</a>, <a class="el" href="types_8h.html#a151f780fb455885061d3b77ec1c90c03">s8</a> <a class="el" href="math_8h.html#ae87cffe9d4bba63937ab959bda26aa0c">exp</a>)</td></tr>
+<tr class="separator:ad88711f7262893a4c8b4e53a808587e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abdaf41b679d9edfe13c8170ee6fe2ce4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#abdaf41b679d9edfe13c8170ee6fe2ce4">J3DGDSetIndTexCoordScale</a> (<a class="el" href="GXEnum_8h.html#a6071d48e51a41189dc2e4afd7ebcdd53">GXIndTexStageID</a> stage, <a class="el" href="GXEnum_8h.html#a5f772954bc11a1b271fa039b6bb5bd2d">GXIndTexScale</a> scale0, <a class="el" href="GXEnum_8h.html#a5f772954bc11a1b271fa039b6bb5bd2d">GXIndTexScale</a> scale1, <a class="el" href="GXEnum_8h.html#a5f772954bc11a1b271fa039b6bb5bd2d">GXIndTexScale</a> scale2, <a class="el" href="GXEnum_8h.html#a5f772954bc11a1b271fa039b6bb5bd2d">GXIndTexScale</a> scale3)</td></tr>
 <tr class="separator:abdaf41b679d9edfe13c8170ee6fe2ce4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e4acbc8358f0440e3cc58ecdd65c16e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a5e4acbc8358f0440e3cc58ecdd65c16e">J3DGDSetIndTexOrder</a> (<a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> <a class="el" href="targimpl_8c.html#ac74ae34e9c58234aacabb6867b245c58">count</a>, <a class="el" href="GXEnum_8h.html#a2f2455ac28878d571f2ab991d5674999">GXTexCoordID</a> coord0, <a class="el" href="GXEnum_8h.html#a72532f5d20cdea292c5f2f9c296848ab">GXTexMapID</a> map0, <a class="el" href="GXEnum_8h.html#a2f2455ac28878d571f2ab991d5674999">GXTexCoordID</a> coord1, <a class="el" href="GXEnum_8h.html#a72532f5d20cdea292c5f2f9c296848ab">GXTexMapID</a> map1, <a class="el" href="GXEnum_8h.html#a2f2455ac28878d571f2ab991d5674999">GXTexCoordID</a> coord2, <a class="el" href="GXEnum_8h.html#a72532f5d20cdea292c5f2f9c296848ab">GXTexMapID</a> map2, <a class="el" href="GXEnum_8h.html#a2f2455ac28878d571f2ab991d5674999">GXTexCoordID</a> coord3, <a class="el" href="GXEnum_8h.html#a72532f5d20cdea292c5f2f9c296848ab">GXTexMapID</a> map3)</td></tr>
@@ -266,8 +262,6 @@ Variables</h2></td></tr>
 <tr class="separator:a211df94f37c48d5ed0103910fa57fb43"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7d8206cd51da086d3e5e00f292c56c84"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a7d8206cd51da086d3e5e00f292c56c84">GX2HWFiltConv</a> [6]</td></tr>
 <tr class="separator:a7d8206cd51da086d3e5e00f292c56c84"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a5ea9cb60caacc978a0e2091098715f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a1a5ea9cb60caacc978a0e2091098715f">lit_1233</a> = 1024.0f</td></tr>
-<tr class="separator:a1a5ea9cb60caacc978a0e2091098715f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5558f350e816bb6fa6360d63048c2942"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#a5558f350e816bb6fa6360d63048c2942">J3DTexImage1Ids</a> [8]</td></tr>
 <tr class="separator:a5558f350e816bb6fa6360d63048c2942"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aff26c91457d6aef9c8fa77e44b8a72c6"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="J3DGD_8cpp.html#aff26c91457d6aef9c8fa77e44b8a72c6">J3DTexImage2Ids</a> [8]</td></tr>
@@ -1148,29 +1142,29 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a386713805c328286107eb514c9c52b4c" name="a386713805c328286107eb514c9c52b4c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a386713805c328286107eb514c9c52b4c">&#9670;&#160;</a></span>J3DGDSetIndTexMtx()</h2>
+<a id="ad88711f7262893a4c8b4e53a808587e4" name="ad88711f7262893a4c8b4e53a808587e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad88711f7262893a4c8b4e53a808587e4">&#9670;&#160;</a></span>J3DGDSetIndTexMtx()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void J3DGDSetIndTexMtx </td>
+          <td class="memname">void J3DGDSetIndTexMtx </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="GXEnum_8h.html#a75151704a7dd023a9415bee9aa2bf0e3">_GXIndTexMtxID</a>&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramtype"><a class="el" href="GXEnum_8h.html#aa6004ad58bbea1d2e745b085ec630a68">GXIndTexMtxID</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>(*)&#160;</td>
-          <td class="paramname"><em>param_1</em>[3], </td>
+          <td class="paramtype"><a class="el" href="mtx_8h.html#ad5cef81430b3ca77c62e387fb26116fd">Mtx3P</a>&#160;</td>
+          <td class="paramname"><em>mtx</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a151f780fb455885061d3b77ec1c90c03">s8</a>&#160;</td>
-          <td class="paramname"><em>param_2</em>&#160;</td>
+          <td class="paramname"><em>exp</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -1286,53 +1280,53 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a201a15f73e6f6a11a5962e3735c68821" name="a201a15f73e6f6a11a5962e3735c68821"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a201a15f73e6f6a11a5962e3735c68821">&#9670;&#160;</a></span>J3DGDSetLightAttn()</h2>
+<a id="a18d1f403035ffa9caa10a21a1159ed4e" name="a18d1f403035ffa9caa10a21a1159ed4e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18d1f403035ffa9caa10a21a1159ed4e">&#9670;&#160;</a></span>J3DGDSetLightAttn()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void J3DGDSetLightAttn </td>
+          <td class="memname">void J3DGDSetLightAttn </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="GXEnum_8h.html#ae5045f79658333ace6b9d5dacec75e61">_GXLightID</a>&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramtype"><a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_1</em>, </td>
+          <td class="paramname"><em>a0</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_2</em>, </td>
+          <td class="paramname"><em>a1</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_3</em>, </td>
+          <td class="paramname"><em>a2</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_4</em>, </td>
+          <td class="paramname"><em>k0</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_5</em>, </td>
+          <td class="paramname"><em>k1</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_6</em>&#160;</td>
+          <td class="paramname"><em>k2</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -1361,23 +1355,23 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a0ed17222013e26745ba5aefa2c6ca16f" name="a0ed17222013e26745ba5aefa2c6ca16f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ed17222013e26745ba5aefa2c6ca16f">&#9670;&#160;</a></span>J3DGDSetLightColor()</h2>
+<a id="a29b4504ea473d6e03a647209a26fcc27" name="a29b4504ea473d6e03a647209a26fcc27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29b4504ea473d6e03a647209a26fcc27">&#9670;&#160;</a></span>J3DGDSetLightColor()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void J3DGDSetLightColor </td>
+          <td class="memname">void J3DGDSetLightColor </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="GXEnum_8h.html#ae5045f79658333ace6b9d5dacec75e61">_GXLightID</a>&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramtype"><a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="struct__GXColor.html">_GXColor</a>&#160;</td>
-          <td class="paramname"><em>param_1</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="GXStruct_8h.html#a0419d171f4d66c2b2a77bd299ddbdcdc">GXColor</a>&#160;</td>
+          <td class="paramname"><em>color</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -1406,35 +1400,35 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a3c6d6abdefd6bb894d6b4e82f9ab8af3" name="a3c6d6abdefd6bb894d6b4e82f9ab8af3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c6d6abdefd6bb894d6b4e82f9ab8af3">&#9670;&#160;</a></span>J3DGDSetLightDir()</h2>
+<a id="a2bda452b403803428ac339ec2b67d19a" name="a2bda452b403803428ac339ec2b67d19a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2bda452b403803428ac339ec2b67d19a">&#9670;&#160;</a></span>J3DGDSetLightDir()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void J3DGDSetLightDir </td>
+          <td class="memname">void J3DGDSetLightDir </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="GXEnum_8h.html#ae5045f79658333ace6b9d5dacec75e61">_GXLightID</a>&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramtype"><a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_1</em>, </td>
+          <td class="paramname"><em>x</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_2</em>, </td>
+          <td class="paramname"><em>y</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_3</em>&#160;</td>
+          <td class="paramname"><em>z</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -1463,35 +1457,35 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a8ec2b33118784b9b8aeda9691f4fdc5e" name="a8ec2b33118784b9b8aeda9691f4fdc5e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ec2b33118784b9b8aeda9691f4fdc5e">&#9670;&#160;</a></span>J3DGDSetLightPos()</h2>
+<a id="ab701e14db0e3778daa3759ddeae77595" name="ab701e14db0e3778daa3759ddeae77595"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab701e14db0e3778daa3759ddeae77595">&#9670;&#160;</a></span>J3DGDSetLightPos()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void J3DGDSetLightPos </td>
+          <td class="memname">void J3DGDSetLightPos </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="GXEnum_8h.html#ae5045f79658333ace6b9d5dacec75e61">_GXLightID</a>&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramtype"><a class="el" href="GXEnum_8h.html#a8c90da9fe0eb1c207af48ec850c251cd">GXLightID</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_1</em>, </td>
+          <td class="paramname"><em>x</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_2</em>, </td>
+          <td class="paramname"><em>y</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td>
-          <td class="paramname"><em>param_3</em>&#160;</td>
+          <td class="paramname"><em>z</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -2352,28 +2346,6 @@ Variables</h2></td></tr>
 <div class="line">    0x90, 0x91, 0x92, 0x93, 0xB0, 0xB1, 0xB2, 0xB3,</div>
 <div class="line">}</div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a1a5ea9cb60caacc978a0e2091098715f" name="a1a5ea9cb60caacc978a0e2091098715f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a5ea9cb60caacc978a0e2091098715f">&#9670;&#160;</a></span>lit_1233</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> lit_1233 = 1024.0f</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
 </div>
 </div>
 </div><!-- contents -->
