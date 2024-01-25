@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['z_0',['Z',['../namespaceCButton.html#aefef9b1bcc95b702239cf240a696cda1ae4865325afef917eeabffe27dfe90151',1,'CButton']]],
-  ['z_1',['z',['../structSVec.html#a70b2f4a996cec5592fd09d472ea99d29',1,'SVec::z()'],['../structDOUBLE__POS.html#aa261e4c42c59d149e26616c0bdfc191c',1,'DOUBLE_POS::z()'],['../structJGeometry_1_1TVec3.html#a8f0f8750dbb92c0182d4b31f4dd65b42',1,'JGeometry::TVec3::z()'],['../structJGeometry_1_1TVec3_3_01s16_01_4.html#a592f20c036c8c3883932bdef4d38ef68',1,'JGeometry::TVec3&lt; s16 &gt;::z()'],['../structJGeometry_1_1TVec3_3_01f32_01_4.html#a1586b3b8ed2c5ad2dd476543e7a1c116',1,'JGeometry::TVec3&lt; f32 &gt;::z()'],['../structVec.html#a0f0b609a811cdc8e682bbe324cb928fe',1,'Vec::z()'],['../structQuaternion.html#adeb16e3f0a98f313e21d764bc4363a26',1,'Quaternion::z()']]],
+  ['z_0',['Z',['../namespaceCButton.html#af39bf4b4c84a6a7438354c22d03a3dbaae4865325afef917eeabffe27dfe90151',1,'CButton']]],
+  ['z_1',['z',['../structSVec.html#a70b2f4a996cec5592fd09d472ea99d29',1,'SVec::z()'],['../structDOUBLE__POS.html#aa261e4c42c59d149e26616c0bdfc191c',1,'DOUBLE_POS::z()'],['../structJGeometry_1_1TVec3.html#a8f0f8750dbb92c0182d4b31f4dd65b42',1,'JGeometry::TVec3::z()'],['../structJGeometry_1_1TVec3_3_01double_01_4.html#a7a27e0181ae8d0f41efa7687ca6054da',1,'JGeometry::TVec3&lt; double &gt;::z()'],['../structJGeometry_1_1TVec3_3_01s16_01_4.html#a592f20c036c8c3883932bdef4d38ef68',1,'JGeometry::TVec3&lt; s16 &gt;::z()'],['../structJGeometry_1_1TVec3_3_01f32_01_4.html#a1586b3b8ed2c5ad2dd476543e7a1c116',1,'JGeometry::TVec3&lt; f32 &gt;::z()'],['../structVec.html#a0f0b609a811cdc8e682bbe324cb928fe',1,'Vec::z()'],['../structQuaternion.html#adeb16e3f0a98f313e21d764bc4363a26',1,'Quaternion::z()']]],
   ['z2_5fb_5fzan_5fmodpitch_2',['Z2_B_zan_modPitch',['../Z2Creature_8cpp.html#afbfa67c2e963401675a208fe2dd0e9d3',1,'Z2Creature.cpp']]],
   ['z2_5fb_5fzan_5fmodpitch_5f_5ffp17z2soundhandlepoolul_3',['Z2_B_zan_modPitch__FP17Z2SoundHandlePoolUl',['../Z2Creature_8cpp.html#a64f3232609ab5ff2fe63bdf6c19f676b',1,'Z2Creature.cpp']]],
   ['z2_5fe_5fmm_5fmodpitch_4',['Z2_E_mm_modPitch',['../Z2Creature_8cpp.html#a36d9241c3519e9c603c08f04bff086ea',1,'Z2Creature.cpp']]],
@@ -4352,7 +4352,7 @@ var searchData=
   ['z2wolfhowlmgr_2ecpp_4349',['Z2WolfHowlMgr.cpp',['../Z2WolfHowlMgr_8cpp.html',1,'']]],
   ['z2wolfhowlmgr_2eh_4350',['Z2WolfHowlMgr.h',['../Z2WolfHowlMgr_8h.html',1,'']]],
   ['z_5ftx_4351',['z_tx',['../d__menu__option_8cpp.html#a3029cbe8f5c00bca6a6dbdee2c861156',1,'d_menu_option.cpp']]],
-  ['zelda_5fcode_5fsize_4352',['ZELDA_CODE_SIZE',['../d__bg__plc_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a528c94922b014d4149a61ffa65eb0531',1,'d_bg_plc.h']]],
+  ['zelda_5fcode_5fsize_4352',['ZELDA_CODE_SIZE',['../d__bg__plc_8h.html#abc5c98fcc1211af2b80116dd6e0a035da528c94922b014d4149a61ffa65eb0531',1,'d_bg_plc.h']]],
   ['zeldagframework_4353',['zeldaGFrameWork',['../structZ2AudioMgr.html#a2f7eb7ff564d7ab3aa55e87c162c455e',1,'Z2AudioMgr']]],
   ['zeldagframework_5f_5f10z2audiomgrfv_4354',['zeldaGFrameWork__10Z2AudioMgrFv',['../Z2AudioMgr_8cpp.html#a98205266e573065a753ee29ca4ca28e4',1,'Z2AudioMgr.cpp']]],
   ['zeldaheap_4355',['zeldaHeap',['../m__Do__ext_8cpp.html#a73846de00e412e28f13ddc535529d3ad',1,'zeldaHeap():&#160;m_Do_ext.cpp'],['../m__Do__ext_8h.html#a73846de00e412e28f13ddc535529d3ad',1,'zeldaHeap():&#160;m_Do_ext.cpp']]],

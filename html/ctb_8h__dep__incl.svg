@@ -58,9 +58,9 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="1063.5,-448 938.5,-448 938.5,-418 1063.5,-418 1063.5,-448"/>
-<text text-anchor="start" x="946.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
-<text text-anchor="middle" x="1001" y="-425" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/ctb.h</text>
+<polygon fill="#999999" stroke="#666666" points="1259.5,-448 1134.5,-448 1134.5,-418 1259.5,-418 1259.5,-448"/>
+<text text-anchor="start" x="1142.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
+<text text-anchor="middle" x="1197" y="-425" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/ctb.h</text>
 </a>
 </g>
 </g>
@@ -68,87 +68,87 @@ var sectionId = 'dynsection-1';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="jstudio-control_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="996.5,-382 871.5,-382 871.5,-352 996.5,-352 996.5,-382"/>
-<text text-anchor="start" x="879.5" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
-<text text-anchor="middle" x="934" y="-359" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/jstudio&#45;control.h</text>
+<polygon fill="white" stroke="#666666" points="1192.5,-382 1067.5,-382 1067.5,-352 1192.5,-352 1192.5,-382"/>
+<text text-anchor="start" x="1075.5" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
+<text text-anchor="middle" x="1130" y="-359" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/jstudio&#45;control.h</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="#63b8ff" d="M978.06,-410.09C968.39,-400.85 957.41,-390.36 948.83,-382.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="975.39,-412.37 985.04,-416.75 980.22,-407.31 975.39,-412.37"/>
+<path fill="none" stroke="#63b8ff" d="M1174.06,-410.09C1164.39,-400.85 1153.41,-390.36 1144.83,-382.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1171.39,-412.37 1181.04,-416.75 1176.22,-407.31 1171.39,-412.37"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="jstudio-object_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="905.5,-316 780.5,-316 780.5,-286 905.5,-286 905.5,-316"/>
-<text text-anchor="start" x="788.5" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
-<text text-anchor="middle" x="843" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/jstudio&#45;object.h</text>
+<polygon fill="white" stroke="#666666" points="1101.5,-316 976.5,-316 976.5,-286 1101.5,-286 1101.5,-316"/>
+<text text-anchor="start" x="984.5" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
+<text text-anchor="middle" x="1039" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/jstudio&#45;object.h</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge38" class="edge">
-<title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="#63b8ff" d="M927.27,-419.98C903.47,-412.66 878.89,-400.9 862,-382 845.64,-363.69 842.69,-333.87 842.51,-316.27"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="926.09,-423.28 936.67,-422.63 927.99,-416.54 926.09,-423.28"/>
-</g>
-<!-- Node37 -->
-<g id="node37" class="node">
-<title>Node37</title>
-<g id="a_node37"><a xlink:href="ctb-data_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1123.5,-382 1014.5,-382 1014.5,-352 1123.5,-352 1123.5,-382"/>
-<text text-anchor="start" x="1022.5" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JStudio</text>
-<text text-anchor="middle" x="1069" y="-359" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/ctb&#45;data.cpp</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node37 -->
 <g id="edge39" class="edge">
-<title>Node1&#45;&gt;Node37</title>
-<path fill="none" stroke="#63b8ff" d="M1024.28,-410.09C1034.1,-400.85 1045.24,-390.36 1053.95,-382.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1022.08,-407.36 1017.19,-416.76 1026.87,-412.45 1022.08,-407.36"/>
+<title>Node1&#45;&gt;Node3</title>
+<path fill="none" stroke="#63b8ff" d="M1123.27,-419.98C1099.47,-412.66 1074.89,-400.9 1058,-382 1041.64,-363.69 1038.69,-333.87 1038.51,-316.27"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1122.09,-423.28 1132.67,-422.63 1123.99,-416.54 1122.09,-423.28"/>
 </g>
 <!-- Node38 -->
 <g id="node38" class="node">
 <title>Node38</title>
-<g id="a_node38"><a xlink:href="ctb_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1250.5,-382 1141.5,-382 1141.5,-352 1250.5,-352 1250.5,-382"/>
-<text text-anchor="start" x="1149.5" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JStudio</text>
-<text text-anchor="middle" x="1196" y="-359" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/ctb.cpp</text>
+<g id="a_node38"><a xlink:href="ctb-data_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1319.5,-382 1210.5,-382 1210.5,-352 1319.5,-352 1319.5,-382"/>
+<text text-anchor="start" x="1218.5" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JStudio</text>
+<text text-anchor="middle" x="1265" y="-359" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/ctb&#45;data.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node38 -->
 <g id="edge40" class="edge">
 <title>Node1&#45;&gt;Node38</title>
-<path fill="none" stroke="#63b8ff" d="M1055.64,-414.07C1086.09,-404.07 1123.51,-391.79 1152.05,-382.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1054.61,-410.72 1046.2,-417.17 1056.79,-417.37 1054.61,-410.72"/>
+<path fill="none" stroke="#63b8ff" d="M1220.28,-410.09C1230.1,-400.85 1241.24,-390.36 1249.95,-382.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1218.08,-407.36 1213.19,-416.76 1222.87,-412.45 1218.08,-407.36"/>
+</g>
+<!-- Node39 -->
+<g id="node39" class="node">
+<title>Node39</title>
+<g id="a_node39"><a xlink:href="ctb_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1446.5,-382 1337.5,-382 1337.5,-352 1446.5,-352 1446.5,-382"/>
+<text text-anchor="start" x="1345.5" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JStudio</text>
+<text text-anchor="middle" x="1392" y="-359" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/ctb.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node39 -->
+<g id="edge41" class="edge">
+<title>Node1&#45;&gt;Node39</title>
+<path fill="none" stroke="#63b8ff" d="M1251.64,-414.07C1282.09,-404.07 1319.51,-391.79 1348.05,-382.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1250.61,-410.72 1242.2,-417.17 1252.79,-417.37 1250.61,-410.72"/>
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="#63b8ff" d="M904.5,-345.25C891.09,-335.82 875.55,-324.9 863.45,-316.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="902.37,-348.04 912.57,-350.93 906.4,-342.31 902.37,-348.04"/>
+<path fill="none" stroke="#63b8ff" d="M1100.5,-345.25C1087.09,-335.82 1071.55,-324.9 1059.45,-316.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1098.37,-348.04 1108.57,-350.93 1102.4,-342.31 1098.37,-348.04"/>
 </g>
-<!-- Node36 -->
-<g id="node36" class="node">
-<title>Node36</title>
-<g id="a_node36"><a xlink:href="jstudio-control_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1058,-316 924,-316 924,-286 1058,-286 1058,-316"/>
-<text text-anchor="start" x="932" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JStudio</text>
-<text text-anchor="middle" x="991" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/jstudio&#45;control.cpp</text>
+<!-- Node37 -->
+<g id="node37" class="node">
+<title>Node37</title>
+<g id="a_node37"><a xlink:href="jstudio-control_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1254,-316 1120,-316 1120,-286 1254,-286 1254,-316"/>
+<text text-anchor="start" x="1128" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JStudio</text>
+<text text-anchor="middle" x="1187" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/jstudio&#45;control.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node36 -->
-<g id="edge37" class="edge">
-<title>Node2&#45;&gt;Node36</title>
-<path fill="none" stroke="#63b8ff" d="M954.27,-343.24C962.31,-334.21 971.31,-324.11 978.39,-316.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="951.69,-340.87 947.66,-350.67 956.92,-345.53 951.69,-340.87"/>
+<!-- Node2&#45;&gt;Node37 -->
+<g id="edge38" class="edge">
+<title>Node2&#45;&gt;Node37</title>
+<path fill="none" stroke="#63b8ff" d="M1150.27,-343.24C1158.31,-334.21 1167.31,-324.11 1174.39,-316.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1147.69,-340.87 1143.66,-350.67 1152.92,-345.53 1147.69,-340.87"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -163,8 +163,8 @@ var sectionId = 'dynsection-1';
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="#63b8ff" d="M777.91,-282.64C740,-272.53 692.78,-259.94 656.96,-250.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="776.81,-285.97 787.38,-285.17 778.62,-279.21 776.81,-285.97"/>
+<path fill="none" stroke="#63b8ff" d="M964.74,-289.1C882,-276.95 749.45,-257.5 669.85,-245.81"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="964.17,-292.55 974.57,-290.54 965.18,-285.63 964.17,-292.55"/>
 </g>
 <!-- Node17 -->
 <g id="node17" class="node">
@@ -179,8 +179,8 @@ var sectionId = 'dynsection-1';
 <!-- Node3&#45;&gt;Node17 -->
 <g id="edge16" class="edge">
 <title>Node3&#45;&gt;Node17</title>
-<path fill="none" stroke="#63b8ff" d="M768.83,-292.06C651.95,-279.55 426.61,-255.44 313.41,-243.32"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="768.31,-295.53 778.63,-293.11 769.06,-288.57 768.31,-295.53"/>
+<path fill="none" stroke="#63b8ff" d="M964.9,-294.03C811.58,-281.67 461.49,-253.45 313.29,-241.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="964.27,-297.49 974.52,-294.8 964.84,-290.51 964.27,-297.49"/>
 </g>
 <!-- Node21 -->
 <g id="node21" class="node">
@@ -195,8 +195,8 @@ var sectionId = 'dynsection-1';
 <!-- Node3&#45;&gt;Node21 -->
 <g id="edge21" class="edge">
 <title>Node3&#45;&gt;Node21</title>
-<path fill="none" stroke="#63b8ff" d="M897.92,-282.07C928.52,-272.07 966.13,-259.79 994.82,-250.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="896.84,-278.74 888.43,-285.17 899.02,-285.39 896.84,-278.74"/>
+<path fill="none" stroke="#63b8ff" d="M1039,-274.39C1039,-266.13 1039,-257.28 1039,-250.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1035.5,-274.28 1039,-284.28 1042.5,-274.28 1035.5,-274.28"/>
 </g>
 <!-- Node35 -->
 <g id="node35" class="node">
@@ -211,8 +211,24 @@ var sectionId = 'dynsection-1';
 <!-- Node3&#45;&gt;Node35 -->
 <g id="edge36" class="edge">
 <title>Node3&#45;&gt;Node35</title>
-<path fill="none" stroke="#63b8ff" d="M917.08,-285.62C1004.33,-269.22 1027.98,-265.52 1112,-250 1115,-249.45 1118.06,-248.88 1121.15,-248.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="916.49,-282.17 907.31,-287.46 917.78,-289.05 916.49,-282.17"/>
+<path fill="none" stroke="#63b8ff" d="M1082.61,-281.14C1105.32,-271.32 1132.64,-259.51 1153.64,-250.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1081.39,-277.85 1073.6,-285.04 1084.17,-284.28 1081.39,-277.85"/>
+</g>
+<!-- Node36 -->
+<g id="node36" class="node">
+<title>Node36</title>
+<g id="a_node36"><a xlink:href="stb_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1379.5,-250 1270.5,-250 1270.5,-220 1379.5,-220 1379.5,-250"/>
+<text text-anchor="start" x="1278.5" y="-238" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JStudio</text>
+<text text-anchor="middle" x="1325" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/stb.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node3&#45;&gt;Node36 -->
+<g id="edge37" class="edge">
+<title>Node3&#45;&gt;Node36</title>
+<path fill="none" stroke="#63b8ff" d="M1112.96,-283.45C1162.07,-272.46 1225.47,-258.27 1270.1,-248.28"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1112.24,-280.03 1103.24,-285.62 1113.76,-286.86 1112.24,-280.03"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">

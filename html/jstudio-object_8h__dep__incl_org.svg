@@ -12,9 +12,9 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="905.5,-316 780.5,-316 780.5,-286 905.5,-286 905.5,-316"/>
-<text text-anchor="start" x="788.5" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
-<text text-anchor="middle" x="843" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/jstudio&#45;object.h</text>
+<polygon fill="#999999" stroke="#666666" points="1101.5,-316 976.5,-316 976.5,-286 1101.5,-286 1101.5,-316"/>
+<text text-anchor="start" x="984.5" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
+<text text-anchor="middle" x="1039" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/jstudio&#45;object.h</text>
 </a>
 </g>
 </g>
@@ -31,8 +31,8 @@
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="#63b8ff" d="M777.91,-282.64C740,-272.53 692.78,-259.94 656.96,-250.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="776.81,-285.97 787.38,-285.17 778.62,-279.21 776.81,-285.97"/>
+<path fill="none" stroke="#63b8ff" d="M964.74,-289.1C882,-276.95 749.45,-257.5 669.85,-245.81"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="964.17,-292.55 974.57,-290.54 965.18,-285.63 964.17,-292.55"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
@@ -47,8 +47,8 @@
 <!-- Node1&#45;&gt;Node15 -->
 <g id="edge14" class="edge">
 <title>Node1&#45;&gt;Node15</title>
-<path fill="none" stroke="#63b8ff" d="M768.83,-292.06C651.95,-279.55 426.61,-255.44 313.41,-243.32"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="768.31,-295.53 778.63,-293.11 769.06,-288.57 768.31,-295.53"/>
+<path fill="none" stroke="#63b8ff" d="M964.9,-294.03C811.58,-281.67 461.49,-253.45 313.29,-241.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="964.27,-297.49 974.52,-294.8 964.84,-290.51 964.27,-297.49"/>
 </g>
 <!-- Node19 -->
 <g id="node19" class="node">
@@ -63,8 +63,8 @@
 <!-- Node1&#45;&gt;Node19 -->
 <g id="edge19" class="edge">
 <title>Node1&#45;&gt;Node19</title>
-<path fill="none" stroke="#63b8ff" d="M897.92,-282.07C928.52,-272.07 966.13,-259.79 994.82,-250.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="896.84,-278.74 888.43,-285.17 899.02,-285.39 896.84,-278.74"/>
+<path fill="none" stroke="#63b8ff" d="M1039,-274.39C1039,-266.13 1039,-257.28 1039,-250.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1035.5,-274.28 1039,-284.28 1042.5,-274.28 1035.5,-274.28"/>
 </g>
 <!-- Node33 -->
 <g id="node33" class="node">
@@ -79,8 +79,24 @@
 <!-- Node1&#45;&gt;Node33 -->
 <g id="edge34" class="edge">
 <title>Node1&#45;&gt;Node33</title>
-<path fill="none" stroke="#63b8ff" d="M916.98,-286.26C971.02,-276.23 1046.06,-262.28 1112,-250 1115,-249.44 1118.06,-248.87 1121.15,-248.29"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="916.46,-282.8 907.27,-288.07 917.74,-289.68 916.46,-282.8"/>
+<path fill="none" stroke="#63b8ff" d="M1082.61,-281.14C1105.32,-271.32 1132.64,-259.51 1153.64,-250.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1081.39,-277.85 1073.6,-285.04 1084.17,-284.28 1081.39,-277.85"/>
+</g>
+<!-- Node34 -->
+<g id="node34" class="node">
+<title>Node34</title>
+<g id="a_node34"><a xlink:href="stb_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1379.5,-250 1270.5,-250 1270.5,-220 1379.5,-220 1379.5,-250"/>
+<text text-anchor="start" x="1278.5" y="-238" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JStudio</text>
+<text text-anchor="middle" x="1325" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio/stb.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node34 -->
+<g id="edge35" class="edge">
+<title>Node1&#45;&gt;Node34</title>
+<path fill="none" stroke="#63b8ff" d="M1112.96,-283.45C1162.07,-272.46 1225.47,-258.27 1270.1,-248.28"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1112.24,-280.03 1103.24,-285.62 1113.76,-286.86 1112.24,-280.03"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">

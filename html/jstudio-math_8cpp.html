@@ -88,9 +88,11 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="jstudio-math_8h_source.html">JSystem/JStudio/JStudio/jstudio-math.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="TPosition3_8hh_source.html">JSystem/TPosition3.hh</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JGeometry_8h_source.html">JSystem/JGeometry.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="math_8h_source.html">math.h</a>&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/jstudio-math/getRotation_xyz__Q27JStudio4mathFPA4_ffff.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JStudio/JStudio/jstudio-math/getTransformation_SRxyzT__Q27JStudio4mathFPA4_fRC3VecRC3VecRC3Vec.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/jstudio-math/getFromTransformation_SRxyzT__Q27JStudio4mathFP3VecP3VecP3VecPA4_Cf.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for jstudio-math.cpp:</div>
@@ -117,19 +119,9 @@ Functions</h2></td></tr>
 <tr class="separator:a3f61243ebf5cbb2ff90548d397b16772"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abed5bd59c54272a132a5b4da4beff66d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="jstudio-math_8cpp.html#abed5bd59c54272a132a5b4da4beff66d">_restgpr_29</a> ()</td></tr>
 <tr class="separator:abed5bd59c54272a132a5b4da4beff66d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f5002363ada0a0d26d888dd21f5424b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="jstudio-math_8cpp.html#a8f5002363ada0a0d26d888dd21f5424b">cos</a> ()</td></tr>
-<tr class="separator:a8f5002363ada0a0d26d888dd21f5424b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aca44f2392317d007d181914c5b40a0d0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="jstudio-math_8cpp.html#aca44f2392317d007d181914c5b40a0d0">sin</a> ()</td></tr>
-<tr class="separator:aca44f2392317d007d181914c5b40a0d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad89422e9978cd20cffc6484326139a20"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="jstudio-math_8cpp.html#ad89422e9978cd20cffc6484326139a20">asin</a> ()</td></tr>
-<tr class="separator:ad89422e9978cd20cffc6484326139a20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7cba23ca68bc561ceb21a46f5bfbfe39"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="jstudio-math_8cpp.html#a7cba23ca68bc561ceb21a46f5bfbfe39">atan2</a> ()</td></tr>
-<tr class="separator:a7cba23ca68bc561ceb21a46f5bfbfe39"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:abf8a4db654c31b18010c7cd255393a4a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="jstudio-math_8cpp.html#abf8a4db654c31b18010c7cd255393a4a">__float_epsilon</a></td></tr>
-<tr class="separator:abf8a4db654c31b18010c7cd255393a4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac49e8aff59b0670a9d203aa26650d70e"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="jstudio-math_8cpp.html#ac49e8aff59b0670a9d203aa26650d70e">lit_488</a> = 0.01745329238474369f</td></tr>
 <tr class="separator:ac49e8aff59b0670a9d203aa26650d70e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeb75c186b7815431b17a7b57bed7c6b9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="jstudio-math_8cpp.html#aeb75c186b7815431b17a7b57bed7c6b9">lit_489</a> [4]</td></tr>
@@ -216,57 +208,6 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="ad89422e9978cd20cffc6484326139a20" name="ad89422e9978cd20cffc6484326139a20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad89422e9978cd20cffc6484326139a20">&#9670;&#160;</a></span>asin()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void asin </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7cba23ca68bc561ceb21a46f5bfbfe39" name="a7cba23ca68bc561ceb21a46f5bfbfe39"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7cba23ca68bc561ceb21a46f5bfbfe39">&#9670;&#160;</a></span>atan2()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void atan2 </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a8f5002363ada0a0d26d888dd21f5424b" name="a8f5002363ada0a0d26d888dd21f5424b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f5002363ada0a0d26d888dd21f5424b">&#9670;&#160;</a></span>cos()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void cos </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="ad8b4bbdd1259eb369f5f6a7a58890306" name="ad8b4bbdd1259eb369f5f6a7a58890306"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad8b4bbdd1259eb369f5f6a7a58890306">&#9670;&#160;</a></span>getFromTransformation_SRxyzT__Q27JStudio4mathFP3VecP3VecP3VecPA4_Cf()</h2>
 
@@ -318,46 +259,7 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="aca44f2392317d007d181914c5b40a0d0" name="aca44f2392317d007d181914c5b40a0d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aca44f2392317d007d181914c5b40a0d0">&#9670;&#160;</a></span>sin()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void sin </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="abf8a4db654c31b18010c7cd255393a4a" name="abf8a4db654c31b18010c7cd255393a4a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf8a4db654c31b18010c7cd255393a4a">&#9670;&#160;</a></span>__float_epsilon</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> __float_epsilon</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="ac49e8aff59b0670a9d203aa26650d70e" name="ac49e8aff59b0670a9d203aa26650d70e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac49e8aff59b0670a9d203aa26650d70e">&#9670;&#160;</a></span>lit_488</h2>
 
