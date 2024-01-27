@@ -186,8 +186,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a9c4a0d316b4b9f7bb1d4549c371552d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a808f5b47d3d1f007ea6f57ab43304e29"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structJ2DPicture.html">J2DPicture</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdMsgScrnExplain__c.html#a808f5b47d3d1f007ea6f57ab43304e29">mpBackTex</a></td></tr>
 <tr class="separator:a808f5b47d3d1f007ea6f57ab43304e29"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0a83b03d0ba7ba02871b9e9c92021d3c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structSTControl.html">STControl</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdMsgScrnExplain__c.html#a0a83b03d0ba7ba02871b9e9c92021d3c">field_0x44</a></td></tr>
-<tr class="separator:a0a83b03d0ba7ba02871b9e9c92021d3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b29c6a54b600f464eb2e319bd10c7ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structSTControl.html">STControl</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdMsgScrnExplain__c.html#a2b29c6a54b600f464eb2e319bd10c7ce">mpStick</a></td></tr>
+<tr class="separator:a2b29c6a54b600f464eb2e319bd10c7ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a49a8e69675412b10a181c2012f3bbd7a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdMsgScrnExplain__c.html#a49a8e69675412b10a181c2012f3bbd7a">field_0x48</a></td></tr>
 <tr class="separator:a49a8e69675412b10a181c2012f3bbd7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9d16d18a9a76f3ce132beba698c220c6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdMsgScrnExplain__c.html#a9d16d18a9a76f3ce132beba698c220c6">field_0x4c</a></td></tr>
@@ -247,7 +247,7 @@ Private Attributes</h2></td></tr>
           <td class="memname">dMsgScrnExplain_c::dMsgScrnExplain_c </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="structSTControl.html">STControl</a> *&#160;</td>
-          <td class="paramname"><em>param_0</em>, </td>
+          <td class="paramname"><em>i_stick</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -439,7 +439,7 @@ Private Attributes</h2></td></tr>
           <td class="memname">void dMsgScrnExplain_c::draw </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="structJ2DOrthoGraph.html">J2DOrthoGraph</a> *&#160;</td>
-          <td class="paramname"><em>param_0</em></td><td>)</td>
+          <td class="paramname"><em>i_graf</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -873,28 +873,6 @@ Private Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="structCPaneMgr.html">CPaneMgr</a>* dMsgScrnExplain_c::field_0x10[2]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0a83b03d0ba7ba02871b9e9c92021d3c" name="a0a83b03d0ba7ba02871b9e9c92021d3c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0a83b03d0ba7ba02871b9e9c92021d3c">&#9670;&#160;</a></span>field_0x44</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="structSTControl.html">STControl</a>* dMsgScrnExplain_c::field_0x44</td>
         </tr>
       </table>
   </td>
@@ -1390,6 +1368,28 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a2b29c6a54b600f464eb2e319bd10c7ce" name="a2b29c6a54b600f464eb2e319bd10c7ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b29c6a54b600f464eb2e319bd10c7ce">&#9670;&#160;</a></span>mpStick</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structSTControl.html">STControl</a>* dMsgScrnExplain_c::mpStick</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a387272faa81e51bcb14d195a7ca73c36" name="a387272faa81e51bcb14d195a7ca73c36"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a387272faa81e51bcb14d195a7ca73c36">&#9670;&#160;</a></span>mpString_c</h2>
 
@@ -1502,9 +1502,9 @@ Private Attributes</h2></td></tr>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>src/d/menu/<a class="el" href="d__menu__fmap_8cpp.html">d_menu_fmap.cpp</a></li>
-<li>include/msg/scrn/<a class="el" href="d__msg__scrn__explain_8h_source.html">d_msg_scrn_explain.h</a></li>
+<li>include/d/msg/<a class="el" href="d__msg__scrn__explain_8h_source.html">d_msg_scrn_explain.h</a></li>
 <li>src/d/menu/<a class="el" href="d__menu__fmap2D_8cpp.html">d_menu_fmap2D.cpp</a></li>
-<li>src/msg/scrn/<a class="el" href="d__msg__scrn__explain_8cpp.html">d_msg_scrn_explain.cpp</a></li>
+<li>src/d/msg/<a class="el" href="d__msg__scrn__explain_8cpp.html">d_msg_scrn_explain.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

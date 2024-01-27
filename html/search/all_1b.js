@@ -407,7 +407,7 @@ var searchData=
   ['_7edmsgscrnjimaku_5fc_404',['~dMsgScrnJimaku_c',['../structdMsgScrnJimaku__c.html#a9edeb10a47f3a351bf2e6d637a0be015',1,'dMsgScrnJimaku_c']]],
   ['_7edmsgscrnkanban_5fc_405',['~dMsgScrnKanban_c',['../structdMsgScrnKanban__c.html#a3c6f41574e7204b552278943233d83ea',1,'dMsgScrnKanban_c']]],
   ['_7edmsgscrnlight_5fc_406',['~dMsgScrnLight_c',['../structdMsgScrnLight__c.html#a2c6881d11f2947b1589878cbef200fae',1,'dMsgScrnLight_c']]],
-  ['_7edmsgscrnlight_5fhio_5fc_407',['~dMsgScrnLight_HIO_c',['../structdMsgScrnLight__HIO__c.html#a9896cb0926413098369592433dbf95e1',1,'dMsgScrnLight_HIO_c']]],
+  ['_7edmsgscrnlight_5fhio_5fc_407',['~dMsgScrnLight_HIO_c',['../classdMsgScrnLight__HIO__c.html#a9896cb0926413098369592433dbf95e1',1,'dMsgScrnLight_HIO_c']]],
   ['_7edmsgscrnplace_5fc_408',['~dMsgScrnPlace_c',['../structdMsgScrnPlace__c.html#a9fa624796827cd8a9eb7a662950ded59',1,'dMsgScrnPlace_c']]],
   ['_7edmsgscrnstaff_5fc_409',['~dMsgScrnStaff_c',['../structdMsgScrnStaff__c.html#a00c52abdc47f7143ce973f6cb584c4c2',1,'dMsgScrnStaff_c']]],
   ['_7edmsgscrntalk_5fc_410',['~dMsgScrnTalk_c',['../structdMsgScrnTalk__c.html#aa38edf83befc1efba65a334eb412b838',1,'dMsgScrnTalk_c']]],

@@ -829,7 +829,7 @@ var searchData=
   ['dmsgscrnjimaku_5fc_826',['dMsgScrnJimaku_c',['../structdMsgScrnJimaku__c.html',1,'']]],
   ['dmsgscrnkanban_5fc_827',['dMsgScrnKanban_c',['../structdMsgScrnKanban__c.html',1,'']]],
   ['dmsgscrnlight_5fc_828',['dMsgScrnLight_c',['../structdMsgScrnLight__c.html',1,'']]],
-  ['dmsgscrnlight_5fhio_5fc_829',['dMsgScrnLight_HIO_c',['../structdMsgScrnLight__HIO__c.html',1,'']]],
+  ['dmsgscrnlight_5fhio_5fc_829',['dMsgScrnLight_HIO_c',['../classdMsgScrnLight__HIO__c.html',1,'']]],
   ['dmsgscrnplace_5fc_830',['dMsgScrnPlace_c',['../structdMsgScrnPlace__c.html',1,'']]],
   ['dmsgscrnstaff_5fc_831',['dMsgScrnStaff_c',['../structdMsgScrnStaff__c.html',1,'']]],
   ['dmsgscrntalk_5fc_832',['dMsgScrnTalk_c',['../structdMsgScrnTalk__c.html',1,'']]],

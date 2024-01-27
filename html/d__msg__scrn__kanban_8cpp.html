@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Twilight Princess: src/msg/scrn/d_msg_scrn_kanban.cpp File Reference</title>
+<title>Twilight Princess: src/d/msg/d_msg_scrn_kanban.cpp File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -77,7 +77,7 @@ $(function() {
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_92db932c96b71876a62b1386c1d468d9.html">msg</a></li><li class="navelem"><a class="el" href="dir_a891e367eb57ff9cec3b41f20f0dce6d.html">scrn</a></li>  </ul>
+<li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_a921e71f3ef0b46ce159b4549017b167.html">d</a></li><li class="navelem"><a class="el" href="dir_1c39512378762c4b296a86a7048219c7.html">msg</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
@@ -86,18 +86,18 @@ $(function() {
   <div class="headertitle"><div class="title">d_msg_scrn_kanban.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="d__msg__scrn__kanban_8h_source.html">msg/scrn/d_msg_scrn_kanban.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="d__msg__scrn__kanban_8h_source.html">d/msg/d_msg_scrn_kanban.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J2DAnmLoader_8h_source.html">JSystem/J2DGraph/J2DAnmLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J2DGrafContext_8h_source.html">JSystem/J2DGraph/J2DGrafContext.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J2DScreen_8h_source.html">JSystem/J2DGraph/J2DScreen.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="J2DTextBox_8h_source.html">JSystem/J2DGraph/J2DTextBox.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JKRArchive_8h_source.html">JSystem/JKernel/JKRArchive.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="JKRExpHeap_8h_source.html">JSystem/JKernel/JKRExpHeap.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="JKRFileLoader_8h_source.html">JSystem/JKernel/JKRFileLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="JKRArchive_8h_source.html">JSystem/JKernel/JKRArchive.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="J2DScreen_8h_source.html">JSystem/J2DGraph/J2DScreen.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="J2DAnmLoader_8h_source.html">JSystem/J2DGraph/J2DAnmLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="J2DTextBox_8h_source.html">JSystem/J2DGraph/J2DTextBox.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="J2DGrafContext_8h_source.html">JSystem/J2DGraph/J2DGrafContext.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="d__pane__class_8h_source.html">d/pane/d_pane_class.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__com__inf__game_8h_source.html">d/com/d_com_inf_game.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__msg__object_8h_source.html">d/msg/d_msg_object.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__msg__out__font_8h_source.html">d/msg/d_msg_out_font.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="d__pane__class_8h_source.html">d/pane/d_pane_class.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for d_msg_scrn_kanban.cpp:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -111,8 +111,6 @@ $(function() {
 Variables</h2></td></tr>
 <tr class="memitem:a2d078e10344962f2c4a536625b6f6856"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdMsgObject__HIO__c.html">dMsgObject_HIO_c</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__msg__scrn__kanban_8cpp.html#a2d078e10344962f2c4a536625b6f6856">g_MsgObject_HIO_c</a></td></tr>
 <tr class="separator:a2d078e10344962f2c4a536625b6f6856"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a00b3ca41d22f62759908b2bddd8b0098"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#ad758b7a5c3f18ed79d2fcd23d9f16357">u64</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d__msg__scrn__kanban_8cpp.html#a00b3ca41d22f62759908b2bddd8b0098">t_tag</a> [3]</td></tr>
-<tr class="separator:a00b3ca41d22f62759908b2bddd8b0098"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Variable Documentation</h2>
 <a id="a2d078e10344962f2c4a536625b6f6856" name="a2d078e10344962f2c4a536625b6f6856"></a>
@@ -136,33 +134,6 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <p ><a class="el" href="d__meter2__draw_8cpp.html">d_meter2_draw.cpp</a> Main HUD drawing </p>
 
-</div>
-</div>
-<a id="a00b3ca41d22f62759908b2bddd8b0098" name="a00b3ca41d22f62759908b2bddd8b0098"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a00b3ca41d22f62759908b2bddd8b0098">&#9670;&#160;</a></span>t_tag</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="types_8h.html#ad758b7a5c3f18ed79d2fcd23d9f16357">u64</a> const t_tag[3]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    <span class="stringliteral">&#39;mg_e4lin&#39;</span>,</div>
-<div class="line">    <span class="stringliteral">&#39;f4_w&#39;</span>,</div>
-<div class="line">    <span class="stringliteral">&#39;t4_s&#39;</span>,</div>
-<div class="line">}</div>
-</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
