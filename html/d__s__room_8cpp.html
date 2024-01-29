@@ -89,13 +89,12 @@ $(function() {
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="d__s__room_8h_source.html">d/s/d_s_room.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="JKRExpHeap_8h_source.html">JSystem/JKernel/JKRExpHeap.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="stdio_8h_source.html">stdio.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__com__inf__game_8h_source.html">d/com/d_com_inf_game.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__procname_8h_source.html">d/d_procname.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__s__play_8h_source.html">d/s/d_s_play.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="os_8h_source.html">dolphin/os.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="f__op__actor__mng_8h_source.html">f_op/f_op_actor_mng.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="m__Do__Reset_8h_source.html">m_Do/m_Do_Reset.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="stdio_8h_source.html">stdio.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for d_s_room.cpp:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -269,6 +268,7 @@ Variables</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+<p ><a class="el" href="d__s__room_8cpp.html">d_s_room.cpp</a> Gameplay Room Scene </p>
 
 </div>
 </div>
@@ -757,24 +757,24 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    <a class="code hl_enumvalue" href="f__pc__layer__tag_8h.html#a83e8bc15645f9d99ab91a152bb3dc8cea5e7b555fae005988008b1e635ad934af">fpcLy_CURRENT_e</a>,                             </div>
-<div class="line">    0,                                           </div>
-<div class="line">    <a class="code hl_enumvalue" href="f__pc__priority_8h.html#ad63240694c6dc2a28c24bfc2db90ad7aaa92065ae8976f3ac73cde25f46737b63">fpcPi_CURRENT_e</a>,                             </div>
-<div class="line">    <a class="code hl_enumvalue" href="d__procname_8h.html#a0ed680fdb405e7195d9f14032851eebbad7972c061df8e23d3d16be65d513ee74">PROC_ROOM_SCENE</a>,                             </div>
-<div class="line">    &amp;<a class="code hl_variable" href="f__pc__node_8cpp.html#aaeb9e240dad1a9e1b466a1ad05b61dc9">g_fpcNd_Method</a>.<a class="code hl_variable" href="structnodedraw__method__class.html#afab7bfe9b4655fe55259039f3f8403f2">mBase</a>,                       </div>
-<div class="line">    <span class="keyword">sizeof</span>(<a class="code hl_class" href="classroom__of__scene__class.html">room_of_scene_class</a>),                 </div>
-<div class="line">    0,                                           </div>
-<div class="line">    0,                                           </div>
-<div class="line">    &amp;<a class="code hl_variable" href="f__op__scene_8cpp.html#a927f43adfead795d0dc870f096b87f8d">g_fopScn_Method</a>.<a class="code hl_variable" href="structleafdraw__method__class.html#a50ac28a0dd5767027171962df81f25c2">mBase</a>,                      </div>
-<div class="line">    (<a class="code hl_struct" href="structprocess__method__class.html">process_method_class</a>*)&amp;<a class="code hl_variable" href="d__s__room_8cpp.html#a9ee6148b9b52d85949ef63808b09fcb3">l_dScnRoom_Method</a>,   </div>
+<div class="line">    <a class="code hl_enumvalue" href="f__pc__layer__tag_8h.html#a68c01102755fc7d1c810bb0b0635fa90a5e7b555fae005988008b1e635ad934af">fpcLy_CURRENT_e</a>,                            </div>
+<div class="line">    0,                                          </div>
+<div class="line">    <a class="code hl_enumvalue" href="f__pc__priority_8h.html#a7859c0a3efa8b1c360f5c2376baf051eaa92065ae8976f3ac73cde25f46737b63">fpcPi_CURRENT_e</a>,                            </div>
+<div class="line">    <a class="code hl_enumvalue" href="d__procname_8h.html#a0ed680fdb405e7195d9f14032851eebbad7972c061df8e23d3d16be65d513ee74">PROC_ROOM_SCENE</a>,                            </div>
+<div class="line">    &amp;<a class="code hl_variable" href="f__pc__node_8cpp.html#aaeb9e240dad1a9e1b466a1ad05b61dc9">g_fpcNd_Method</a>.<a class="code hl_variable" href="structnodedraw__method__class.html#afab7bfe9b4655fe55259039f3f8403f2">mBase</a>,                      </div>
+<div class="line">    <span class="keyword">sizeof</span>(<a class="code hl_class" href="classroom__of__scene__class.html">room_of_scene_class</a>),                </div>
+<div class="line">    0,                                          </div>
+<div class="line">    0,                                          </div>
+<div class="line">    &amp;<a class="code hl_variable" href="f__op__scene_8cpp.html#a927f43adfead795d0dc870f096b87f8d">g_fopScn_Method</a>.<a class="code hl_variable" href="structleafdraw__method__class.html#a50ac28a0dd5767027171962df81f25c2">mBase</a>,                     </div>
+<div class="line">    (<a class="code hl_struct" href="structprocess__method__class.html">process_method_class</a>*)&amp;<a class="code hl_variable" href="d__s__room_8cpp.html#a9ee6148b9b52d85949ef63808b09fcb3">l_dScnRoom_Method</a>,  </div>
 <div class="line">}</div>
 <div class="ttc" id="aclassroom__of__scene__class_html"><div class="ttname"><a href="classroom__of__scene__class.html">room_of_scene_class</a></div><div class="ttdef"><b>Definition:</b> d_s_room.h:8</div></div>
 <div class="ttc" id="ad__procname_8h_html_a0ed680fdb405e7195d9f14032851eebbad7972c061df8e23d3d16be65d513ee74"><div class="ttname"><a href="d__procname_8h.html#a0ed680fdb405e7195d9f14032851eebbad7972c061df8e23d3d16be65d513ee74">PROC_ROOM_SCENE</a></div><div class="ttdeci">@ PROC_ROOM_SCENE</div><div class="ttdef"><b>Definition:</b> d_procname.h:23</div></div>
-<div class="ttc" id="ad__s__room_8cpp_html_a9ee6148b9b52d85949ef63808b09fcb3"><div class="ttname"><a href="d__s__room_8cpp.html#a9ee6148b9b52d85949ef63808b09fcb3">l_dScnRoom_Method</a></div><div class="ttdeci">static leafdraw_method_class l_dScnRoom_Method</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:406</div></div>
+<div class="ttc" id="ad__s__room_8cpp_html_a9ee6148b9b52d85949ef63808b09fcb3"><div class="ttname"><a href="d__s__room_8cpp.html#a9ee6148b9b52d85949ef63808b09fcb3">l_dScnRoom_Method</a></div><div class="ttdeci">static leafdraw_method_class l_dScnRoom_Method</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:432</div></div>
 <div class="ttc" id="af__op__scene_8cpp_html_a927f43adfead795d0dc870f096b87f8d"><div class="ttname"><a href="f__op__scene_8cpp.html#a927f43adfead795d0dc870f096b87f8d">g_fopScn_Method</a></div><div class="ttdeci">leafdraw_method_class g_fopScn_Method</div><div class="ttdef"><b>Definition:</b> f_op_scene.cpp:55</div></div>
-<div class="ttc" id="af__pc__layer__tag_8h_html_a83e8bc15645f9d99ab91a152bb3dc8cea5e7b555fae005988008b1e635ad934af"><div class="ttname"><a href="f__pc__layer__tag_8h.html#a83e8bc15645f9d99ab91a152bb3dc8cea5e7b555fae005988008b1e635ad934af">fpcLy_CURRENT_e</a></div><div class="ttdeci">@ fpcLy_CURRENT_e</div><div class="ttdef"><b>Definition:</b> f_pc_layer_tag.h:9</div></div>
+<div class="ttc" id="af__pc__layer__tag_8h_html_a68c01102755fc7d1c810bb0b0635fa90a5e7b555fae005988008b1e635ad934af"><div class="ttname"><a href="f__pc__layer__tag_8h.html#a68c01102755fc7d1c810bb0b0635fa90a5e7b555fae005988008b1e635ad934af">fpcLy_CURRENT_e</a></div><div class="ttdeci">@ fpcLy_CURRENT_e</div><div class="ttdef"><b>Definition:</b> f_pc_layer_tag.h:9</div></div>
 <div class="ttc" id="af__pc__node_8cpp_html_aaeb9e240dad1a9e1b466a1ad05b61dc9"><div class="ttname"><a href="f__pc__node_8cpp.html#aaeb9e240dad1a9e1b466a1ad05b61dc9">g_fpcNd_Method</a></div><div class="ttdeci">nodedraw_method_class g_fpcNd_Method</div><div class="ttdef"><b>Definition:</b> f_pc_node.cpp:114</div></div>
-<div class="ttc" id="af__pc__priority_8h_html_ad63240694c6dc2a28c24bfc2db90ad7aaa92065ae8976f3ac73cde25f46737b63"><div class="ttname"><a href="f__pc__priority_8h.html#ad63240694c6dc2a28c24bfc2db90ad7aaa92065ae8976f3ac73cde25f46737b63">fpcPi_CURRENT_e</a></div><div class="ttdeci">@ fpcPi_CURRENT_e</div><div class="ttdef"><b>Definition:</b> f_pc_priority.h:8</div></div>
+<div class="ttc" id="af__pc__priority_8h_html_a7859c0a3efa8b1c360f5c2376baf051eaa92065ae8976f3ac73cde25f46737b63"><div class="ttname"><a href="f__pc__priority_8h.html#a7859c0a3efa8b1c360f5c2376baf051eaa92065ae8976f3ac73cde25f46737b63">fpcPi_CURRENT_e</a></div><div class="ttdeci">@ fpcPi_CURRENT_e</div><div class="ttdef"><b>Definition:</b> f_pc_priority.h:8</div></div>
 <div class="ttc" id="astructleafdraw__method__class_html_a50ac28a0dd5767027171962df81f25c2"><div class="ttname"><a href="structleafdraw__method__class.html#a50ac28a0dd5767027171962df81f25c2">leafdraw_method_class::mBase</a></div><div class="ttdeci">process_method_class mBase</div><div class="ttdef"><b>Definition:</b> f_pc_leaf.h:11</div></div>
 <div class="ttc" id="astructnodedraw__method__class_html_afab7bfe9b4655fe55259039f3f8403f2"><div class="ttname"><a href="structnodedraw__method__class.html#afab7bfe9b4655fe55259039f3f8403f2">nodedraw_method_class::mBase</a></div><div class="ttdeci">process_method_class mBase</div><div class="ttdef"><b>Definition:</b> f_pc_node.h:11</div></div>
 <div class="ttc" id="astructprocess__method__class_html"><div class="ttname"><a href="structprocess__method__class.html">process_method_class</a></div><div class="ttdef"><b>Definition:</b> f_pc_method.h:9</div></div>
@@ -801,13 +801,14 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#a7974ea86cec4ee4ca337e2092174bf42">dScnRoom_Create</a>,   (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#a70c700c528af2ec2917690c9575a633b">dScnRoom_Delete</a>, (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#a2b4e63c0188630342f36c57cd40d0c54">dScnRoom_Execute</a>,</div>
-<div class="line">    (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#a2a6524cf73b43c6bd16ea91a6e29ccb5">dScnRoom_IsDelete</a>, (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#afc6a1aeb7e080fc98760b34dcadc7275">dScnRoom_Draw</a>,</div>
+<div class="line">    (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#a7974ea86cec4ee4ca337e2092174bf42">dScnRoom_Create</a>,  (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#a70c700c528af2ec2917690c9575a633b">dScnRoom_Delete</a>,</div>
+<div class="line">    (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#a2b4e63c0188630342f36c57cd40d0c54">dScnRoom_Execute</a>, (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#a2a6524cf73b43c6bd16ea91a6e29ccb5">dScnRoom_IsDelete</a>,</div>
+<div class="line">    (<a class="code hl_typedef" href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a>)<a class="code hl_function" href="d__s__room_8cpp.html#afc6a1aeb7e080fc98760b34dcadc7275">dScnRoom_Draw</a>,</div>
 <div class="line">}</div>
-<div class="ttc" id="ad__s__room_8cpp_html_a2a6524cf73b43c6bd16ea91a6e29ccb5"><div class="ttname"><a href="d__s__room_8cpp.html#a2a6524cf73b43c6bd16ea91a6e29ccb5">dScnRoom_IsDelete</a></div><div class="ttdeci">static int dScnRoom_IsDelete(room_of_scene_class *)</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:241</div></div>
-<div class="ttc" id="ad__s__room_8cpp_html_a2b4e63c0188630342f36c57cd40d0c54"><div class="ttname"><a href="d__s__room_8cpp.html#a2b4e63c0188630342f36c57cd40d0c54">dScnRoom_Execute</a></div><div class="ttdeci">static int dScnRoom_Execute(room_of_scene_class *i_this)</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:215</div></div>
-<div class="ttc" id="ad__s__room_8cpp_html_a70c700c528af2ec2917690c9575a633b"><div class="ttname"><a href="d__s__room_8cpp.html#a70c700c528af2ec2917690c9575a633b">dScnRoom_Delete</a></div><div class="ttdeci">static int dScnRoom_Delete(room_of_scene_class *i_this)</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:276</div></div>
-<div class="ttc" id="ad__s__room_8cpp_html_a7974ea86cec4ee4ca337e2092174bf42"><div class="ttname"><a href="d__s__room_8cpp.html#a7974ea86cec4ee4ca337e2092174bf42">dScnRoom_Create</a></div><div class="ttdeci">static int dScnRoom_Create(scene_class *i_this)</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:394</div></div>
+<div class="ttc" id="ad__s__room_8cpp_html_a2a6524cf73b43c6bd16ea91a6e29ccb5"><div class="ttname"><a href="d__s__room_8cpp.html#a2a6524cf73b43c6bd16ea91a6e29ccb5">dScnRoom_IsDelete</a></div><div class="ttdeci">static int dScnRoom_IsDelete(room_of_scene_class *)</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:258</div></div>
+<div class="ttc" id="ad__s__room_8cpp_html_a2b4e63c0188630342f36c57cd40d0c54"><div class="ttname"><a href="d__s__room_8cpp.html#a2b4e63c0188630342f36c57cd40d0c54">dScnRoom_Execute</a></div><div class="ttdeci">static int dScnRoom_Execute(room_of_scene_class *i_this)</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:231</div></div>
+<div class="ttc" id="ad__s__room_8cpp_html_a70c700c528af2ec2917690c9575a633b"><div class="ttname"><a href="d__s__room_8cpp.html#a70c700c528af2ec2917690c9575a633b">dScnRoom_Delete</a></div><div class="ttdeci">static int dScnRoom_Delete(room_of_scene_class *i_this)</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:294</div></div>
+<div class="ttc" id="ad__s__room_8cpp_html_a7974ea86cec4ee4ca337e2092174bf42"><div class="ttname"><a href="d__s__room_8cpp.html#a7974ea86cec4ee4ca337e2092174bf42">dScnRoom_Create</a></div><div class="ttdeci">static int dScnRoom_Create(scene_class *i_this)</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:421</div></div>
 <div class="ttc" id="ad__s__room_8cpp_html_afc6a1aeb7e080fc98760b34dcadc7275"><div class="ttname"><a href="d__s__room_8cpp.html#afc6a1aeb7e080fc98760b34dcadc7275">dScnRoom_Draw</a></div><div class="ttdeci">static int dScnRoom_Draw(room_of_scene_class *i_this)</div><div class="ttdef"><b>Definition:</b> d_s_room.cpp:16</div></div>
 <div class="ttc" id="af__pc__method_8h_html_a56bd92368b7dda361388b2d13df2e4ac"><div class="ttname"><a href="f__pc__method_8h.html#a56bd92368b7dda361388b2d13df2e4ac">process_method_func</a></div><div class="ttdeci">int(* process_method_func)(void *)</div><div class="ttdef"><b>Definition:</b> f_pc_method.h:7</div></div>
 </div><!-- fragment -->

@@ -88,10 +88,10 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="d__shop__camera_8h_source.html">d/shop/d_shop_camera.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="c__math_8h_source.html">SSystem/SComponent/c_math.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="d__a__player_8h_source.html">d/a/d_a_player.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__com__inf__game_8h_source.html">d/com/d_com_inf_game.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="d__camera_8h_source.html">d/d_camera.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="d__a__player_8h_source.html">d/a/d_a_player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="c__math_8h_source.html">SSystem/SComponent/c_math.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for d_shop_camera.cpp:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
@@ -138,7 +138,8 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    {0.0f, 115.0f, 0.0f}, {0.0f, 115.0f, 150.0f}, 45.0f, {100.0f, 155.0f, -175.0f}, {100.0f, 155.0f, 0.0f}, 45.0f</div>
+<div class="line">    {0.0f, 115.0f, 0.0f},      {0.0f, 115.0f, 150.0f}, 45.0f,</div>
+<div class="line">    {100.0f, 155.0f, -175.0f}, {100.0f, 155.0f, 0.0f}, 45.0f,</div>
 <div class="line">}</div>
 </div><!-- fragment -->
 </div>
@@ -163,7 +164,8 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    {-50.0f, 115.0f, 0.0f}, {-50.0f, 115.0f, 150.0f}, 45.0f, {100.0f, 155.0f, -175.0f}, {100.0f, 155.0f, 0.0f}, 45.0f</div>
+<div class="line">    {-50.0f, 115.0f, 0.0f},    {-50.0f, 115.0f, 150.0f}, 45.0f,</div>
+<div class="line">    {100.0f, 155.0f, -175.0f}, {100.0f, 155.0f, 0.0f},   45.0f,</div>
 <div class="line">}</div>
 </div><!-- fragment -->
 </div>
@@ -188,7 +190,8 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    {0.0f, 115.0f, 0.0f}, {0.0f, 115.0f, 150.0f}, 45.0f, {100.0f, 155.0f, -175.0f}, {100.0f, 155.0f, 0.0f}, 45.0f</div>
+<div class="line">    {0.0f, 115.0f, 0.0f},      {0.0f, 115.0f, 150.0f}, 45.0f,</div>
+<div class="line">    {100.0f, 155.0f, -175.0f}, {100.0f, 155.0f, 0.0f}, 45.0f,</div>
 <div class="line">}</div>
 </div><!-- fragment -->
 </div>
@@ -218,8 +221,8 @@ Variables</h2></td></tr>
 <div class="line">    &amp;<a class="code hl_variable" href="d__shop__camera_8cpp.html#a44153e2351eed2d262057ef75f11bcfa">cam_seira_evnt_after</a>,</div>
 <div class="line">}</div>
 <div class="ttc" id="ad__shop__camera_8cpp_html_a324d20d466811488220f18d93b5b23c3"><div class="ttname"><a href="d__shop__camera_8cpp.html#a324d20d466811488220f18d93b5b23c3">cam_seira_shop</a></div><div class="ttdeci">static SeiraCam cam_seira_shop</div><div class="ttdef"><b>Definition:</b> d_shop_camera.cpp:22</div></div>
-<div class="ttc" id="ad__shop__camera_8cpp_html_a44153e2351eed2d262057ef75f11bcfa"><div class="ttname"><a href="d__shop__camera_8cpp.html#a44153e2351eed2d262057ef75f11bcfa">cam_seira_evnt_after</a></div><div class="ttdeci">static SeiraCam cam_seira_evnt_after</div><div class="ttdef"><b>Definition:</b> d_shop_camera.cpp:32</div></div>
-<div class="ttc" id="ad__shop__camera_8cpp_html_aec0dbdced711aa388935354e461aff50"><div class="ttname"><a href="d__shop__camera_8cpp.html#aec0dbdced711aa388935354e461aff50">cam_seira_evnt_before</a></div><div class="ttdeci">static SeiraCam cam_seira_evnt_before</div><div class="ttdef"><b>Definition:</b> d_shop_camera.cpp:27</div></div>
+<div class="ttc" id="ad__shop__camera_8cpp_html_a44153e2351eed2d262057ef75f11bcfa"><div class="ttname"><a href="d__shop__camera_8cpp.html#a44153e2351eed2d262057ef75f11bcfa">cam_seira_evnt_after</a></div><div class="ttdeci">static SeiraCam cam_seira_evnt_after</div><div class="ttdef"><b>Definition:</b> d_shop_camera.cpp:34</div></div>
+<div class="ttc" id="ad__shop__camera_8cpp_html_aec0dbdced711aa388935354e461aff50"><div class="ttname"><a href="d__shop__camera_8cpp.html#aec0dbdced711aa388935354e461aff50">cam_seira_evnt_before</a></div><div class="ttdeci">static SeiraCam cam_seira_evnt_before</div><div class="ttdef"><b>Definition:</b> d_shop_camera.cpp:28</div></div>
 </div><!-- fragment -->
 </div>
 </div>
