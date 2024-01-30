@@ -90,7 +90,7 @@ var searchData=
   ['rodtopoffset_87',['rodTopOffset',['../d__a__alink_8cpp.html#a6f66e947baf6d76ad0f532abc4914055',1,'d_a_alink.cpp']]],
   ['room_5fno_88',['room_no',['../structfield__data.html#ab9f754f14198271cf9c3c2da8afb93e8',1,'field_data']]],
   ['roomno_89',['roomNo',['../structactor__place.html#a51fc43f8d5edf5d1f2fad9a3490c4775',1,'actor_place']]],
-  ['roomnum_90',['roomNum',['../structZ2SceneMgr.html#a0f8148656173794e492dfa51d45c9b51',1,'Z2SceneMgr']]],
+  ['roomnum_90',['roomNum',['../classZ2SceneMgr.html#a0f8148656173794e492dfa51d45c9b51',1,'Z2SceneMgr']]],
   ['rootheap_91',['rootHeap',['../structJFWSystem.html#a49bff94726705fbd5b8dc1d3e4e70c20',1,'JFWSystem']]],
   ['rootheap_5f_5f9jfwsystem_92',['rootHeap__9JFWSystem',['../JFWSystem_8cpp.html#a713a7ef86cc9d791c7fbce414c22d8e4',1,'JFWSystem.cpp']]],
   ['rootheapcheck_93',['RootHeapCheck',['../m__Do__main_8cpp.html#a21828c702eb8459cfda5290e312ba294',1,'m_Do_main.cpp']]],

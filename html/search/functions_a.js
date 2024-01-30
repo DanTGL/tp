@@ -319,7 +319,7 @@ var searchData=
   ['jaisemgr_5fstartid_5f_316',['JAISeMgr_startID_',['../classJAISe.html#a4c4e212899997913cfe5a10e6fdc53ca',1,'JAISe']]],
   ['jaiseq_317',['JAISeq',['../structJAISeq.html#a9b5895b6b916e7b13ed1ce915816e5be',1,'JAISeq::JAISeq(JAISeqMgr *, JAISoundStrategyMgr&lt; JAISeq &gt; *)'],['../structJAISeq.html#a932f1e7d4ac9b3c3fb37ec10d06f529a',1,'JAISeq::JAISeq(JAISeqMgr *, JAISoundStrategyMgr&lt; JAISeq &gt; *)'],['../structJAISeq.html#a932f1e7d4ac9b3c3fb37ec10d06f529a',1,'JAISeq::JAISeq(JAISeqMgr *, JAISoundStrategyMgr&lt; JAISeq &gt; *)']]],
   ['jaiseqdata_318',['JAISeqData',['../structJAISeqData.html#adc1459b72fddfe195614b688387c60a8',1,'JAISeqData']]],
-  ['jaiseqmgr_319',['JAISeqMgr',['../structJAISeqMgr.html#a0fe4f76d3137d0a132571f0e9449ad2f',1,'JAISeqMgr']]],
+  ['jaiseqmgr_319',['JAISeqMgr',['../classJAISeqMgr.html#a0fe4f76d3137d0a132571f0e9449ad2f',1,'JAISeqMgr']]],
   ['jaiseqmgr_5fcalc_5f_320',['JAISeqMgr_calc_',['../structJAISeq.html#aaee776a8a705cb639c7a47fb6e236f22',1,'JAISeq::JAISeqMgr_calc_()'],['../structJAISeq.html#aaee776a8a705cb639c7a47fb6e236f22',1,'JAISeq::JAISeqMgr_calc_()']]],
   ['jaiseqmgr_5fcalc_5f_5f_5f6jaiseqfv_321',['JAISeqMgr_calc___6JAISeqFv',['../JAISeq_8cpp.html#a8d411f6318f05a26512d6c1c41dca4cf',1,'JAISeqMgr_calc___6JAISeqFv():&#160;JAISeq.cpp'],['../JAISeqMgr_8cpp.html#a8d411f6318f05a26512d6c1c41dca4cf',1,'JAISeqMgr_calc___6JAISeqFv():&#160;JAISeqMgr.cpp']]],
   ['jaiseqmgr_5fmixout_5f_322',['JAISeqMgr_mixOut_',['../structJAISeq.html#a55c380077960f8b3ce463973f8b8c9b4',1,'JAISeq::JAISeqMgr_mixOut_(JASSoundParams const &amp;, JAISoundActivity)'],['../structJAISeq.html#a55c380077960f8b3ce463973f8b8c9b4',1,'JAISeq::JAISeqMgr_mixOut_(JASSoundParams const &amp;, JAISoundActivity)']]],

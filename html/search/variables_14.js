@@ -101,7 +101,7 @@ var searchData=
   ['thrm3_98',['THRM3',['../structExtended1__PPC__6xx__7xx.html#ad77c2725c336c1943a9cd36434a72d68',1,'Extended1_PPC_6xx_7xx']]],
   ['timage0_99',['tImage0',['../struct__GXData.html#a4aaa7116dbab39aaac57f5671448bd47',1,'_GXData']]],
   ['time_100',['time',['../structCARDDir.html#a5086507490ade5339ea5463903f46e07',1,'CARDDir::time()'],['../structCARDStat.html#a28b680075d1e7c2b02ce9f02fd23bedc',1,'CARDStat::time()'],['../GXInit_8c.html#aab60385ff6b38344b88c6f0be66e8703',1,'time():&#160;GXInit.c']]],
-  ['timer_101',['timer',['../structdEvDtStaff__c_1_1TimerKeeperData.html#add7baf44ba76447b25a89bd577b7df57',1,'dEvDtStaff_c::TimerKeeperData::timer()'],['../structdEvDtStaff__c_1_1SoundData.html#a15a3df85e9e34d965cbda83a1cabca20',1,'dEvDtStaff_c::SoundData::timer()'],['../structZ2SceneMgr.html#a47ff48cbcce66335f513818f45f15c03',1,'Z2SceneMgr::timer()']]],
+  ['timer_101',['timer',['../structdEvDtStaff__c_1_1TimerKeeperData.html#add7baf44ba76447b25a89bd577b7df57',1,'dEvDtStaff_c::TimerKeeperData::timer()'],['../structdEvDtStaff__c_1_1SoundData.html#a15a3df85e9e34d965cbda83a1cabca20',1,'dEvDtStaff_c::SoundData::timer()'],['../classZ2SceneMgr.html#a47ff48cbcce66335f513818f45f15c03',1,'Z2SceneMgr::timer()']]],
   ['timer_5fmode_102',['timer_mode',['../structfopMsg__prm__timer.html#a933ac8834d6fa1d764d31cac6e9fea71',1,'fopMsg_prm_timer']]],
   ['timing_103',['timing',['../vi_8c.html#af7018bc1a6c47aa548003c530a1bbd30',1,'timing():&#160;vi.c'],['../structVIPositionInfo.html#a398dfbfbc30647270a3350fd74e75589',1,'VIPositionInfo::timing()']]],
   ['timingextra_104',['timingExtra',['../vi_8c.html#a283ad6d84c8432e2eedb43de19dc4e79',1,'vi.c']]],

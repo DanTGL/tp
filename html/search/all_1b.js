@@ -643,7 +643,7 @@ var searchData=
   ['_7ejaisemgr_640',['~JAISeMgr',['../classJAISeMgr.html#a3adbd6fe4aa6249494e0b0108586a808',1,'JAISeMgr']]],
   ['_7ejaiseqdatamgr_641',['~JAISeqDataMgr',['../structJAISeqDataMgr.html#a0a9fb874fb017ebac4a61ca0593749fe',1,'JAISeqDataMgr']]],
   ['_7ejaiseqdatauser_642',['~JAISeqDataUser',['../structJAISeqDataUser.html#af4a88c92bc015dc0468c1a70b0a994df',1,'JAISeqDataUser']]],
-  ['_7ejaiseqmgr_643',['~JAISeqMgr',['../structJAISeqMgr.html#a013cc44636d623d33eefff81b335b910',1,'JAISeqMgr']]],
+  ['_7ejaiseqmgr_643',['~JAISeqMgr',['../classJAISeqMgr.html#a013cc44636d623d33eefff81b335b910',1,'JAISeqMgr']]],
   ['_7ejaisoundhandle_644',['~JAISoundHandle',['../structJAISoundHandle.html#ae9eac88a42152e309f8431b8cf22ef04',1,'JAISoundHandle']]],
   ['_7ejaisoundinfo_645',['~JAISoundInfo',['../structJAISoundInfo.html#a100bb46412306a4890ed905ccc60ede2',1,'JAISoundInfo']]],
   ['_7ejaisoundstarter_646',['~JAISoundStarter',['../structJAISoundStarter.html#afbac5d4e71b773c29090850c61337194',1,'JAISoundStarter']]],

@@ -317,7 +317,7 @@ var searchData=
   ['jaiseqdatamgr_314',['JAISeqDataMgr',['../structJAISeqDataMgr.html',1,'']]],
   ['jaiseqdataregion_315',['JAISeqDataRegion',['../structJAISeqDataRegion.html',1,'']]],
   ['jaiseqdatauser_316',['JAISeqDataUser',['../structJAISeqDataUser.html',1,'']]],
-  ['jaiseqmgr_317',['JAISeqMgr',['../structJAISeqMgr.html',1,'']]],
+  ['jaiseqmgr_317',['JAISeqMgr',['../classJAISeqMgr.html',1,'']]],
   ['jaisound_318',['JAISound',['../classJAISound.html',1,'']]],
   ['jaisoundactivity_319',['JAISoundActivity',['../classJAISoundActivity.html',1,'']]],
   ['jaisoundchild_320',['JAISoundChild',['../structJAISoundChild.html',1,'']]],

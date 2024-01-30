@@ -773,7 +773,7 @@ var searchData=
   ['jaiseqdatamgr_2eh_770',['JAISeqDataMgr.h',['../JAISeqDataMgr_8h.html',1,'']]],
   ['jaiseqdataregion_771',['JAISeqDataRegion',['../structJAISeqDataRegion.html',1,'']]],
   ['jaiseqdatauser_772',['JAISeqDataUser',['../structJAISeqDataUser.html',1,'']]],
-  ['jaiseqmgr_773',['JAISeqMgr',['../structJAISeqMgr.html#a0fe4f76d3137d0a132571f0e9449ad2f',1,'JAISeqMgr::JAISeqMgr()'],['../structJAISeqMgr.html',1,'JAISeqMgr']]],
+  ['jaiseqmgr_773',['JAISeqMgr',['../classJAISeqMgr.html#a0fe4f76d3137d0a132571f0e9449ad2f',1,'JAISeqMgr::JAISeqMgr()'],['../classJAISeqMgr.html',1,'JAISeqMgr']]],
   ['jaiseqmgr_2ecpp_774',['JAISeqMgr.cpp',['../JAISeqMgr_8cpp.html',1,'']]],
   ['jaiseqmgr_2eh_775',['JAISeqMgr.h',['../JAISeqMgr_8h.html',1,'']]],
   ['jaiseqmgr_5fcalc_5f_776',['JAISeqMgr_calc_',['../structJAISeq.html#aaee776a8a705cb639c7a47fb6e236f22',1,'JAISeq::JAISeqMgr_calc_()'],['../structJAISeq.html#aaee776a8a705cb639c7a47fb6e236f22',1,'JAISeq::JAISeqMgr_calc_()']]],

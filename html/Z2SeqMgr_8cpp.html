@@ -82,14 +82,21 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">Z2SeqMgr.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="Z2SeqMgr_8h_source.html">Z2AudioLib/Z2SeqMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2Calc_8h_source.html">Z2AudioLib/Z2Calc.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2Creature_8h_source.html">Z2AudioLib/Z2Creature.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="Z2Param_8h_source.html">Z2AudioLib/Z2Param.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2SceneMgr_8h_source.html">Z2AudioLib/Z2SceneMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2SoundMgr_8h_source.html">Z2AudioLib/Z2SoundMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2SoundObjMgr_8h_source.html">Z2AudioLib/Z2SoundObjMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2StatusMgr_8h_source.html">Z2AudioLib/Z2StatusMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JAISeq_8h_source.html">JSystem/JAudio2/JAISeq.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JAISoundChild_8h_source.html">JSystem/JAudio2/JAISoundChild.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/__ct__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/bgmStart__8Z2SeqMgrFUlUll.s&quot;</code><br />
@@ -98,9 +105,6 @@ $(function() {
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/subBgmStop__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/subBgmStopInner__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/bgmStreamPrepare__8Z2SeqMgrFUl.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/bgmStreamCheckReady__8Z2SeqMgrFv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/bgmStreamPlay__8Z2SeqMgrFv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/bgmStreamStop__8Z2SeqMgrFUl.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/changeBgmStatus__8Z2SeqMgrFl.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/changeSubBgmStatus__8Z2SeqMgrFl.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/onVariantBgmJumpEnd__8Z2SeqMgrFb.s&quot;</code><br />
@@ -112,15 +116,10 @@ $(function() {
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/fanfareFramework__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/stopWolfHowlSong__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/setHeightVolMod__8Z2SeqMgrFbUl.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/setTimeProcVolMod__8Z2SeqMgrFbUl.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/processBgmFramework__8Z2SeqMgrFv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/checkBgmIDPlaying__8Z2SeqMgrFUl.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/getChildTrackVolume__8Z2SeqMgrFP14JAISoundHandlei.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/setChildTrackVolume__8Z2SeqMgrFP14JAISoundHandleifUlff.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/resetBattleBgmParams__8Z2SeqMgrFv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/setBattleBgmOff__8Z2SeqMgrFb.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/setBattleSearched__8Z2SeqMgrFb.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/setBattleDistIgnore__8Z2SeqMgrFb.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/setBattleGhostMute__8Z2SeqMgrFb.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/setBattleDistState__8Z2SeqMgrFUc.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/setBattleSeqState__8Z2SeqMgrFUc.s&quot;</code><br />
@@ -128,9 +127,7 @@ $(function() {
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/battleBgmFramework__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/startBattleBgm__8Z2SeqMgrFb.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/stopBattleBgm__8Z2SeqMgrFUcUc.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/fieldBgmStart__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/fieldRidingMute__8Z2SeqMgrFv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/onFieldBgmJumpStart__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/onFieldBgmJumpEnd__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/fieldBgmFramework__8Z2SeqMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2SeqMgr/taktModeMute__8Z2SeqMgrFv.s&quot;</code><br />
@@ -144,27 +141,6 @@ $(function() {
 </div>
 </div>
 </div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2StatusMgr.html">Z2StatusMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2SoundStarter.html">Z2SoundStarter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2SoundObjMgr.html">Z2SoundObjMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2SceneMgr.html">Z2SceneMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2CreatureLink.html">Z2CreatureLink</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2Calc.html">Z2Calc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2Calc_1_1CurveSign.html">Z2Calc::CurveSign</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAIStreamMgr.html">JAIStreamMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAISeqMgr.html">JAISeqMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:a61c97dc5c045f6dc4936ee43219f59dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#a61c97dc5c045f6dc4936ee43219f59dc">__ct__8Z2SeqMgrFv</a> ()</td></tr>
@@ -334,8 +310,6 @@ Variables</h2></td></tr>
 <tr class="separator:a385906000f48ada81014ddda118b73b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4776b648904b26ce4eeb8855cf4647e2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#a4776b648904b26ce4eeb8855cf4647e2">VOL_BGM_PAUSING__7Z2Param</a></td></tr>
 <tr class="separator:a4776b648904b26ce4eeb8855cf4647e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa57206e7ecd54b5c2287b76abb0597e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#afa57206e7ecd54b5c2287b76abb0597e">data_8045086C</a></td></tr>
-<tr class="separator:afa57206e7ecd54b5c2287b76abb0597e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aed2fd4b9dffb70ac6572668fdf372861"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#aed2fd4b9dffb70ac6572668fdf372861">data_80450B48</a> [4]</td></tr>
 <tr class="separator:aed2fd4b9dffb70ac6572668fdf372861"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a82f59053b99d3ea99326b60f2a24951c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#a82f59053b99d3ea99326b60f2a24951c">data_80450B60</a> [4]</td></tr>
@@ -568,8 +542,10 @@ Variables</h2></td></tr>
 <tr class="separator:af309186b0b1b03228bbdae7077b30efa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a29eb8eb7ea899dea61c4833f25c19000"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#a29eb8eb7ea899dea61c4833f25c19000">sDeathMtTop</a> = 3650.0f</td></tr>
 <tr class="separator:a29eb8eb7ea899dea61c4833f25c19000"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7d67180bc30d2f15dc517db51cbc976f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#a7d67180bc30d2f15dc517db51cbc976f">sUnderWaterDepthMax</a> [1+1]</td></tr>
-<tr class="separator:a7d67180bc30d2f15dc517db51cbc976f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9242d5c854066df893cb5bdfc3e88ed4"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#a9242d5c854066df893cb5bdfc3e88ed4">sUnderWaterDepthMax</a> = 3500.0f</td></tr>
+<tr class="separator:a9242d5c854066df893cb5bdfc3e88ed4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5167c7f86c30ccbde367024433892ba3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#a5167c7f86c30ccbde367024433892ba3">pad</a> = 0.0f</td></tr>
+<tr class="separator:a5167c7f86c30ccbde367024433892ba3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7ca4aaee857963fd25ae9989ef14de8e"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#a7ca4aaee857963fd25ae9989ef14de8e">lit_5673</a> = -10500.0f</td></tr>
 <tr class="separator:a7ca4aaee857963fd25ae9989ef14de8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a713e0d0a17f9d7380fed97f98dca0bd3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2SeqMgr_8cpp.html#a713e0d0a17f9d7380fed97f98dca0bd3">lit_5674</a> = -7500.0f</td></tr>
@@ -1944,28 +1920,6 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="afa57206e7ecd54b5c2287b76abb0597e" name="afa57206e7ecd54b5c2287b76abb0597e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa57206e7ecd54b5c2287b76abb0597e">&#9670;&#160;</a></span>data_8045086C</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="types_8h.html#a2caf5cd7bcdbe1eefa727f44ffb10bac">u32</a> data_8045086C</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="aed2fd4b9dffb70ac6572668fdf372861" name="aed2fd4b9dffb70ac6572668fdf372861"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aed2fd4b9dffb70ac6572668fdf372861">&#9670;&#160;</a></span>data_80450B48</h2>
 
@@ -2904,6 +2858,28 @@ Variables</h2></td></tr>
           <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> mLinkPtr__14Z2CreatureLink[4+4]</td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5167c7f86c30ccbde367024433892ba3" name="a5167c7f86c30ccbde367024433892ba3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5167c7f86c30ccbde367024433892ba3">&#9670;&#160;</a></span>pad</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> pad = 0.0f</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -4778,8 +4754,8 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a7d67180bc30d2f15dc517db51cbc976f" name="a7d67180bc30d2f15dc517db51cbc976f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7d67180bc30d2f15dc517db51cbc976f">&#9670;&#160;</a></span>sUnderWaterDepthMax</h2>
+<a id="a9242d5c854066df893cb5bdfc3e88ed4" name="a9242d5c854066df893cb5bdfc3e88ed4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9242d5c854066df893cb5bdfc3e88ed4">&#9670;&#160;</a></span>sUnderWaterDepthMax</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -4788,7 +4764,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> sUnderWaterDepthMax[1+1]</td>
+          <td class="memname"><a class="el" href="dol2asm_8h.html#a22a2a06fa275008ac56121fac5e1ff92">SECTION_SDATA</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> sUnderWaterDepthMax = 3500.0f</td>
         </tr>
       </table>
   </td>
@@ -4797,12 +4773,7 @@ Variables</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    3500.0f,</div>
-<div class="line">    </div>
-<div class="line">    0.0f,</div>
-<div class="line">}</div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <a id="ae627f45c60ffa657b120cd83edd60a1c" name="ae627f45c60ffa657b120cd83edd60a1c"></a>

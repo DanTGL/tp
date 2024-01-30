@@ -35,7 +35,7 @@ var searchData=
   ['z2multiseobj_32',['Z2MultiSeObj',['../structZ2MultiSeObj.html',1,'']]],
   ['z2param_33',['Z2Param',['../structZ2Param.html',1,'']]],
   ['z2ridesoundstarter_34',['Z2RideSoundStarter',['../structZ2RideSoundStarter.html',1,'']]],
-  ['z2scenemgr_35',['Z2SceneMgr',['../structZ2SceneMgr.html',1,'']]],
+  ['z2scenemgr_35',['Z2SceneMgr',['../classZ2SceneMgr.html',1,'']]],
   ['z2semgr_36',['Z2SeMgr',['../structZ2SeMgr.html',1,'']]],
   ['z2seqmgr_37',['Z2SeqMgr',['../structZ2SeqMgr.html',1,'']]],
   ['z2soundfader_38',['Z2SoundFader',['../structZ2SoundFader.html',1,'']]],

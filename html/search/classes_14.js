@@ -174,7 +174,7 @@ var searchData=
   ['tsystem_171',['TSystem',['../structJStage_1_1TSystem.html',1,'JStage']]],
   ['ttransform_5fposition_172',['TTransform_position',['../structJStudio_1_1TControl_1_1TTransform__position.html',1,'JStudio::TControl']]],
   ['ttransform_5ftranslation_5frotation_5fscaling_173',['TTransform_translation_rotation_scaling',['../structJStudio_1_1TControl_1_1TTransform__translation__rotation__scaling.html',1,'JStudio::TControl']]],
-  ['ttransition_174',['TTransition',['../structJAISoundParamsTransition_1_1TTransition.html',1,'JAISoundParamsTransition::TTransition'],['../structTTransition.html',1,'TTransition']]],
+  ['ttransition_174',['TTransition',['../structJAISoundParamsTransition_1_1TTransition.html',1,'JAISoundParamsTransition']]],
   ['tutil_175',['TUtil',['../structJGeometry_1_1TUtil.html',1,'JGeometry']]],
   ['tutil_3c_20double_20_3e_176',['TUtil&lt; double &gt;',['../structJGeometry_1_1TUtil_3_01double_01_4.html',1,'JGeometry']]],
   ['tvariablevalue_177',['TVariableValue',['../structJStudio_1_1TVariableValue.html',1,'JStudio']]],
