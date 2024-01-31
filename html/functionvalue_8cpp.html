@@ -91,10 +91,13 @@ $(function() {
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="functionvalue_8h_source.html">JSystem/JStudio/JStudio/functionvalue.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="JUTException_8h_source.html">JSystem/JUtility/JUTException.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JUTAssert_8h_source.html">JSystem/JUtility/JUTAssert.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="linklist_8h_source.html">JSystem/JGadget/linklist.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="math_8h_source.html">math.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="stdlib_8h_source.html">stdlib.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="global_8h_source.html">global.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="iterator_8h_source.html">iterator.h</a>&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/interpolateValue_hermite__Q27JStudio13functionvalueFddddddd.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/interpolateValue_BSpline_uniform__Q27JStudio13functionvalueFddddd.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/interpolateValue_BSpline_nonuniform__Q27JStudio13functionvalueFdPCdPCd.s&quot;</code><br />
@@ -103,19 +106,14 @@ $(function() {
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/__ct__Q27JStudio24TFunctionValue_compositeFv.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80281E5C.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80281EC8.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_8028202C.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80282094.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80282118.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80282200.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80282284.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/getValue__Q27JStudio25TFunctionValue_transitionFd.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/getValue__Q27JStudio19TFunctionValue_listFd.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80282C58.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80282CA8.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/getValue__Q27JStudio29TFunctionValue_list_parameterFd.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80283024.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80283060.s&quot;</code><br />
-<code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/getValue__Q27JStudio22TFunctionValue_hermiteFd.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_802835DC.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80283634.s&quot;</code><br />
 <code>#include &quot;asm/JSystem/JStudio/JStudio/functionvalue/func_80283858.s&quot;</code><br />
@@ -135,6 +133,8 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structstd_1_1less____template0.html">std::less__template0</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJStudio_1_1TContainerEnumerator__const__TVector.html">JStudio::TContainerEnumerator_const_TVector&lt; T &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
@@ -149,9 +149,9 @@ Namespaces</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a938665d96f9cca8ad08df2cedb875a1d"><td class="memTemplParams" colspan="2">template&lt;typename A1 , typename B1 &gt; </td></tr>
-<tr class="memitem:a938665d96f9cca8ad08df2cedb875a1d"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html#a938665d96f9cca8ad08df2cedb875a1d">JGadget::findUpperBound_binary_current</a> ()</td></tr>
-<tr class="separator:a938665d96f9cca8ad08df2cedb875a1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a511cb96256e8ff3eca80827933ce5829"><td class="memTemplParams" colspan="2">template&lt;typename Iterator , typename B1 &gt; </td></tr>
+<tr class="memitem:a511cb96256e8ff3eca80827933ce5829"><td class="memTemplItemLeft" align="right" valign="top">Iterator&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html#a511cb96256e8ff3eca80827933ce5829">JGadget::findUpperBound_binary_current</a> (Iterator, Iterator, Iterator, const B1 &amp;)</td></tr>
+<tr class="separator:a511cb96256e8ff3eca80827933ce5829"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af2c4c86486273d2ee66f42c9d67d0096"><td class="memTemplParams" colspan="2">template&lt;typename A1 , typename B1 , typename <a class="el" href="k__cos_8c.html#ad69d2b382d336189251f264999f56bfa">C1</a> &gt; </td></tr>
 <tr class="memitem:af2c4c86486273d2ee66f42c9d67d0096"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacestd.html#af2c4c86486273d2ee66f42c9d67d0096">std::upper_bound</a> ()</td></tr>
 <tr class="separator:af2c4c86486273d2ee66f42c9d67d0096"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -159,10 +159,10 @@ Functions</h2></td></tr>
 <tr class="separator:a7534f9b0e7c41df55b03de3d122ef9fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab10f8ab41a72a601609eac00e7ed1e64"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacestd.html#ab10f8ab41a72a601609eac00e7ed1e64">std::func_80283E24</a> (void *_this, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;, <a class="el" href="structstd_1_1less.html">std::less</a>&lt; <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> &gt;)</td></tr>
 <tr class="separator:ab10f8ab41a72a601609eac00e7ed1e64"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6c67dd0ec1ca64864ba9d3a00aa64d2c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html#a6c67dd0ec1ca64864ba9d3a00aa64d2c">JGadget::func_80283858</a> (void *_this, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;)</td></tr>
-<tr class="separator:a6c67dd0ec1ca64864ba9d3a00aa64d2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e50004da06ba6224e76134e83e1c9e4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html#a3e50004da06ba6224e76134e83e1c9e4">JGadget::func_802835DC</a> (void *_this, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;)</td></tr>
-<tr class="separator:a3e50004da06ba6224e76134e83e1c9e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85ee15fb7d19118ccca0766b3a9cf15e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html#a85ee15fb7d19118ccca0766b3a9cf15e">JGadget::func_80283858</a> (<a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;)</td></tr>
+<tr class="separator:a85ee15fb7d19118ccca0766b3a9cf15e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad4fc62a8214d9648be8441cd39457db5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html#ad4fc62a8214d9648be8441cd39457db5">JGadget::func_802835DC</a> (<a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;)</td></tr>
+<tr class="separator:ad4fc62a8214d9648be8441cd39457db5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a784433574ed8636a55af018877a2f55d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html#a784433574ed8636a55af018877a2f55d">JGadget::func_80283634</a> (void *_this, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;, <a class="el" href="structstd_1_1less.html">std::less</a>&lt; <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> &gt;)</td></tr>
 <tr class="separator:a784433574ed8636a55af018877a2f55d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a398c48f2ee614aeacac6a032afc0295f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJGadget.html#a398c48f2ee614aeacac6a032afc0295f">JGadget::func_802838C8</a> (void *_this, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;, <a class="el" href="structstd_1_1less.html">std::less</a>&lt; <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> &gt;)</td></tr>
@@ -305,12 +305,12 @@ Functions</h2></td></tr>
 <tr class="separator:a9283d48c90cdb9a30a2dd419e8c79754"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac20ac9ce865a4d0add6bac9340133a87"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="functionvalue_8cpp.html#ac20ac9ce865a4d0add6bac9340133a87">extrapolateParameter_clamp__Q27JStudio13functionvalueFdd</a> ()</td></tr>
 <tr class="separator:ac20ac9ce865a4d0add6bac9340133a87"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77bcf9f284c0e3269b73203131fd4c00"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="functionvalue_8cpp.html#a77bcf9f284c0e3269b73203131fd4c00">func_802835DC</a> (void *_this, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;)</td></tr>
-<tr class="separator:a77bcf9f284c0e3269b73203131fd4c00"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a834c84d47b1799bbd8bfc0f26031212f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="functionvalue_8cpp.html#a834c84d47b1799bbd8bfc0f26031212f">func_802835DC</a> (<a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;)</td></tr>
+<tr class="separator:a834c84d47b1799bbd8bfc0f26031212f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af08114b5d1170163a5d5d9afdd8e7e9c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="functionvalue_8cpp.html#af08114b5d1170163a5d5d9afdd8e7e9c">func_80283634</a> (void *_this, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;, <a class="el" href="structstd_1_1less.html">std::less</a>&lt; <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> &gt;)</td></tr>
 <tr class="separator:af08114b5d1170163a5d5d9afdd8e7e9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae3f4abb2a94d6b51533bf7dbba2767c3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="functionvalue_8cpp.html#ae3f4abb2a94d6b51533bf7dbba2767c3">func_80283858</a> (void *_this, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;)</td></tr>
-<tr class="separator:ae3f4abb2a94d6b51533bf7dbba2767c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c3caf75842899ca67deaac1dc4b46e1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="functionvalue_8cpp.html#a6c3caf75842899ca67deaac1dc4b46e1">func_80283858</a> (<a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;)</td></tr>
+<tr class="separator:a6c3caf75842899ca67deaac1dc4b46e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5146ce364794c8ca339a08752e4d5237"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="functionvalue_8cpp.html#a5146ce364794c8ca339a08752e4d5237">func_802838C8</a> (void *_this, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> const &amp;, <a class="el" href="structstd_1_1less.html">std::less</a>&lt; <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> &gt;)</td></tr>
 <tr class="separator:a5146ce364794c8ca339a08752e4d5237"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3efcce08528094f18543fdb1a89747d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="functionvalue_8cpp.html#a3efcce08528094f18543fdb1a89747d9">__dt__Q27JStudio22TFunctionValue_hermiteFv</a> ()</td></tr>
@@ -355,6 +355,8 @@ Functions</h2></td></tr>
 <tr class="separator:a3d5edad934e920b4c8951d8f57c21aa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9cff68fa0f77e03c018d976e3150ecdb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJStudio_1_1functionvalue.html#a9cff68fa0f77e03c018d976e3150ecdb">JStudio::functionvalue::extrapolateParameter_clamp</a> (<a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a>, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a>)</td></tr>
 <tr class="separator:a9cff68fa0f77e03c018d976e3150ecdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03374882c073be5eda58e33fa32bfd6a"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJStudio_1_1functionvalue.html#a03374882c073be5eda58e33fa32bfd6a">JStudio::functionvalue::i_extrapolateParameter_repeat</a> (<a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> a1, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> a2)</td></tr>
+<tr class="separator:a03374882c073be5eda58e33fa32bfd6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa0c32ec51e3940b2703719ce22d0da88"><td class="memItemLeft" align="right" valign="top">asm <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJStudio_1_1functionvalue.html#aa0c32ec51e3940b2703719ce22d0da88">JStudio::functionvalue::interpolateValue_hermite</a> (<a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_0, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_1, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_2, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_3, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_4, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_5, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_6)</td></tr>
 <tr class="separator:aa0c32ec51e3940b2703719ce22d0da88"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8015eac591e55d98a2f16181179266c6"><td class="memItemLeft" align="right" valign="top">asm <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceJStudio_1_1functionvalue.html#a8015eac591e55d98a2f16181179266c6">JStudio::functionvalue::interpolateValue_BSpline_uniform</a> (<a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_0, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_1, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_2, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_3, <a class="el" href="types_8h.html#a94dab5770726ccbef8c7d026cfbdf8e5">f64</a> param_4)</td></tr>
@@ -1020,21 +1022,15 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a77bcf9f284c0e3269b73203131fd4c00" name="a77bcf9f284c0e3269b73203131fd4c00"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a77bcf9f284c0e3269b73203131fd4c00">&#9670;&#160;</a></span>func_802835DC()</h2>
+<a id="a834c84d47b1799bbd8bfc0f26031212f" name="a834c84d47b1799bbd8bfc0f26031212f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a834c84d47b1799bbd8bfc0f26031212f">&#9670;&#160;</a></span>func_802835DC()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void func_802835DC </td>
+          <td class="memname">asm <a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a> func_802835DC </td>
           <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>_this</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
           <td class="paramtype"><a class="el" href="structJStudio_1_1TFunctionValue__list__parameter_1_1TIterator__data__.html">JStudio::TFunctionValue_list_parameter::TIterator_data_</a>&#160;</td>
           <td class="paramname"><em>param_0</em>, </td>
         </tr>
@@ -1118,21 +1114,15 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="ae3f4abb2a94d6b51533bf7dbba2767c3" name="ae3f4abb2a94d6b51533bf7dbba2767c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae3f4abb2a94d6b51533bf7dbba2767c3">&#9670;&#160;</a></span>func_80283858()</h2>
+<a id="a6c3caf75842899ca67deaac1dc4b46e1" name="a6c3caf75842899ca67deaac1dc4b46e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c3caf75842899ca67deaac1dc4b46e1">&#9670;&#160;</a></span>func_80283858()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm void func_80283858 </td>
+          <td class="memname">asm <a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a> func_80283858 </td>
           <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>_this</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
           <td class="paramtype"><a class="el" href="structJStudio_1_1TFunctionValue__hermite_1_1TIterator__data__.html">JStudio::TFunctionValue_hermite::TIterator_data_</a>&#160;</td>
           <td class="paramname"><em>param_0</em>, </td>
         </tr>

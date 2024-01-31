@@ -95,13 +95,21 @@ $(function() {
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>        ++<a class="code hl_variable" href="d__a__alink_8cpp.html#a1c8eaa1d6295ca42a151b5f00be6b6dc">it</a>;</div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>    }</div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>}</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>}</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="comment">// This needs to be defined with gcc concepts or something similar. Workaround.</span></div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="keyword">template</span>&lt; <span class="keyword">class</span> InputIt, <span class="keyword">class</span> Distance &gt;</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno"><a class="line" href="namespacestd.html#afda64b5b39740e2895f196c18d8c253e">   15</a></span><span class="keyword">inline</span> <span class="keywordtype">void</span> <a class="code hl_function" href="namespacestd.html#afda64b5b39740e2895f196c18d8c253e">advance_pointer</a>( InputIt&amp; <a class="code hl_variable" href="d__a__alink_8cpp.html#a1c8eaa1d6295ca42a151b5f00be6b6dc">it</a>, Distance <a class="code hl_variable" href="init_8h.html#a7ff3cacc14747d630cb3e5b9426c9c6e">n</a>) {</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    <a class="code hl_variable" href="d__a__alink_8cpp.html#a1c8eaa1d6295ca42a151b5f00be6b6dc">it</a> += <a class="code hl_variable" href="init_8h.html#a7ff3cacc14747d630cb3e5b9426c9c6e">n</a>;</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>}</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span> </div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>}</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span> </div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="preprocessor">#endif</span></div>
 <div class="ttc" id="ad__a__alink_8cpp_html_a1c8eaa1d6295ca42a151b5f00be6b6dc"><div class="ttname"><a href="d__a__alink_8cpp.html#a1c8eaa1d6295ca42a151b5f00be6b6dc">it</a></div><div class="ttdeci">static int it</div><div class="ttdef"><b>Definition:</b> d_a_alink.cpp:3110</div></div>
 <div class="ttc" id="ainit_8h_html_a7ff3cacc14747d630cb3e5b9426c9c6e"><div class="ttname"><a href="init_8h.html#a7ff3cacc14747d630cb3e5b9426c9c6e">n</a></div><div class="ttdeci">int size_t n</div><div class="ttdef"><b>Definition:</b> init.h:10</div></div>
 <div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="namespacestd.html">std</a></div><div class="ttdef"><b>Definition:</b> d_camera.cpp:18</div></div>
 <div class="ttc" id="anamespacestd_html_a9c2923ee94f13ee596bca0597c6315f6"><div class="ttname"><a href="namespacestd.html#a9c2923ee94f13ee596bca0597c6315f6">std::advance</a></div><div class="ttdeci">void advance(InputIt &amp;it, Distance n)</div><div class="ttdef"><b>Definition:</b> iterator.h:6</div></div>
+<div class="ttc" id="anamespacestd_html_afda64b5b39740e2895f196c18d8c253e"><div class="ttname"><a href="namespacestd.html#afda64b5b39740e2895f196c18d8c253e">std::advance_pointer</a></div><div class="ttdeci">void advance_pointer(InputIt &amp;it, Distance n)</div><div class="ttdef"><b>Definition:</b> iterator.h:15</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
