@@ -31,9 +31,9 @@
 <title>Node2&#45;&gt;Node1</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M1200.94,-479.32C1241.15,-479.32 1294.39,-479.32 1341.5,-479.32 1341.5,-479.32 1341.5,-479.32 1669,-479.32 1746.93,-479.32 1832.53,-435.5 1867.85,-415.3"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="1200.95,-475.82 1190.95,-479.32 1200.95,-482.82 1200.95,-475.82"/>
-<text text-anchor="middle" x="1467.5" y="-504.32" font-family="Helvetica,sans-Serif" font-size="10.00"> field_0x0</text>
-<text text-anchor="middle" x="1467.5" y="-493.32" font-family="Helvetica,sans-Serif" font-size="10.00">field_0x18</text>
-<text text-anchor="middle" x="1467.5" y="-482.32" font-family="Helvetica,sans-Serif" font-size="10.00">field_0xc</text>
+<text text-anchor="middle" x="1467.5" y="-504.32" font-family="Helvetica,sans-Serif" font-size="10.00"> field_0xc</text>
+<text text-anchor="middle" x="1467.5" y="-493.32" font-family="Helvetica,sans-Serif" font-size="10.00">mFreeBlocks</text>
+<text text-anchor="middle" x="1467.5" y="-482.32" font-family="Helvetica,sans-Serif" font-size="10.00">mLoadedBlocks</text>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -47,9 +47,8 @@
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M297.47,-480.32C351.46,-480.32 422.55,-480.32 485.5,-480.32 485.5,-480.32 485.5,-480.32 896,-480.32 961,-480.32 1035.9,-479.95 1084.5,-479.66"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="297.73,-476.82 287.73,-480.32 297.73,-483.82 297.73,-476.82"/>
-<text text-anchor="middle" x="610" y="-483.32" font-family="Helvetica,sans-Serif" font-size="10.00"> field_0x0</text>
+<path fill="none" stroke="#63b8ff" d="M297.47,-480.32C351.46,-480.32 422.55,-480.32 485.5,-480.32 485.5,-480.32 485.5,-480.32 896,-480.32 961,-480.32 1035.9,-479.95 1084.5,-479.66"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="297.73,-476.82 287.73,-480.32 297.73,-483.82 297.73,-476.82"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">

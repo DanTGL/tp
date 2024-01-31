@@ -62,7 +62,7 @@ var searchData=
   ['unk92_59',['unk92',['../structdMeter2Info__c.html#a70c1f64f3d1e601d3937ae2598501e4d',1,'dMeter2Info_c']]],
   ['unk96_60',['unk96',['../structdMeter2Info__c.html#afcf426421c5a34cfe9e008ac5894b603',1,'dMeter2Info_c']]],
   ['unk_5f0x0_61',['unk_0x0',['../classdStage__KeepDoorInfo.html#a8cb81e951abd1609aae2651eec6d127b',1,'dStage_KeepDoorInfo']]],
-  ['unk_5f0x04_62',['unk_0x04',['../structunk__print.html#a2013ce4636432346f491957be993dd5e',1,'unk_print::unk_0x04()'],['../structcBgS__PolyInfo.html#aea3b121183c675ae053c7b4e0be62c57',1,'cBgS_PolyInfo::unk_0x04()']]],
+  ['unk_5f0x04_62',['unk_0x04',['../structunk__print.html#a2013ce4636432346f491957be993dd5e',1,'unk_print::unk_0x04()'],['../classcBgS__PolyInfo.html#aea3b121183c675ae053c7b4e0be62c57',1,'cBgS_PolyInfo::unk_0x04()']]],
   ['unk_5f0x06_63',['unk_0x06',['../structunk__print.html#a56c9b81766378e4608c064a9d26fd3f6',1,'unk_print']]],
   ['unk_5f0x08_64',['unk_0x08',['../structunk__print.html#a6c7fc46fd435bfb884c8828b6db48dfa',1,'unk_print']]],
   ['unk_5f0x0a_65',['unk_0x0A',['../structunk__print.html#a2593158dc321cb9fd9b40f68d0a85841',1,'unk_print']]],

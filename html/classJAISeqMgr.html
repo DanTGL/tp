@@ -109,8 +109,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0fe4f76d3137d0a132571f0e9449ad2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aef8d7fee55c202c8db7cace3f7efd0c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJAISeqMgr.html#aef8d7fee55c202c8db7cace3f7efd0c6">freeDeadSeq_</a> ()</td></tr>
 <tr class="separator:aef8d7fee55c202c8db7cace3f7efd0c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6e275b2b6db5687e2b41cafdb67a7880"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJAISeqMgr.html#a6e275b2b6db5687e2b41cafdb67a7880">startSound</a> (<a class="el" href="structJAISoundID.html">JAISoundID</a>, <a class="el" href="structJAISoundHandle.html">JAISoundHandle</a> *, <a class="el" href="structJGeometry_1_1TVec3.html">JGeometry::TVec3</a>&lt; <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> &gt; const *)</td></tr>
-<tr class="separator:a6e275b2b6db5687e2b41cafdb67a7880"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a24999fc383493e4209ecd5014b79bfe2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJAISeqMgr.html#a24999fc383493e4209ecd5014b79bfe2">startSound</a> (<a class="el" href="structJAISoundID.html">JAISoundID</a>, <a class="el" href="structJAISoundHandle.html">JAISoundHandle</a> *, <a class="el" href="structJGeometry_1_1TVec3.html">JGeometry::TVec3</a>&lt; <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> &gt; const *)</td></tr>
+<tr class="separator:a24999fc383493e4209ecd5014b79bfe2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a05d60edf0addb2d5d051fbccdb8d6cd7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJAISeqMgr.html#a05d60edf0addb2d5d051fbccdb8d6cd7">calc</a> ()</td></tr>
 <tr class="separator:a05d60edf0addb2d5d051fbccdb8d6cd7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a113ea55407c5b1cba3ffbc8d67f8a2f9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJAISeqMgr.html#a113ea55407c5b1cba3ffbc8d67f8a2f9">stop</a> ()</td></tr>
@@ -143,6 +143,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a46c9fa0732b19ea9ec0eedb8fa4cb2fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a653f3e171200a63659193811145b306e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJAISeqMgr.html#a653f3e171200a63659193811145b306e">isActive</a> ()</td></tr>
 <tr class="separator:a653f3e171200a63659193811145b306e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade56d3f6bc448c586cf94316b1a91e9c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJAISeqMgr.html#ade56d3f6bc448c586cf94316b1a91e9c">getNumActiveSeqs</a> ()</td></tr>
+<tr class="separator:ade56d3f6bc448c586cf94316b1a91e9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace4dfee21278b866c7bb943d79baf92d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJAISeqMgr.html#ace4dfee21278b866c7bb943d79baf92d">pause</a> (bool i_pause)</td></tr>
+<tr class="separator:ace4dfee21278b866c7bb943d79baf92d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_structJAISeqDataUser"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_structJAISeqDataUser')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="structJAISeqDataUser.html">JAISeqDataUser</a></td></tr>
 <tr class="memitem:af4a88c92bc015dc0468c1a70b0a994df inherit pub_methods_structJAISeqDataUser"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAISeqDataUser.html#af4a88c92bc015dc0468c1a70b0a994df">~JAISeqDataUser</a> ()</td></tr>
 <tr class="separator:af4a88c92bc015dc0468c1a70b0a994df inherit pub_methods_structJAISeqDataUser"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -308,6 +312,31 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="ade56d3f6bc448c586cf94316b1a91e9c" name="ade56d3f6bc448c586cf94316b1a91e9c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade56d3f6bc448c586cf94316b1a91e9c">&#9670;&#160;</a></span>getNumActiveSeqs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int JAISeqMgr::getNumActiveSeqs </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a46c9fa0732b19ea9ec0eedb8fa4cb2fb" name="a46c9fa0732b19ea9ec0eedb8fa4cb2fb"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a46c9fa0732b19ea9ec0eedb8fa4cb2fb">&#9670;&#160;</a></span>getParams()</h2>
 
@@ -428,6 +457,32 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="ace4dfee21278b866c7bb943d79baf92d" name="ace4dfee21278b866c7bb943d79baf92d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace4dfee21278b866c7bb943d79baf92d">&#9670;&#160;</a></span>pause()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void JAISeqMgr::pause </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>i_pause</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a44c9a62846ceb39b93df91f0b6a0da20" name="a44c9a62846ceb39b93df91f0b6a0da20"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a44c9a62846ceb39b93df91f0b6a0da20">&#9670;&#160;</a></span>releaseSeqData()</h2>
 
@@ -533,14 +588,14 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="a6e275b2b6db5687e2b41cafdb67a7880" name="a6e275b2b6db5687e2b41cafdb67a7880"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6e275b2b6db5687e2b41cafdb67a7880">&#9670;&#160;</a></span>startSound()</h2>
+<a id="a24999fc383493e4209ecd5014b79bfe2" name="a24999fc383493e4209ecd5014b79bfe2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a24999fc383493e4209ecd5014b79bfe2">&#9670;&#160;</a></span>startSound()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm int JAISeqMgr::startSound </td>
+          <td class="memname">asm bool JAISeqMgr::startSound </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="structJAISoundID.html">JAISoundID</a>&#160;</td>
           <td class="paramname"><em>param_0</em>, </td>

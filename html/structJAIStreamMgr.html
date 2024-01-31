@@ -107,8 +107,8 @@ $(function() {
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a3e10515dba3ec586ae829ed7583eb3e8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAIStreamMgr.html#a3e10515dba3ec586ae829ed7583eb3e8">JAIStreamMgr</a> (bool)</td></tr>
 <tr class="separator:a3e10515dba3ec586ae829ed7583eb3e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeae71d0dd5fa303b3068396f1de1bd57"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAIStreamMgr.html#aeae71d0dd5fa303b3068396f1de1bd57">startSound</a> (<a class="el" href="structJAISoundID.html">JAISoundID</a>, <a class="el" href="structJAISoundHandle.html">JAISoundHandle</a> *, <a class="el" href="structJGeometry_1_1TVec3.html">JGeometry::TVec3</a>&lt; <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> &gt; const *)</td></tr>
-<tr class="separator:aeae71d0dd5fa303b3068396f1de1bd57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96e981ddf27d0d1cc02f57d689d87c61"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAIStreamMgr.html#a96e981ddf27d0d1cc02f57d689d87c61">startSound</a> (<a class="el" href="structJAISoundID.html">JAISoundID</a>, <a class="el" href="structJAISoundHandle.html">JAISoundHandle</a> *, <a class="el" href="structJGeometry_1_1TVec3.html">JGeometry::TVec3</a>&lt; <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> &gt; const *)</td></tr>
+<tr class="separator:a96e981ddf27d0d1cc02f57d689d87c61"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acbcea124a70161ca957592f79a72f4d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAIStreamMgr.html#acbcea124a70161ca957592f79a72f4d9">freeDeadStream_</a> ()</td></tr>
 <tr class="separator:acbcea124a70161ca957592f79a72f4d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65b47757c87bee39991ce2e4f2455d66"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAIStreamMgr.html#a65b47757c87bee39991ce2e4f2455d66">calc</a> ()</td></tr>
@@ -131,6 +131,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ab0705ca5c9eddc29e6332cad51d2ae48"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad18ee02e63e91f03fbb77f8014912b51"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAIStreamMgr.html#ad18ee02e63e91f03fbb77f8014912b51">setStreamAramMgr</a> (<a class="el" href="structJAIStreamAramMgr.html">JAIStreamAramMgr</a> *param_0)</td></tr>
 <tr class="separator:ad18ee02e63e91f03fbb77f8014912b51"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a863c74011062398aded2ec914a5b79c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAIStreamMgr.html#a863c74011062398aded2ec914a5b79c6">pause</a> (bool i_pause)</td></tr>
+<tr class="separator:a863c74011062398aded2ec914a5b79c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classJASGlobalInstance"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classJASGlobalInstance')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classJASGlobalInstance.html">JASGlobalInstance&lt; JAIStreamMgr &gt;</a></td></tr>
 <tr class="memitem:a9fa6d71afdc09c41c1f308101d081523 inherit pub_methods_classJASGlobalInstance"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJASGlobalInstance.html#a9fa6d71afdc09c41c1f308101d081523">JASGlobalInstance</a> (<a class="el" href="structJAIStreamMgr.html">JAIStreamMgr</a> *inst)</td></tr>
 <tr class="separator:a9fa6d71afdc09c41c1f308101d081523 inherit pub_methods_classJASGlobalInstance"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -295,6 +297,32 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="a863c74011062398aded2ec914a5b79c6" name="a863c74011062398aded2ec914a5b79c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a863c74011062398aded2ec914a5b79c6">&#9670;&#160;</a></span>pause()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void JAIStreamMgr::pause </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>i_pause</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="ad18ee02e63e91f03fbb77f8014912b51" name="ad18ee02e63e91f03fbb77f8014912b51"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad18ee02e63e91f03fbb77f8014912b51">&#9670;&#160;</a></span>setStreamAramMgr()</h2>
 
@@ -347,14 +375,14 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="aeae71d0dd5fa303b3068396f1de1bd57" name="aeae71d0dd5fa303b3068396f1de1bd57"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeae71d0dd5fa303b3068396f1de1bd57">&#9670;&#160;</a></span>startSound()</h2>
+<a id="a96e981ddf27d0d1cc02f57d689d87c61" name="a96e981ddf27d0d1cc02f57d689d87c61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96e981ddf27d0d1cc02f57d689d87c61">&#9670;&#160;</a></span>startSound()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">asm int JAIStreamMgr::startSound </td>
+          <td class="memname">asm bool JAIStreamMgr::startSound </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="structJAISoundID.html">JAISoundID</a>&#160;</td>
           <td class="paramname"><em>param_0</em>, </td>

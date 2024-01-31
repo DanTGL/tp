@@ -30,7 +30,7 @@ var searchData=
   ['cbgs_5fgndchk_27',['cBgS_GndChk',['../classcBgS__GndChk.html',1,'']]],
   ['cbgs_5fgrppasschk_28',['cBgS_GrpPassChk',['../classcBgS__GrpPassChk.html',1,'']]],
   ['cbgs_5flinchk_29',['cBgS_LinChk',['../classcBgS__LinChk.html',1,'']]],
-  ['cbgs_5fpolyinfo_30',['cBgS_PolyInfo',['../structcBgS__PolyInfo.html',1,'']]],
+  ['cbgs_5fpolyinfo_30',['cBgS_PolyInfo',['../classcBgS__PolyInfo.html',1,'']]],
   ['cbgs_5fpolypasschk_31',['cBgS_PolyPassChk',['../classcBgS__PolyPassChk.html',1,'']]],
   ['cbgs_5fshdwdraw_32',['cBgS_ShdwDraw',['../classcBgS__ShdwDraw.html',1,'']]],
   ['cbgw_33',['cBgW',['../classcBgW.html',1,'']]],
@@ -119,6 +119,5 @@ var searchData=
   ['ctime_116',['CTime',['../classJUTProcBar_1_1CTime.html',1,'JUTProcBar']]],
   ['cull_5fbox_117',['cull_box',['../structcull__box.html',1,'']]],
   ['cull_5fsphere_118',['cull_sphere',['../structcull__sphere.html',1,'']]],
-  ['curvesign_119',['CurveSign',['../structZ2Calc_1_1CurveSign.html',1,'Z2Calc']]],
-  ['cxyz_120',['cXyz',['../structcXyz.html',1,'']]]
+  ['cxyz_119',['cXyz',['../structcXyz.html',1,'']]]
 ];

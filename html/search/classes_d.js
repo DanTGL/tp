@@ -51,7 +51,7 @@ var searchData=
   ['mdomemcd_5fctrl_5fc_48',['mDoMemCd_Ctrl_c',['../classmDoMemCd__Ctrl__c.html',1,'']]],
   ['mdomemcdrwm_5fheaderdata_49',['mDoMemCdRWm_HeaderData',['../structmDoMemCdRWm__HeaderData.html',1,'']]],
   ['mdomtx_5fquatstack_5fc_50',['mDoMtx_quatStack_c',['../classmDoMtx__quatStack__c.html',1,'']]],
-  ['mdomtx_5fstack_5fc_51',['mDoMtx_stack_c',['../structmDoMtx__stack__c.html',1,'']]],
+  ['mdomtx_5fstack_5fc_51',['mDoMtx_stack_c',['../classmDoMtx__stack__c.html',1,'']]],
   ['mdorst_52',['mDoRst',['../classmDoRst.html',1,'']]],
   ['mdorstdata_53',['mDoRstData',['../structmDoRstData.html',1,'']]],
   ['mem_5fpool_5fobj_54',['mem_pool_obj',['../structmem__pool__obj.html',1,'']]],
