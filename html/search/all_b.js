@@ -87,7 +87,7 @@ var searchData=
   ['kreg_5ff_84',['kREG_F',['../d__s__play_8h.html#afa45ed39b630c2854cc31d669ca155bf',1,'d_s_play.h']]],
   ['kreg_5fs_85',['kREG_S',['../d__s__play_8h.html#a070d69c35f6ab9cdcfaf8712e6422be0',1,'d_s_play.h']]],
   ['kreg_5fs_86',['KREG_S',['../d__s__play_8h.html#abc4e0072eddb86e475591e51f1d95a46',1,'d_s_play.h']]],
-  ['kvcdvatdlsize_87',['kVcdVatDLSize',['../J3DShape_8cpp.html#a99fb83031ce9923c84392b4e92f956b5a1587d173f2bd09d94ac8cf4004fb6bc2',1,'kVcdVatDLSize():&#160;J3DShape.cpp'],['../classJ3DShape.html#aa5a8df3a8f842922df2451358fdeeb80a78df67ba3112e67a6e32f56478e5f788',1,'J3DShape::kVcdVatDLSize()']]],
+  ['kvcdvatdlsize_87',['kVcdVatDLSize',['../J3DShape_8cpp.html#a99fb83031ce9923c84392b4e92f956b5a1587d173f2bd09d94ac8cf4004fb6bc2',1,'kVcdVatDLSize():&#160;J3DShape.cpp'],['../classJ3DShape.html#ad5625c936eec33d051a38ff5f35bc839a78df67ba3112e67a6e32f56478e5f788',1,'J3DShape::kVcdVatDLSize()']]],
   ['kytag00_5fclass_88',['kytag00_class',['../classkytag00__class.html',1,'']]],
   ['kytag02_5fclass_89',['kytag02_class',['../classkytag02__class.html',1,'']]],
   ['kytag03_5fclass_90',['kytag03_class',['../classkytag03__class.html',1,'']]],
