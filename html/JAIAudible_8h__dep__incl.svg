@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 3374;
+var viewWidth = 3267;
 var viewHeight = 368;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,9 +58,9 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="1900,-360 1773,-360 1773,-330 1900,-330 1900,-360"/>
-<text text-anchor="start" x="1781" y="-348" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1836.5" y="-337" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIAudible.h</text>
+<polygon fill="#999999" stroke="#666666" points="1792,-360 1665,-360 1665,-330 1792,-330 1792,-360"/>
+<text text-anchor="start" x="1673" y="-348" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1728.5" y="-337" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIAudible.h</text>
 </a>
 </g>
 </g>
@@ -68,17 +68,17 @@ var sectionId = 'dynsection-1';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="JAISound_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1900,-294 1773,-294 1773,-264 1900,-264 1900,-294"/>
-<text text-anchor="start" x="1781" y="-282" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1836.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISound.h</text>
+<polygon fill="white" stroke="#666666" points="1792,-294 1665,-294 1665,-264 1792,-264 1792,-294"/>
+<text text-anchor="start" x="1673" y="-282" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1728.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISound.h</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="#63b8ff" d="M1836.5,-318.39C1836.5,-310.13 1836.5,-301.28 1836.5,-294.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1833,-318.28 1836.5,-328.28 1840,-318.28 1833,-318.28"/>
+<path fill="none" stroke="#63b8ff" d="M1728.5,-318.39C1728.5,-310.13 1728.5,-301.28 1728.5,-294.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1725,-318.28 1728.5,-328.28 1732,-318.28 1725,-318.28"/>
 </g>
 <!-- Node565 -->
 <g id="node49" class="node">
@@ -91,79 +91,79 @@ var sectionId = 'dynsection-1';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node565 -->
-<g id="edge89" class="edge">
+<g id="edge91" class="edge">
 <title>Node1&#45;&gt;Node565</title>
-<path fill="none" stroke="#63b8ff" d="M1794.01,-324.55C1756.42,-305.22 1702.82,-272.1 1671.5,-228 1641.82,-186.2 1632.43,-123.91 1629.62,-96.19"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1792.29,-327.6 1802.8,-328.95 1795.43,-321.35 1792.29,-327.6"/>
+<path fill="none" stroke="#63b8ff" d="M1653.29,-335.29C1560.08,-319.67 1408.72,-276.91 1369.5,-162 1365.19,-149.38 1360.95,-142.23 1369.5,-132 1398.47,-97.35 1525.29,-105.22 1569.5,-96 1572.28,-95.42 1575.13,-94.81 1578.01,-94.17"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1652.71,-338.75 1663.14,-336.87 1653.82,-331.84 1652.71,-338.75"/>
 </g>
 <!-- Node566 -->
 <g id="node50" class="node">
 <title>Node566</title>
 <g id="a_node50"><a xlink:href="JAIAudible_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2029,-294 1918,-294 1918,-264 2029,-264 2029,-294"/>
-<text text-anchor="start" x="1926" y="-282" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1973.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIAudible.cpp</text>
+<polygon fill="white" stroke="#666666" points="1921,-294 1810,-294 1810,-264 1921,-264 1921,-294"/>
+<text text-anchor="start" x="1818" y="-282" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1865.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIAudible.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node566 -->
-<g id="edge95" class="edge">
+<g id="edge98" class="edge">
 <title>Node1&#45;&gt;Node566</title>
-<path fill="none" stroke="#63b8ff" d="M1877.48,-324.86C1898.46,-315.05 1923.58,-303.32 1942.86,-294.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1876.2,-321.59 1868.62,-329 1879.16,-327.94 1876.2,-321.59"/>
+<path fill="none" stroke="#63b8ff" d="M1769.48,-324.86C1790.46,-315.05 1815.58,-303.32 1834.86,-294.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1768.2,-321.59 1760.62,-329 1771.16,-327.94 1768.2,-321.59"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="JAISeqDataMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2786,-228 2659,-228 2659,-198 2786,-198 2786,-228"/>
-<text text-anchor="start" x="2667" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2722.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeqDataMgr.h</text>
+<polygon fill="white" stroke="#666666" points="2755,-228 2628,-228 2628,-198 2755,-198 2755,-228"/>
+<text text-anchor="start" x="2636" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2691.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeqDataMgr.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="#63b8ff" d="M1911.72,-263.7C2180.78,-230.34 2252.3,-245.18 2520.5,-228 2566.81,-225.03 2619.07,-221.4 2658.83,-218.58"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1911.41,-260.21 1901.92,-264.92 1912.28,-267.16 1911.41,-260.21"/>
+<path fill="none" stroke="#63b8ff" d="M1803.54,-263.86C1920.46,-251.94 2444.27,-225.99 2627.8,-217.07"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1803.47,-260.34 1793.92,-264.94 1804.25,-267.3 1803.47,-260.34"/>
 </g>
-<!-- Node521 -->
-<g id="node17" class="node">
-<title>Node521</title>
-<g id="a_node17"><a xlink:href="JAUSeqDataBlockMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="2648,-162 2521,-162 2521,-132 2648,-132 2648,-162"/>
-<text text-anchor="start" x="2529" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2584.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSeqDataBlockMgr.h</text>
+<!-- Node522 -->
+<g id="node18" class="node">
+<title>Node522</title>
+<g id="a_node18"><a xlink:href="JAUSeqDataBlockMgr_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="2617,-162 2490,-162 2490,-132 2617,-132 2617,-162"/>
+<text text-anchor="start" x="2498" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2553.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSeqDataBlockMgr.h</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node521 -->
-<g id="edge74" class="edge">
-<title>Node2&#45;&gt;Node521</title>
-<path fill="none" stroke="#63b8ff" d="M1911.46,-263.66C2068.68,-241.45 2112.86,-256.84 2266.5,-228 2315.46,-218.81 2326.26,-210.44 2374.5,-198 2423.49,-185.37 2479.21,-172.15 2520.94,-162.48"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1911.33,-260.14 1901.94,-265.04 1912.33,-267.07 1911.33,-260.14"/>
+<!-- Node2&#45;&gt;Node522 -->
+<g id="edge75" class="edge">
+<title>Node2&#45;&gt;Node522</title>
+<path fill="none" stroke="#63b8ff" d="M1803.62,-263.58C1933.34,-243.54 1968.98,-246.84 2096.5,-228 2265.64,-203 2307.13,-191.77 2475.5,-162 2480.11,-161.19 2484.86,-160.34 2489.65,-159.49"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1803.28,-260.08 1793.94,-265.09 1804.36,-267 1803.28,-260.08"/>
 </g>
-<!-- Node524 -->
-<g id="node19" class="node">
-<title>Node524</title>
-<g id="a_node19"><a xlink:href="JAISoundHandles_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="771,-162 644,-162 644,-132 771,-132 771,-162"/>
-<text text-anchor="start" x="652" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="707.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundHandles.h</text>
+<!-- Node525 -->
+<g id="node20" class="node">
+<title>Node525</title>
+<g id="a_node20"><a xlink:href="JAISoundHandles_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="906,-162 779,-162 779,-132 906,-132 906,-162"/>
+<text text-anchor="start" x="787" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="842.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundHandles.h</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node524 -->
-<g id="edge22" class="edge">
-<title>Node2&#45;&gt;Node524</title>
-<path fill="none" stroke="#63b8ff" d="M1761.1,-277.32C1620.72,-275.14 1310.05,-266.03 1051.5,-228 945.64,-212.43 824.26,-180.91 757.71,-162.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1760.97,-280.82 1771.02,-277.47 1761.07,-273.82 1760.97,-280.82"/>
+<!-- Node2&#45;&gt;Node525 -->
+<g id="edge23" class="edge">
+<title>Node2&#45;&gt;Node525</title>
+<path fill="none" stroke="#63b8ff" d="M1653.16,-276.02C1559.47,-272.19 1395.19,-260.96 1258.5,-228 1222.39,-219.29 1216.48,-207.22 1180.5,-198 1064.93,-168.39 1032.21,-181.39 914.5,-162 911.86,-161.57 909.17,-161.11 906.46,-160.63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1652.87,-279.52 1662.99,-276.41 1653.14,-272.52 1652.87,-279.52"/>
 </g>
 <!-- Node541 -->
-<g id="node28" class="node">
+<g id="node29" class="node">
 <title>Node541</title>
-<g id="a_node28"><a xlink:href="JAISound_8cpp.html" target="_top" xlink:title=" ">
+<g id="a_node29"><a xlink:href="JAISound_8cpp.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="111,-96 0,-96 0,-66 111,-66 111,-96"/>
 <text text-anchor="start" x="8" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
 <text text-anchor="middle" x="55.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISound.cpp</text>
@@ -171,314 +171,314 @@ var sectionId = 'dynsection-1';
 </g>
 </g>
 <!-- Node2&#45;&gt;Node541 -->
-<g id="edge87" class="edge">
+<g id="edge89" class="edge">
 <title>Node2&#45;&gt;Node541</title>
-<path fill="none" stroke="#63b8ff" d="M1761.58,-276.96C1601.9,-274.09 1216.44,-263.74 895.5,-228 548.24,-189.33 463.59,-162.13 120.5,-96 117.55,-95.43 114.53,-94.83 111.49,-94.22"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1761.11,-280.45 1771.17,-277.12 1761.23,-273.45 1761.11,-280.45"/>
+<path fill="none" stroke="#63b8ff" d="M1653.56,-271.95C1547.95,-263.24 1349.35,-246.21 1180.5,-228 708.49,-177.09 588.56,-175.39 120.5,-96 117.54,-95.5 114.51,-94.95 111.46,-94.38"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1652.97,-275.41 1663.22,-272.74 1653.54,-268.43 1652.97,-275.41"/>
 </g>
 <!-- Node543 -->
-<g id="node30" class="node">
+<g id="node31" class="node">
 <title>Node543</title>
-<g id="a_node30"><a xlink:href="JAISoundInfo_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1295,-162 1168,-162 1168,-132 1295,-132 1295,-162"/>
-<text text-anchor="start" x="1176" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1231.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundInfo.h</text>
+<g id="a_node31"><a xlink:href="JAISoundInfo_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1100,-162 973,-162 973,-132 1100,-132 1100,-162"/>
+<text text-anchor="start" x="981" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1036.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundInfo.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node543 -->
-<g id="edge43" class="edge">
+<g id="edge44" class="edge">
 <title>Node2&#45;&gt;Node543</title>
-<path fill="none" stroke="#63b8ff" d="M1761.49,-274.81C1678.6,-269.9 1541.72,-257.72 1427.5,-228 1365.61,-211.89 1297.31,-180.72 1259.9,-162.41"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1761.12,-278.29 1771.3,-275.36 1761.52,-271.3 1761.12,-278.29"/>
+<path fill="none" stroke="#63b8ff" d="M1653.45,-273.8C1573.8,-268.1 1444.77,-255.3 1336.5,-228 1300.49,-218.92 1294.04,-208.78 1258.5,-198 1205.95,-182.07 1145.01,-168.7 1100.3,-159.8"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1653.1,-277.28 1663.32,-274.48 1653.59,-270.3 1653.1,-277.28"/>
 </g>
 <!-- Node545 -->
-<g id="node32" class="node">
+<g id="node33" class="node">
 <title>Node545</title>
-<g id="a_node32"><a xlink:href="Z2Audience_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2031,-24.5 1874,-24.5 1874,-5.5 2031,-5.5 2031,-24.5"/>
-<text text-anchor="middle" x="1952.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2Audience.cpp</text>
+<g id="a_node33"><a xlink:href="Z2Audience_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1957,-24.5 1800,-24.5 1800,-5.5 1957,-5.5 1957,-24.5"/>
+<text text-anchor="middle" x="1878.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2Audience.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node545 -->
-<g id="edge88" class="edge">
+<g id="edge90" class="edge">
 <title>Node2&#45;&gt;Node545</title>
-<path fill="none" stroke="#63b8ff" d="M1893.6,-260.19C1923.9,-250.7 1961.75,-238.79 1995.5,-228 2085.86,-199.1 2114.57,-206.23 2198.5,-162 2217.85,-151.8 2219.52,-144.45 2237.5,-132 2262.44,-114.73 2280.75,-122.51 2295.5,-96 2301.98,-84.35 2304.22,-76.09 2295.5,-66 2262.04,-27.31 2121.76,-17.96 2031.29,-16.04"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1892.75,-256.79 1884.25,-263.12 1894.84,-263.47 1892.75,-256.79"/>
+<path fill="none" stroke="#63b8ff" d="M1768.25,-257.82C1780.2,-249.99 1792.3,-239.99 1800.5,-228 1842.32,-166.88 1807.33,-132.71 1839.5,-66 1847.25,-49.94 1860.81,-34.18 1869.72,-24.78"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1766.76,-254.63 1760.07,-262.84 1770.42,-260.6 1766.76,-254.63"/>
 </g>
 <!-- Node547 -->
-<g id="node34" class="node">
+<g id="node35" class="node">
 <title>Node547</title>
-<g id="a_node34"><a xlink:href="JAISoundStarter_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1564,-228 1437,-228 1437,-198 1564,-198 1564,-228"/>
-<text text-anchor="start" x="1445" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1500.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundStarter.h</text>
+<g id="a_node35"><a xlink:href="JAISoundStarter_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1557,-228 1430,-228 1430,-198 1557,-198 1557,-228"/>
+<text text-anchor="start" x="1438" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1493.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundStarter.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node547 -->
-<g id="edge52" class="edge">
+<g id="edge53" class="edge">
 <title>Node2&#45;&gt;Node547</title>
-<path fill="none" stroke="#63b8ff" d="M1761.34,-263.68C1702.08,-252.4 1620.35,-236.83 1564.25,-226.14"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1760.54,-267.1 1771.02,-265.53 1761.85,-260.22 1760.54,-267.1"/>
+<path fill="none" stroke="#63b8ff" d="M1664.76,-260.64C1627.65,-250.53 1581.41,-237.94 1546.34,-228.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1663.44,-263.91 1674.01,-263.16 1665.28,-257.15 1663.44,-263.91"/>
 </g>
 <!-- Node550 -->
-<g id="node37" class="node">
+<g id="node38" class="node">
 <title>Node550</title>
-<g id="a_node37"><a xlink:href="JAIStream_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2511,-228 2384,-228 2384,-198 2511,-198 2511,-228"/>
-<text text-anchor="start" x="2392" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2447.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStream.h</text>
+<g id="a_node38"><a xlink:href="JAIStream_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="2014,-228 1887,-228 1887,-198 2014,-198 2014,-228"/>
+<text text-anchor="start" x="1895" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1950.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStream.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node550 -->
-<g id="edge59" class="edge">
+<g id="edge61" class="edge">
 <title>Node2&#45;&gt;Node550</title>
-<path fill="none" stroke="#63b8ff" d="M1911.68,-263.67C2112.79,-237.07 2167.56,-252.96 2366.5,-228 2372.16,-227.29 2378.04,-226.46 2383.91,-225.56"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1911.37,-260.18 1901.93,-264.98 1912.3,-267.11 1911.37,-260.18"/>
+<path fill="none" stroke="#63b8ff" d="M1789.62,-260.38C1824.52,-250.32 1867.73,-237.86 1900.58,-228.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1788.69,-257 1780.05,-263.14 1790.63,-263.73 1788.69,-257"/>
 </g>
 <!-- Node551 -->
-<g id="node38" class="node">
+<g id="node39" class="node">
 <title>Node551</title>
-<g id="a_node38"><a xlink:href="JAIStreamMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1900,-162 1773,-162 1773,-132 1900,-132 1900,-162"/>
-<text text-anchor="start" x="1781" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1836.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamMgr.h</text>
+<g id="a_node39"><a xlink:href="JAIStreamMgr_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="1754,-162 1627,-162 1627,-132 1754,-132 1754,-162"/>
+<text text-anchor="start" x="1635" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1690.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamMgr.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node551 -->
-<g id="edge73" class="edge">
+<g id="edge74" class="edge">
 <title>Node2&#45;&gt;Node551</title>
-<path fill="none" stroke="#63b8ff" d="M1836.5,-252.38C1836.5,-225.49 1836.5,-184.18 1836.5,-162.47"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1833,-252.08 1836.5,-262.08 1840,-252.08 1833,-252.08"/>
+<path fill="none" stroke="#63b8ff" d="M1684.6,-257.78C1673.04,-250.18 1661.99,-240.31 1655.5,-228 1643.76,-205.74 1661.97,-178.71 1676.21,-162.46"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1682.67,-260.7 1693.04,-262.86 1686.27,-254.7 1682.67,-260.7"/>
 </g>
 <!-- Node554 -->
 <g id="node41" class="node">
 <title>Node554</title>
 <g id="a_node41"><a xlink:href="JAIStreamDataMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2190,-162 2063,-162 2063,-132 2190,-132 2190,-162"/>
-<text text-anchor="start" x="2071" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2126.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamDataMgr.h</text>
+<polygon fill="white" stroke="#666666" points="2250,-162 2123,-162 2123,-132 2250,-132 2250,-162"/>
+<text text-anchor="start" x="2131" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2186.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamDataMgr.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node554 -->
-<g id="edge66" class="edge">
+<g id="edge67" class="edge">
 <title>Node2&#45;&gt;Node554</title>
-<path fill="none" stroke="#63b8ff" d="M1879.02,-258.94C1937.54,-232.7 2041.64,-186.04 2094.21,-162.47"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1877.72,-255.69 1870.02,-262.97 1880.58,-262.08 1877.72,-255.69"/>
+<path fill="none" stroke="#63b8ff" d="M1772.99,-259.03C1792.28,-250.3 1814.89,-239.36 1834.5,-228 1854.66,-216.32 1855.86,-206.65 1877.5,-198 1976.02,-158.62 2008.93,-180 2113.5,-162 2116.55,-161.47 2119.67,-160.92 2122.82,-160.36"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1771.74,-255.76 1764.04,-263.03 1774.6,-262.15 1771.74,-255.76"/>
 </g>
 <!-- Node559 -->
 <g id="node45" class="node">
 <title>Node559</title>
 <g id="a_node45"><a xlink:href="JAUSoundAnimator_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="1808,-228 1681,-228 1681,-198 1808,-198 1808,-228"/>
-<text text-anchor="start" x="1689" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1744.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSoundAnimator.h</text>
+<polygon fill="#fff0f0" stroke="red" points="1792,-228 1665,-228 1665,-198 1792,-198 1792,-228"/>
+<text text-anchor="start" x="1673" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1728.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSoundAnimator.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node559 -->
-<g id="edge75" class="edge">
+<g id="edge76" class="edge">
 <title>Node2&#45;&gt;Node559</title>
-<path fill="none" stroke="#63b8ff" d="M1806.67,-257.25C1793.11,-247.82 1777.41,-236.9 1765.18,-228.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1804.63,-260.09 1814.84,-262.93 1808.63,-254.35 1804.63,-260.09"/>
+<path fill="none" stroke="#63b8ff" d="M1728.5,-252.39C1728.5,-244.13 1728.5,-235.28 1728.5,-228.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1725,-252.28 1728.5,-262.28 1732,-252.28 1725,-252.28"/>
 </g>
 <!-- Node561 -->
 <g id="node46" class="node">
 <title>Node561</title>
 <g id="a_node46"><a xlink:href="JAUSoundInfo_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="2374,-162 2247,-162 2247,-132 2374,-132 2374,-162"/>
-<text text-anchor="start" x="2255" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2310.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSoundInfo.h</text>
+<polygon fill="#fff0f0" stroke="red" points="2395,-162 2268,-162 2268,-132 2395,-132 2395,-162"/>
+<text text-anchor="start" x="2276" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2331.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSoundInfo.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node561 -->
-<g id="edge77" class="edge">
+<g id="edge78" class="edge">
 <title>Node2&#45;&gt;Node561</title>
-<path fill="none" stroke="#63b8ff" d="M1911.77,-263.66C2054.35,-244.59 2105.62,-289.97 2232.5,-228 2263,-213.1 2288.25,-181.19 2301.18,-162.48"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1911.34,-260.19 1901.94,-265.07 1912.34,-267.12 1911.34,-260.19"/>
+<path fill="none" stroke="#63b8ff" d="M1803.7,-263.48C1900.86,-246.58 1928.21,-247.81 2022.5,-228 2114.69,-208.63 2220.7,-179.71 2281.53,-162.46"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1803.2,-260.01 1793.96,-265.19 1804.42,-266.9 1803.2,-260.01"/>
 </g>
 <!-- Node562 -->
 <g id="node47" class="node">
 <title>Node562</title>
 <g id="a_node47"><a xlink:href="JAUSoundTable_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="2877,-96 2750,-96 2750,-66 2877,-66 2877,-96"/>
-<text text-anchor="start" x="2758" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2813.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSoundTable.h</text>
+<polygon fill="#fff0f0" stroke="red" points="2824,-96 2697,-96 2697,-66 2824,-66 2824,-96"/>
+<text text-anchor="start" x="2705" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2760.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSoundTable.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node562 -->
-<g id="edge80" class="edge">
+<g id="edge81" class="edge">
 <title>Node2&#45;&gt;Node562</title>
-<path fill="none" stroke="#63b8ff" d="M1911.65,-264.01C2048.44,-253.87 2711.62,-273.97 2795.5,-228 2826.86,-210.82 2830.79,-196.11 2841.5,-162 2845.5,-149.28 2844.87,-144.9 2841.5,-132 2838.13,-119.1 2830.62,-106.01 2824.22,-96.45"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1911.55,-260.5 1901.92,-264.91 1912.2,-267.47 1911.55,-260.5"/>
+<path fill="none" stroke="#63b8ff" d="M1803.68,-264.01C1949.69,-253.24 2673.09,-277.91 2764.5,-228 2806.03,-205.33 2828.61,-175.71 2810.5,-132 2804.53,-117.6 2792.18,-105.18 2781.25,-96.32"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1803.56,-260.5 1793.92,-264.9 1804.2,-267.47 1803.56,-260.5"/>
 </g>
 <!-- Node564 -->
 <g id="node48" class="node">
 <title>Node564</title>
 <g id="a_node48"><a xlink:href="Z2SceneMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="757.5,-96 657.5,-96 657.5,-66 757.5,-66 757.5,-96"/>
-<text text-anchor="start" x="665.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
-<text text-anchor="middle" x="707.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SceneMgr.h</text>
+<polygon fill="#fff0f0" stroke="red" points="1404.5,-96 1304.5,-96 1304.5,-66 1404.5,-66 1404.5,-96"/>
+<text text-anchor="start" x="1312.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
+<text text-anchor="middle" x="1354.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SceneMgr.h</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node564 -->
-<g id="edge83" class="edge">
+<g id="edge84" class="edge">
 <title>Node2&#45;&gt;Node564</title>
-<path fill="none" stroke="#63b8ff" d="M1761.34,-273.49C1663.16,-266.92 1486.15,-252.71 1336.5,-228 1079.94,-185.64 1019.67,-155.35 766.5,-96 763.63,-95.33 760.68,-94.63 757.71,-93.93"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1760.9,-276.97 1771.11,-274.14 1761.36,-269.99 1760.9,-276.97"/>
+<path fill="none" stroke="#63b8ff" d="M1653.48,-272.16C1575.26,-264.96 1458.82,-250.81 1420.5,-228 1388.65,-209.04 1384.67,-195.82 1369.5,-162 1359.84,-140.47 1356.4,-112.98 1355.18,-96.48"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1652.94,-275.62 1663.22,-273.03 1653.57,-268.65 1652.94,-275.62"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="JAISe_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="3366,-162 3239,-162 3239,-132 3366,-132 3366,-162"/>
-<text text-anchor="start" x="3247" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="3302.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISe.h</text>
+<polygon fill="#fff0f0" stroke="red" points="3259,-162 3132,-162 3132,-132 3259,-132 3259,-162"/>
+<text text-anchor="start" x="3140" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="3195.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISe.h</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="#63b8ff" d="M2797.91,-206.8C2897.35,-199.44 3077.62,-184.34 3230.5,-162 3233.15,-161.61 3235.84,-161.2 3238.56,-160.76"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2797.72,-203.31 2788,-207.53 2798.23,-210.29 2797.72,-203.31"/>
+<path fill="none" stroke="#63b8ff" d="M2766.65,-205.07C2853.02,-196.69 2998.9,-181.3 3123.5,-162 3126.14,-161.59 3128.84,-161.15 3131.55,-160.7"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2766.51,-201.57 2756.89,-206.01 2767.18,-208.53 2766.51,-201.57"/>
 </g>
-<!-- Node512 -->
+<!-- Node513 -->
 <g id="node7" class="node">
-<title>Node512</title>
+<title>Node513</title>
 <g id="a_node7"><a xlink:href="JAISeq_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="3092,-162 2965,-162 2965,-132 3092,-132 3092,-162"/>
-<text text-anchor="start" x="2973" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="3028.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeq.h</text>
+<polygon fill="#fff0f0" stroke="red" points="2985,-162 2858,-162 2858,-132 2985,-132 2985,-162"/>
+<text text-anchor="start" x="2866" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2921.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeq.h</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node512 -->
+<!-- Node3&#45;&gt;Node513 -->
 <g id="edge6" class="edge">
-<title>Node3&#45;&gt;Node512</title>
-<path fill="none" stroke="#63b8ff" d="M2797.28,-196.36C2848.53,-185.64 2915.79,-171.57 2964.54,-161.38"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2796.83,-192.88 2787.76,-198.35 2798.26,-199.73 2796.83,-192.88"/>
+<title>Node3&#45;&gt;Node513</title>
+<path fill="none" stroke="#63b8ff" d="M2754.35,-194.51C2790.59,-184.43 2835.61,-171.9 2869.79,-162.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2753.56,-191.1 2744.86,-197.15 2755.43,-197.84 2753.56,-191.1"/>
 </g>
-<!-- Node514 -->
+<!-- Node515 -->
 <g id="node8" class="node">
-<title>Node514</title>
+<title>Node515</title>
 <g id="a_node8"><a xlink:href="JAISeqMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="2045,-162 1918,-162 1918,-132 2045,-132 2045,-162"/>
-<text text-anchor="start" x="1926" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1981.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeqMgr.h</text>
+<polygon fill="#fff0f0" stroke="red" points="2105,-162 1978,-162 1978,-132 2105,-132 2105,-162"/>
+<text text-anchor="start" x="1986" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2041.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeqMgr.h</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node514 -->
+<!-- Node3&#45;&gt;Node515 -->
 <g id="edge9" class="edge">
-<title>Node3&#45;&gt;Node514</title>
-<path fill="none" stroke="#63b8ff" d="M2647.47,-206.63C2478.89,-194.53 2082.52,-165.89 2053.5,-162 2050.85,-161.64 2048.15,-161.25 2045.43,-160.83"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2646.99,-210.1 2657.21,-207.33 2647.49,-203.12 2646.99,-210.1"/>
+<title>Node3&#45;&gt;Node515</title>
+<path fill="none" stroke="#63b8ff" d="M2616.18,-208.03C2505.59,-201.63 2292.93,-187.13 2113.5,-162 2110.85,-161.63 2108.15,-161.22 2105.43,-160.8"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2615.84,-211.52 2626.02,-208.6 2616.24,-204.53 2615.84,-211.52"/>
 </g>
-<!-- Node516 -->
-<g id="node14" class="node">
-<title>Node516</title>
-<g id="a_node14"><a xlink:href="JAUSectionHeap_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="2693,-96 2566,-96 2566,-66 2693,-66 2693,-96"/>
-<text text-anchor="start" x="2574" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2629.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSectionHeap.h</text>
+<!-- Node517 -->
+<g id="node15" class="node">
+<title>Node517</title>
+<g id="a_node15"><a xlink:href="JAUSectionHeap_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="2640,-96 2513,-96 2513,-66 2640,-66 2640,-96"/>
+<text text-anchor="start" x="2521" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2576.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSectionHeap.h</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node516 -->
-<g id="edge15" class="edge">
-<title>Node3&#45;&gt;Node516</title>
-<path fill="none" stroke="#63b8ff" d="M2705.7,-188.52C2686.54,-161.74 2655.8,-118.77 2639.85,-96.47"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2702.65,-190.26 2711.31,-196.36 2708.34,-186.19 2702.65,-190.26"/>
+<!-- Node3&#45;&gt;Node517 -->
+<g id="edge16" class="edge">
+<title>Node3&#45;&gt;Node517</title>
+<path fill="none" stroke="#63b8ff" d="M2673.78,-188.93C2661.04,-172.66 2643.23,-150.55 2626.5,-132 2615.32,-119.6 2601.91,-106.27 2591.79,-96.49"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2670.82,-190.82 2679.72,-196.57 2676.35,-186.52 2670.82,-190.82"/>
 </g>
-<!-- Node519 -->
-<g id="node16" class="node">
-<title>Node519</title>
-<g id="a_node16"><a xlink:href="JAUSeqCollection_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="2832,-162 2705,-162 2705,-132 2832,-132 2832,-162"/>
-<text text-anchor="start" x="2713" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2768.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSeqCollection.h</text>
+<!-- Node520 -->
+<g id="node17" class="node">
+<title>Node520</title>
+<g id="a_node17"><a xlink:href="JAUSeqCollection_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="2801,-162 2674,-162 2674,-132 2801,-132 2801,-162"/>
+<text text-anchor="start" x="2682" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2737.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSeqCollection.h</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node519 -->
-<g id="edge17" class="edge">
-<title>Node3&#45;&gt;Node519</title>
-<path fill="none" stroke="#63b8ff" d="M2739.26,-188.68C2745.65,-179.79 2752.73,-169.95 2758.32,-162.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2736.59,-186.4 2733.59,-196.57 2742.27,-190.49 2736.59,-186.4"/>
+<!-- Node3&#45;&gt;Node520 -->
+<g id="edge18" class="edge">
+<title>Node3&#45;&gt;Node520</title>
+<path fill="none" stroke="#63b8ff" d="M2708.26,-188.68C2714.65,-179.79 2721.73,-169.95 2727.32,-162.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2705.59,-186.4 2702.59,-196.57 2711.27,-190.49 2705.59,-186.4"/>
 </g>
-<!-- Node3&#45;&gt;Node521 -->
-<g id="edge19" class="edge">
-<title>Node3&#45;&gt;Node521</title>
-<path fill="none" stroke="#63b8ff" d="M2681.22,-192.86C2660.09,-183.05 2634.79,-171.32 2615.37,-162.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2679.61,-195.97 2690.16,-197 2682.56,-189.62 2679.61,-195.97"/>
+<!-- Node3&#45;&gt;Node522 -->
+<g id="edge20" class="edge">
+<title>Node3&#45;&gt;Node522</title>
+<path fill="none" stroke="#63b8ff" d="M2650.22,-192.86C2629.09,-183.05 2603.79,-171.32 2584.37,-162.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2648.61,-195.97 2659.16,-197 2651.56,-189.62 2648.61,-195.97"/>
 </g>
-<!-- Node523 -->
-<g id="node18" class="node">
-<title>Node523</title>
-<g id="a_node18"><a xlink:href="JAISeqDataMgr_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="3221,-162 3110,-162 3110,-132 3221,-132 3221,-162"/>
-<text text-anchor="start" x="3118" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="3165.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeqDataMgr.cpp</text>
+<!-- Node524 -->
+<g id="node19" class="node">
+<title>Node524</title>
+<g id="a_node19"><a xlink:href="JAISeqDataMgr_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="3114,-162 3003,-162 3003,-132 3114,-132 3114,-162"/>
+<text text-anchor="start" x="3011" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="3058.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeqDataMgr.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node523 -->
-<g id="edge21" class="edge">
-<title>Node3&#45;&gt;Node523</title>
-<path fill="none" stroke="#63b8ff" d="M2797.43,-204C2874.09,-195.37 2996.51,-180.38 3101.5,-162 3104.19,-161.53 3106.94,-161.02 3109.71,-160.49"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2797.51,-200.47 2787.96,-205.06 2798.29,-207.43 2797.51,-200.47"/>
-</g>
-<!-- Node510 -->
-<g id="node5" class="node">
-<title>Node510</title>
-<g id="a_node5"><a xlink:href="JAUInitializer_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="3045,-96 2934,-96 2934,-66 3045,-66 3045,-96"/>
-<text text-anchor="start" x="2942" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2989.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUInitializer.cpp</text>
-</a>
-</g>
-</g>
-<!-- Node4&#45;&gt;Node510 -->
-<g id="edge4" class="edge">
-<title>Node4&#45;&gt;Node510</title>
-<path fill="none" stroke="#63b8ff" d="M3227.84,-130.73C3171.75,-119.27 3096.15,-103.81 3045.27,-93.4"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3226.8,-134.09 3237.3,-132.67 3228.2,-127.24 3226.8,-134.09"/>
+<!-- Node3&#45;&gt;Node524 -->
+<g id="edge22" class="edge">
+<title>Node3&#45;&gt;Node524</title>
+<path fill="none" stroke="#63b8ff" d="M2766.36,-200.75C2827.8,-191.26 2916.99,-176.86 2994.5,-162 2997.18,-161.49 2999.92,-160.95 3002.69,-160.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2766.07,-197.26 2756.71,-202.24 2767.13,-204.18 2766.07,-197.26"/>
 </g>
 <!-- Node511 -->
-<g id="node6" class="node">
+<g id="node5" class="node">
 <title>Node511</title>
-<g id="a_node6"><a xlink:href="Z2SoundInfo_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2986,-24.5 2825,-24.5 2825,-5.5 2986,-5.5 2986,-24.5"/>
-<text text-anchor="middle" x="2905.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SoundInfo.cpp</text>
+<g id="a_node5"><a xlink:href="JAUInitializer_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="2953,-96 2842,-96 2842,-66 2953,-66 2953,-96"/>
+<text text-anchor="start" x="2850" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2897.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUInitializer.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node511 -->
-<g id="edge5" class="edge">
+<g id="edge4" class="edge">
 <title>Node4&#45;&gt;Node511</title>
-<path fill="none" stroke="#63b8ff" d="M3251.22,-127.69C3204.33,-111.1 3132.98,-86.23 3070.5,-66 3023.94,-50.92 2969.55,-34.71 2936.32,-24.96"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3249.98,-130.97 3260.58,-131.01 3252.32,-124.37 3249.98,-130.97"/>
+<path fill="none" stroke="#63b8ff" d="M3120.41,-129.87C3068.46,-118.72 3000.47,-104.11 2953.3,-93.98"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3119.58,-133.27 3130.09,-131.95 3121.05,-126.43 3119.58,-133.27"/>
 </g>
-<!-- Node512&#45;&gt;Node510 -->
+<!-- Node512 -->
+<g id="node6" class="node">
+<title>Node512</title>
+<g id="a_node6"><a xlink:href="Z2SoundInfo_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="2841,-24.5 2680,-24.5 2680,-5.5 2841,-5.5 2841,-24.5"/>
+<text text-anchor="middle" x="2760.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SoundInfo.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node4&#45;&gt;Node512 -->
+<g id="edge5" class="edge">
+<title>Node4&#45;&gt;Node512</title>
+<path fill="none" stroke="#63b8ff" d="M3150.12,-127.34C3106.6,-109.91 3038.81,-83.95 2978.5,-66 2920.26,-48.66 2851.75,-33.84 2807.3,-24.93"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3148.65,-130.52 3159.23,-131.01 3151.26,-124.03 3148.65,-130.52"/>
+</g>
+<!-- Node513&#45;&gt;Node511 -->
 <g id="edge7" class="edge">
-<title>Node512&#45;&gt;Node510</title>
-<path fill="none" stroke="#63b8ff" d="M3013.94,-122.11C3008.62,-113.38 3002.77,-103.78 2998.13,-96.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3010.86,-123.79 3019.06,-130.5 3016.84,-120.14 3010.86,-123.79"/>
+<title>Node513&#45;&gt;Node511</title>
+<path fill="none" stroke="#63b8ff" d="M2912.22,-121.25C2909.03,-112.75 2905.57,-103.53 2902.81,-96.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2908.85,-122.24 2915.64,-130.38 2915.41,-119.79 2908.85,-122.24"/>
 </g>
-<!-- Node512&#45;&gt;Node511 -->
+<!-- Node513&#45;&gt;Node512 -->
 <g id="edge8" class="edge">
-<title>Node512&#45;&gt;Node511</title>
-<path fill="none" stroke="#63b8ff" d="M3046.74,-122.29C3057.38,-105.38 3066.55,-82.75 3054.5,-66 3038.57,-43.85 3012.35,-31.37 2986.31,-24.4"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3044.06,-120.02 3041.31,-130.25 3049.84,-123.96 3044.06,-120.02"/>
+<title>Node513&#45;&gt;Node512</title>
+<path fill="none" stroke="#63b8ff" d="M2946.16,-123.59C2961.66,-106.77 2976.34,-83.69 2962.5,-66 2946.75,-45.87 2886.69,-32.72 2836.13,-24.98"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2943.7,-121.1 2939.18,-130.68 2948.69,-126.01 2943.7,-121.1"/>
 </g>
 <!-- Node6 -->
 <g id="node9" class="node">
@@ -490,634 +490,651 @@ var sectionId = 'dynsection-1';
 </a>
 </g>
 </g>
-<!-- Node514&#45;&gt;Node6 -->
+<!-- Node515&#45;&gt;Node6 -->
 <g id="edge10" class="edge">
-<title>Node514&#45;&gt;Node6</title>
-<path fill="none" stroke="#63b8ff" d="M1906.85,-131.86C1756.71,-110.25 1715.35,-120.94 1569.5,-96 1566.7,-95.52 1563.83,-94.99 1560.94,-94.42"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1905.95,-135.26 1916.35,-133.25 1906.97,-128.34 1905.95,-135.26"/>
+<title>Node515&#45;&gt;Node6</title>
+<path fill="none" stroke="#63b8ff" d="M1966.61,-131.85C1790.2,-107.9 1741.63,-124.04 1569.5,-96 1566.69,-95.54 1563.82,-95.03 1560.93,-94.47"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1965.98,-135.3 1976.36,-133.2 1966.94,-128.36 1965.98,-135.3"/>
 </g>
 <!-- Node7 -->
 <g id="node10" class="node">
 <title>Node7</title>
 <g id="a_node10"><a xlink:href="Z2AudioMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="1344.5,-30 1244.5,-30 1244.5,0 1344.5,0 1344.5,-30"/>
-<text text-anchor="start" x="1252.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
-<text text-anchor="middle" x="1294.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2AudioMgr.h</text>
+<polygon fill="#fff0f0" stroke="red" points="1407.5,-30 1307.5,-30 1307.5,0 1407.5,0 1407.5,-30"/>
+<text text-anchor="start" x="1315.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
+<text text-anchor="middle" x="1357.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2AudioMgr.h</text>
 </a>
 </g>
 </g>
 <!-- Node6&#45;&gt;Node7 -->
 <g id="edge11" class="edge">
 <title>Node6&#45;&gt;Node7</title>
-<path fill="none" stroke="#63b8ff" d="M1451.04,-62.38C1417.08,-52.32 1375.03,-39.86 1343.07,-30.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1449.72,-65.64 1460.3,-65.13 1451.71,-58.93 1449.72,-65.64"/>
+<path fill="none" stroke="#63b8ff" d="M1465.73,-61.27C1442.2,-51.43 1413.79,-39.55 1391.99,-30.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1464.19,-64.42 1474.77,-65.05 1466.89,-57.97 1464.19,-64.42"/>
 </g>
-<!-- Node502 -->
+<!-- Node184 -->
 <g id="node11" class="node">
-<title>Node502</title>
-<g id="a_node11"><a xlink:href="Z2SeMgr_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1226,-24.5 1081,-24.5 1081,-5.5 1226,-5.5 1226,-24.5"/>
-<text text-anchor="middle" x="1153.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SeMgr.cpp</text>
+<title>Node184</title>
+<g id="a_node11"><a xlink:href="Z2EnvSeMgr_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1591,-24.5 1430,-24.5 1430,-5.5 1591,-5.5 1591,-24.5"/>
+<text text-anchor="middle" x="1510.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2EnvSeMgr.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node6&#45;&gt;Node502 -->
+<!-- Node6&#45;&gt;Node184 -->
 <g id="edge12" class="edge">
-<title>Node6&#45;&gt;Node502</title>
-<path fill="none" stroke="#63b8ff" d="M1449.03,-66.5C1448.18,-66.33 1447.34,-66.16 1446.5,-66 1353.12,-47.83 1329.28,-46.01 1235.5,-30 1225.96,-28.37 1215.8,-26.64 1205.99,-24.96"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1448.26,-69.91 1458.75,-68.47 1449.65,-63.05 1448.26,-69.91"/>
+<title>Node6&#45;&gt;Node184</title>
+<path fill="none" stroke="#63b8ff" d="M1510.5,-54.59C1510.5,-44.06 1510.5,-32.53 1510.5,-24.84"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1507,-54.28 1510.5,-64.28 1514,-54.28 1507,-54.28"/>
 </g>
-<!-- Node505 -->
+<!-- Node503 -->
 <g id="node12" class="node">
-<title>Node505</title>
-<g id="a_node12"><a xlink:href="Z2SoundObject_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1754,-24.5 1581,-24.5 1581,-5.5 1754,-5.5 1754,-24.5"/>
-<text text-anchor="middle" x="1667.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SoundObject.cpp</text>
+<title>Node503</title>
+<g id="a_node12"><a xlink:href="Z2SeMgr_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1289,-24.5 1144,-24.5 1144,-5.5 1289,-5.5 1289,-24.5"/>
+<text text-anchor="middle" x="1216.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SeMgr.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node6&#45;&gt;Node505 -->
+<!-- Node6&#45;&gt;Node503 -->
 <g id="edge13" class="edge">
-<title>Node6&#45;&gt;Node505</title>
-<path fill="none" stroke="#63b8ff" d="M1556.18,-61.38C1585.55,-49.41 1622.4,-34.38 1645.46,-24.99"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1555.07,-58.05 1547.14,-65.07 1557.72,-64.53 1555.07,-58.05"/>
+<title>Node6&#45;&gt;Node503</title>
+<path fill="none" stroke="#63b8ff" d="M1449.02,-66.55C1448.17,-66.36 1447.33,-66.18 1446.5,-66 1380.42,-51.59 1303.66,-34.92 1257.64,-24.93"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1448.2,-69.95 1458.71,-68.67 1449.69,-63.11 1448.2,-69.95"/>
 </g>
 <!-- Node506 -->
 <g id="node13" class="node">
 <title>Node506</title>
-<g id="a_node13"><a xlink:href="Z2WolfHowlMgr_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="836.5,-30 696.5,-30 696.5,0 836.5,0 836.5,-30"/>
-<text text-anchor="start" x="704.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2WolfHowl</text>
-<text text-anchor="middle" x="766.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Mgr.cpp</text>
+<g id="a_node13"><a xlink:href="Z2SoundObject_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1782,-24.5 1609,-24.5 1609,-5.5 1782,-5.5 1782,-24.5"/>
+<text text-anchor="middle" x="1695.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SoundObject.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node6&#45;&gt;Node506 -->
 <g id="edge14" class="edge">
 <title>Node6&#45;&gt;Node506</title>
-<path fill="none" stroke="#63b8ff" d="M1448.87,-70.58C1436.83,-68.91 1424.28,-67.3 1412.5,-66 1203.69,-43.03 955.75,-26.96 836.9,-19.95"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1448.33,-74.03 1458.72,-71.97 1449.31,-67.1 1448.33,-74.03"/>
+<path fill="none" stroke="#63b8ff" d="M1562.51,-62.01C1597.41,-49.93 1641.88,-34.55 1669.53,-24.99"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1561.75,-58.57 1553.45,-65.14 1564.04,-65.18 1561.75,-58.57"/>
 </g>
-<!-- Node517 -->
-<g id="node15" class="node">
-<title>Node517</title>
-<g id="a_node15"><a xlink:href="JAUSectionHeap_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2640,-30 2527,-30 2527,0 2640,0 2640,-30"/>
-<text text-anchor="start" x="2535" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2583.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSectionHeap.cpp</text>
+<!-- Node507 -->
+<g id="node14" class="node">
+<title>Node507</title>
+<g id="a_node14"><a xlink:href="Z2WolfHowlMgr_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="949.5,-30 809.5,-30 809.5,0 949.5,0 949.5,-30"/>
+<text text-anchor="start" x="817.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2WolfHowl</text>
+<text text-anchor="middle" x="879.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Mgr.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node516&#45;&gt;Node517 -->
-<g id="edge16" class="edge">
-<title>Node516&#45;&gt;Node517</title>
-<path fill="none" stroke="#63b8ff" d="M2612.74,-56.68C2606.35,-47.79 2599.27,-37.95 2593.68,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2609.73,-58.49 2618.41,-64.57 2615.41,-54.4 2609.73,-58.49"/>
+<!-- Node6&#45;&gt;Node507 -->
+<g id="edge15" class="edge">
+<title>Node6&#45;&gt;Node507</title>
+<path fill="none" stroke="#63b8ff" d="M1449.09,-70.66C1437.29,-69 1425.02,-67.37 1413.5,-66 1247.53,-46.27 1051.77,-29.62 949.59,-21.44"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1448.33,-74.09 1458.72,-72.04 1449.32,-67.16 1448.33,-74.09"/>
 </g>
-<!-- Node519&#45;&gt;Node517 -->
-<g id="edge18" class="edge">
-<title>Node519&#45;&gt;Node517</title>
-<path fill="none" stroke="#63b8ff" d="M2753.55,-122.26C2741.53,-104.78 2723.27,-81.45 2702.5,-66 2681.55,-50.42 2655.02,-38.67 2632.33,-30.48"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2750.58,-124.13 2759.03,-130.52 2756.41,-120.26 2750.58,-124.13"/>
-</g>
-<!-- Node521&#45;&gt;Node516 -->
-<g id="edge20" class="edge">
-<title>Node521&#45;&gt;Node516</title>
-<path fill="none" stroke="#63b8ff" d="M2601.1,-122.39C2607.29,-113.59 2614.13,-103.86 2619.54,-96.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2598.25,-120.36 2595.36,-130.56 2603.97,-124.39 2598.25,-120.36"/>
-</g>
-<!-- Node525 -->
-<g id="node20" class="node">
-<title>Node525</title>
-<g id="a_node20"><a xlink:href="JStudio_2JStudio__JAudio2_2control_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="1156,-96 1023,-96 1023,-66 1156,-66 1156,-96"/>
-<text text-anchor="start" x="1031" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
-<text text-anchor="middle" x="1089.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio_JAudio2/control.h</text>
+<!-- Node518 -->
+<g id="node16" class="node">
+<title>Node518</title>
+<g id="a_node16"><a xlink:href="JAUSectionHeap_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="2568,-30 2455,-30 2455,0 2568,0 2568,-30"/>
+<text text-anchor="start" x="2463" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2511.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUSectionHeap.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node524&#45;&gt;Node525 -->
-<g id="edge23" class="edge">
-<title>Node524&#45;&gt;Node525</title>
-<path fill="none" stroke="#63b8ff" d="M782.68,-134.15C844.67,-124.27 934.86,-109.67 1013.5,-96 1016.54,-95.47 1019.65,-94.93 1022.79,-94.37"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="782.27,-130.67 772.94,-135.7 783.37,-137.58 782.27,-130.67"/>
+<!-- Node517&#45;&gt;Node518 -->
+<g id="edge17" class="edge">
+<title>Node517&#45;&gt;Node518</title>
+<path fill="none" stroke="#63b8ff" d="M2553.96,-57.81C2544.65,-48.64 2534.12,-38.28 2525.89,-30.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2551.41,-60.21 2561,-64.73 2556.33,-55.22 2551.41,-60.21"/>
 </g>
-<!-- Node529 -->
+<!-- Node520&#45;&gt;Node518 -->
+<g id="edge19" class="edge">
+<title>Node520&#45;&gt;Node518</title>
+<path fill="none" stroke="#63b8ff" d="M2714.91,-123.59C2693.79,-103 2663.49,-74.43 2649.5,-66 2623.86,-50.54 2592.69,-38.73 2566.46,-30.49"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2712.38,-126.01 2721.96,-130.51 2717.28,-121.01 2712.38,-126.01"/>
+</g>
+<!-- Node522&#45;&gt;Node517 -->
+<g id="edge21" class="edge">
+<title>Node522&#45;&gt;Node517</title>
+<path fill="none" stroke="#63b8ff" d="M2562.5,-120.97C2565.52,-112.55 2568.79,-103.45 2571.41,-96.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2559.2,-119.78 2559.12,-130.37 2565.79,-122.14 2559.2,-119.78"/>
+</g>
+<!-- Node526 -->
 <g id="node21" class="node">
-<title>Node529</title>
-<g id="a_node21"><a xlink:href="Z2SeMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="875.5,-96 775.5,-96 775.5,-66 875.5,-66 875.5,-96"/>
-<text text-anchor="start" x="783.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
-<text text-anchor="middle" x="825.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SeMgr.h</text>
+<title>Node526</title>
+<g id="a_node21"><a xlink:href="JStudio_2JStudio__JAudio2_2control_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="909,-96 776,-96 776,-66 909,-66 909,-96"/>
+<text text-anchor="start" x="784" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JStudio</text>
+<text text-anchor="middle" x="842.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JStudio_JAudio2/control.h</text>
 </a>
 </g>
 </g>
-<!-- Node524&#45;&gt;Node529 -->
+<!-- Node525&#45;&gt;Node526 -->
 <g id="edge24" class="edge">
-<title>Node524&#45;&gt;Node529</title>
-<path fill="none" stroke="#63b8ff" d="M744.04,-126.18C761.85,-116.52 782.88,-105.12 799.11,-96.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="742.43,-123.07 735.31,-130.92 745.77,-129.22 742.43,-123.07"/>
+<title>Node525&#45;&gt;Node526</title>
+<path fill="none" stroke="#63b8ff" d="M842.5,-120.39C842.5,-112.13 842.5,-103.28 842.5,-96.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="839,-120.28 842.5,-130.28 846,-120.28 839,-120.28"/>
+</g>
+<!-- Node530 -->
+<g id="node22" class="node">
+<title>Node530</title>
+<g id="a_node22"><a xlink:href="Z2SeMgr_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="757.5,-96 657.5,-96 657.5,-66 757.5,-66 757.5,-96"/>
+<text text-anchor="start" x="665.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
+<text text-anchor="middle" x="707.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SeMgr.h</text>
+</a>
+</g>
+</g>
+<!-- Node525&#45;&gt;Node530 -->
+<g id="edge25" class="edge">
+<title>Node525&#45;&gt;Node530</title>
+<path fill="none" stroke="#63b8ff" d="M801.84,-126.72C781.22,-116.95 756.61,-105.28 737.7,-96.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="800.3,-129.87 810.84,-130.99 803.3,-123.54 800.3,-129.87"/>
 </g>
 <!-- Node533 -->
-<g id="node22" class="node">
+<g id="node23" class="node">
 <title>Node533</title>
-<g id="a_node22"><a xlink:href="Z2SeqMgr_8h.html" target="_top" xlink:title=" ">
+<g id="a_node23"><a xlink:href="Z2SeqMgr_8h.html" target="_top" xlink:title=" ">
 <polygon fill="#fff0f0" stroke="red" points="639.5,-96 539.5,-96 539.5,-66 639.5,-66 639.5,-96"/>
 <text text-anchor="start" x="547.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
 <text text-anchor="middle" x="589.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SeqMgr.h</text>
 </a>
 </g>
 </g>
-<!-- Node524&#45;&gt;Node533 -->
-<g id="edge29" class="edge">
-<title>Node524&#45;&gt;Node533</title>
-<path fill="none" stroke="#63b8ff" d="M670.96,-126.18C653.15,-116.52 632.12,-105.12 615.89,-96.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="669.23,-129.22 679.69,-130.92 672.57,-123.07 669.23,-129.22"/>
+<!-- Node525&#45;&gt;Node533 -->
+<g id="edge30" class="edge">
+<title>Node525&#45;&gt;Node533</title>
+<path fill="none" stroke="#63b8ff" d="M774.34,-128.76C732,-118.05 678.5,-104.51 639.96,-94.76"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="773.39,-132.13 783.94,-131.19 775.1,-125.34 773.39,-132.13"/>
 </g>
 <!-- Node535 -->
-<g id="node23" class="node">
+<g id="node24" class="node">
 <title>Node535</title>
-<g id="a_node23"><a xlink:href="Z2SoundHandles_8h.html" target="_top" xlink:title=" ">
+<g id="a_node24"><a xlink:href="Z2SoundHandles_8h.html" target="_top" xlink:title=" ">
 <polygon fill="#fff0f0" stroke="red" points="231.5,-96 129.5,-96 129.5,-66 231.5,-66 231.5,-96"/>
 <text text-anchor="start" x="137.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
 <text text-anchor="middle" x="180.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SoundHandles.h</text>
 </a>
 </g>
 </g>
-<!-- Node524&#45;&gt;Node535 -->
-<g id="edge33" class="edge">
-<title>Node524&#45;&gt;Node535</title>
-<path fill="none" stroke="#63b8ff" d="M632.5,-140.82C539.92,-133.77 377.87,-119.29 240.5,-96 237.65,-95.52 234.74,-94.98 231.8,-94.41"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="631.97,-144.29 642.2,-141.55 632.49,-137.31 631.97,-144.29"/>
+<!-- Node525&#45;&gt;Node535 -->
+<g id="edge34" class="edge">
+<title>Node525&#45;&gt;Node535</title>
+<path fill="none" stroke="#63b8ff" d="M767.57,-132.39C766.54,-132.26 765.52,-132.13 764.5,-132 532.83,-103.34 471.35,-130.63 240.5,-96 237.64,-95.57 234.72,-95.08 231.78,-94.54"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="766.84,-135.82 777.24,-133.76 767.83,-128.89 766.84,-135.82"/>
 </g>
 <!-- Node539 -->
-<g id="node25" class="node">
+<g id="node26" class="node">
 <title>Node539</title>
-<g id="a_node25"><a xlink:href="Z2SpeechMgr2_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="1274.5,-96 1174.5,-96 1174.5,-66 1274.5,-66 1274.5,-96"/>
-<text text-anchor="start" x="1182.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
-<text text-anchor="middle" x="1224.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SpeechMgr2.h</text>
+<g id="a_node26"><a xlink:href="Z2SpeechMgr2_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="1156.5,-96 1056.5,-96 1056.5,-66 1156.5,-66 1156.5,-96"/>
+<text text-anchor="start" x="1064.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
+<text text-anchor="middle" x="1106.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SpeechMgr2.h</text>
 </a>
 </g>
 </g>
-<!-- Node524&#45;&gt;Node539 -->
-<g id="edge35" class="edge">
-<title>Node524&#45;&gt;Node539</title>
-<path fill="none" stroke="#63b8ff" d="M782.71,-140.56C873.59,-133.35 1030.96,-118.8 1164.5,-96 1167.66,-95.46 1170.91,-94.85 1174.17,-94.21"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="782.62,-137.06 772.93,-141.33 783.17,-144.04 782.62,-137.06"/>
+<!-- Node525&#45;&gt;Node539 -->
+<g id="edge36" class="edge">
+<title>Node525&#45;&gt;Node539</title>
+<path fill="none" stroke="#63b8ff" d="M913.25,-128.85C958.29,-117.93 1015.55,-104.05 1056.02,-94.24"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="912.44,-125.44 903.55,-131.2 914.09,-132.25 912.44,-125.44"/>
 </g>
 <!-- Node540 -->
-<g id="node26" class="node">
+<g id="node27" class="node">
 <title>Node540</title>
-<g id="a_node26"><a xlink:href="Z2WolfHowlMgr_8h.html" target="_top" xlink:title=" ">
+<g id="a_node27"><a xlink:href="Z2WolfHowlMgr_8h.html" target="_top" xlink:title=" ">
 <polygon fill="#fff0f0" stroke="red" points="349.5,-96 249.5,-96 249.5,-66 349.5,-66 349.5,-96"/>
 <text text-anchor="start" x="257.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
 <text text-anchor="middle" x="299.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2WolfHowlMgr.h</text>
 </a>
 </g>
 </g>
-<!-- Node524&#45;&gt;Node540 -->
-<g id="edge38" class="edge">
-<title>Node524&#45;&gt;Node540</title>
-<path fill="none" stroke="#63b8ff" d="M632.49,-137.25C561.59,-128.51 452.4,-113.83 358.5,-96 355.71,-95.47 352.85,-94.9 349.97,-94.29"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="631.67,-140.68 642.03,-138.42 632.53,-133.73 631.67,-140.68"/>
+<!-- Node525&#45;&gt;Node540 -->
+<g id="edge39" class="edge">
+<title>Node525&#45;&gt;Node540</title>
+<path fill="none" stroke="#63b8ff" d="M767.56,-132.42C766.54,-132.28 765.51,-132.14 764.5,-132 584.95,-107.97 537.32,-124.99 358.5,-96 355.69,-95.55 352.82,-95.03 349.93,-94.47"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="766.82,-135.85 777.22,-133.85 767.85,-128.92 766.82,-135.85"/>
 </g>
-<!-- Node508 -->
-<g id="node27" class="node">
-<title>Node508</title>
-<g id="a_node27"><a xlink:href="JAISeMgr_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1005,-96 894,-96 894,-66 1005,-66 1005,-96"/>
-<text text-anchor="start" x="902" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="949.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeMgr.cpp</text>
+<!-- Node509 -->
+<g id="node28" class="node">
+<title>Node509</title>
+<g id="a_node28"><a xlink:href="JAISeMgr_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1038,-96 927,-96 927,-66 1038,-66 1038,-96"/>
+<text text-anchor="start" x="935" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="982.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISeMgr.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node524&#45;&gt;Node508 -->
-<g id="edge40" class="edge">
-<title>Node524&#45;&gt;Node508</title>
-<path fill="none" stroke="#63b8ff" d="M773.13,-128.64C811.35,-118.53 858.97,-105.94 895.09,-96.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="772.35,-125.23 763.57,-131.17 774.14,-132 772.35,-125.23"/>
-</g>
-<!-- Node524&#45;&gt;Node541 -->
+<!-- Node525&#45;&gt;Node509 -->
 <g id="edge41" class="edge">
-<title>Node524&#45;&gt;Node541</title>
-<path fill="none" stroke="#63b8ff" d="M632.29,-142.66C520.27,-136.99 303.19,-123.34 120.5,-96 117.53,-95.56 114.5,-95.06 111.44,-94.52"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="632.11,-146.15 642.27,-143.16 632.46,-139.16 632.11,-146.15"/>
+<title>Node525&#45;&gt;Node509</title>
+<path fill="none" stroke="#63b8ff" d="M884.38,-126.86C905.82,-117.05 931.48,-105.32 951.19,-96.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="882.93,-123.67 875.3,-131.01 885.85,-130.03 882.93,-123.67"/>
+</g>
+<!-- Node525&#45;&gt;Node541 -->
+<g id="edge42" class="edge">
+<title>Node525&#45;&gt;Node541</title>
+<path fill="none" stroke="#63b8ff" d="M767.57,-132.37C766.54,-132.24 765.52,-132.12 764.5,-132 479.78,-98.62 404.6,-134.3 120.5,-96 117.53,-95.6 114.48,-95.14 111.42,-94.63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="766.86,-135.81 777.24,-133.7 767.81,-128.87 766.86,-135.81"/>
 </g>
 <!-- Node542 -->
-<g id="node29" class="node">
+<g id="node30" class="node">
 <title>Node542</title>
-<g id="a_node29"><a xlink:href="JAISoundHandles_8cpp.html" target="_top" xlink:title=" ">
+<g id="a_node30"><a xlink:href="JAISoundHandles_8cpp.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="483.5,-96 367.5,-96 367.5,-66 483.5,-66 483.5,-96"/>
 <text text-anchor="start" x="375.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
 <text text-anchor="middle" x="425.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundHandles.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node524&#45;&gt;Node542 -->
-<g id="edge42" class="edge">
-<title>Node524&#45;&gt;Node542</title>
-<path fill="none" stroke="#63b8ff" d="M632.88,-129.07C586.16,-118.46 526.84,-105 483.63,-95.19"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="631.86,-132.42 642.39,-131.22 633.41,-125.6 631.86,-132.42"/>
+<!-- Node525&#45;&gt;Node542 -->
+<g id="edge43" class="edge">
+<title>Node525&#45;&gt;Node542</title>
+<path fill="none" stroke="#63b8ff" d="M767.55,-132.48C766.53,-132.32 765.51,-132.16 764.5,-132 646.21,-113.42 615.65,-115.44 497.5,-96 493.1,-95.28 488.56,-94.49 484,-93.67"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="766.76,-135.9 777.19,-134.07 767.89,-128.99 766.76,-135.9"/>
 </g>
-<!-- Node529&#45;&gt;Node7 -->
-<g id="edge25" class="edge">
-<title>Node529&#45;&gt;Node7</title>
-<path fill="none" stroke="#63b8ff" d="M887.19,-65.7C1040.69,-40.62 1083.88,-55.21 1234.5,-30 1237.66,-29.47 1240.91,-28.87 1244.18,-28.23"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="886.72,-62.23 877.43,-67.32 887.87,-69.13 886.72,-62.23"/>
-</g>
-<!-- Node529&#45;&gt;Node502 -->
+<!-- Node530&#45;&gt;Node7 -->
 <g id="edge26" class="edge">
-<title>Node529&#45;&gt;Node502</title>
-<path fill="none" stroke="#63b8ff" d="M887.26,-65.47C967.21,-48.75 1049.14,-34.01 1101.03,-24.97"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="886.54,-62.05 877.47,-67.53 887.98,-68.9 886.54,-62.05"/>
+<title>Node530&#45;&gt;Node7</title>
+<path fill="none" stroke="#63b8ff" d="M769.16,-65.78C1002.39,-31.63 1067.22,-64.44 1297.5,-30 1300.67,-29.53 1303.93,-28.97 1307.2,-28.36"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="768.79,-62.29 759.42,-67.23 769.83,-69.22 768.79,-62.29"/>
 </g>
-<!-- Node529&#45;&gt;Node505 -->
+<!-- Node530&#45;&gt;Node503 -->
 <g id="edge27" class="edge">
-<title>Node529&#45;&gt;Node505</title>
-<path fill="none" stroke="#63b8ff" d="M887.11,-65.83C1036.24,-45.3 1410.3,-27.22 1580.72,-19.69"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="886.82,-62.34 877.42,-67.23 887.82,-69.27 886.82,-62.34"/>
+<title>Node530&#45;&gt;Node503</title>
+<path fill="none" stroke="#63b8ff" d="M769.1,-65.68C906.72,-42.32 1056.67,-28.33 1143.63,-21.34"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="768.7,-62.2 759.44,-67.34 769.89,-69.1 768.7,-62.2"/>
 </g>
-<!-- Node529&#45;&gt;Node506 -->
+<!-- Node530&#45;&gt;Node506 -->
 <g id="edge28" class="edge">
-<title>Node529&#45;&gt;Node506</title>
-<path fill="none" stroke="#63b8ff" d="M804.78,-57.53C796.39,-48.43 786.96,-38.19 779.56,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="802.03,-59.7 811.38,-64.68 807.18,-54.96 802.03,-59.7"/>
+<title>Node530&#45;&gt;Node506</title>
+<path fill="none" stroke="#63b8ff" d="M769.11,-65.83C1135.51,-15.98 1234.26,-64.43 1599.5,-30 1612.83,-28.74 1627.14,-26.92 1640.53,-25"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="768.84,-62.33 759.41,-67.17 769.79,-69.27 768.84,-62.33"/>
+</g>
+<!-- Node530&#45;&gt;Node507 -->
+<g id="edge29" class="edge">
+<title>Node530&#45;&gt;Node507</title>
+<path fill="none" stroke="#63b8ff" d="M756.76,-61.67C783.42,-51.75 815.89,-39.67 840.73,-30.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="755.67,-58.34 747.52,-65.11 758.11,-64.9 755.67,-58.34"/>
 </g>
 <!-- Node533&#45;&gt;Node7 -->
-<g id="edge30" class="edge">
-<title>Node533&#45;&gt;Node7</title>
-<path fill="none" stroke="#63b8ff" d="M651.13,-65.8C908.63,-28.86 979.97,-67.24 1234.5,-30 1237.68,-29.54 1240.93,-28.99 1244.2,-28.38"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="650.81,-62.31 641.42,-67.22 651.82,-69.23 650.81,-62.31"/>
-</g>
-<!-- Node533&#45;&gt;Node502 -->
 <g id="edge31" class="edge">
-<title>Node533&#45;&gt;Node502</title>
-<path fill="none" stroke="#63b8ff" d="M650.84,-65.75C809.31,-39.81 984.47,-26.27 1080.76,-20.12"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="650.73,-62.22 641.43,-67.31 651.87,-69.13 650.73,-62.22"/>
+<title>Node533&#45;&gt;Node7</title>
+<path fill="none" stroke="#63b8ff" d="M651.03,-65.82C936.38,-25.65 1015.16,-70.46 1297.5,-30 1300.68,-29.54 1303.93,-29 1307.21,-28.4"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="650.82,-62.32 641.42,-67.2 651.81,-69.25 650.82,-62.32"/>
 </g>
-<!-- Node533&#45;&gt;Node506 -->
+<!-- Node533&#45;&gt;Node503 -->
 <g id="edge32" class="edge">
-<title>Node533&#45;&gt;Node506</title>
-<path fill="none" stroke="#63b8ff" d="M639.82,-61.8C667.33,-51.86 700.92,-39.71 726.6,-30.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="638.86,-58.43 630.65,-65.12 641.24,-65.01 638.86,-58.43"/>
+<title>Node533&#45;&gt;Node503</title>
+<path fill="none" stroke="#63b8ff" d="M651.09,-65.74C833.51,-36.9 1037.67,-24.17 1143.91,-19.01"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="650.75,-62.25 641.43,-67.28 651.86,-69.16 650.75,-62.25"/>
+</g>
+<!-- Node533&#45;&gt;Node507 -->
+<g id="edge33" class="edge">
+<title>Node533&#45;&gt;Node507</title>
+<path fill="none" stroke="#63b8ff" d="M650.81,-65.5C710.22,-52.08 767.64,-39.69 810.94,-30.47"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="650.15,-62.06 641.17,-67.68 651.7,-68.89 650.15,-62.06"/>
 </g>
 <!-- Node538 -->
-<g id="node24" class="node">
+<g id="node25" class="node">
 <title>Node538</title>
-<g id="a_node24"><a xlink:href="Z2SoundHandles_8cpp.html" target="_top" xlink:title=" ">
+<g id="a_node25"><a xlink:href="Z2SoundHandles_8cpp.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="436.5,-24.5 256.5,-24.5 256.5,-5.5 436.5,-5.5 436.5,-24.5"/>
 <text text-anchor="middle" x="346.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SoundHandles.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node535&#45;&gt;Node538 -->
-<g id="edge34" class="edge">
+<g id="edge35" class="edge">
 <title>Node535&#45;&gt;Node538</title>
 <path fill="none" stroke="#63b8ff" d="M228.39,-61.54C259.51,-49.54 298.71,-34.43 323.19,-24.99"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="227.24,-58.23 219.17,-65.09 229.76,-64.76 227.24,-58.23"/>
 </g>
 <!-- Node539&#45;&gt;Node7 -->
-<g id="edge36" class="edge">
-<title>Node539&#45;&gt;Node7</title>
-<path fill="none" stroke="#63b8ff" d="M1248.47,-58.09C1258.57,-48.85 1270.04,-38.36 1279.01,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1246.17,-55.44 1241.15,-64.78 1250.89,-60.61 1246.17,-55.44"/>
-</g>
-<!-- Node539&#45;&gt;Node502 -->
 <g id="edge37" class="edge">
-<title>Node539&#45;&gt;Node502</title>
-<path fill="none" stroke="#63b8ff" d="M1200.4,-58.27C1187.71,-46.84 1172.85,-33.44 1163.31,-24.84"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1197.85,-60.69 1207.62,-64.78 1202.53,-55.49 1197.85,-60.69"/>
+<title>Node539&#45;&gt;Node7</title>
+<path fill="none" stroke="#63b8ff" d="M1168.1,-64.29C1210.83,-53.4 1267.03,-39.07 1307.09,-28.85"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1167.28,-60.89 1158.46,-66.75 1169.01,-67.67 1167.28,-60.89"/>
 </g>
-<!-- Node540&#45;&gt;Node506 -->
-<g id="edge39" class="edge">
-<title>Node540&#45;&gt;Node506</title>
-<path fill="none" stroke="#63b8ff" d="M361.07,-65.66C484.21,-44.03 616.91,-29.78 696.12,-22.23"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="360.68,-62.18 351.44,-67.37 361.9,-69.07 360.68,-62.18"/>
+<!-- Node539&#45;&gt;Node503 -->
+<g id="edge38" class="edge">
+<title>Node539&#45;&gt;Node503</title>
+<path fill="none" stroke="#63b8ff" d="M1140.96,-59.95C1161.11,-48.23 1185.54,-34.01 1201.06,-24.99"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1139.38,-56.82 1132.49,-64.88 1142.9,-62.87 1139.38,-56.82"/>
+</g>
+<!-- Node540&#45;&gt;Node507 -->
+<g id="edge40" class="edge">
+<title>Node540&#45;&gt;Node507</title>
+<path fill="none" stroke="#63b8ff" d="M360.83,-65.76C526.64,-38.88 710.84,-25.5 809.16,-19.68"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="360.73,-62.23 351.43,-67.31 361.87,-69.14 360.73,-62.23"/>
 </g>
 <!-- Node543&#45;&gt;Node538 -->
-<g id="edge51" class="edge">
+<g id="edge52" class="edge">
 <title>Node543&#45;&gt;Node538</title>
-<path fill="none" stroke="#63b8ff" d="M1156.27,-143.14C987.24,-136.34 587.67,-118.16 530.5,-96 510.44,-88.22 511.39,-76.3 492.5,-66 457.57,-46.96 414.03,-33.18 383.63,-24.97"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1155.9,-146.62 1166.03,-143.53 1156.18,-139.63 1155.9,-146.62"/>
+<path fill="none" stroke="#63b8ff" d="M961.44,-137.14C945.92,-135.38 929.69,-133.58 914.5,-132 744.01,-114.23 689.63,-159.72 530.5,-96 510.52,-88 511.39,-76.3 492.5,-66 457.57,-46.96 414.03,-33.18 383.63,-24.97"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="960.74,-140.58 971.07,-138.24 961.54,-133.63 960.74,-140.58"/>
 </g>
-<!-- Node543&#45;&gt;Node508 -->
-<g id="edge49" class="edge">
-<title>Node543&#45;&gt;Node508</title>
-<path fill="none" stroke="#63b8ff" d="M1156.69,-129.02C1109.15,-118.23 1048.62,-104.49 1005.28,-94.66"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1155.86,-132.42 1166.39,-131.22 1157.41,-125.6 1155.86,-132.42"/>
+<!-- Node543&#45;&gt;Node509 -->
+<g id="edge50" class="edge">
+<title>Node543&#45;&gt;Node509</title>
+<path fill="none" stroke="#63b8ff" d="M1017.3,-123.24C1009.68,-114.21 1001.16,-104.11 994.45,-96.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1014.42,-125.25 1023.54,-130.64 1019.77,-120.74 1014.42,-125.25"/>
 </g>
 <!-- Node544 -->
-<g id="node31" class="node">
+<g id="node32" class="node">
 <title>Node544</title>
-<g id="a_node31"><a xlink:href="Z2SoundInfo_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="2002.5,-96 1902.5,-96 1902.5,-66 2002.5,-66 2002.5,-96"/>
-<text text-anchor="start" x="1910.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
-<text text-anchor="middle" x="1952.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SoundInfo.h</text>
+<g id="a_node32"><a xlink:href="Z2SoundInfo_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="2094.5,-96 1994.5,-96 1994.5,-66 2094.5,-66 2094.5,-96"/>
+<text text-anchor="start" x="2002.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
+<text text-anchor="middle" x="2044.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SoundInfo.h</text>
 </a>
 </g>
 </g>
 <!-- Node543&#45;&gt;Node544 -->
-<g id="edge44" class="edge">
+<g id="edge45" class="edge">
 <title>Node543&#45;&gt;Node544</title>
-<path fill="none" stroke="#63b8ff" d="M1306.74,-135.89C1318.69,-134.46 1330.92,-133.11 1342.5,-132 1586.35,-108.66 1650.19,-131.95 1892.5,-96 1895.67,-95.53 1898.93,-94.98 1902.2,-94.37"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1306.41,-132.4 1296.91,-137.09 1307.26,-139.35 1306.41,-132.4"/>
+<path fill="none" stroke="#63b8ff" d="M1111.86,-142.79C1321.07,-133.78 1899.22,-108.1 1984.5,-96 1987.68,-95.55 1990.93,-95.01 1994.21,-94.41"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1111.75,-139.29 1101.91,-143.22 1112.05,-146.29 1111.75,-139.29"/>
 </g>
 <!-- Node546 -->
-<g id="node33" class="node">
+<g id="node34" class="node">
 <title>Node546</title>
-<g id="a_node33"><a xlink:href="JAISoundInfo_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1404,-96 1293,-96 1293,-66 1404,-66 1404,-96"/>
-<text text-anchor="start" x="1301" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1348.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundInfo.cpp</text>
+<g id="a_node34"><a xlink:href="JAISoundInfo_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1286,-96 1175,-96 1175,-66 1286,-66 1286,-96"/>
+<text text-anchor="start" x="1183" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1230.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundInfo.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node543&#45;&gt;Node546 -->
-<g id="edge50" class="edge">
+<g id="edge51" class="edge">
 <title>Node543&#45;&gt;Node546</title>
-<path fill="none" stroke="#63b8ff" d="M1267.73,-126.18C1285.39,-116.52 1306.24,-105.12 1322.33,-96.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1266.18,-123.04 1259.08,-130.91 1269.54,-129.18 1266.18,-123.04"/>
+<path fill="none" stroke="#63b8ff" d="M1090.86,-128.07C1121.15,-118.07 1158.38,-105.79 1186.77,-96.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1089.87,-124.71 1081.47,-131.16 1092.07,-131.35 1089.87,-124.71"/>
 </g>
-<!-- Node544&#45;&gt;Node511 -->
-<g id="edge47" class="edge">
-<title>Node544&#45;&gt;Node511</title>
-<path fill="none" stroke="#63b8ff" d="M2014.38,-66.43C2099.82,-60.24 2621.74,-31.55 2824.84,-20.42"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2014.09,-62.94 2004.43,-67.29 2014.69,-69.92 2014.09,-62.94"/>
+<!-- Node544&#45;&gt;Node512 -->
+<g id="edge48" class="edge">
+<title>Node544&#45;&gt;Node512</title>
+<path fill="none" stroke="#63b8ff" d="M2106.24,-65.73C2314.23,-33.94 2370.54,-45.78 2577.5,-30 2611.02,-27.44 2647.99,-24.62 2679.88,-22.18"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2105.77,-62.27 2096.42,-67.25 2106.84,-69.18 2105.77,-62.27"/>
 </g>
 <!-- Node544&#45;&gt;Node7 -->
-<g id="edge45" class="edge">
+<g id="edge46" class="edge">
 <title>Node544&#45;&gt;Node7</title>
-<path fill="none" stroke="#63b8ff" d="M1891.03,-65.96C1682.55,-33.82 1446.22,-21.75 1344.8,-17.73"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1890.27,-69.38 1900.69,-67.47 1891.36,-62.46 1890.27,-69.38"/>
+<path fill="none" stroke="#63b8ff" d="M1982.98,-65.99C1734.02,-30.38 1665.53,-64.83 1420.5,-30 1416.4,-29.42 1412.16,-28.71 1407.92,-27.93"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1982.3,-69.43 1992.7,-67.41 1983.31,-62.5 1982.3,-69.43"/>
 </g>
-<!-- Node544&#45;&gt;Node505 -->
-<g id="edge48" class="edge">
-<title>Node544&#45;&gt;Node505</title>
-<path fill="none" stroke="#63b8ff" d="M1891.28,-65.74C1821.1,-49.79 1751.51,-34.42 1708.59,-24.99"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1890.09,-69.06 1900.62,-67.86 1891.64,-62.23 1890.09,-69.06"/>
+<!-- Node544&#45;&gt;Node506 -->
+<g id="edge49" class="edge">
+<title>Node544&#45;&gt;Node506</title>
+<path fill="none" stroke="#63b8ff" d="M1983.11,-65.8C1897.09,-48.53 1809.33,-33.93 1753.26,-24.98"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1982.15,-69.17 1992.65,-67.72 1983.54,-62.31 1982.15,-69.17"/>
 </g>
 <!-- Node544&#45;&gt;Node545 -->
-<g id="edge46" class="edge">
+<g id="edge47" class="edge">
 <title>Node544&#45;&gt;Node545</title>
-<path fill="none" stroke="#63b8ff" d="M1952.5,-54.59C1952.5,-44.06 1952.5,-32.53 1952.5,-24.84"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1949,-54.28 1952.5,-64.28 1956,-54.28 1949,-54.28"/>
+<path fill="none" stroke="#63b8ff" d="M1996.61,-61.54C1965.49,-49.54 1926.29,-34.43 1901.81,-24.99"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1995.24,-64.76 2005.83,-65.09 1997.76,-58.23 1995.24,-64.76"/>
 </g>
-<!-- Node547&#45;&gt;Node525 -->
-<g id="edge53" class="edge">
-<title>Node547&#45;&gt;Node525</title>
-<path fill="none" stroke="#63b8ff" d="M1426.67,-194.42C1399.38,-186.45 1368.73,-175.69 1342.5,-162 1323.11,-151.88 1323.26,-141.37 1303.5,-132 1277.73,-119.79 1209.08,-104.78 1156.41,-94.42"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1425.7,-197.79 1436.28,-197.15 1427.61,-191.05 1425.7,-197.79"/>
+<!-- Node547&#45;&gt;Node526 -->
+<g id="edge54" class="edge">
+<title>Node547&#45;&gt;Node526</title>
+<path fill="none" stroke="#63b8ff" d="M1418.74,-206.97C1282.83,-197.53 1005.36,-176.77 963.5,-162 952.55,-158.14 894.53,-118.29 862.98,-96.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1418.13,-210.44 1428.35,-207.63 1418.62,-203.45 1418.13,-210.44"/>
 </g>
 <!-- Node548 -->
-<g id="node35" class="node">
+<g id="node36" class="node">
 <title>Node548</title>
-<g id="a_node35"><a xlink:href="Z2SoundStarter_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="1581.5,-162 1481.5,-162 1481.5,-132 1581.5,-132 1581.5,-162"/>
-<text text-anchor="start" x="1489.5" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
-<text text-anchor="middle" x="1531.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SoundStarter.h</text>
+<g id="a_node36"><a xlink:href="Z2SoundStarter_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="1608.5,-162 1508.5,-162 1508.5,-132 1608.5,-132 1608.5,-162"/>
+<text text-anchor="start" x="1516.5" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">include/Z2AudioLib</text>
+<text text-anchor="middle" x="1558.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/Z2SoundStarter.h</text>
 </a>
 </g>
 </g>
 <!-- Node547&#45;&gt;Node548 -->
-<g id="edge54" class="edge">
+<g id="edge55" class="edge">
 <title>Node547&#45;&gt;Node548</title>
-<path fill="none" stroke="#63b8ff" d="M1512.35,-187.54C1516.5,-178.96 1521.03,-169.61 1524.64,-162.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1509.25,-185.91 1508.04,-196.43 1515.55,-188.96 1509.25,-185.91"/>
+<path fill="none" stroke="#63b8ff" d="M1516.04,-189.81C1525.35,-180.64 1535.88,-170.28 1544.11,-162.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1513.67,-187.22 1509,-196.73 1518.59,-192.21 1513.67,-187.22"/>
 </g>
 <!-- Node549 -->
-<g id="node36" class="node">
+<g id="node37" class="node">
 <title>Node549</title>
-<g id="a_node36"><a xlink:href="JAISoundStarter_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1463,-162 1352,-162 1352,-132 1463,-132 1463,-162"/>
-<text text-anchor="start" x="1360" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1407.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundStarter.cpp</text>
+<g id="a_node37"><a xlink:href="JAISoundStarter_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1490,-162 1379,-162 1379,-132 1490,-132 1490,-162"/>
+<text text-anchor="start" x="1387" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1434.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAISoundStarter.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node547&#45;&gt;Node549 -->
-<g id="edge58" class="edge">
+<g id="edge60" class="edge">
 <title>Node547&#45;&gt;Node549</title>
-<path fill="none" stroke="#63b8ff" d="M1470.75,-191.52C1456.95,-182.03 1440.89,-170.98 1428.4,-162.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1468.39,-194.15 1478.61,-196.94 1472.36,-188.39 1468.39,-194.15"/>
+<path fill="none" stroke="#63b8ff" d="M1472.78,-189.53C1464.39,-180.43 1454.96,-170.19 1447.56,-162.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1470.03,-191.7 1479.38,-196.68 1475.18,-186.96 1470.03,-191.7"/>
 </g>
-<!-- Node548&#45;&gt;Node502 -->
-<g id="edge56" class="edge">
-<title>Node548&#45;&gt;Node502</title>
-<path fill="none" stroke="#63b8ff" d="M1497.43,-125.72C1483.05,-116.9 1466.25,-106.25 1451.5,-96 1433.54,-83.52 1432.44,-74.98 1412.5,-66 1402.99,-61.72 1275.75,-38.19 1203.23,-24.99"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1495.29,-128.51 1505.66,-130.72 1498.93,-122.53 1495.29,-128.51"/>
-</g>
-<!-- Node548&#45;&gt;Node505 -->
+<!-- Node548&#45;&gt;Node184 -->
 <g id="edge57" class="edge">
-<title>Node548&#45;&gt;Node505</title>
-<path fill="none" stroke="#63b8ff" d="M1593.03,-143.11C1626.75,-138 1665.96,-125.52 1687.5,-96 1703.53,-74.03 1684.75,-40.6 1674,-24.83"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1592.8,-139.61 1583.34,-144.38 1593.71,-146.55 1592.8,-139.61"/>
+<title>Node548&#45;&gt;Node184</title>
+<path fill="none" stroke="#63b8ff" d="M1619.45,-129.58C1648.66,-120.36 1679.1,-108.27 1687.5,-96 1695.03,-85 1695.55,-76.63 1687.5,-66 1673.15,-47.03 1615.54,-33.2 1569.89,-24.96"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1618.78,-126.13 1610.24,-132.4 1620.83,-132.82 1618.78,-126.13"/>
+</g>
+<!-- Node548&#45;&gt;Node503 -->
+<g id="edge58" class="edge">
+<title>Node548&#45;&gt;Node503</title>
+<path fill="none" stroke="#63b8ff" d="M1511.91,-127.04C1492.68,-118.51 1470.49,-107.72 1451.5,-96 1433.19,-84.7 1432.8,-75.52 1413.5,-66 1386.84,-52.84 1309.93,-35.35 1260.47,-24.92"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1510.29,-130.16 1520.86,-130.94 1513.09,-123.74 1510.29,-130.16"/>
+</g>
+<!-- Node548&#45;&gt;Node506 -->
+<g id="edge59" class="edge">
+<title>Node548&#45;&gt;Node506</title>
+<path fill="none" stroke="#63b8ff" d="M1619.63,-128.69C1657.19,-117.44 1699.13,-103.51 1704.5,-96 1719.94,-74.39 1707.5,-40.79 1700.06,-24.9"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1618.72,-125.31 1610.12,-131.5 1620.71,-132.02 1618.72,-125.31"/>
 </g>
 <!-- Node548&#45;&gt;Node539 -->
-<g id="edge55" class="edge">
+<g id="edge56" class="edge">
 <title>Node548&#45;&gt;Node539</title>
-<path fill="none" stroke="#63b8ff" d="M1470.05,-131.75C1386.41,-114.26 1363.27,-113.09 1283.5,-96 1280.72,-95.4 1277.87,-94.78 1275,-94.14"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1469.13,-135.14 1479.64,-133.78 1470.58,-128.29 1469.13,-135.14"/>
-</g>
-<!-- Node550&#45;&gt;Node510 -->
-<g id="edge64" class="edge">
-<title>Node550&#45;&gt;Node510</title>
-<path fill="none" stroke="#63b8ff" d="M2522.71,-207.61C2627.58,-200.73 2811.93,-185.71 2874.5,-162 2914.3,-146.92 2953.43,-115.07 2974.2,-96.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2522.52,-204.11 2512.77,-208.25 2522.97,-211.1 2522.52,-204.11"/>
+<path fill="none" stroke="#63b8ff" d="M1496.92,-131.9C1349.75,-107.71 1308.63,-120.62 1165.5,-96 1162.7,-95.52 1159.83,-94.98 1156.94,-94.41"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1496.24,-135.34 1506.68,-133.54 1497.4,-128.43 1496.24,-135.34"/>
 </g>
 <!-- Node550&#45;&gt;Node511 -->
 <g id="edge65" class="edge">
 <title>Node550&#45;&gt;Node511</title>
-<path fill="none" stroke="#63b8ff" d="M2522.45,-205.82C2629.14,-196.52 2814.9,-178.28 2841.5,-162 2891.54,-131.37 2902.59,-51.34 2904.91,-24.74"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2522.28,-202.32 2512.62,-206.67 2522.88,-209.3 2522.28,-202.32"/>
+<path fill="none" stroke="#63b8ff" d="M2025.48,-204.54C2160.89,-191.03 2432.71,-163.75 2437.5,-162 2459.73,-153.88 2459.27,-140.12 2481.5,-132 2629.22,-78.05 2678.21,-120.84 2833.5,-96 2836.2,-95.57 2838.95,-95.1 2841.72,-94.59"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2025.51,-201.02 2015.9,-205.49 2026.2,-207.98 2025.51,-201.02"/>
+</g>
+<!-- Node550&#45;&gt;Node512 -->
+<g id="edge66" class="edge">
+<title>Node550&#45;&gt;Node512</title>
+<path fill="none" stroke="#63b8ff" d="M2025.19,-204.39C2151.86,-191.41 2396,-165.97 2404.5,-162 2418.45,-155.48 2490.83,-73.1 2504.5,-66 2558.86,-37.78 2627.23,-25.42 2679.64,-20.04"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2025.15,-200.88 2015.56,-205.38 2025.87,-207.84 2025.15,-200.88"/>
 </g>
 <!-- Node550&#45;&gt;Node551 -->
-<g id="edge60" class="edge">
+<g id="edge62" class="edge">
 <title>Node550&#45;&gt;Node551</title>
-<path fill="none" stroke="#63b8ff" d="M2372.43,-207.41C2268.03,-200.48 2073.26,-185.6 1908.5,-162 1905.85,-161.62 1903.16,-161.21 1900.43,-160.77"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2372.07,-210.89 2382.27,-208.05 2372.52,-203.9 2372.07,-210.89"/>
+<path fill="none" stroke="#63b8ff" d="M1880.78,-194.84C1839.58,-184.7 1788.02,-172 1748.96,-162.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1879.81,-198.2 1890.36,-197.2 1881.48,-191.41 1879.81,-198.2"/>
 </g>
 <!-- Node553 -->
 <g id="node40" class="node">
 <title>Node553</title>
 <g id="a_node40"><a xlink:href="JAIStream_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2503,-162 2392,-162 2392,-132 2503,-132 2503,-162"/>
-<text text-anchor="start" x="2400" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2447.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStream.cpp</text>
+<polygon fill="white" stroke="#666666" points="1960,-162 1849,-162 1849,-132 1960,-132 1960,-162"/>
+<text text-anchor="start" x="1857" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1904.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStream.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node550&#45;&gt;Node553 -->
-<g id="edge63" class="edge">
+<g id="edge64" class="edge">
 <title>Node550&#45;&gt;Node553</title>
-<path fill="none" stroke="#63b8ff" d="M2447.5,-186.39C2447.5,-178.13 2447.5,-169.28 2447.5,-162.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2444,-186.28 2447.5,-196.28 2451,-186.28 2444,-186.28"/>
+<path fill="none" stroke="#63b8ff" d="M1933.74,-188.68C1927.35,-179.79 1920.27,-169.95 1914.68,-162.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1930.73,-190.49 1939.41,-196.57 1936.41,-186.4 1930.73,-190.49"/>
 </g>
 <!-- Node551&#45;&gt;Node6 -->
-<g id="edge61" class="edge">
+<g id="edge63" class="edge">
 <title>Node551&#45;&gt;Node6</title>
-<path fill="none" stroke="#63b8ff" d="M1761.55,-132.95C1707.92,-123.38 1634.1,-109.71 1569.5,-96 1566.72,-95.41 1563.87,-94.79 1560.99,-94.15"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1760.72,-136.36 1771.18,-134.67 1761.95,-129.47 1760.72,-136.36"/>
+<path fill="none" stroke="#63b8ff" d="M1639.33,-127.8C1611.35,-117.86 1577.19,-105.71 1551.07,-96.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1638.08,-131.08 1648.68,-131.13 1640.43,-124.48 1638.08,-131.08"/>
 </g>
-<!-- Node552 -->
-<g id="node39" class="node">
-<title>Node552</title>
-<g id="a_node39"><a xlink:href="JAIStreamMgr_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1884,-96 1773,-96 1773,-66 1884,-66 1884,-96"/>
-<text text-anchor="start" x="1781" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="1828.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamMgr.cpp</text>
-</a>
-</g>
-</g>
-<!-- Node551&#45;&gt;Node552 -->
-<g id="edge62" class="edge">
-<title>Node551&#45;&gt;Node552</title>
-<path fill="none" stroke="#63b8ff" d="M1833.3,-120.39C1832.27,-112.13 1831.16,-103.28 1830.27,-96.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1829.82,-120.81 1834.54,-130.29 1836.77,-119.94 1829.82,-120.81"/>
-</g>
-<!-- Node554&#45;&gt;Node517 -->
-<g id="edge72" class="edge">
-<title>Node554&#45;&gt;Node517</title>
-<path fill="none" stroke="#63b8ff" d="M2190.32,-128.49C2222.13,-119.41 2261.06,-107.78 2295.5,-96 2330.25,-84.11 2337.44,-76.93 2372.5,-66 2423.9,-49.98 2483.71,-36.26 2526.5,-27.26"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2189.51,-125.08 2180.84,-131.17 2191.42,-131.81 2189.51,-125.08"/>
+<!-- Node554&#45;&gt;Node518 -->
+<g id="edge73" class="edge">
+<title>Node554&#45;&gt;Node518</title>
+<path fill="none" stroke="#63b8ff" d="M2211.14,-124.18C2236.54,-101.87 2273.54,-69.91 2281.5,-66 2336.69,-38.86 2406.48,-26.35 2454.63,-20.65"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2209.03,-121.38 2203.84,-130.61 2213.66,-126.63 2209.03,-121.38"/>
 </g>
 <!-- Node554&#45;&gt;Node544 -->
-<g id="edge70" class="edge">
+<g id="edge71" class="edge">
 <title>Node554&#45;&gt;Node544</title>
-<path fill="none" stroke="#63b8ff" d="M2076.67,-127.67C2049.7,-117.75 2016.85,-105.67 1991.72,-96.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2075.44,-130.95 2086.03,-131.11 2077.85,-124.38 2075.44,-130.95"/>
+<path fill="none" stroke="#63b8ff" d="M2144.32,-126.99C2122.52,-117.16 2096.34,-105.36 2076.26,-96.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2142.7,-130.1 2153.25,-131.02 2145.57,-123.72 2142.7,-130.1"/>
 </g>
 <!-- Node555 -->
 <g id="node42" class="node">
 <title>Node555</title>
 <g id="a_node42"><a xlink:href="JAUStreamAramMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="2148,-96 2021,-96 2021,-66 2148,-66 2148,-96"/>
-<text text-anchor="start" x="2029" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2084.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUStreamAramMgr.h</text>
+<polygon fill="#fff0f0" stroke="red" points="1976,-96 1849,-96 1849,-66 1976,-66 1976,-96"/>
+<text text-anchor="start" x="1857" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="1912.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUStreamAramMgr.h</text>
 </a>
 </g>
 </g>
 <!-- Node554&#45;&gt;Node555 -->
-<g id="edge67" class="edge">
+<g id="edge68" class="edge">
 <title>Node554&#45;&gt;Node555</title>
-<path fill="none" stroke="#63b8ff" d="M2111.01,-122.39C2105.23,-113.59 2098.85,-103.86 2093.8,-96.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2107.94,-124.09 2116.35,-130.53 2113.79,-120.25 2107.94,-124.09"/>
+<path fill="none" stroke="#63b8ff" d="M2113.58,-128.97C2070.07,-118.81 2015.44,-106.04 1974.11,-96.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2112.66,-132.35 2123.19,-131.21 2114.25,-125.53 2112.66,-132.35"/>
 </g>
 <!-- Node556 -->
 <g id="node43" class="node">
 <title>Node556</title>
 <g id="a_node43"><a xlink:href="JAUStreamFileTable_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="2509,-96 2382,-96 2382,-66 2509,-66 2509,-96"/>
-<text text-anchor="start" x="2390" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2445.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUStreamFileTable.h</text>
+<polygon fill="#fff0f0" stroke="red" points="2418,-96 2291,-96 2291,-66 2418,-66 2418,-96"/>
+<text text-anchor="start" x="2299" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2354.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUStreamFileTable.h</text>
 </a>
 </g>
 </g>
 <!-- Node554&#45;&gt;Node556 -->
-<g id="edge68" class="edge">
+<g id="edge69" class="edge">
 <title>Node554&#45;&gt;Node556</title>
-<path fill="none" stroke="#63b8ff" d="M2201.32,-130.99C2256.06,-120.01 2329.54,-105.26 2381.55,-94.83"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2200.89,-127.51 2191.77,-132.9 2202.26,-134.37 2200.89,-127.51"/>
+<path fill="none" stroke="#63b8ff" d="M2234.96,-127.54C2260.94,-117.64 2292.47,-105.63 2316.63,-96.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2233.72,-124.27 2225.62,-131.1 2236.21,-130.81 2233.72,-124.27"/>
 </g>
 <!-- Node558 -->
 <g id="node44" class="node">
 <title>Node558</title>
 <g id="a_node44"><a xlink:href="JAIStreamDataMgr_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2287,-96 2166,-96 2166,-66 2287,-66 2287,-96"/>
-<text text-anchor="start" x="2174" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="2226.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamDataMgr.cpp</text>
+<polygon fill="white" stroke="#666666" points="2234,-96 2113,-96 2113,-66 2234,-66 2234,-96"/>
+<text text-anchor="start" x="2121" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="2173.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamDataMgr.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node554&#45;&gt;Node558 -->
-<g id="edge71" class="edge">
+<g id="edge72" class="edge">
 <title>Node554&#45;&gt;Node558</title>
-<path fill="none" stroke="#63b8ff" d="M2158.07,-125.8C2172.99,-116.24 2190.47,-105.06 2204.02,-96.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2156.5,-122.64 2149.97,-130.98 2160.28,-128.54 2156.5,-122.64"/>
+<path fill="none" stroke="#63b8ff" d="M2181.36,-120.68C2179.66,-112.34 2177.84,-103.37 2176.38,-96.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2177.89,-121.21 2183.31,-130.31 2184.75,-119.82 2177.89,-121.21"/>
 </g>
-<!-- Node556&#45;&gt;Node517 -->
-<g id="edge69" class="edge">
-<title>Node556&#45;&gt;Node517</title>
-<path fill="none" stroke="#63b8ff" d="M2486.78,-60.86C2507.91,-51.05 2533.21,-39.32 2552.63,-30.31"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2485.44,-57.62 2477.84,-65 2488.39,-63.97 2485.44,-57.62"/>
+<!-- Node556&#45;&gt;Node518 -->
+<g id="edge70" class="edge">
+<title>Node556&#45;&gt;Node518</title>
+<path fill="none" stroke="#63b8ff" d="M2400.11,-61.41C2424.32,-51.54 2453.64,-39.59 2476.11,-30.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2399.07,-58.05 2391.14,-65.07 2401.72,-64.53 2399.07,-58.05"/>
 </g>
-<!-- Node559&#45;&gt;Node505 -->
-<g id="edge76" class="edge">
-<title>Node559&#45;&gt;Node505</title>
-<path fill="none" stroke="#63b8ff" d="M1740.78,-186.54C1735.72,-156.54 1724.97,-105.76 1705.5,-66 1697.73,-50.14 1684.58,-34.33 1675.97,-24.86"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1737.29,-186.85 1742.32,-196.18 1744.2,-185.75 1737.29,-186.85"/>
+<!-- Node559&#45;&gt;Node506 -->
+<g id="edge77" class="edge">
+<title>Node559&#45;&gt;Node506</title>
+<path fill="none" stroke="#63b8ff" d="M1748.4,-188.92C1754.1,-180.93 1759.56,-171.56 1762.5,-162 1766.42,-149.26 1765.95,-144.88 1762.5,-132 1750.7,-87.97 1717.69,-43.36 1702.87,-24.87"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1745.73,-186.66 1742.41,-196.72 1751.28,-190.92 1745.73,-186.66"/>
 </g>
-<!-- Node561&#45;&gt;Node517 -->
-<g id="edge79" class="edge">
-<title>Node561&#45;&gt;Node517</title>
-<path fill="none" stroke="#63b8ff" d="M2385.63,-130.4C2440.4,-118.61 2506.98,-103.26 2518.5,-96 2544.85,-79.4 2565.41,-48.41 2575.87,-30.26"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2385.02,-126.95 2375.98,-132.46 2386.49,-133.79 2385.02,-126.95"/>
+<!-- Node561&#45;&gt;Node518 -->
+<g id="edge80" class="edge">
+<title>Node561&#45;&gt;Node518</title>
+<path fill="none" stroke="#63b8ff" d="M2374.66,-126.75C2391.75,-118.31 2411.17,-107.67 2427.5,-96 2455.35,-76.09 2483.26,-47.35 2498.86,-30.28"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2373.23,-123.55 2365.74,-131.04 2376.27,-129.86 2373.23,-123.55"/>
 </g>
 <!-- Node561&#45;&gt;Node544 -->
-<g id="edge78" class="edge">
+<g id="edge79" class="edge">
 <title>Node561&#45;&gt;Node544</title>
-<path fill="none" stroke="#63b8ff" d="M2235.32,-134.86C2174.7,-125.54 2087.35,-111.32 2011.5,-96 2008.71,-95.44 2005.86,-94.84 2002.98,-94.21"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2234.78,-138.32 2245.2,-136.37 2235.84,-131.4 2234.78,-138.32"/>
+<path fill="none" stroke="#63b8ff" d="M2256.53,-129.9C2212.02,-120.25 2154.49,-107.64 2103.5,-96 2100.63,-95.34 2097.68,-94.66 2094.7,-93.97"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2255.56,-133.27 2266.07,-131.96 2257.04,-126.43 2255.56,-133.27"/>
 </g>
-<!-- Node562&#45;&gt;Node511 -->
+<!-- Node562&#45;&gt;Node512 -->
+<g id="edge83" class="edge">
+<title>Node562&#45;&gt;Node512</title>
+<path fill="none" stroke="#63b8ff" d="M2760.5,-54.59C2760.5,-44.06 2760.5,-32.53 2760.5,-24.84"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2757,-54.28 2760.5,-64.28 2764,-54.28 2757,-54.28"/>
+</g>
+<!-- Node562&#45;&gt;Node518 -->
 <g id="edge82" class="edge">
-<title>Node562&#45;&gt;Node511</title>
-<path fill="none" stroke="#63b8ff" d="M2843.32,-59.26C2860.06,-47.61 2880.07,-33.69 2892.79,-24.84"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2841.37,-56.35 2835.16,-64.93 2845.37,-62.09 2841.37,-56.35"/>
-</g>
-<!-- Node562&#45;&gt;Node517 -->
-<g id="edge81" class="edge">
-<title>Node562&#45;&gt;Node517</title>
-<path fill="none" stroke="#63b8ff" d="M2750.65,-62.51C2714.41,-52.43 2669.39,-39.9 2635.21,-30.39"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2749.57,-65.84 2760.14,-65.15 2751.44,-59.1 2749.57,-65.84"/>
+<title>Node562&#45;&gt;Node518</title>
+<path fill="none" stroke="#63b8ff" d="M2693.22,-62.71C2653.85,-52.59 2604.73,-39.96 2567.49,-30.39"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2692.29,-66.08 2702.84,-65.18 2694.03,-59.3 2692.29,-66.08"/>
 </g>
 <!-- Node564&#45;&gt;Node7 -->
-<g id="edge84" class="edge">
-<title>Node564&#45;&gt;Node7</title>
-<path fill="none" stroke="#63b8ff" d="M769.1,-65.77C974.62,-34.78 1031.95,-61.24 1234.5,-30 1237.67,-29.51 1240.92,-28.94 1244.19,-28.32"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="768.78,-62.28 759.42,-67.26 769.84,-69.2 768.78,-62.28"/>
-</g>
-<!-- Node564&#45;&gt;Node502 -->
 <g id="edge85" class="edge">
-<title>Node564&#45;&gt;Node502</title>
-<path fill="none" stroke="#63b8ff" d="M768.99,-65.66C883.21,-45.2 1005.15,-31.01 1080.75,-23.11"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="768.66,-62.16 759.45,-67.39 769.91,-69.05 768.66,-62.16"/>
+<title>Node564&#45;&gt;Node7</title>
+<path fill="none" stroke="#63b8ff" d="M1355.7,-54.39C1356.09,-46.13 1356.5,-37.28 1356.84,-30.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1352.21,-54.13 1355.24,-64.28 1359.2,-54.46 1352.21,-54.13"/>
 </g>
-<!-- Node564&#45;&gt;Node506 -->
+<!-- Node564&#45;&gt;Node184 -->
 <g id="edge86" class="edge">
-<title>Node564&#45;&gt;Node506</title>
-<path fill="none" stroke="#63b8ff" d="M728.22,-57.53C736.61,-48.43 746.04,-38.19 753.44,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="725.82,-54.96 721.62,-64.68 730.97,-59.7 725.82,-54.96"/>
+<title>Node564&#45;&gt;Node184</title>
+<path fill="none" stroke="#63b8ff" d="M1399.89,-61.38C1429.07,-49.41 1465.69,-34.38 1488.6,-24.99"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1398.83,-58.03 1390.91,-65.06 1401.49,-64.51 1398.83,-58.03"/>
+</g>
+<!-- Node564&#45;&gt;Node503 -->
+<g id="edge87" class="edge">
+<title>Node564&#45;&gt;Node503</title>
+<path fill="none" stroke="#63b8ff" d="M1313.33,-60.91C1287.68,-49.01 1255.87,-34.26 1235.88,-24.99"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1311.61,-63.97 1322.16,-65 1314.56,-57.62 1311.61,-63.97"/>
+</g>
+<!-- Node564&#45;&gt;Node507 -->
+<g id="edge88" class="edge">
+<title>Node564&#45;&gt;Node507</title>
+<path fill="none" stroke="#63b8ff" d="M1293.1,-65.9C1166.29,-43.95 1030.46,-29.65 949.97,-22.12"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1292.22,-69.3 1302.68,-67.57 1293.43,-62.4 1292.22,-69.3"/>
 </g>
 <!-- Node565&#45;&gt;Node7 -->
-<g id="edge90" class="edge">
-<title>Node565&#45;&gt;Node7</title>
-<path fill="none" stroke="#63b8ff" d="M1566.82,-65.5C1483.59,-48.28 1397.73,-33.26 1344.84,-24.33"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1566.02,-68.91 1576.53,-67.52 1567.45,-62.06 1566.02,-68.91"/>
-</g>
-<!-- Node565&#45;&gt;Node502 -->
 <g id="edge92" class="edge">
-<title>Node565&#45;&gt;Node502</title>
-<path fill="none" stroke="#63b8ff" d="M1566.86,-65.69C1420.38,-41.18 1379.77,-50.07 1235.5,-30 1224.91,-28.53 1213.6,-26.74 1202.86,-24.93"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1566.12,-69.11 1576.56,-67.34 1567.29,-62.21 1566.12,-69.11"/>
+<title>Node565&#45;&gt;Node7</title>
+<path fill="none" stroke="#63b8ff" d="M1567.39,-65.5C1506.99,-51.22 1448.15,-37.35 1407.62,-27.8"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1566.28,-68.84 1576.82,-67.73 1567.89,-62.02 1566.28,-68.84"/>
 </g>
-<!-- Node565&#45;&gt;Node505 -->
-<g id="edge93" class="edge">
-<title>Node565&#45;&gt;Node505</title>
-<path fill="none" stroke="#63b8ff" d="M1642.96,-56.28C1649.64,-45.31 1657.17,-32.94 1662.11,-24.84"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1640.16,-54.14 1637.94,-64.5 1646.14,-57.79 1640.16,-54.14"/>
+<!-- Node565&#45;&gt;Node184 -->
+<g id="edge94" class="edge">
+<title>Node565&#45;&gt;Node184</title>
+<path fill="none" stroke="#63b8ff" d="M1592.12,-60.27C1570.4,-48.49 1543.86,-34.1 1527.07,-24.99"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1590.23,-63.22 1600.69,-64.92 1593.57,-57.07 1590.23,-63.22"/>
+</g>
+<!-- Node565&#45;&gt;Node503 -->
+<g id="edge95" class="edge">
+<title>Node565&#45;&gt;Node503</title>
+<path fill="none" stroke="#63b8ff" d="M1567.03,-65.66C1448.1,-44.18 1415.11,-47.69 1298.5,-30 1288.36,-28.46 1277.54,-26.7 1267.19,-24.96"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1566.08,-69.04 1576.55,-67.4 1567.35,-62.16 1566.08,-69.04"/>
 </g>
 <!-- Node565&#45;&gt;Node506 -->
-<g id="edge94" class="edge">
+<g id="edge96" class="edge">
 <title>Node565&#45;&gt;Node506</title>
-<path fill="none" stroke="#63b8ff" d="M1566.93,-65.96C1461.22,-53.39 1012.3,-28.99 836.96,-19.7"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1566.21,-69.4 1576.58,-67.24 1567.12,-62.46 1566.21,-69.4"/>
+<path fill="none" stroke="#63b8ff" d="M1651.59,-57.94C1663.49,-46.58 1677.33,-33.36 1686.24,-24.84"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1649.28,-55.31 1644.46,-64.75 1654.11,-60.37 1649.28,-55.31"/>
+</g>
+<!-- Node565&#45;&gt;Node507 -->
+<g id="edge97" class="edge">
+<title>Node565&#45;&gt;Node507</title>
+<path fill="none" stroke="#63b8ff" d="M1566.79,-65.8C1431.83,-46.72 1096.57,-27.52 949.89,-19.66"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1566.17,-69.25 1576.58,-67.25 1567.2,-62.33 1566.17,-69.25"/>
 </g>
 <!-- Node565&#45;&gt;Node545 -->
-<g id="edge91" class="edge">
+<g id="edge93" class="edge">
 <title>Node565&#45;&gt;Node545</title>
-<path fill="none" stroke="#63b8ff" d="M1689.79,-67.89C1753.08,-55.39 1850.36,-36.18 1907.09,-24.97"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1689.39,-64.41 1680.25,-69.78 1690.74,-71.27 1689.39,-64.41"/>
+<path fill="none" stroke="#63b8ff" d="M1689.75,-64.32C1738.09,-51.94 1803.8,-35.12 1843.57,-24.94"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1689.08,-60.88 1680.26,-66.75 1690.81,-67.66 1689.08,-60.88"/>
 </g>
 </g>
 </svg>

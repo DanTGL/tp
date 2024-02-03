@@ -49,7 +49,7 @@ var searchData=
   ['z2soundhandlepool_46',['Z2SoundHandlePool',['../classZ2SoundHandlePool.html#a683af8afbdf85438d307904c06da39bf',1,'Z2SoundHandlePool']]],
   ['z2soundhandles_47',['Z2SoundHandles',['../classZ2SoundHandles.html#aa33a8f65a066bd1ab12edd091c341f3d',1,'Z2SoundHandles']]],
   ['z2soundinfo_48',['Z2SoundInfo',['../classZ2SoundInfo.html#a5c9ff5f4466c27f8a12b53ea39343dc3',1,'Z2SoundInfo']]],
-  ['z2soundmgr_49',['Z2SoundMgr',['../structZ2SoundMgr.html#a3bac7f6114e8ef5fe97d8b068907493a',1,'Z2SoundMgr']]],
+  ['z2soundmgr_49',['Z2SoundMgr',['../classZ2SoundMgr.html#a3bac7f6114e8ef5fe97d8b068907493a',1,'Z2SoundMgr']]],
   ['z2soundobjanime_50',['Z2SoundObjAnime',['../classZ2SoundObjAnime.html#a1ff98824506363c0888737e5b1f29e95',1,'Z2SoundObjAnime']]],
   ['z2soundobjarrow_51',['Z2SoundObjArrow',['../classZ2SoundObjArrow.html#a1980a59396b48979f1bd1b4b96904c29',1,'Z2SoundObjArrow']]],
   ['z2soundobjbase_52',['Z2SoundObjBase',['../classZ2SoundObjBase.html#ab1de88cec74ff45d809a7ea9aafedb11',1,'Z2SoundObjBase']]],

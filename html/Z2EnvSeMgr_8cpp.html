@@ -82,13 +82,22 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">Z2EnvSeMgr.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="Z2EnvSeMgr_8h_source.html">Z2AudioLib/Z2EnvSeMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2SoundStarter_8h_source.html">Z2AudioLib/Z2SoundStarter.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2SoundMgr_8h_source.html">Z2AudioLib/Z2SoundMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2StatusMgr_8h_source.html">Z2AudioLib/Z2StatusMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2Creature_8h_source.html">Z2AudioLib/Z2Creature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2Audience_8h_source.html">Z2AudioLib/Z2Audience.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2SceneMgr_8h_source.html">Z2AudioLib/Z2SceneMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Z2Calc_8h_source.html">Z2AudioLib/Z2Calc.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="JASCalc_8h_source.html">JSystem/JAudio2/JASCalc.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="d__save_8h_source.html">d/save/d_save.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="d__com__inf__game_8h_source.html">d/com/d_com_inf_game.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="dol2asm_8h_source.html">dol2asm.h</a>&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startEnvSe__11Z2EnvSeBaseF10JAISoundIDfffffUl.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startEnvSeLevel__11Z2EnvSeBaseF10JAISoundIDfffffUl.s&quot;</code><br />
@@ -97,9 +106,7 @@ $(function() {
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/calcPan__10Z2EnvSeDirFf.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startEnvSeDirLevel__10Z2EnvSeDirF10JAISoundIDff.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/__ct__14Z2EnvSeAutoPanFv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/setPanParam__14Z2EnvSeAutoPanFffbbff.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/calcPan__14Z2EnvSeAutoPanFv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startEnvSeAutoPanLevel__14Z2EnvSeAutoPanF10JAISoundIDfff.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/__ct__10Z2EnvSeMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/framework__10Z2EnvSeMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/resetSceneInner__10Z2EnvSeMgrFv.s&quot;</code><br />
@@ -107,61 +114,32 @@ $(function() {
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/playSceneEnvSe__10Z2EnvSeMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/initStaticEnvSe__10Z2EnvSeMgrFUcUcUcUcP3Vec.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startStaticEnvSe__10Z2EnvSeMgrFSc.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/registWindowPos__10Z2EnvSeMgrFP3Vec.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startRainSe__10Z2EnvSeMgrFlSc.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startNearThunderSe__10Z2EnvSeMgrFSc.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startFarThunderSe__10Z2EnvSeMgrFP3VecSc.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/initStrongWindSe__10Z2EnvSeMgrFv.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/setWindDirection__10Z2EnvSeMgrFP3Vec.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startStrongWindSe__10Z2EnvSeMgrFSc.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/initRiverSe__10Z2EnvSeMgrFUcUcUcUc.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/registRiverSePos__10Z2EnvSeMgrFP3Vec.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/setHyrulSewerOpen__10Z2EnvSeMgrFb.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startRiverSe__10Z2EnvSeMgrFSc.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/initFallSe__10Z2EnvSeMgrFUcUcUcUc.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/registFallSePos__10Z2EnvSeMgrFP3Vec.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startFallSe__10Z2EnvSeMgrFSc.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/initEtcSe__10Z2EnvSeMgrFUcUcUcUc.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/registEtcSePos__10Z2EnvSeMgrFP3Vec.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startEtcSe__10Z2EnvSeMgrFSc.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/registWolfSmellSePos__10Z2EnvSeMgrFP3Vec.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startFogWipeTrigger__10Z2EnvSeMgrFP3Vec.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/setFogWipeWidth__10Z2EnvSeMgrFf.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/getFogDensity__10Z2EnvSeMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startFogSe__10Z2EnvSeMgrFv.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/initLv3WaterSe__10Z2EnvSeMgrFUcUcUcUc.s&quot;</code><br />
-<code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec.s&quot;</code><br />
 <code>#include &quot;asm/Z2AudioLib/Z2EnvSeMgr/startLv3WaterSe__10Z2EnvSeMgrFSc.s&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for Z2EnvSeMgr.cpp:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="Z2EnvSeMgr_8cpp__incl.svg" width="100%" height="525"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="Z2EnvSeMgr_8cpp__incl.svg" width="100%" height="580"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 </div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdSv__memBit__c.html">dSv_memBit_c</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdSv__event__flag__c.html">dSv_event_flag_c</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdSv__event__c.html">dSv_event_c</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2SoundStarter.html">Z2SoundStarter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2SoundMgr.html">Z2SoundMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2CreatureLink.html">Z2CreatureLink</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structZ2Audience.html">Z2Audience</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJASCalc.html">JASCalc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structJAISoundStarter.html">JAISoundStarter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ad5225120841566ec8c476a838c294164"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#ad5225120841566ec8c476a838c294164">__ct__11Z2EnvSeBaseFP3Vec</a> ()</td></tr>
@@ -349,8 +327,6 @@ Variables</h2></td></tr>
 <tr class="separator:a04c5800ae8c42f4621745e246f109820"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abe0150b36f8791cccf8ed8cf4dad23c4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#abe0150b36f8791cccf8ed8cf4dad23c4">saveBitLabels__16dSv_event_flag_c</a> [1644+4]</td></tr>
 <tr class="separator:abe0150b36f8791cccf8ed8cf4dad23c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a50ad47c26bcc2867f2c14d349753f58e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a50ad47c26bcc2867f2c14d349753f58e">g_dComIfG_gameInfo</a> [122384]</td></tr>
-<tr class="separator:a50ad47c26bcc2867f2c14d349753f58e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1de5c592f9e2c2441b93ef0a5c9f8476"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a1de5c592f9e2c2441b93ef0a5c9f8476">data_80450B44</a> [4]</td></tr>
 <tr class="separator:a1de5c592f9e2c2441b93ef0a5c9f8476"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a82f59053b99d3ea99326b60f2a24951c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a82f59053b99d3ea99326b60f2a24951c">data_80450B60</a> [4]</td></tr>
@@ -369,7 +345,7 @@ Variables</h2></td></tr>
 <tr class="separator:a02f5b160de1f88942001695a9be8967e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a98b58c165eacfc265404d698e5bc9525"><td class="memItemLeft" align="right" valign="top"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a98b58c165eacfc265404d698e5bc9525">__OSReport_disable</a></td></tr>
 <tr class="separator:a98b58c165eacfc265404d698e5bc9525"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7755daec524da153780262dfd3f5cd6e"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a7755daec524da153780262dfd3f5cd6e">lit_3501</a> = 33.0f / 100.0f</td></tr>
+<tr class="memitem:a7755daec524da153780262dfd3f5cd6e"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a7755daec524da153780262dfd3f5cd6e">lit_3501</a> = 0.33f</td></tr>
 <tr class="separator:a7755daec524da153780262dfd3f5cd6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab160d67816abd2a4406f4e50dbab5db0"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#ab160d67816abd2a4406f4e50dbab5db0">lit_3502</a> = 1.0f</td></tr>
 <tr class="separator:ab160d67816abd2a4406f4e50dbab5db0"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -509,9 +485,9 @@ Variables</h2></td></tr>
 <tr class="separator:a3698e689005f446a1639b4993a30c903"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a16940c865cf40035bef28c8c0e476bb3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a16940c865cf40035bef28c8c0e476bb3">lit_4835</a> = 89.0f / 100.0f</td></tr>
 <tr class="separator:a16940c865cf40035bef28c8c0e476bb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9e6eb68b04e54cb2876b1975fedb03b9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a9e6eb68b04e54cb2876b1975fedb03b9">lit_4836</a> = 0.3319999873638153f</td></tr>
+<tr class="memitem:a9e6eb68b04e54cb2876b1975fedb03b9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a9e6eb68b04e54cb2876b1975fedb03b9">lit_4836</a> = 0.332f</td></tr>
 <tr class="separator:a9e6eb68b04e54cb2876b1975fedb03b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0d3f7ae76ccceb5f522a790d27f5f62f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a0d3f7ae76ccceb5f522a790d27f5f62f">lit_4837</a> = 0.6679999828338623f</td></tr>
+<tr class="memitem:a0d3f7ae76ccceb5f522a790d27f5f62f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a0d3f7ae76ccceb5f522a790d27f5f62f">lit_4837</a> = 0.668f</td></tr>
 <tr class="separator:a0d3f7ae76ccceb5f522a790d27f5f62f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6c0b37b357a44973fb87a8a815fcaaa8"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a6c0b37b357a44973fb87a8a815fcaaa8">lit_4856</a> = 340.0f</td></tr>
 <tr class="separator:a6c0b37b357a44973fb87a8a815fcaaa8"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -521,10 +497,6 @@ Variables</h2></td></tr>
 <tr class="separator:ad2abcc9c1cd2e2b58c5772c6b3b2c1b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af93e29fbea3d930ca4993914bccf4da9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a9d99eb16c89214979b98ba942a455e7b">SECTION_DATA</a> void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#af93e29fbea3d930ca4993914bccf4da9">lit_5074</a> [10]</td></tr>
 <tr class="separator:af93e29fbea3d930ca4993914bccf4da9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a543dfbf6b899b5b8e5444aa2fa6789bc"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a9d99eb16c89214979b98ba942a455e7b">SECTION_DATA</a> void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a543dfbf6b899b5b8e5444aa2fa6789bc">lit_5259</a> [14]</td></tr>
-<tr class="separator:a543dfbf6b899b5b8e5444aa2fa6789bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69a4edfe159e1e98d19c0585d76cab3b"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="dol2asm_8h.html#a9d99eb16c89214979b98ba942a455e7b">SECTION_DATA</a> void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Z2EnvSeMgr_8cpp.html#a69a4edfe159e1e98d19c0585d76cab3b">lit_5258</a> [10]</td></tr>
-<tr class="separator:a69a4edfe159e1e98d19c0585d76cab3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="ab7caf48030b6cc10dd00cce547862dfd" name="ab7caf48030b6cc10dd00cce547862dfd"></a>
@@ -2249,28 +2221,6 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a50ad47c26bcc2867f2c14d349753f58e" name="a50ad47c26bcc2867f2c14d349753f58e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a50ad47c26bcc2867f2c14d349753f58e">&#9670;&#160;</a></span>g_dComIfG_gameInfo</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="types_8h.html#aed742c436da53c1080638ce6ef7d13de">u8</a> g_dComIfG_gameInfo[122384]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a7755daec524da153780262dfd3f5cd6e" name="a7755daec524da153780262dfd3f5cd6e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7755daec524da153780262dfd3f5cd6e">&#9670;&#160;</a></span>lit_3501</h2>
 
@@ -2281,7 +2231,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> lit_3501 = 33.0f / 100.0f</td>
+          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> lit_3501 = 0.33f</td>
         </tr>
       </table>
   </td>
@@ -3842,7 +3792,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> lit_4836 = 0.3319999873638153f</td>
+          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> lit_4836 = 0.332f</td>
         </tr>
       </table>
   </td>
@@ -3864,7 +3814,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> lit_4837 = 0.6679999828338623f</td>
+          <td class="memname"><a class="el" href="dol2asm_8h.html#a5c2a45e3895d11e22314dfe16ece0d10">SECTION_SDATA2</a> <a class="el" href="types_8h.html#a5f6906312a689f27d70e9d086649d3fd">f32</a> lit_4837 = 0.668f</td>
         </tr>
       </table>
   </td>
@@ -4011,79 +3961,6 @@ Variables</h2></td></tr>
 <div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#aadb1f5d408c884749c90b1533e8da864">initLv3WaterSe__10Z2EnvSeMgrFUcUcUcUc</a>) + 0x8D8),</div>
 <div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#aadb1f5d408c884749c90b1533e8da864">initLv3WaterSe__10Z2EnvSeMgrFUcUcUcUc</a>) + 0x950),</div>
 <div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#aadb1f5d408c884749c90b1533e8da864">initLv3WaterSe__10Z2EnvSeMgrFUcUcUcUc</a>) + 0x99C),</div>
-<div class="line">}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a69a4edfe159e1e98d19c0585d76cab3b" name="a69a4edfe159e1e98d19c0585d76cab3b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69a4edfe159e1e98d19c0585d76cab3b">&#9670;&#160;</a></span>lit_5258</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a9d99eb16c89214979b98ba942a455e7b">SECTION_DATA</a> void* lit_5258[10]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x48),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x58),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x68),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x78),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x78),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x48),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x58),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x68),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x78),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x68),</div>
-<div class="line">}</div>
-<div class="ttc" id="aZ2EnvSeMgr_8cpp_html_a0a4c869dbdfa5b8f46c2d2722758c4c2"><div class="ttname"><a href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a></div><div class="ttdeci">void registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec()</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a543dfbf6b899b5b8e5444aa2fa6789bc" name="a543dfbf6b899b5b8e5444aa2fa6789bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a543dfbf6b899b5b8e5444aa2fa6789bc">&#9670;&#160;</a></span>lit_5259</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="dol2asm_8h.html#a9d99eb16c89214979b98ba942a455e7b">SECTION_DATA</a> void* lit_5259[14]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0xBC),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0xA4),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0xD8),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x200),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x824),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0xBC),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0xBC),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x4B8),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x508),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0xBC),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x5A4),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x684),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x708),</div>
-<div class="line">    (<span class="keywordtype">void</span>*)(((<span class="keywordtype">char</span>*)<a class="code hl_function" href="Z2EnvSeMgr_8cpp.html#a0a4c869dbdfa5b8f46c2d2722758c4c2">registLv3WaterSePos__10Z2EnvSeMgrFUcP3Vec</a>) + 0x770),</div>
 <div class="line">}</div>
 </div><!-- fragment -->
 </div>

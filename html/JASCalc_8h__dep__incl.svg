@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 1076;
+var viewWidth = 1255;
 var viewHeight = 104;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,9 +58,9 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="573,-96 446,-96 446,-66 573,-66 573,-96"/>
-<text text-anchor="start" x="454" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="509.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JASCalc.h</text>
+<polygon fill="#999999" stroke="#666666" points="639,-96 512,-96 512,-66 639,-66 639,-96"/>
+<text text-anchor="start" x="520" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="575.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/JASCalc.h</text>
 </a>
 </g>
 </g>
@@ -77,8 +77,8 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="#63b8ff" d="M434.49,-72.36C355.75,-63.88 228.49,-48.87 119.5,-30 116.81,-29.53 114.06,-29.03 111.29,-28.51"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="433.92,-75.82 444.24,-73.4 434.67,-68.86 433.92,-75.82"/>
+<path fill="none" stroke="#63b8ff" d="M500.51,-74.23C409.88,-66.7 252.91,-51.84 119.5,-30 116.81,-29.56 114.05,-29.08 111.28,-28.57"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="500.01,-77.71 510.26,-75.04 500.58,-70.73 500.01,-77.71"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -93,8 +93,8 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="#63b8ff" d="M434.41,-66.15C382.2,-56.39 311.03,-42.83 248.5,-30 245.83,-29.45 243.09,-28.88 240.33,-28.3"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="433.63,-69.57 444.1,-67.96 434.91,-62.68 433.63,-69.57"/>
+<path fill="none" stroke="#63b8ff" d="M500.51,-69.92C434.08,-60.66 334.57,-45.98 248.5,-30 245.82,-29.5 243.07,-28.97 240.31,-28.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="499.81,-73.35 510.19,-71.26 500.77,-66.42 499.81,-73.35"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -109,8 +109,8 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="#63b8ff" d="M454.58,-62.07C423.98,-52.07 386.37,-39.79 357.68,-30.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="453.48,-65.39 464.07,-65.17 455.66,-58.74 453.48,-65.39"/>
+<path fill="none" stroke="#63b8ff" d="M505.23,-62.83C462.61,-52.42 408.97,-39.32 369.27,-29.62"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="504.36,-66.23 514.91,-65.2 506.02,-59.43 504.36,-66.23"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -125,8 +125,8 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="#63b8ff" d="M486.96,-57.81C477.65,-48.64 467.12,-38.28 458.89,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="484.41,-60.21 494,-64.73 489.33,-55.22 484.41,-60.21"/>
+<path fill="none" stroke="#63b8ff" d="M535.77,-60.59C515.81,-50.84 492.07,-39.24 473.8,-30.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="534.22,-63.73 544.74,-64.97 537.29,-57.44 534.22,-63.73"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -141,8 +141,8 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="#63b8ff" d="M532.39,-57.81C541.84,-48.64 552.53,-38.28 560.89,-30.16"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="529.98,-55.27 525.23,-64.74 534.85,-60.29 529.98,-55.27"/>
+<path fill="none" stroke="#63b8ff" d="M575.5,-54.39C575.5,-46.13 575.5,-37.28 575.5,-30.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="572,-54.28 575.5,-64.28 579,-54.28 572,-54.28"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -157,8 +157,8 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="#63b8ff" d="M564.14,-62.07C594.59,-52.07 632.01,-39.79 660.55,-30.43"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="563.11,-58.72 554.7,-65.17 565.29,-65.37 563.11,-58.72"/>
+<path fill="none" stroke="#63b8ff" d="M614.63,-60.59C634.27,-50.84 657.66,-39.24 675.65,-30.31"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="613.21,-57.38 605.81,-64.96 616.32,-63.66 613.21,-57.38"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
@@ -173,23 +173,38 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node8 -->
 <g id="edge7" class="edge">
 <title>Node1&#45;&gt;Node8</title>
-<path fill="none" stroke="#63b8ff" d="M584.56,-66.09C636.55,-56.32 707.31,-42.78 769.5,-30 772.17,-29.45 774.91,-28.88 777.67,-28.3"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="584.1,-62.61 574.92,-67.89 585.39,-69.49 584.1,-62.61"/>
+<path fill="none" stroke="#63b8ff" d="M644.89,-62.79C686.51,-52.46 738.76,-39.5 777.7,-29.84"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="644.05,-59.39 635.19,-65.19 645.74,-66.18 644.05,-59.39"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="Z2SoundMgr_8cpp.html" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="Z2EnvSeMgr_8cpp.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="1068,-24.5 907,-24.5 907,-5.5 1068,-5.5 1068,-24.5"/>
-<text text-anchor="middle" x="987.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SoundMgr.cpp</text>
+<text text-anchor="middle" x="987.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2EnvSeMgr.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node9 -->
 <g id="edge8" class="edge">
 <title>Node1&#45;&gt;Node9</title>
-<path fill="none" stroke="#63b8ff" d="M584.46,-71C662.86,-61.44 789.44,-45.58 898.5,-30 909.34,-28.45 920.9,-26.7 931.99,-24.98"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="584.26,-67.5 574.75,-72.18 585.1,-74.45 584.26,-67.5"/>
+<path fill="none" stroke="#63b8ff" d="M650.28,-68.48C715.75,-58.38 813.44,-43.27 898.5,-30 908.85,-28.38 919.89,-26.66 930.53,-24.98"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="650.09,-64.96 640.74,-69.95 651.16,-71.88 650.09,-64.96"/>
+</g>
+<!-- Node10 -->
+<g id="node10" class="node">
+<title>Node10</title>
+<g id="a_node10"><a xlink:href="Z2SoundMgr_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1247,-24.5 1086,-24.5 1086,-5.5 1247,-5.5 1247,-24.5"/>
+<text text-anchor="middle" x="1166.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SoundMgr.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node10 -->
+<g id="edge9" class="edge">
+<title>Node1&#45;&gt;Node10</title>
+<path fill="none" stroke="#63b8ff" d="M650.72,-73.85C749.03,-65.5 926.46,-49.39 1077.5,-30 1088.98,-28.53 1101.26,-26.74 1112.92,-24.93"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="650.6,-70.35 640.93,-74.68 651.19,-77.32 650.6,-70.35"/>
 </g>
 </g>
 </svg>

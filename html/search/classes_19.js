@@ -41,7 +41,7 @@ var searchData=
   ['z2soundhandlepool_38',['Z2SoundHandlePool',['../classZ2SoundHandlePool.html',1,'']]],
   ['z2soundhandles_39',['Z2SoundHandles',['../classZ2SoundHandles.html',1,'']]],
   ['z2soundinfo_40',['Z2SoundInfo',['../classZ2SoundInfo.html',1,'']]],
-  ['z2soundmgr_41',['Z2SoundMgr',['../structZ2SoundMgr.html',1,'']]],
+  ['z2soundmgr_41',['Z2SoundMgr',['../classZ2SoundMgr.html',1,'']]],
   ['z2soundobjanime_42',['Z2SoundObjAnime',['../classZ2SoundObjAnime.html',1,'']]],
   ['z2soundobjarrow_43',['Z2SoundObjArrow',['../classZ2SoundObjArrow.html',1,'']]],
   ['z2soundobjbase_44',['Z2SoundObjBase',['../classZ2SoundObjBase.html',1,'']]],
