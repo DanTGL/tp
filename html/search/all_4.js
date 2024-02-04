@@ -44,7 +44,7 @@ var searchData=
   ['backspace_41',['backSpace',['../classdName__c.html#af0d37123ce3c6b2a34358136bf7cd9fa',1,'dName_c']]],
   ['backspace_5f_5f7dname_5fcfv_42',['backSpace__7dName_cFv',['../d__name_8cpp.html#a66b20807d5d71ca9012485dbe6282766',1,'d_name.cpp']]],
   ['bamr_43',['BAMR',['../structExtended1__PPC__6xx__7xx.html#afdbc272fa863f5be415b832be6198a26',1,'Extended1_PPC_6xx_7xx']]],
-  ['bank_44',['bank',['../classdCamera__c.html#a945375230a755a48d6da46ddb4230a09',1,'dCamera_c::Bank()'],['../classdStage__Lbnk__dt__c.html#a9c6723aa12066ea3d41ab3d61890f7c0',1,'dStage_Lbnk_dt_c::bank']]],
+  ['bank_44',['bank',['../classdStage__Lbnk__dt__c.html#a9c6723aa12066ea3d41ab3d61890f7c0',1,'dStage_Lbnk_dt_c::bank'],['../classdCamera__c.html#a945375230a755a48d6da46ddb4230a09',1,'dCamera_c::Bank()']]],
   ['bank2_45',['bank2',['../classdStage__Lbnk__dt__c.html#ab7ae480d23d2b0a7627e67571c2bfd01',1,'dStage_Lbnk_dt_c']]],
   ['bank_5f_5f9dcamera_5fcfv_46',['Bank__9dCamera_cFv',['../d__camera_8cpp.html#a98a9c48ff687184ccbdda6f41afdc08c',1,'d_camera.cpp']]],
   ['bankdata_47',['bankData',['../structdStage__roomControl__c_1_1bankData.html',1,'dStage_roomControl_c']]],
