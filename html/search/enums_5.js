@@ -2,7 +2,7 @@ var searchData=
 [
   ['eaction_0',['EAction',['../classdaAlldie__c.html#a78c81511b77b6387b2b896b7f48dcb16',1,'daAlldie_c']]],
   ['eallocdirection_1',['EAllocDirection',['../classJKRDvdRipper.html#add5351d092f559b4c2bef0b3e2199161',1,'JKRDvdRipper']]],
-  ['eallocmode_2',['EAllocMode',['../classJKRAramHeap.html#a205023c6aecd9390890fb673e5dc18c5',1,'JKRAramHeap::EAllocMode()'],['../structJKRExpHeap.html#a9a114aea69c03b0590e1615a86fedf0d',1,'JKRExpHeap::EAllocMode()']]],
+  ['eallocmode_2',['eallocmode',['../classJKRAramHeap.html#a205023c6aecd9390890fb673e5dc18c5',1,'JKRAramHeap::EAllocMode'],['../structJKRExpHeap.html#a9a114aea69c03b0590e1615a86fedf0d',1,'JKRExpHeap::EAllocMode']]],
   ['econsoletype_3',['EConsoleType',['../classJUTConsole.html#ad7223c9ab1f27f5443a1149a7828f14c',1,'JUTConsole']]],
   ['edrawdone_4',['EDrawDone',['../classJFWDisplay.html#af84166a3fe71eef3b55b7de7c8f219c2',1,'JFWDisplay']]],
   ['edrawtype_5',['EDrawType',['../structJ3DDrawBuffer.html#a1d4387294ed1574b058c9cf646532d1f',1,'J3DDrawBuffer']]],

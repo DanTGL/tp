@@ -11,7 +11,7 @@ var searchData=
   ['ibat3u_8',['IBAT3U',['../PPCArch_8h.html#a17b12b719c5de186961c757735736cb9',1,'PPCArch.h']]],
   ['ictc_9',['ICTC',['../PPCArch_8h.html#abdc90c112a3f03612fdb81a61b4ae1fb',1,'PPCArch.h']]],
   ['infinity_10',['INFINITY',['../dol2asm_8h.html#a956e2723d559858d08644ac99146e910',1,'dol2asm.h']]],
-  ['insert_5ffield_11',['INSERT_FIELD',['../GXFrameBuf_8c.html#aee8afc66bf32221889992ce1aec4c603',1,'INSERT_FIELD():&#160;GXFrameBuf.c'],['../gx_8h.html#aee8afc66bf32221889992ce1aec4c603',1,'INSERT_FIELD():&#160;gx.h']]],
+  ['insert_5ffield_11',['insert_field',['../GXFrameBuf_8c.html#aee8afc66bf32221889992ce1aec4c603',1,'INSERT_FIELD:&#160;GXFrameBuf.c'],['../gx_8h.html#aee8afc66bf32221889992ce1aec4c603',1,'INSERT_FIELD:&#160;gx.h']]],
   ['instr_5fblr_12',['INSTR_BLR',['../targimpl_8c.html#a07f831f3d2400ccfa003c16279490dc3',1,'targimpl.c']]],
   ['instr_5flfd_13',['INSTR_LFD',['../targimpl_8c.html#ad2416173204ad09faaef27b1a3f5ba9b',1,'targimpl.c']]],
   ['instr_5flwz_14',['INSTR_LWZ',['../targimpl_8c.html#af7085dc8a5b493c01a55f83d04e7d9a5',1,'targimpl.c']]],

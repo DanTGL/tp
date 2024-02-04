@@ -66,7 +66,7 @@ var searchData=
   ['register_5fctors_63',['REGISTER_CTORS',['../dol2asm_8h.html#ac73af8db60a625e15a2ce5053f5048ac',1,'dol2asm.h']]],
   ['removehead_64',['RemoveHead',['../OSThread_8c.html#a0a1fc58c1ce160ff65971439fe5724bf',1,'OSThread.c']]],
   ['removeitem_65',['RemoveItem',['../OSThread_8c.html#a17041fd4e54cb41bb8ee14ad56d7caf7',1,'OSThread.c']]],
-  ['round_66',['ROUND',['../SIBios_8c.html#a7e76e74ec6703d0410b634d73ebc5f33',1,'ROUND():&#160;SIBios.c'],['../OSMemory_8c.html#a7e76e74ec6703d0410b634d73ebc5f33',1,'ROUND():&#160;OSMemory.c']]],
+  ['round_66',['round',['../SIBios_8c.html#a7e76e74ec6703d0410b634d73ebc5f33',1,'ROUND:&#160;SIBios.c'],['../OSMemory_8c.html#a7e76e74ec6703d0410b634d73ebc5f33',1,'ROUND:&#160;OSMemory.c']]],
   ['round_5fup_67',['ROUND_UP',['../DebuggerDriver_8c.html#aada5610108b15d85c65d863b0c646ef3',1,'DebuggerDriver.c']]],
   ['rtc_5fchan_68',['RTC_CHAN',['../OSRtc_8h.html#a3bd2208daac0ab16ca92b025e4fecc99',1,'OSRtc.h']]],
   ['rtc_5fcmd_5fread_69',['RTC_CMD_READ',['../OSRtc_8h.html#a2a4a019ab86a1ee742468ebe9aec3bb4',1,'OSRtc.h']]],
