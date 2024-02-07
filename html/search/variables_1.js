@@ -120,7 +120,7 @@ var searchData=
   ['audience_5f_117',['audience_',['../classJAISound.html#a2a01484b00ff99be77cc9b2cc1b6c170',1,'JAISound']]],
   ['audioaramheap_118',['audioAramHeap',['../namespaceJASKernel.html#a722f755a873a797c9d44ffeef003fa50',1,'JASKernel']]],
   ['audioaramheap_5f_5f9jaskernel_119',['audioAramHeap__9JASKernel',['../JASHeapCtrl_8cpp.html#a1a465f682db5c5f92f2e8cbb4fa52446',1,'JASHeapCtrl.cpp']]],
-  ['autodelete_120',['autoDelete',['../structJASTrack.html#adbfc868a072969231a963e8803de9ee7',1,'JASTrack']]],
+  ['autodelete_120',['autoDelete',['../structJASTrack.html#a7595a71c506754133b803b8e72f70468',1,'JASTrack']]],
   ['autofinishing_121',['AutoFinishing',['../dvd_8c.html#a490e52b0ee56bf4e6cb04bda45630522',1,'dvd.c']]],
   ['autoinvalidation_122',['autoInvalidation',['../dvd_8c.html#a5c49087c55660a74b2ce5308c3676c0e',1,'dvd.c']]]
 ];

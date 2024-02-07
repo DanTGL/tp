@@ -55,7 +55,7 @@ var searchData=
   ['os_5fthread_5fqueue_52',['OS_THREAD_QUEUE',['../OSThread_8h.html#a84946221f85d103f57dcea51a3a7e346',1,'OSThread.h']]],
   ['osc_53',['osc',['../JASDrumSet_8cpp.html#a2072f7fc8714ed141ff327bc5f143324',1,'JASDrumSet.cpp']]],
   ['osc_5fenv_54',['osc_env',['../JASAramStream_8cpp.html#a245274191ae269c3f01d2408a73be181',1,'OSC_ENV:&#160;JASAramStream.cpp'],['../JASBank_8cpp.html#a4ec81cb03f571708f6a801deaf02d41d',1,'OSC_ENV:&#160;JASBank.cpp']]],
-  ['osc_5frelease_5ftable_55',['osc_release_table',['../JASAramStream_8cpp.html#ac89759ba4b035c40e0ed6cdd0d8c09b0',1,'OSC_RELEASE_TABLE:&#160;JASAramStream.cpp'],['../JASBank_8cpp.html#acf363c9a22169fe40fb880adec18f295',1,'OSC_RELEASE_TABLE:&#160;JASBank.cpp']]],
+  ['osc_5frelease_5ftable_55',['osc_release_table',['../JASAramStream_8cpp.html#ac89759ba4b035c40e0ed6cdd0d8c09b0',1,'OSC_RELEASE_TABLE:&#160;JASAramStream.cpp'],['../JASBank_8cpp.html#acac774baeac08cdcaf7ba1b4de66e66b',1,'OSC_RELEASE_TABLE:&#160;JASBank.cpp']]],
   ['oscp_56',['oscp',['../JASDrumSet_8cpp.html#ae8e7d7613cd42df5a8df3f992490d724',1,'JASDrumSet.cpp']]],
   ['osexceptiontable_57',['OSExceptionTable',['../OS_8c.html#aab806f80e2fc5990a752dfeafe443ce3',1,'OS.c']]],
   ['osexecparams_58',['osExecParams',['../OSExec_8c.html#a5cd8eec7c25ee626cb5183f7455eb064',1,'OSExec.c']]],
