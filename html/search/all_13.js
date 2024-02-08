@@ -8,7 +8,7 @@ var searchData=
   ['qs4_5',['qs4',['../e__asin_8c.html#acd820dd19889874f864c4a49244d3679',1,'qS4:&#160;e_asin.c'],['../e__acos_8c.html#acd820dd19889874f864c4a49244d3679',1,'qS4:&#160;e_acos.c']]],
   ['quat_2ec_6',['quat.c',['../quat_8c.html',1,'']]],
   ['quat_2eh_7',['quat.h',['../quat_8h.html',1,'']]],
-  ['quat_5frotbasey_8',['quat_rotBaseY',['../namespacedaObj.html#a13a0da3c3c3649693e825fbcca93dc1b',1,'daObj']]],
+  ['quat_5frotbasey_8',['quat_rotBaseY',['../namespacedaObj.html#a9046cfa1d3f0256c0220e915201288de',1,'daObj']]],
   ['quat_5frotbasey_5f_5f5daobjfp10quaternionrc4cxyz_9',['quat_rotBaseY__5daObjFP10QuaternionRC4cXyz',['../d__a__obj_8cpp.html#a9d4d49310b3c8df0ab4d397749b17666',1,'d_a_obj.cpp']]],
   ['quaternion_10',['quaternion',['../structQuaternion.html',1,'Quaternion'],['../quat_8h.html#a8b8ae6480df2117ee6e3edd97c4309a0',1,'Quaternion:&#160;quat.h']]],
   ['quatm_11',['quatM',['../classmDoMtx__stack__c.html#ae4c6d18946631cc67232f4e601beaec4',1,'mDoMtx_stack_c']]],
