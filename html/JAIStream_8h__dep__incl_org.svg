@@ -12,9 +12,9 @@
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="3846.09,-496 3719.84,-496 3719.84,-465.5 3846.09,-465.5 3846.09,-496"/>
-<text text-anchor="start" x="3727.84" y="-482.5" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="3782.97" y="-471.25" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStream.h</text>
+<polygon fill="#999999" stroke="#666666" points="3741.09,-496 3614.84,-496 3614.84,-465.5 3741.09,-465.5 3741.09,-496"/>
+<text text-anchor="start" x="3622.84" y="-482.5" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="3677.97" y="-471.25" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStream.h</text>
 </a>
 </g>
 </g>
@@ -22,9 +22,9 @@
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="JAIStreamMgr_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="3646.09,-429.5 3519.84,-429.5 3519.84,-399 3646.09,-399 3646.09,-429.5"/>
-<text text-anchor="start" x="3527.84" y="-416" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
-<text text-anchor="middle" x="3582.97" y="-404.75" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamMgr.h</text>
+<polygon fill="white" stroke="#666666" points="3601.09,-429.5 3474.84,-429.5 3474.84,-399 3601.09,-399 3601.09,-429.5"/>
+<text text-anchor="start" x="3482.84" y="-416" font-family="Helvetica,sans-Serif" font-size="10.00">include/JSystem/JAudio2</text>
+<text text-anchor="middle" x="3537.97" y="-404.75" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamMgr.h</text>
 </a>
 </g>
 </g>
@@ -32,27 +32,27 @@
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3726.67,-461.59C3695.61,-451.58 3657.55,-439.3 3628.4,-429.9"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3725.3,-464.83 3735.89,-464.57 3727.45,-458.17 3725.3,-464.83"/>
+<path fill="none" stroke="#63b8ff" d="M3635.82,-460.33C3614.55,-450.53 3589.18,-438.85 3569.61,-429.83"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3634.28,-463.48 3644.82,-464.48 3637.21,-457.12 3634.28,-463.48"/>
 </a>
 </g>
 </g>
-<!-- Node510 -->
-<g id="Node000510" class="node">
-<title>Node510</title>
-<g id="a_Node000510"><a xlink:href="JAIStream_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="3774.22,-429.5 3663.72,-429.5 3663.72,-399 3774.22,-399 3774.22,-429.5"/>
-<text text-anchor="start" x="3671.72" y="-416" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="3718.97" y="-404.75" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStream.cpp</text>
+<!-- Node509 -->
+<g id="Node000509" class="node">
+<title>Node509</title>
+<g id="a_Node000509"><a xlink:href="JAIStream_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="3700.22,-363 3589.72,-363 3589.72,-332.5 3700.22,-332.5 3700.22,-363"/>
+<text text-anchor="start" x="3597.72" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="3644.97" y="-338.25" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStream.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node510 -->
-<g id="edge49_Node000001_Node000510" class="edge">
-<title>Node1&#45;&gt;Node510</title>
-<g id="a_edge49_Node000001_Node000510"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3760.58,-457.19C3751.57,-448.11 3741.44,-437.9 3733.43,-429.83"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3757.85,-459.41 3767.38,-464.04 3762.82,-454.48 3757.85,-459.41"/>
+<!-- Node1&#45;&gt;Node509 -->
+<g id="edge50_Node000001_Node000509" class="edge">
+<title>Node1&#45;&gt;Node509</title>
+<g id="a_edge50_Node000001_Node000509"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M3665.42,-454.8C3661.88,-446.88 3658.35,-437.97 3655.97,-429.5 3649.61,-406.89 3646.87,-379.65 3645.73,-363.29"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3662.24,-456.27 3669.66,-463.83 3668.57,-453.29 3662.24,-456.27"/>
 </a>
 </g>
 </g>
@@ -60,18 +60,18 @@
 <g id="Node000511" class="node">
 <title>Node511</title>
 <g id="a_Node000511"><a xlink:href="JAUInitializer_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="3903.22,-429.5 3792.72,-429.5 3792.72,-399 3903.22,-399 3903.22,-429.5"/>
-<text text-anchor="start" x="3800.72" y="-416" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="3847.97" y="-404.75" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUInitializer.cpp</text>
+<polygon fill="white" stroke="#666666" points="3775.22,-429.5 3664.72,-429.5 3664.72,-399 3775.22,-399 3775.22,-429.5"/>
+<text text-anchor="start" x="3672.72" y="-416" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="3719.97" y="-404.75" font-family="Helvetica,sans-Serif" font-size="10.00">/JAUInitializer.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node511 -->
-<g id="edge50_Node000001_Node000511" class="edge">
+<g id="edge51_Node000001_Node000511" class="edge">
 <title>Node1&#45;&gt;Node511</title>
-<g id="a_edge50_Node000001_Node000511"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3805.7,-457.19C3814.85,-448.11 3825.14,-437.9 3833.27,-429.83"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3803.42,-454.52 3798.79,-464.05 3808.35,-459.49 3803.42,-454.52"/>
+<g id="a_edge51_Node000001_Node000511"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M3693.75,-455.51C3699.38,-446.87 3705.54,-437.41 3710.47,-429.83"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3690.85,-453.56 3688.32,-463.85 3696.71,-457.38 3690.85,-453.56"/>
 </a>
 </g>
 </g>
@@ -79,17 +79,17 @@
 <g id="Node000512" class="node">
 <title>Node512</title>
 <g id="a_Node000512"><a xlink:href="Z2SoundInfo_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="4080.97,-423.88 3920.97,-423.88 3920.97,-404.62 4080.97,-404.62 4080.97,-423.88"/>
-<text text-anchor="middle" x="4000.97" y="-410.38" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SoundInfo.cpp</text>
+<polygon fill="white" stroke="#666666" points="3952.97,-423.88 3792.97,-423.88 3792.97,-404.62 3952.97,-404.62 3952.97,-423.88"/>
+<text text-anchor="middle" x="3872.97" y="-410.38" font-family="Helvetica,sans-Serif" font-size="10.00">libs/Z2AudioLib/Z2SoundInfo.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node512 -->
-<g id="edge51_Node000001_Node000512" class="edge">
+<g id="edge52_Node000001_Node000512" class="edge">
 <title>Node1&#45;&gt;Node512</title>
-<g id="a_edge51_Node000001_Node000512"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3843.71,-461.78C3884.88,-449.6 3937.55,-434.01 3970.27,-424.33"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3842.75,-458.41 3834.16,-464.6 3844.74,-465.12 3842.75,-458.41"/>
+<g id="a_edge52_Node000001_Node000512"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M3732.77,-461.62C3769.49,-449.48 3816.29,-434 3845.44,-424.35"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3732.05,-458.18 3723.65,-464.64 3734.24,-464.82 3732.05,-458.18"/>
 </a>
 </g>
 </g>
@@ -107,18 +107,8 @@
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node2&#45;&gt;Node3</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3561.36,-390.41C3552.84,-381.4 3543.31,-371.32 3535.75,-363.33"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3558.67,-392.65 3568.08,-397.51 3563.76,-387.84 3558.67,-392.65"/>
-</a>
-</g>
-</g>
-<!-- Node509 -->
-<g id="Node000509" class="node">
-<title>Node509</title>
-<g id="a_Node000509"><a xlink:href="JAIStreamMgr_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="3700.22,-363 3589.72,-363 3589.72,-332.5 3700.22,-332.5 3700.22,-363"/>
-<text text-anchor="start" x="3597.72" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
-<text text-anchor="middle" x="3644.97" y="-338.25" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamMgr.cpp</text>
+<path fill="none" stroke="#63b8ff" d="M3531.6,-387.59C3529.56,-379.34 3527.36,-370.49 3525.58,-363.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3528.17,-388.28 3533.97,-397.14 3534.96,-386.6 3528.17,-388.28"/>
 </a>
 </g>
 </g>
@@ -126,8 +116,27 @@
 <g id="edge48_Node000002_Node000509" class="edge">
 <title>Node2&#45;&gt;Node509</title>
 <g id="a_edge48_Node000002_Node000509"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3604.92,-390.41C3613.58,-381.4 3623.27,-371.32 3630.95,-363.33"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3602.49,-387.89 3598.08,-397.52 3607.54,-392.74 3602.49,-387.89"/>
+<path fill="none" stroke="#63b8ff" d="M3571.75,-392.89C3587.67,-383.29 3606.3,-372.06 3620.78,-363.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3570.3,-389.67 3563.54,-397.83 3573.91,-395.67 3570.3,-389.67"/>
+</a>
+</g>
+</g>
+<!-- Node510 -->
+<g id="Node000510" class="node">
+<title>Node510</title>
+<g id="a_Node000510"><a xlink:href="JAIStreamMgr_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="3454.22,-363 3343.72,-363 3343.72,-332.5 3454.22,-332.5 3454.22,-363"/>
+<text text-anchor="start" x="3351.72" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">libs/JSystem/JAudio2</text>
+<text text-anchor="middle" x="3398.97" y="-338.25" font-family="Helvetica,sans-Serif" font-size="10.00">/JAIStreamMgr.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node510 -->
+<g id="edge49_Node000002_Node000510" class="edge">
+<title>Node2&#45;&gt;Node510</title>
+<g id="a_edge49_Node000002_Node000510"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M3496.12,-393.83C3475,-384.03 3449.82,-372.35 3430.38,-363.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3494.51,-396.94 3505.05,-397.98 3497.45,-390.59 3494.51,-396.94"/>
 </a>
 </g>
 </g>
@@ -145,8 +154,8 @@
 <g id="edge3_Node000003_Node000004" class="edge">
 <title>Node3&#45;&gt;Node4</title>
 <g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3460.53,-343.6C3363.01,-337.98 3167.03,-324.11 3002.97,-296.5 3000.06,-296.01 2997.08,-295.46 2994.08,-294.86"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3460.23,-347.09 3470.41,-344.16 3460.62,-340.1 3460.23,-347.09"/>
+<path fill="none" stroke="#63b8ff" d="M3460.56,-332.31C3258.4,-301.33 3201.84,-328.09 3002.97,-296.5 3000.05,-296.04 2997.07,-295.5 2994.07,-294.92"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3459.95,-335.75 3470.37,-333.84 3461.03,-328.84 3459.95,-335.75"/>
 </a>
 </g>
 </g>
@@ -163,8 +172,8 @@
 <g id="edge41_Node000003_Node000185" class="edge">
 <title>Node3&#45;&gt;Node185</title>
 <g id="a_edge41_Node000003_Node000185"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3460.57,-337.94C3392.27,-328.08 3278.67,-311.52 3180.97,-296.5 3170.29,-294.86 3158.91,-293.07 3147.97,-291.33"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="3460.06,-341.4 3470.46,-339.36 3461.06,-334.47 3460.06,-341.4"/>
+<path fill="none" stroke="#63b8ff" d="M3461.05,-332.28C3336.78,-309.89 3302.49,-313.98 3180.97,-296.5 3169.97,-294.92 3158.23,-293.12 3147,-291.34"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="3460.2,-335.69 3470.67,-334.04 3461.46,-328.8 3460.2,-335.69"/>
 </a>
 </g>
 </g>
@@ -418,8 +427,8 @@
 <g id="edge27_Node000005_Node000226" class="edge">
 <title>Node5&#45;&gt;Node226</title>
 <g id="a_edge27_Node000005_Node000226"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2523.34,-211.43C2372.57,-206.46 2062.13,-192.77 2022.97,-163.5 1985.88,-135.78 2001.97,-109.57 1984.97,-66.5 1980.21,-54.45 1974.77,-40.79 1970.76,-30.75"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2523.18,-214.92 2533.28,-211.75 2523.4,-207.93 2523.18,-214.92"/>
+<path fill="none" stroke="#63b8ff" d="M2523.35,-211.42C2372.59,-206.44 2062.16,-192.73 2022.97,-163.5 2020.14,-161.39 1984.48,-67.78 1970.52,-30.93"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2523.18,-214.92 2533.29,-211.74 2523.41,-207.92 2523.18,-214.92"/>
 </a>
 </g>
 </g>
@@ -564,8 +573,8 @@
 <g id="edge32_Node000005_Node000247" class="edge">
 <title>Node5&#45;&gt;Node247</title>
 <g id="a_edge32_Node000005_Node000247"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2663.83,-202.72C2670.61,-201.57 2677.43,-200.47 2683.97,-199.5 2820.29,-179.26 2856.04,-186.28 2991.97,-163.5 3000.63,-162.05 3009.87,-160.2 3018.59,-158.33"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2663.26,-199.26 2654,-204.42 2664.45,-206.16 2663.26,-199.26"/>
+<path fill="none" stroke="#63b8ff" d="M2663.08,-202.71C2669.77,-201.56 2676.51,-200.46 2682.97,-199.5 2819.71,-179.07 2855.6,-186.33 2991.97,-163.5 3000.63,-162.05 3009.87,-160.21 3018.59,-158.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2662.64,-199.23 2653.4,-204.4 2663.85,-206.12 2662.64,-199.23"/>
 </a>
 </g>
 </g>
@@ -582,8 +591,8 @@
 <g id="edge33_Node000005_Node000084" class="edge">
 <title>Node5&#45;&gt;Node84</title>
 <g id="a_edge33_Node000005_Node000084"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2662.45,-202.71C2669.68,-201.52 2676.98,-200.41 2683.97,-199.5 2877.63,-174.13 2928.95,-193.45 3121.97,-163.5 3130.59,-162.16 3139.79,-160.29 3148.4,-158.35"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2661.98,-199.24 2652.71,-204.38 2663.16,-206.14 2661.98,-199.24"/>
+<path fill="none" stroke="#63b8ff" d="M2661.72,-202.71C2668.86,-201.52 2676.07,-200.41 2682.97,-199.5 2877.05,-173.88 2928.51,-193.5 3121.97,-163.5 3130.59,-162.16 3139.79,-160.29 3148.4,-158.35"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2661.38,-199.21 2652.12,-204.37 2662.57,-206.11 2661.38,-199.21"/>
 </a>
 </g>
 </g>
@@ -600,8 +609,8 @@
 <g id="edge34_Node000005_Node000024" class="edge">
 <title>Node5&#45;&gt;Node24</title>
 <g id="a_edge34_Node000005_Node000024"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2661.61,-202.73C2669.11,-201.5 2676.71,-200.38 2683.97,-199.5 2932.42,-169.24 2997.36,-192.47 3245.97,-163.5 3257.57,-162.15 3270.02,-160.27 3281.67,-158.33"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2661.13,-199.26 2651.86,-204.39 2662.3,-206.16 2661.13,-199.26"/>
+<path fill="none" stroke="#63b8ff" d="M2660.89,-202.72C2668.29,-201.5 2675.8,-200.38 2682.97,-199.5 2931.83,-168.92 2996.92,-192.51 3245.97,-163.5 3257.57,-162.15 3270.02,-160.27 3281.67,-158.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2660.54,-199.23 2651.28,-204.38 2661.73,-206.13 2660.54,-199.23"/>
 </a>
 </g>
 </g>
@@ -618,8 +627,8 @@
 <g id="edge35_Node000005_Node000498" class="edge">
 <title>Node5&#45;&gt;Node498</title>
 <g id="a_edge35_Node000005_Node000498"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2660.76,-202.76C2668.53,-201.5 2676.43,-200.36 2683.97,-199.5 3007.14,-162.55 3091.92,-201.56 3414.97,-163.5 3425.77,-162.23 3437.34,-160.33 3448.12,-158.34"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2660.28,-199.29 2651.01,-204.42 2661.46,-206.19 2660.28,-199.29"/>
+<path fill="none" stroke="#63b8ff" d="M2660.05,-202.76C2667.72,-201.5 2675.52,-200.36 2682.97,-199.5 3006.1,-162.19 3090.87,-201.18 3413.97,-163.5 3424.9,-162.22 3436.63,-160.33 3447.55,-158.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2659.7,-199.26 2650.44,-204.41 2660.89,-206.16 2659.7,-199.26"/>
 </a>
 </g>
 </g>
@@ -636,8 +645,8 @@
 <g id="edge36_Node000005_Node000255" class="edge">
 <title>Node5&#45;&gt;Node255</title>
 <g id="a_edge36_Node000005_Node000255"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2660.19,-202.79C2668.14,-201.5 2676.25,-200.35 2683.97,-199.5 3074.82,-156.5 3177.31,-208.32 3567.97,-163.5 3578.76,-162.26 3590.34,-160.35 3601.09,-158.33"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="2659.86,-199.3 2650.59,-204.43 2661.04,-206.2 2659.86,-199.3"/>
+<path fill="none" stroke="#63b8ff" d="M2659.76,-202.74C2667.52,-201.47 2675.43,-200.34 2682.97,-199.5 3074.22,-156.02 3176.87,-208.36 3567.97,-163.5 3578.76,-162.26 3590.34,-160.35 3601.09,-158.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="2659.29,-199.27 2650.03,-204.42 2660.48,-206.17 2659.29,-199.27"/>
 </a>
 </g>
 </g>

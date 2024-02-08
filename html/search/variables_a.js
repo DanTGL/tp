@@ -73,7 +73,7 @@ var searchData=
   ['jasdram_70',['jasdram',['../JASAramStream_8cpp.html#a4a7a3822f0b02c17ed6f8a99b46e7618',1,'JASDram:&#160;JASHeapCtrl.cpp'],['../JASBNKParser_8cpp.html#a4a7a3822f0b02c17ed6f8a99b46e7618',1,'JASDram:&#160;JASHeapCtrl.cpp'],['../JASDSPChannel_8cpp.html#a4a7a3822f0b02c17ed6f8a99b46e7618',1,'JASDram:&#160;JASHeapCtrl.cpp'],['../JASHeapCtrl_8cpp.html#a59a4b2bba8b0965789ee1b838b4d3890',1,'JASDram:&#160;JASHeapCtrl.cpp'],['../JASHeapCtrl_8h.html#a59a4b2bba8b0965789ee1b838b4d3890',1,'JASDram:&#160;JASHeapCtrl.cpp']]],
   ['jasseqparser_5f_5fstringbase0_71',['JASSeqParser__stringBase0',['../JASSeqParser_8cpp.html#ad940129d2bd1f6ad22b0c0c6c8e30287',1,'JASSeqParser.cpp']]],
   ['jausectionheap_5f_5fstringbase0_72',['JAUSectionHeap__stringBase0',['../JAUSectionHeap_8cpp.html#a2652c5ed5c1f26d6287d2c22be56826e',1,'JAUSectionHeap.cpp']]],
-  ['jdsp_73',['jdsp',['../dsptask_8cpp.html#a315d6c4dc01ea63e2a72210489861636',1,'dsptask.cpp']]],
+  ['jdsp_73',['jdsp',['../dsptask_8cpp.html#aac0d0d121fd53f415f2351335bd1c5df',1,'dsptask.cpp']]],
   ['jkraramarchive_5f_5fstringbase0_74',['JKRAramArchive__stringBase0',['../JKRAramArchive_8cpp.html#a4a95c47971db44b574e8b8e77a765f68',1,'JKRAramArchive.cpp']]],
   ['jkrexpheap_5f_5fstringbase0_75',['JKRExpHeap__stringBase0',['../JKRExpHeap_8cpp.html#aafd559a6ecdd838964ce511170be97d8',1,'JKRExpHeap.cpp']]],
   ['join_5fqueue_76',['join_queue',['../structOSThread.html#a60ed230817f69e789cd63c90b8002db5',1,'OSThread']]],
