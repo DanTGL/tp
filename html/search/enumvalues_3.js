@@ -64,7 +64,7 @@ var searchData=
   ['color_5fred_5fe_61',['COLOR_RED_e',['../classdMsgScrnLight__HIO__c.html#acfc93817a8a9f172c9ae4ae856c82cc8abd3b7a0277d921d84c6353b42251a362',1,'dMsgScrnLight_HIO_c']]],
   ['color_5fyellow_5fe_62',['COLOR_YELLOW_e',['../classdMsgScrnLight__HIO__c.html#acfc93817a8a9f172c9ae4ae856c82cc8a90de9dfaf8fd828c4619b1765c223edb',1,'dMsgScrnLight_HIO_c']]],
   ['combo_5fitem_63',['COMBO_ITEM',['../classdMeter__ringHIO__c.html#a1a6daa0e0295831e20a0d3e903849da0a875f94f686d2bd957e392a1e53d1877b',1,'dMeter_ringHIO_c']]],
-  ['compass_64',['COMPASS',['../structdSv__memBit__c.html#aaa96a29adace9bc0d835244ec95bdbc2ad8f83fb4bb4d444a17d03add41df0425',1,'dSv_memBit_c']]],
+  ['compass_64',['COMPASS',['../structdSv__memBit__c.html#a7f065631860049a0d71303d11310a973ad8f83fb4bb4d444a17d03add41df0425',1,'dSv_memBit_c']]],
   ['composite_5fadd_65',['COMPOSITE_ADD',['../namespaceJStudio_1_1fvb_1_1data.html#abd046240512aa1522b06f1f887e44483a50a90a5cdba2513555651f495125a718',1,'JStudio::fvb::data']]],
   ['composite_5fdiv_66',['COMPOSITE_DIV',['../namespaceJStudio_1_1fvb_1_1data.html#abd046240512aa1522b06f1f887e44483af349e169dd4b3999f0d20b2377e63338',1,'JStudio::fvb::data']]],
   ['composite_5fenum_5fsize_67',['COMPOSITE_ENUM_SIZE',['../namespaceJStudio_1_1fvb_1_1data.html#abd046240512aa1522b06f1f887e44483a2e1f2fd0d3322347d0c52c2e84ad63e6',1,'JStudio::fvb::data']]],
