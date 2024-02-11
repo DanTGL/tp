@@ -25,8 +25,9 @@ var searchData=
   ['stopinfo_5fppc_22',['StopInfo_PPC',['../targimpl_8c.html#a5ef31299518ee3e23cbe6501da4dfd51',1,'targimpl.c']]],
   ['str1_5fentry_5ft_23',['str1_entry_t',['../d__msg__unit_8h.html#ab92d5174954988f6dd23a7fde477c0e5',1,'d_msg_unit.h']]],
   ['str1_5fsection_5ft_24',['str1_section_t',['../d__msg__unit_8h.html#adbc0c4aa0509ab601e1d18282895b95a',1,'d_msg_unit.h']]],
-  ['subblock_25',['SubBlock',['../alloc_8c.html#a5f066883994529483a49ea4a316df37d',1,'alloc.c']]],
-  ['svec_26',['SVec',['../vec_8h.html#aa5fc597f675512222eb9769b878b86ba',1,'vec.h']]],
-  ['sys_5falloc_5fptr_27',['sys_alloc_ptr',['../alloc_8c.html#adffbad83f398146ee36239f1905ed9f6',1,'alloc.c']]],
-  ['sys_5ffree_5fptr_28',['sys_free_ptr',['../alloc_8c.html#a04692dc7ef153ff0cb1a5a6285e1fc62',1,'alloc.c']]]
+  ['streamcallback_25',['StreamCallback',['../classJASAramStream.html#a6afc76f40209ff4556a9ae45cc303942',1,'JASAramStream']]],
+  ['subblock_26',['SubBlock',['../alloc_8c.html#a5f066883994529483a49ea4a316df37d',1,'alloc.c']]],
+  ['svec_27',['SVec',['../vec_8h.html#aa5fc597f675512222eb9769b878b86ba',1,'vec.h']]],
+  ['sys_5falloc_5fptr_28',['sys_alloc_ptr',['../alloc_8c.html#adffbad83f398146ee36239f1905ed9f6',1,'alloc.c']]],
+  ['sys_5ffree_5fptr_29',['sys_free_ptr',['../alloc_8c.html#a04692dc7ef153ff0cb1a5a6285e1fc62',1,'alloc.c']]]
 ];

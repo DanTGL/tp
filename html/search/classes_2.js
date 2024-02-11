@@ -20,7 +20,7 @@ var searchData=
   ['blinkanime_17',['BlinkAnime',['../structdMeter__fmapHIO__c_1_1BlinkAnime.html',1,'dMeter_fmapHIO_c']]],
   ['block_18',['Block',['../structBlock.html',1,'']]],
   ['block_5fheader_19',['block_header',['../structblock__header.html',1,'']]],
-  ['blockheader_20',['BlockHeader',['../structBlockHeader.html',1,'']]],
+  ['blockheader_20',['blockheader',['../structBlockHeader.html',1,'BlockHeader'],['../structJASAramStream_1_1BlockHeader.html',1,'JASAramStream::BlockHeader']]],
   ['bloom_5fc_21',['bloom_c',['../classmDoGph__gInf__c_1_1bloom__c.html',1,'mDoGph_gInf_c']]],
   ['bmg_5fheader_5ft_22',['bmg_header_t',['../structbmg__header__t.html',1,'']]],
   ['bmg_5fsection_5ft_23',['bmg_section_t',['../structbmg__section__t.html',1,'']]],
