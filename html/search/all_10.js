@@ -97,7 +97,7 @@ var searchData=
   ['newfontno_94',['newFontNo',['../classJ2DMaterialFactory.html#a807403fbd0b109594553efd135cfd981',1,'J2DMaterialFactory']]],
   ['newfontno_5f_5f18j2dmaterialfactorycfi_95',['newFontNo__18J2DMaterialFactoryCFi',['../J2DMaterialFactory_8cpp.html#af3a63eabcc4eb6050f9a20f8f13156c9',1,'J2DMaterialFactory.cpp']]],
   ['newgrassdata_96',['newGrassData',['../classdaGrass__c.html#ae3b2a7b1dc347e69d7645d7a7d5cb822',1,'daGrass_c']]],
-  ['newgroupid_97',['newgroupid',['../classJKRAramBlock.html#afadd223b3577265d19bd32896470e078',1,'JKRAramBlock::newGroupID()'],['../classJKRExpHeap_1_1CMemBlock.html#ae5799f4786d07b97c8359495286cfe31',1,'JKRExpHeap::CMemBlock::newGroupId()']]],
+  ['newgroupid_97',['newgroupid',['../classJKRExpHeap_1_1CMemBlock.html#ae5799f4786d07b97c8359495286cfe31',1,'JKRExpHeap::CMemBlock::newGroupId()'],['../classJKRAramBlock.html#afadd223b3577265d19bd32896470e078',1,'JKRAramBlock::newGroupID()']]],
   ['newindtevstage_98',['newindtevstage',['../structJ3DMaterialFactory.html#a9db8e902ef063363b6c54f29bcaf9436',1,'J3DMaterialFactory::newIndTevStage()'],['../classJ2DMaterialFactory.html#a909867f3893e8dcaf2aa8284e597b739',1,'J2DMaterialFactory::newIndTevStage()']]],
   ['newindtevstage_5f_5f18j2dmaterialfactorycfii_99',['newIndTevStage__18J2DMaterialFactoryCFii',['../J2DMaterialFactory_8cpp.html#ab281cb5fffc48bb96a94913d5b371d2e',1,'J2DMaterialFactory.cpp']]],
   ['newindtevstage_5f_5f18j3dmaterialfactorycfii_100',['newIndTevStage__18J3DMaterialFactoryCFii',['../J3DMaterialFactory_8cpp.html#a61ba5aee2991032a9090e4fea1ae56cb',1,'J3DMaterialFactory.cpp']]],
