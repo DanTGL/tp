@@ -108,7 +108,7 @@ var searchData=
   ['newpeekzdata_105',['newPeekZdata',['../structdDlst__list__c.html#a2f6ea0612e336829f2fea7cfcffe6811',1,'dDlst_list_c']]],
   ['newpercarray_106',['newpercarray',['../structJASDrumSet.html#a11f1aeaedbf46d907383c5b9add00985',1,'JASDrumSet::newPercArray(u8, JKRHeap *)'],['../structJASDrumSet.html#a11f1aeaedbf46d907383c5b9add00985',1,'JASDrumSet::newPercArray(u8, JKRHeap *)']]],
   ['newpercarray_5f_5f10jasdrumsetfucp7jkrheap_107',['newPercArray__10JASDrumSetFUcP7JKRHeap',['../JASBNKParser_8cpp.html#a165ffc1bec25a72577c6f4f8d5187f31',1,'JASBNKParser.cpp']]],
-  ['newresinfo_108',['newResInfo',['../structdRes__control__c.html#af7b8ac2248efe2800086441ae9be38b1',1,'dRes_control_c']]],
+  ['newresinfo_108',['newResInfo',['../classdRes__control__c.html#af7b8ac2248efe2800086441ae9be38b1',1,'dRes_control_c']]],
   ['newresinfo_5f_5f14dres_5fcontrol_5fcfp11dres_5finfo_5fci_109',['newResInfo__14dRes_control_cFP11dRes_info_ci',['../d__resorce_8cpp.html#a8fffe1eaefcd29146ce42a1597dc1ada',1,'d_resorce.cpp']]],
   ['newse_5f_110',['newSe_',['../classJAISeMgr.html#a3b9ec0bdb314b7e2c25a57b37a62ee58',1,'JAISeMgr']]],
   ['newse_5f_5f_5f8jaisemgrfiul_111',['newSe___8JAISeMgrFiUl',['../JAISeMgr_8cpp.html#aa2fd8d83d63f2fce2d4ba53ba68de654',1,'JAISeMgr.cpp']]],
