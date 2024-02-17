@@ -124,7 +124,7 @@ var searchData=
   ['bootthisdol_121',['bootThisDol',['../OSReset_8c.html#ab44038914dc7d78a3ad7c538162ade39',1,'OSReset.c']]],
   ['bordercolor0_122',['bordercolor0',['../d__menu__fmap__map_8cpp.html#a470f4fe0636c68673afc9054326f08a0',1,'borderColor0:&#160;d_menu_fmap_map.cpp'],['../d__map_8cpp.html#a470f4fe0636c68673afc9054326f08a0',1,'borderColor0:&#160;d_map.cpp']]],
   ['bordercolor1_123',['bordercolor1',['../d__menu__fmap__map_8cpp.html#a24ef828e0ab1514b2ebaaca40a05e47e',1,'borderColor1:&#160;d_menu_fmap_map.cpp'],['../d__map_8cpp.html#a24ef828e0ab1514b2ebaaca40a05e47e',1,'borderColor1:&#160;d_map.cpp']]],
-  ['boss_5ftag_124',['boss_tag',['../d__menu__dmap_8cpp.html#aae619f4bafb2059bd2e9720c96f5306c',1,'d_menu_dmap.cpp']]],
+  ['boss_5ftag_124',['boss_tag',['../d__menu__dmap_8cpp.html#aea0fdaf848d42636e92487335ea44f15',1,'d_menu_dmap.cpp']]],
   ['bottletop_125',['bottleTop',['../d__a__alink_8cpp.html#a338b960950835e5dcec7e17c5d4341cf',1,'d_a_alink.cpp']]],
   ['bottletoppos_126',['bottleTopPos',['../d__a__alink_8cpp.html#acb02c353d523e505b66de6eb5cb61afe',1,'d_a_alink.cpp']]],
   ['bound_5f32khz_127',['bound_32KHz',['../ai_8c.html#a57899aafc4bb6440db4539650f877194',1,'ai.c']]],

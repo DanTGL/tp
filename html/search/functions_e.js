@@ -207,7 +207,7 @@ var searchData=
   ['nexttype_5f_5f9dcamera_5fcfl_204',['nextType__9dCamera_cFl',['../d__camera_8cpp.html#acdd08e8d8c88856863348869066bd5d4',1,'d_camera.cpp']]],
   ['nintendoindraw_205',['nintendoInDraw',['../classdScnLogo__c.html#a5afe22bd16dd4396ebcdd293777d59eb',1,'dScnLogo_c']]],
   ['nintendooutdraw_206',['nintendoOutDraw',['../classdScnLogo__c.html#a097b46cf2ec33f93e33d21ecc36e6f4a',1,'dScnLogo_c']]],
-  ['nodeproc_207',['nodeProc',['../structdMsgFlow__c.html#a3248179366126cbb74d2e6421b1df26b',1,'dMsgFlow_c']]],
+  ['nodeproc_207',['nodeProc',['../classdMsgFlow__c.html#a3248179366126cbb74d2e6421b1df26b',1,'dMsgFlow_c']]],
   ['nodeproc_5f_5f10dmsgflow_5fcfp10fopac_5fac_5fcpp10fopac_5fac_5fc_208',['nodeProc__10dMsgFlow_cFP10fopAc_ac_cPP10fopAc_ac_c',['../d__msg__flow_8cpp.html#ac1113dad1d3866ef6fc5012ac13d0562',1,'d_msg_flow.cpp']]],
   ['nofilespacedispinit_209',['noFileSpaceDispInit',['../classdFile__select__c.html#a5541c5c5f6c29b741c634ea824b81c8b',1,'dFile_select_c']]],
   ['nofilespacedispinit_5f_5f14dfile_5fselect_5fcfv_210',['noFileSpaceDispInit__14dFile_select_cFv',['../d__file__select_8cpp.html#afc4f06fe0d8155d5388429370359e407',1,'d_file_select.cpp']]],
