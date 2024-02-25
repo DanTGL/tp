@@ -418,7 +418,7 @@ var searchData=
   ['letter_5fclose_5fproc_5f_5f17dmenu_5fcollect2d_5fcfv_415',['letter_close_proc__17dMenu_Collect2D_cFv',['../d__menu__collect_8cpp.html#a8403f0e7e984f6041e45dacc85019e2b',1,'d_menu_collect.cpp']]],
   ['letter_5fdata_416',['letter_data',['../structdMenu__Letter.html#a6394433a159c142545200e2a975523ba',1,'dMenu_Letter']]],
   ['letter_5fdata_5f_5f12dmenu_5fletter_417',['letter_data__12dmenu_letter',['../d__menu__letter_8cpp.html#ac2bfbfa224d9477a60e58c944cb01e26',1,'letter_data__12dMenu_Letter:&#160;d_menu_letter.cpp'],['../d__meter2__info_8cpp.html#ac2bfbfa224d9477a60e58c944cb01e26',1,'letter_data__12dMenu_Letter:&#160;d_meter2_info.cpp']]],
-  ['letter_5fframe_418',['LETTER_FRAME',['../classdMeter__drawLetterHIO__c.html#af3d6534f80ecd9d52ffdf0b7ec1c2c75a8e2ca2ae9ca215cbfcaf3c435fec5507',1,'dMeter_drawLetterHIO_c']]],
+  ['letter_5fframe_418',['LETTER_FRAME',['../classdMeter__drawLetterHIO__c.html#ad7fe0295772ffb9be69c7c88534bdf9ea8e2ca2ae9ca215cbfcaf3c435fec5507',1,'dMeter_drawLetterHIO_c']]],
   ['letter_5finfo_5fbit_419',['LETTER_INFO_BIT',['../d__save_8h.html#a54347ceb85ca9ecbaad8b3f42bcca65a',1,'d_save.h']]],
   ['letter_5finit_5fcalc_420',['letter_init_calc',['../classdMenu__Letter__c.html#a1746c0304423920efe140762273ee788',1,'dMenu_Letter_c']]],
   ['letter_5finit_5fcalc_5f_5f14dmenu_5fletter_5fcfv_421',['letter_init_calc__14dMenu_Letter_cFv',['../d__menu__letter_8cpp.html#a4f10d1744cb6fc5804f0632060b9d15f',1,'d_menu_letter.cpp']]],
