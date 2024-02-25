@@ -327,7 +327,7 @@ var searchData=
   ['wind_5ftype_5f3_324',['WIND_TYPE_3',['../Z2EnvSeMgr_8h.html#ab8e8b71b471dbb9aeba77602dcf6240aa4ca9a9490458ef81a00d101dca07da41',1,'Z2EnvSeMgr.h']]],
   ['windmodelcallback_325',['windModelCallBack',['../classdaBoomerang__c.html#afffbda2648f096c2e8e754aa5ea1b8f8',1,'daBoomerang_c']]],
   ['window_326',['WINDOW',['../classdMeter__drawSkillHIO__c.html#af0cbb32b12837d33228664bbd71a4af9a49be2ca3b4a130ecbb16a5e3bf4501d2',1,'dMeter_drawSkillHIO_c']]],
-  ['window_5fframe_327',['WINDOW_FRAME',['../classdMeter__drawLetterHIO__c.html#ad7fe0295772ffb9be69c7c88534bdf9ea09d81c86bf36f5d9837b4c20bb8e286a',1,'dMeter_drawLetterHIO_c']]],
+  ['window_5fframe_327',['WINDOW_FRAME',['../classdMeter__drawLetterHIO__c.html#af3d6534f80ecd9d52ffdf0b7ec1c2c75a09d81c86bf36f5d9837b4c20bb8e286a',1,'dMeter_drawLetterHIO_c']]],
   ['windowproc_328',['windowProc',['../classdaBarDesk__c.html#a1a24b7a9f47506c495dd312b0cd76463',1,'daBarDesk_c']]],
   ['windtype_329',['WindType',['../Z2EnvSeMgr_8h.html#ab8e8b71b471dbb9aeba77602dcf6240a',1,'Z2EnvSeMgr.h']]],
   ['wipe_330',['wipe',['../classdStage__nextStage__c.html#a4c244d2924347f86cdfb122b166bac0a',1,'dStage_nextStage_c']]],

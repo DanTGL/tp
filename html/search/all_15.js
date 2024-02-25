@@ -4731,7 +4731,7 @@ var searchData=
   ['sidisablepolling_4728',['sidisablepolling',['../SIBios_8c.html#a7da89bb1deb457edffbb021ec38758f8',1,'SIDisablePolling(u32 poll):&#160;SIBios.c'],['../SIBios_8h.html#a7da89bb1deb457edffbb021ec38758f8',1,'SIDisablePolling(u32 poll):&#160;SIBios.c']]],
   ['sienablepolling_4729',['sienablepolling',['../SIBios_8c.html#a72819a9ed2641b810e4ae3b7ad1ded28',1,'SIEnablePolling(u32 poll):&#160;SIBios.c'],['../SIBios_8h.html#a72819a9ed2641b810e4ae3b7ad1ded28',1,'SIEnablePolling(u32 poll):&#160;SIBios.c']]],
   ['sienablepollinginterrupt_4730',['sienablepollinginterrupt',['../SIBios_8h.html#a8318725e534a1f54a0d6ead2d3e6d8da',1,'SIEnablePollingInterrupt(BOOL enable):&#160;SIBios.h'],['../SIBios_8c.html#a8318725e534a1f54a0d6ead2d3e6d8da',1,'SIEnablePollingInterrupt(BOOL enable):&#160;SIBios.c']]],
-  ['sig_4731',['sig',['../structdecimal.html#aab30a6d5ba1bc6419e83512feb8db8be',1,'decimal']]],
+  ['sig_4731',['sig',['../structdecimal.html#ad3b26af60667d992f901a4a023dd55a6',1,'decimal']]],
   ['sigdiglen_4732',['SIGDIGLEN',['../ansi__fp_8h.html#adf4cd74b9210ba81656da758d70f3cb5',1,'ansi_fp.h']]],
   ['sigetresponse_4733',['sigetresponse',['../SIBios_8h.html#a26458ea13680f50e081bef6a70e11f23',1,'SIGetResponse(s32 chan, void *data):&#160;SIBios.c'],['../SIBios_8c.html#a26458ea13680f50e081bef6a70e11f23',1,'SIGetResponse(s32 chan, void *data):&#160;SIBios.c']]],
   ['sigetresponseraw_4734',['sigetresponseraw',['../SIBios_8h.html#ad911252b8f8533062b05171e9786accc',1,'SIGetResponseRaw(s32 chan):&#160;SIBios.h'],['../SIBios_8c.html#ad911252b8f8533062b05171e9786accc',1,'SIGetResponseRaw(s32 chan):&#160;SIBios.c']]],
