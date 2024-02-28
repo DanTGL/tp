@@ -239,7 +239,7 @@ var searchData=
   ['huge_5fvall_236',['HUGE_VALL',['../dol2asm_8h.html#ab8b359c356d4311bf5d4ae6c03f43182',1,'dol2asm.h']]],
   ['hvy_5fboots_237',['HVY_BOOTS',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2a7f07fa39342c062b1d2902823ad080e2',1,'d_save.h']]],
   ['hylia_5fshield_238',['HYLIA_SHIELD',['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2ab90e6d91fd34a913c583889a6f59b208',1,'d_save.h']]],
-  ['hylian_5fbass_239',['HYLIAN_BASS',['../classdMeter__drawFishingHIO__c.html#a01d9ddec5cfb042d70e6a7d1eacc505ba5e522cf9eab5eda6db5381a20a2e3fff',1,'dMeter_drawFishingHIO_c']]],
-  ['hylian_5floach_240',['HYLIAN_LOACH',['../classdMeter__drawFishingHIO__c.html#a01d9ddec5cfb042d70e6a7d1eacc505ba3660e21f52532c662c322b434f69b3e6',1,'dMeter_drawFishingHIO_c']]],
-  ['hylian_5fpike_241',['HYLIAN_PIKE',['../classdMeter__drawFishingHIO__c.html#a01d9ddec5cfb042d70e6a7d1eacc505ba679d422d6a83272ea1c621308fd45d67',1,'dMeter_drawFishingHIO_c']]]
+  ['hylian_5fbass_239',['HYLIAN_BASS',['../classdMeter__drawFishingHIO__c.html#a4e683c28d0fbbd44a025381fe9f55357a5e522cf9eab5eda6db5381a20a2e3fff',1,'dMeter_drawFishingHIO_c']]],
+  ['hylian_5floach_240',['HYLIAN_LOACH',['../classdMeter__drawFishingHIO__c.html#a4e683c28d0fbbd44a025381fe9f55357a3660e21f52532c662c322b434f69b3e6',1,'dMeter_drawFishingHIO_c']]],
+  ['hylian_5fpike_241',['HYLIAN_PIKE',['../classdMeter__drawFishingHIO__c.html#a4e683c28d0fbbd44a025381fe9f55357a679d422d6a83272ea1c621308fd45d67',1,'dMeter_drawFishingHIO_c']]]
 ];
