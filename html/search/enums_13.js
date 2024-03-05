@@ -11,5 +11,5 @@ var searchData=
   ['teprogress_8',['TEProgress',['../classJStudio_1_1TFunctionValue.html#ab27cc552802dec5fe42041f948af5753',1,'JStudio::TFunctionValue']]],
   ['testatus_9',['TEStatus',['../classJStudio_1_1stb_1_1TObject.html#afa151e80933671d98b73024b86eab140',1,'JStudio::stb::TObject']]],
   ['type_10',['type',['../classdMeter__drawInsectHIO__c.html#a9ecff3b01f861212e86e1496e0e1d49b',1,'dMeter_drawInsectHIO_c::Type'],['../classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486',1,'JKRAramStreamCommand::Type']]],
-  ['type_5fe_11',['type_e',['../classdaObjMGate__c.html#a13ca5533e07abcc4c97cc381e6d87cfe',1,'daObjMGate_c::Type_e'],['../classdaTagHjump__c.html#a30b16f6ca72aed616645c2d8c8abdb65',1,'daTagHjump_c::Type_e']]]
+  ['type_5fe_11',['type_e',['../classdaTbox2__c.html#a636a0d0d685043fd3e430ebf28db9413',1,'daTbox2_c::Type_e'],['../classdaObjMGate__c.html#a13ca5533e07abcc4c97cc381e6d87cfe',1,'daObjMGate_c::Type_e'],['../classdaTagHjump__c.html#a30b16f6ca72aed616645c2d8c8abdb65',1,'daTagHjump_c::Type_e']]]
 ];
