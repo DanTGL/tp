@@ -1495,7 +1495,7 @@ var searchData=
   ['jpaparticle_2ecpp_1492',['JPAParticle.cpp',['../JPAParticle_8cpp.html',1,'']]],
   ['jpaparticle_2eh_1493',['JPAParticle.h',['../JPAParticle_8h.html',1,'']]],
   ['jpaparticlecallback_1494',['jpaparticlecallback',['../classJPAParticleCallBack.html',1,'JPAParticleCallBack'],['../classJPAParticleCallBack.html#a8e69d5297c1205c4fb10589fd2499b0e',1,'JPAParticleCallBack::JPAParticleCallBack()']]],
-  ['jpaptclstts_5finvisible_1495',['JPAPtclStts_Invisible',['../JPAEmitter_8h.html#a7ee8d0f117a79ca7eb1e0076a9182bcbade43f3e85dc6ffde68190ece5ee41da0',1,'JPAEmitter.h']]],
+  ['jpaptclstts_5finvisible_1495',['JPAPtclStts_Invisible',['../JPAEmitter_8h.html#ac34c4c978f4130a92a5068f9e21ea9fcade43f3e85dc6ffde68190ece5ee41da0',1,'JPAEmitter.h']]],
   ['jparandom_1496',['jparandom',['../structJPARandom.html#a10a7b3ea72c1524a932e885a0200bbb4',1,'JPARandom::JPARandom()'],['../structJPARandom.html',1,'JPARandom']]],
   ['jparandom_2eh_1497',['JPARandom.h',['../JPARandom_8h.html',1,'']]],
   ['jparegistalpha_1498',['JPARegistAlpha',['../JPABaseShape_8cpp.html#a48aa0c3514021c3ce8b1a9f7fb609d6a',1,'JPABaseShape.cpp']]],

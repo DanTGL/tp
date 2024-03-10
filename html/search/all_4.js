@@ -479,7 +479,7 @@ var searchData=
   ['byte_476',['byte',['../targimpl_8c.html#a71809484a26cd96c6abe839a0a8a289d',1,'targimpl.c']]],
   ['byte_5forder_477',['byte_order',['../structJStudio_1_1stb_1_1data_1_1THeader.html#a75e0974a3325a04213190a826102e075',1,'JStudio::stb::data::THeader::byte_order'],['../structJStudio_1_1fvb_1_1data_1_1THeader.html#a201a9362ccbc1ccb9fb45c46a8273b37',1,'JStudio::fvb::data::THeader::byte_order']]],
   ['byteorder_478',['byteOrder',['../structJStudio_1_1ctb_1_1data_1_1THeaderData.html#a147809b416a41909a2db252390a5f404',1,'JStudio::ctb::data::THeaderData']]],
-  ['bytes_479',['bytes',['../structJAUAudibleParam.html#afd4a7d2c2b9cee3da96e64263d9ecb40',1,'JAUAudibleParam']]],
+  ['bytes_479',['bytes',['../structJAUAudibleParam.html#ac78e981eb1a83f49790cfc5d9f59e93c',1,'JAUAudibleParam']]],
   ['bytetoxlen_480',['byteToXLen',['../JUTProcBar_8cpp.html#a9215cf33f8a56fd58a6c03412069b325',1,'JUTProcBar.cpp']]],
   ['bzero_481',['bzero',['../structJASCalc.html#ac946a26e7b103e034ac53623dd2d0cf5',1,'JASCalc::bzero(void *, u32)'],['../structJASCalc.html#a193d03c32dae7b84f775de8f035581b9',1,'JASCalc::bzero(void *, u32)']]],
   ['bzero_5f_5f7jascalcfpvul_482',['bzero__7jascalcfpvul',['../JASAiCtrl_8cpp.html#a62421cf3ca91caf08088f49ddf8fdc05',1,'bzero__7JASCalcFPvUl():&#160;JASAiCtrl.cpp'],['../JASBasicBank_8cpp.html#a62421cf3ca91caf08088f49ddf8fdc05',1,'bzero__7JASCalcFPvUl():&#160;JASBasicBank.cpp']]],
