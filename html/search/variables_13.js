@@ -307,7 +307,7 @@ var searchData=
   ['shutdown_5ffunc_304',['shutdown_func',['../structDBCommTable.html#a72408faf424ef24a5b7a9718d012bfae',1,'DBCommTable']]],
   ['si_305',['Si',['../SIBios_8c.html#a311917cefdcf7c3b27c3b69587183220',1,'SIBios.c']]],
   ['sia_306',['SIA',['../structExtended1__PPC__6xx__7xx.html#a7560b388ffff6d0a2af622f36b918f64',1,'Extended1_PPC_6xx_7xx']]],
-  ['sig_307',['sig',['../structdecimal.html#aab30a6d5ba1bc6419e83512feb8db8be',1,'decimal']]],
+  ['sig_307',['sig',['../structdecimal.html#a117591d9436d7f03855f4d66a79cba95',1,'decimal']]],
   ['sign_308',['sign',['../structdecimal.html#ab4586ebf851412b8482526733bc3808d',1,'decimal']]],
   ['sign_5foptions_309',['sign_options',['../structprint__format.html#a66ca13ed057a52693eeeee92769cc9e7',1,'print_format']]],
   ['signal_5ffuncs_310',['signal_funcs',['../signal_8c.html#a19b2ed63daa70fbccd6e0433155f0f75',1,'signal.c']]],

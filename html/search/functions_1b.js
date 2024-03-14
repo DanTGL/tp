@@ -407,7 +407,7 @@ var searchData=
   ['_7edmeterstring_5fc_404',['~dMeterString_c',['../classdMeterString__c.html#a86c98651d0791d6de2e9dbb6bb77d50b',1,'dMeterString_c']]],
   ['_7edmetersub_5fc_405',['~dMeterSub_c',['../classdMeterSub__c.html#a0589218922aebc318278173396854430',1,'dMeterSub_c']]],
   ['_7edmf_5fhio_5fc_406',['~dMf_HIO_c',['../structdMf__HIO__c.html#af04137dd053f092328395bb299e142c2',1,'dMf_HIO_c']]],
-  ['_7edmirror_5fpacket_5fc_407',['~dMirror_packet_c',['../structdMirror__packet__c.html#a7c25c8a2f281dea7ff95dca23d45ab24',1,'dMirror_packet_c']]],
+  ['_7edmirror_5fpacket_5fc_407',['~dMirror_packet_c',['../classdMirror__packet__c.html#a7c25c8a2f281dea7ff95dca23d45ab24',1,'dMirror_packet_c']]],
   ['_7edms_5fhio_5fc_408',['~dMs_HIO_c',['../classdMs__HIO__c.html#aecc46a2d00a2c13e8541d3912aaa1475',1,'dMs_HIO_c']]],
   ['_7edmsgflow_5fc_409',['~dMsgFlow_c',['../classdMsgFlow__c.html#a248c122090065c4a086e7c129d42a27e',1,'dMsgFlow_c']]],
   ['_7edmsgobject_5fhio_5fc_410',['~dMsgObject_HIO_c',['../classdMsgObject__HIO__c.html#adca4cb983def653828867377b4dcab15',1,'dMsgObject_HIO_c']]],
