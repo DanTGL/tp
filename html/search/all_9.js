@@ -5720,7 +5720,7 @@ var searchData=
   ['gxcpvcdhi_5717',['GXCPVCDHi',['../GXEnum_8h.html#a1045790d8ca93f8a8668d2667c2301aa',1,'GXEnum.h']]],
   ['gxcpvcdlo_5718',['GXCPVCDLo',['../GXEnum_8h.html#a4de1fe7ad737074c42c81b037472335f',1,'GXEnum.h']]],
   ['gxcullmode_5719',['GXCullMode',['../GXEnum_8h.html#a8ebd97d771f1498dfbabc1a309411fd1',1,'GXEnum.h']]],
-  ['gxdata_5720',['gxdata',['../GXInit_8c.html#a0c7923dae1f208a24d59107c9f1e8cd9',1,'gxData:&#160;GXInit.c'],['../GXInit_8h.html#a6f1be31bdf6491074a13f515ab26f2bc',1,'GXData:&#160;GXInit.h']]],
+  ['gxdata_5720',['gxdata',['../GXInit_8h.html#a6f1be31bdf6491074a13f515ab26f2bc',1,'GXData:&#160;GXInit.h'],['../GXInit_8c.html#a0c7923dae1f208a24d59107c9f1e8cd9',1,'gxData:&#160;GXInit.c']]],
   ['gxdefaultprojdata_5721',['GXDefaultProjData',['../GXInit_8c.html#ac6c4c2e41b88605c4e517e0add2578e4',1,'GXInit.c']]],
   ['gxdefaultvatlist_5722',['GXDefaultVATList',['../GXInit_8c.html#aaa61808370a3dda69aea8278cd85cd9a',1,'GXInit.c']]],
   ['gxdiffusefn_5723',['GXDiffuseFn',['../GXEnum_8h.html#a5527aa6ec820423661b9651854e98d4e',1,'GXEnum.h']]],
