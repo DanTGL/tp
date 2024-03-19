@@ -103,7 +103,7 @@ var searchData=
   ['l_5ffpcndrq_5fqueue_100',['l_fpcNdRq_Queue',['../f__pc__node__req_8cpp.html#a04ad189e3bbe6a71d597963ba7fb582c',1,'f_pc_node_req.cpp']]],
   ['l_5ffpcpi_5fqueue_101',['l_fpcPi_Queue',['../f__pc__priority_8cpp.html#af7b08399d39573826a79a70c884ec92b',1,'f_pc_priority.cpp']]],
   ['l_5fhalfatnwaitbaseanime_102',['l_halfAtnWaitBaseAnime',['../d__a__alink_8cpp.html#ad47a6e9c3984ffa742964d1bc374f88d',1,'d_a_alink.cpp']]],
-  ['l_5fhio_103',['l_hio',['../d__gameover_8cpp.html#a8e7e81fb61cc506f8a9808f6fc15d15b',1,'l_HIO:&#160;d_gameover.cpp'],['../f__op__actor__mng_8cpp.html#a9096ec522290b1c100c3cec4e9f90af9',1,'l_hio:&#160;f_op_actor_mng.cpp']]],
+  ['l_5fhio_103',['l_hio',['../f__op__actor__mng_8cpp.html#a9096ec522290b1c100c3cec4e9f90af9',1,'l_hio:&#160;f_op_actor_mng.cpp'],['../d__gameover_8cpp.html#a8e7e81fb61cc506f8a9808f6fc15d15b',1,'l_HIO:&#160;d_gameover.cpp']]],
   ['l_5fhorsebaseanime_104',['l_horseBaseAnime',['../d__a__alink_8cpp.html#a932159304c4f97de03a1f9165383860e',1,'d_a_alink.cpp']]],
   ['l_5fhyshdarcname_105',['l_hyShdArcName',['../d__a__alink_8cpp.html#ae4a301b4559035e5010b46353e19479d',1,'d_a_alink.cpp']]],
   ['l_5ficontex0_5f4523_106',['l_iconTex0_4523',['../d__map__path__dmap_8cpp.html#a3c830fb670ba65df7dc1d9c7a4d27e14',1,'d_map_path_dmap.cpp']]],
@@ -3231,5 +3231,5 @@ var searchData=
   ['lower0_3228',['lower0',['../unionJASChannel_1_1MixConfig.html#a9dbdf57a39c0d8aadc468de0c107c90a',1,'JASChannel::MixConfig']]],
   ['lower1_3229',['lower1',['../unionJASChannel_1_1MixConfig.html#a4c7d06613fcc045ead31e6841c077a20',1,'JASChannel::MixConfig']]],
   ['lpsize_3230',['lpSize',['../struct__GXData.html#acb1e891626384843989ce9526409c433',1,'_GXData']]],
-  ['lr_3231',['lr',['../structOSContext.html#a00254ff67d8ee6eec2718c2d47d8031f',1,'OSContext::lr'],['../structTRKState.html#a53698a84e7e152724187591c67035f1f',1,'TRKState::lr'],['../structTRKState__PPC.html#a89ee7f58cc3b60a3c7b8a80bd225c33e',1,'TRKState_PPC::LR'],['../structDefault__PPC.html#a59df8e4ca06b11edc3be052722ac968b',1,'Default_PPC::LR']]]
+  ['lr_3231',['lr',['../structTRKState__PPC.html#a89ee7f58cc3b60a3c7b8a80bd225c33e',1,'TRKState_PPC::LR'],['../structDefault__PPC.html#a59df8e4ca06b11edc3be052722ac968b',1,'Default_PPC::LR'],['../structOSContext.html#a00254ff67d8ee6eec2718c2d47d8031f',1,'OSContext::lr'],['../structTRKState.html#a53698a84e7e152724187591c67035f1f',1,'TRKState::lr']]]
 ];
