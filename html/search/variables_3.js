@@ -133,7 +133,7 @@ var searchData=
   ['count_130',['count',['../structTRKEventQueue.html#a48fe5888fb1a2cd8f7846f5eb66d2624',1,'TRKEventQueue::count'],['../structJGadget_1_1TNodeLinkList.html#aede2042450c7f0cf9906a9fc371aa413',1,'JGadget::TNodeLinkList::count'],['../structXY.html#a0db5c2dbde8da6b4c6ca337b04261923',1,'XY::count'],['../structOSMutex.html#afc77eff74479893289968af3511e1e65',1,'OSMutex::count'],['../structTRKStepStatus.html#a77dc605c993e37cd54d99ce3839f1e1f',1,'TRKStepStatus::count']]],
   ['counterbias_131',['counterBias',['../structOSSram.html#ab75727449808f2a171f4ea545b991527',1,'OSSram']]],
   ['countrycode_132',['countryCode',['../structBI2Debug.html#a3f1ec8354d88f9fb2ce80027f3cecb34',1,'BI2Debug']]],
-  ['counts_133',['counts',['../structlayer__class.html#ad95d9e123c0c04af73135423dbd55081',1,'layer_class']]],
+  ['counts_133',['counts',['../structlayer__class.html#a93a9aef9539359a0730954972c9b2731',1,'layer_class']]],
   ['cp_134',['cp',['../e__pow_8c.html#a8e48af44af5d13f132d1a3af94991ef5',1,'e_pow.c']]],
   ['cp_5fh_135',['cp_h',['../e__pow_8c.html#ad7746e3a9b6227c213fb5f20bbb0d7e2',1,'e_pow.c']]],
   ['cp_5fl_136',['cp_l',['../e__pow_8c.html#adde635d86a6f40c8a76ad99017124b5f',1,'e_pow.c']]],
