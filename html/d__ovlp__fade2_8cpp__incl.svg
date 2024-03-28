@@ -492,9 +492,9 @@ var sectionId = 'dynsection-0';
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="math_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="1829,-80.12 1783.75,-80.12 1783.75,-60.88 1829,-60.88 1829,-80.12"/>
-<text text-anchor="middle" x="1806.38" y="-66.62" font-family="Helvetica,sans-Serif" font-size="10.00">math.h</text>
+<g id="a_Node000012"><a xlink:href="vec_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="2083.25,-80.12 1991.5,-80.12 1991.5,-60.88 2083.25,-60.88 2083.25,-80.12"/>
+<text text-anchor="middle" x="2037.38" y="-66.62" font-family="Helvetica,sans-Serif" font-size="10.00">dolphin/mtx/vec.h</text>
 </a>
 </g>
 </g>
@@ -502,33 +502,33 @@ var sectionId = 'dynsection-0';
 <g id="edge13_Node000011_Node000012" class="edge">
 <title>Node11&#45;&gt;Node12</title>
 <g id="a_edge13_Node000011_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1131.2,-130.91C1276.98,-118.08 1656.16,-84.72 1772.16,-74.51"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1772.3,-78.01 1781.96,-73.65 1771.69,-71.04 1772.3,-78.01"/>
-</a>
-</g>
-</g>
-<!-- Node15 -->
-<g id="Node000015" class="node">
-<title>Node15</title>
-<g id="a_Node000015"><a xlink:href="vec_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="2083.25,-80.12 1991.5,-80.12 1991.5,-60.88 2083.25,-60.88 2083.25,-80.12"/>
-<text text-anchor="middle" x="2037.38" y="-66.62" font-family="Helvetica,sans-Serif" font-size="10.00">dolphin/mtx/vec.h</text>
-</a>
-</g>
-</g>
-<!-- Node11&#45;&gt;Node15 -->
-<g id="edge14_Node000011_Node000015" class="edge">
-<title>Node11&#45;&gt;Node15</title>
-<g id="a_edge14_Node000011_Node000015"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M1130.96,-132.33C1258.44,-124.19 1574.13,-103.89 1838.38,-85.75 1886.02,-82.48 1940.08,-78.6 1979.81,-75.71"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="1979.91,-79.21 1989.63,-75 1979.4,-72.23 1979.91,-79.21"/>
 </a>
 </g>
 </g>
-<!-- Node15&#45;&gt;Node7 -->
-<g id="edge15_Node000015_Node000007" class="edge">
-<title>Node15&#45;&gt;Node7</title>
-<g id="a_edge15_Node000015_Node000007"><a xlink:title=" ">
+<!-- Node13 -->
+<g id="Node000013" class="node">
+<title>Node13</title>
+<g id="a_Node000013"><a xlink:href="math_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="1829,-80.12 1783.75,-80.12 1783.75,-60.88 1829,-60.88 1829,-80.12"/>
+<text text-anchor="middle" x="1806.38" y="-66.62" font-family="Helvetica,sans-Serif" font-size="10.00">math.h</text>
+</a>
+</g>
+</g>
+<!-- Node11&#45;&gt;Node13 -->
+<g id="edge15_Node000011_Node000013" class="edge">
+<title>Node11&#45;&gt;Node13</title>
+<g id="a_edge15_Node000011_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M1131.2,-130.91C1276.98,-118.08 1656.16,-84.72 1772.16,-74.51"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1772.3,-78.01 1781.96,-73.65 1771.69,-71.04 1772.3,-78.01"/>
+</a>
+</g>
+</g>
+<!-- Node12&#45;&gt;Node7 -->
+<g id="edge14_Node000012_Node000007" class="edge">
+<title>Node12&#45;&gt;Node7</title>
+<g id="a_edge14_Node000012_Node000007"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M2083.73,-62.57C2157.74,-51.51 2302.11,-29.94 2379.47,-18.38"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="2379.97,-21.85 2389.34,-16.91 2378.93,-14.92 2379.97,-21.85"/>
 </a>
@@ -698,27 +698,27 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node36&#45;&gt;Node12 -->
-<g id="edge32_Node000036_Node000012" class="edge">
+<g id="edge31_Node000036_Node000012" class="edge">
 <title>Node36&#45;&gt;Node12</title>
-<g id="a_edge32_Node000036_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2004.77,-126.9C1961.27,-114.75 1884.63,-93.35 1840.41,-81"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1841.42,-77.65 1830.84,-78.33 1839.53,-84.39 1841.42,-77.65"/>
-</a>
-</g>
-</g>
-<!-- Node36&#45;&gt;Node15 -->
-<g id="edge31_Node000036_Node000015" class="edge">
-<title>Node36&#45;&gt;Node15</title>
-<g id="a_edge31_Node000036_Node000015"><a xlink:title=" ">
+<g id="a_edge31_Node000036_Node000012"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M2037.38,-127.03C2037.38,-117.98 2037.38,-103.7 2037.38,-91.88"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="2040.88,-91.91 2037.38,-81.91 2033.88,-91.91 2040.88,-91.91"/>
 </a>
 </g>
 </g>
-<!-- Node37&#45;&gt;Node15 -->
-<g id="edge35_Node000037_Node000015" class="edge">
-<title>Node37&#45;&gt;Node15</title>
-<g id="a_edge35_Node000037_Node000015"><a xlink:title=" ">
+<!-- Node36&#45;&gt;Node13 -->
+<g id="edge32_Node000036_Node000013" class="edge">
+<title>Node36&#45;&gt;Node13</title>
+<g id="a_edge32_Node000036_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M2004.77,-126.9C1961.27,-114.75 1884.63,-93.35 1840.41,-81"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1841.42,-77.65 1830.84,-78.33 1839.53,-84.39 1841.42,-77.65"/>
+</a>
+</g>
+</g>
+<!-- Node37&#45;&gt;Node12 -->
+<g id="edge35_Node000037_Node000012" class="edge">
+<title>Node37&#45;&gt;Node12</title>
+<g id="a_edge35_Node000037_Node000012"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M2428.51,-130.44C2353.82,-119.19 2184.15,-93.62 2094.83,-80.16"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="2095.46,-76.71 2085.05,-78.69 2094.42,-83.64 2095.46,-76.71"/>
 </a>
@@ -1103,10 +1103,10 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node120&#45;&gt;Node15 -->
-<g id="edge59_Node000120_Node000015" class="edge">
-<title>Node120&#45;&gt;Node15</title>
-<g id="a_edge59_Node000120_Node000015"><a xlink:title=" ">
+<!-- Node120&#45;&gt;Node12 -->
+<g id="edge59_Node000120_Node000012" class="edge">
+<title>Node120&#45;&gt;Node12</title>
+<g id="a_edge59_Node000120_Node000012"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M1704.26,-193.39C1766.58,-170.59 1929.47,-110.98 2001.84,-84.5"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="2003.04,-87.79 2011.23,-81.07 2000.64,-81.22 2003.04,-87.79"/>
 </a>

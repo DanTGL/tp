@@ -486,9 +486,9 @@
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="math_8h.html" target="_top" xlink:title=" ">
-<polygon fill="#fff0f0" stroke="red" points="718.62,-201.88 673.38,-201.88 673.38,-182.62 718.62,-182.62 718.62,-201.88"/>
-<text text-anchor="middle" x="696" y="-188.38" font-family="Helvetica,sans-Serif" font-size="10.00">math.h</text>
+<g id="a_Node000012"><a xlink:href="vec_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="654.88,-201.88 563.12,-201.88 563.12,-182.62 654.88,-182.62 654.88,-201.88"/>
+<text text-anchor="middle" x="609" y="-188.38" font-family="Helvetica,sans-Serif" font-size="10.00">dolphin/mtx/vec.h</text>
 </a>
 </g>
 </g>
@@ -496,33 +496,33 @@
 <g id="edge18_Node000011_Node000012" class="edge">
 <title>Node11&#45;&gt;Node12</title>
 <g id="a_edge18_Node000011_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M682.08,-243.11C684.56,-234.23 687.76,-222.77 690.47,-213.08"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="693.81,-214.1 693.13,-203.53 687.07,-212.22 693.81,-214.1"/>
-</a>
-</g>
-</g>
-<!-- Node15 -->
-<g id="Node000015" class="node">
-<title>Node15</title>
-<g id="a_Node000015"><a xlink:href="vec_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="654.88,-201.88 563.12,-201.88 563.12,-182.62 654.88,-182.62 654.88,-201.88"/>
-<text text-anchor="middle" x="609" y="-188.38" font-family="Helvetica,sans-Serif" font-size="10.00">dolphin/mtx/vec.h</text>
-</a>
-</g>
-</g>
-<!-- Node11&#45;&gt;Node15 -->
-<g id="edge19_Node000011_Node000015" class="edge">
-<title>Node11&#45;&gt;Node15</title>
-<g id="a_edge19_Node000011_Node000015"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M662.34,-243.11C651.78,-233.24 637.82,-220.19 626.83,-209.92"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="629.24,-207.38 619.54,-203.11 624.46,-212.49 629.24,-207.38"/>
 </a>
 </g>
 </g>
-<!-- Node15&#45;&gt;Node7 -->
-<g id="edge20_Node000015_Node000007" class="edge">
-<title>Node15&#45;&gt;Node7</title>
-<g id="a_edge20_Node000015_Node000007"><a xlink:title=" ">
+<!-- Node13 -->
+<g id="Node000013" class="node">
+<title>Node13</title>
+<g id="a_Node000013"><a xlink:href="math_8h.html" target="_top" xlink:title=" ">
+<polygon fill="#fff0f0" stroke="red" points="718.62,-201.88 673.38,-201.88 673.38,-182.62 718.62,-182.62 718.62,-201.88"/>
+<text text-anchor="middle" x="696" y="-188.38" font-family="Helvetica,sans-Serif" font-size="10.00">math.h</text>
+</a>
+</g>
+</g>
+<!-- Node11&#45;&gt;Node13 -->
+<g id="edge20_Node000011_Node000013" class="edge">
+<title>Node11&#45;&gt;Node13</title>
+<g id="a_edge20_Node000011_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M682.08,-243.11C684.56,-234.23 687.76,-222.77 690.47,-213.08"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="693.81,-214.1 693.13,-203.53 687.07,-212.22 693.81,-214.1"/>
+</a>
+</g>
+</g>
+<!-- Node12&#45;&gt;Node7 -->
+<g id="edge19_Node000012_Node000007" class="edge">
+<title>Node12&#45;&gt;Node7</title>
+<g id="a_edge19_Node000012_Node000007"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M617.97,-182.3C634.73,-166.01 672.5,-131.29 710,-110.5 735.17,-96.55 765.51,-85.69 790.22,-78.18"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="791.09,-81.58 799.69,-75.4 789.11,-74.86 791.09,-81.58"/>
 </a>
@@ -1251,10 +1251,10 @@
 </a>
 </g>
 </g>
-<!-- Node159&#45;&gt;Node15 -->
-<g id="edge85_Node000159_Node000015" class="edge">
-<title>Node159&#45;&gt;Node15</title>
-<g id="a_edge85_Node000159_Node000015"><a xlink:title=" ">
+<!-- Node159&#45;&gt;Node12 -->
+<g id="edge85_Node000159_Node000012" class="edge">
+<title>Node159&#45;&gt;Node12</title>
+<g id="a_edge85_Node000159_Node000012"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M163.75,-541.87C127.41,-524.16 76,-490.59 76,-442.38 76,-442.38 76,-442.38 76,-324.25 76,-287.38 67.25,-267.77 95,-243.5 128.79,-213.95 424.22,-199.88 551.29,-195.16"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="551.31,-198.66 561.18,-194.8 551.05,-191.66 551.31,-198.66"/>
 </a>
