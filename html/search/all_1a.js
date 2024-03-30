@@ -4,7 +4,7 @@ var searchData=
   ['x_5fitem_1',['X_ITEM',['../classdMeter2__c.html#afd73b729adf5a4e6fd00c9c9c627bad6a496bfc546c97625cf8934a60e5f2d4c7',1,'dMeter2_c']]],
   ['x_5fstatus_2',['X_STATUS',['../classdMeter2__c.html#afd73b729adf5a4e6fd00c9c9c627bad6a31efd780efc8b964ad53b3f6c032e07d',1,'dMeter2_c']]],
   ['x_5ftloss_3',['X_TLOSS',['../fdlibm_8h.html#a6b70428222478513f68965b9b7b1d36c',1,'fdlibm.h']]],
-  ['xer_4',['xer',['../structOSContext.html#ac1f012b2474b7bc2dcd4d804ca507d14',1,'OSContext::xer'],['../PPCArch_8h.html#a8c83bf2915bce7cee0be559d5935410d',1,'XER:&#160;PPCArch.h'],['../structTRKState.html#a317466f63f9e5fe1e5e1434d8f51e625',1,'TRKState::xer'],['../structDefault__PPC.html#ab4e0c3ca4f1ad9f9b16b9dbcad5c48e4',1,'Default_PPC::XER'],['../structTRKState__PPC.html#ad6a0f4fd5c366296ef8851e4533cc9b5',1,'TRKState_PPC::XER']]],
+  ['xer_4',['xer',['../structTRKState__PPC.html#ad6a0f4fd5c366296ef8851e4533cc9b5',1,'TRKState_PPC::XER'],['../PPCArch_8h.html#a8c83bf2915bce7cee0be559d5935410d',1,'XER:&#160;PPCArch.h'],['../structDefault__PPC.html#ab4e0c3ca4f1ad9f9b16b9dbcad5c48e4',1,'Default_PPC::XER'],['../structTRKState.html#a317466f63f9e5fe1e5e1434d8f51e625',1,'TRKState::xer'],['../structOSContext.html#ac1f012b2474b7bc2dcd4d804ca507d14',1,'OSContext::xer']]],
   ['xfb_5fheight_5',['xfb_height',['../struct__GXRenderModeObj.html#a63a935dcf80a3dfa4ef527740c0575c8',1,'_GXRenderModeObj']]],
   ['xfb_5fmode_6',['xfb_mode',['../struct__GXRenderModeObj.html#ab266368fa2cfe8646da11acc452b4091',1,'_GXRenderModeObj']]],
   ['xfbmode_7',['xfbMode',['../structVIPositionInfo.html#ae7adc235e9eb1f66a23f937ab651e926',1,'VIPositionInfo']]],
