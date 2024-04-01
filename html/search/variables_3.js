@@ -154,7 +154,7 @@ var searchData=
   ['cpufifo_151',['CPUFifo',['../GXFifo_8c.html#adcbc90a7dd8247e44dc2da2a66a49426',1,'GXFifo.c']]],
   ['cq_5fpatt_152',['CQ_patt',['../classdVibration__c.html#a1d27d928cf160e40baf2f62b3d2bdd12',1,'dVibration_c']]],
   ['cq_5fpatt_5f_5f12dvibration_5fc_153',['CQ_patt__12dVibration_c',['../d__vibration_8cpp.html#aaffd7c1578155707b2f7300c191a9866',1,'d_vibration.cpp']]],
-  ['cr_154',['cr',['../structDefault__PPC.html#a7984812ee9b46193ba74be21de7f2fd6',1,'Default_PPC::CR'],['../structOSContext.html#a634916bc390774995b159293d61dc330',1,'OSContext::cr']]],
+  ['cr_154',['cr',['../structOSContext.html#a634916bc390774995b159293d61dc330',1,'OSContext::cr'],['../structDefault__PPC.html#a7984812ee9b46193ba74be21de7f2fd6',1,'Default_PPC::CR']]],
   ['cr_5fflatwidth_155',['cR_FlatWidth',['../Z2WolfHowlMgr_8cpp.html#af419fac45dc645248b9250e3511f84dc',1,'Z2WolfHowlMgr.cpp']]],
   ['crawloffset_156',['crawlOffset',['../d__a__alink_8cpp.html#a588dada510fab9ac86b5ee77a46cf845',1,'d_a_alink.cpp']]],
   ['createmtd_157',['createMtd',['../structcAPI__Interface.html#a465cb10012366b821114bd09649852db',1,'cAPI_Interface']]],
