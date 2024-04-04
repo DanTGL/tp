@@ -555,10 +555,10 @@ var sectionId = 'dynsection-1';
 </g>
 <text text-anchor="middle" x="799.62" y="-1400.62" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> field_0x8f0</text>
 <text text-anchor="middle" x="799.62" y="-1389.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x8f6</text>
-<text text-anchor="middle" x="799.62" y="-1378.12" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x8fc</text>
-<text text-anchor="middle" x="799.62" y="-1366.88" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x902</text>
-<text text-anchor="middle" x="799.62" y="-1355.62" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x908</text>
-<text text-anchor="middle" x="799.62" y="-1344.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x91a</text>
+<text text-anchor="middle" x="799.62" y="-1378.12" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x908</text>
+<text text-anchor="middle" x="799.62" y="-1366.88" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x91a</text>
+<text text-anchor="middle" x="799.62" y="-1355.62" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mEyeAngle</text>
+<text text-anchor="middle" x="799.62" y="-1344.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mHeadAngle</text>
 </g>
 <!-- Node54&#45;&gt;Node3 -->
 <g id="edge16_Node000003_Node000054" class="edge">
@@ -725,7 +725,7 @@ var sectionId = 'dynsection-1';
 <polygon fill="#9a32cd" stroke="#9a32cd" points="764.95,-584.96 754.51,-586.78 763.81,-591.87 764.95,-584.96"/>
 </a>
 </g>
-<text text-anchor="middle" x="1006.12" y="-603.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> mMcaMorf</text>
+<text text-anchor="middle" x="1006.12" y="-603.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> mpMorf</text>
 </g>
 <!-- Node131&#45;&gt;Node130 -->
 <g id="edge30_Node000130_Node000131" class="edge">
@@ -1206,7 +1206,7 @@ var sectionId = 'dynsection-1';
 <polygon fill="#9a32cd" stroke="#9a32cd" points="1150.26,-759.45 1142.87,-767.04 1153.38,-765.72 1150.26,-759.45"/>
 </a>
 </g>
-<text text-anchor="middle" x="1216.38" y="-738.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> mStts</text>
+<text text-anchor="middle" x="1216.38" y="-738.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> mCcStts</text>
 </g>
 <!-- Node179&#45;&gt;Node178 -->
 <g id="edge68_Node000178_Node000179" class="edge">
@@ -1253,7 +1253,7 @@ var sectionId = 'dynsection-1';
 </a>
 </g>
 <text text-anchor="middle" x="1216.38" y="-171.62" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> field_0x824</text>
-<text text-anchor="middle" x="1216.38" y="-160.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x82c</text>
+<text text-anchor="middle" x="1216.38" y="-160.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mAttnActor</text>
 </g>
 <!-- Node183 -->
 <g id="Node000183" class="node">
