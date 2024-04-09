@@ -335,7 +335,7 @@ var searchData=
   ['bootthisdol_332',['bootThisDol',['../OSReset_8c.html#ab44038914dc7d78a3ad7c538162ade39',1,'OSReset.c']]],
   ['bordercolor0_333',['borderColor0',['../d__menu__fmap__map_8cpp.html#a470f4fe0636c68673afc9054326f08a0',1,'d_menu_fmap_map.cpp']]],
   ['bordercolor1_334',['borderColor1',['../d__menu__fmap__map_8cpp.html#a24ef828e0ab1514b2ebaaca40a05e47e',1,'d_menu_fmap_map.cpp']]],
-  ['boss_5fkey_335',['boss_key',['../structdSv__memBit__c.html#a48ae5b622a7034b0d1600967bab43fb5addc140ece9a60e605fcdd9344585ae22',1,'dSv_memBit_c::BOSS_KEY'],['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2ae5177c3ab4817d6c99577974c512d3cd',1,'BOSS_KEY:&#160;d_save.h']]],
+  ['boss_5fkey_335',['boss_key',['../structdSv__memBit__c.html#aaa96a29adace9bc0d835244ec95bdbc2addc140ece9a60e605fcdd9344585ae22',1,'dSv_memBit_c::BOSS_KEY'],['../d__save_8h.html#a0a48966e59817e2d4685d1f0b44b33f2ae5177c3ab4817d6c99577974c512d3cd',1,'BOSS_KEY:&#160;d_save.h']]],
   ['boss_5flight_336',['BOSS_LIGHT',['../structBOSS__LIGHT.html',1,'']]],
   ['boss_5ftag_337',['boss_tag',['../d__menu__dmap_8cpp.html#aea0fdaf848d42636e92487335ea44f15',1,'d_menu_dmap.cpp']]],
   ['bossaction_338',['BossAction',['../classdaE__PM__c.html#ac7d89bc3436631f0bb3b7e89f39241c0',1,'daE_PM_c']]],
