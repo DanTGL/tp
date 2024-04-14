@@ -420,7 +420,6 @@ var classdPa__control__c =
     [ "setPoly", "classdPa__control__c.html#a3a329afe23d10f501736217bb7733740", null ],
     [ "setPoly", "classdPa__control__c.html#a3a329afe23d10f501736217bb7733740", null ],
     [ "setPoly", "classdPa__control__c.html#a3a329afe23d10f501736217bb7733740", null ],
-    [ "setPoly", "classdPa__control__c.html#a3a329afe23d10f501736217bb7733740", null ],
     [ "setPoly", "classdPa__control__c.html#ac643961f0ae0d352791a1af6074af69b", null ],
     [ "setPoly", "classdPa__control__c.html#a7a568b63a155588e4645230c9710ed14", null ],
     [ "setPoly", "classdPa__control__c.html#a7a568b63a155588e4645230c9710ed14", null ],

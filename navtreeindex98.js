@@ -1,7 +1,5 @@
 var NAVTREEINDEX98 =
 {
-"classJUTConsoleManager.html#a66520abcb4495c8aae7eee770a3ff8fb":[1,1,12,2,11],
-"classJUTConsoleManager.html#a6bc0dcc054e3aa879ea22c9476e7ce8b":[1,1,12,2,1],
 "classJUTConsoleManager.html#a7850fc65f9e6cafe6649e78366e3618b":[1,1,12,2,0],
 "classJUTConsoleManager.html#a99b65999881c632dcc4e28d180335c87":[1,1,12,2,6],
 "classJUTConsoleManager.html#aaceb32a4007a023d02ef478868904010":[1,1,12,2,12],
@@ -249,5 +247,7 @@ var NAVTREEINDEX98 =
 "classJUTProcBar_1_1CTime.html#a3ea2f9e623e1bb5297528303ca5484fc":[1,1,12,21,1,10],
 "classJUTProcBar_1_1CTime.html#a5cbb28f4924d5db604f1e21e4e0ed06e":[1,1,12,21,1,6],
 "classJUTProcBar_1_1CTime.html#a6de64d1be2d36d2f5b03874ddc6a0c48":[1,1,12,21,1,2],
-"classJUTProcBar_1_1CTime.html#a74b7211a153b643eb2a7bb8cf5df2cfb":[1,1,12,21,1,0]
+"classJUTProcBar_1_1CTime.html#a74b7211a153b643eb2a7bb8cf5df2cfb":[1,1,12,21,1,0],
+"classJUTProcBar_1_1CTime.html#a940c10f80c4d1573e150a092981ee835":[1,1,12,21,1,12],
+"classJUTProcBar_1_1CTime.html#aa43f4f0c630b3000eb8a0d334b609ebd":[1,1,12,21,1,8]
 };

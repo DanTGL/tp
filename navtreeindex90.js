@@ -1,7 +1,5 @@
 var NAVTREEINDEX90 =
 {
-"classJAUSoundAnimation.html#ad46b0bcb5f9265ec660b3369f74850bb":[1,1,2,105,1],
-"classJAUSoundAnimationControl.html":[1,1,2,104],
 "classJAUSoundAnimationControl.html#a3a7ce46a473a08b723b091a33f4c285d":[1,1,2,104,2],
 "classJAUSoundAnimationControl.html#a64190370b69d773ead065fc27474193a":[1,1,2,104,1],
 "classJAUSoundAnimationControl.html#af8ea48e23dcc117b9385a2198d6c54dc":[1,1,2,104,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX90 =
 "classJKRAramHeap.html#a4fc79b4f4e4bdc3271bff7a1af7cd1dd":[1,1,5,3,11],
 "classJKRAramHeap.html#a4fdc4fef4a7cbbf5c0302722562abfdb":[1,1,5,3,8],
 "classJKRAramHeap.html#a575220a2d1c1589bc763222a779d0032":[1,1,5,3,17],
-"classJKRAramHeap.html#a5d70785695932b6534bf56afbc0739bd":[1,1,5,3,14]
+"classJKRAramHeap.html#a5d70785695932b6534bf56afbc0739bd":[1,1,5,3,14],
+"classJKRAramHeap.html#a5d75c4d8473db2680c3f9ac102f2a0c7":[1,1,5,3,10],
+"classJKRAramHeap.html#a693bbb78042f6b270b4c50fea796283f":[1,1,5,3,12]
 };

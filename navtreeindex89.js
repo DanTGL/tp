@@ -1,7 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"classJASSeqParser.html#a780627891cce51f49e8db5cbb463c904":[1,1,2,74,63],
-"classJASSeqParser.html#a7df103cd46ede066609edb95b9d26c95":[1,1,2,74,60],
 "classJASSeqParser.html#a8261f6278de20119eaebf916fc91b76d":[1,1,2,74,9],
 "classJASSeqParser.html#a83f26d7057289806edf4f81aaed5bd84":[1,1,2,74,46],
 "classJASSeqParser.html#a867bab52caac93676e1bfd31cf971a73":[1,1,2,74,24],
@@ -249,5 +247,7 @@ var NAVTREEINDEX89 =
 "classJAUSoundAnimation.html#a60b484e45c66c0eca56e2b25463b9658":[1,1,2,105,6],
 "classJAUSoundAnimation.html#a68d2cca6d7c1e0bdca50e4286ec4fec0":[1,1,2,105,4],
 "classJAUSoundAnimation.html#a72cedc1a3ded8aa99d72825f4ccddcf7":[1,1,2,105,0],
-"classJAUSoundAnimation.html#acc289cca1b0dc46d6aa4e8294cf48ac5":[1,1,2,105,2]
+"classJAUSoundAnimation.html#acc289cca1b0dc46d6aa4e8294cf48ac5":[1,1,2,105,2],
+"classJAUSoundAnimation.html#ad46b0bcb5f9265ec660b3369f74850bb":[1,1,2,105,1],
+"classJAUSoundAnimationControl.html":[1,1,2,104]
 };
