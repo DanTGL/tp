@@ -3504,6 +3504,7 @@ var hierarchy =
           [ "econt_class", "classecont__class.html", null ],
           [ "mg_fish_class", "classmg__fish__class.html", null ],
           [ "ni_class", "structni__class.html", null ],
+          [ "npc_ne_class", "classnpc__ne__class.html", null ],
           [ "npc_sq_class", "classnpc__sq__class.html", null ],
           [ "sq_class", "classsq__class.html", null ]
         ] ],
@@ -3525,7 +3526,6 @@ var hierarchy =
         [ "kytag16_class", "classkytag16__class.html", null ],
         [ "kytag17_class", "classkytag17__class.html", null ],
         [ "npc_fish_class", "classnpc__fish__class.html", null ],
-        [ "npc_ne_class", "classnpc__ne__class.html", null ],
         [ "npc_tr_class", "classnpc__tr__class.html", null ],
         [ "obj_fmobj_class", "classobj__fmobj__class.html", null ],
         [ "obj_fw_class", "classobj__fw__class.html", null ],

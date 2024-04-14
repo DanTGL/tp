@@ -564,6 +564,7 @@ var structdaPy__py__c =
     [ "getWolfBackbone2Matrix", "structdaPy__py__c.html#a91d062b8c3bed9a9bce21d4c627dfd5f", null ],
     [ "getWolfHowlMgrP", "structdaPy__py__c.html#ac69bdc53410a89ce603327a7436268d7", null ],
     [ "getWolfMouthMatrix", "structdaPy__py__c.html#a0a8c624267882eabbf3bd8e07265b5cd", null ],
+    [ "i_changeDemoParam2", "structdaPy__py__c.html#a798c0c053a79069a2089f207193e12f5", null ],
     [ "i_checkFirstMidnaDemo", "structdaPy__py__c.html#acd6c1e0ada3556b675975fde986bec6f", null ],
     [ "i_checkNowWolf", "structdaPy__py__c.html#a929a6ae0442f33a7b02c91f52d7a10e8", null ],
     [ "i_checkShieldGet", "structdaPy__py__c.html#a4a09678083b5bb1f227b029c20a60218", null ],
