@@ -790,7 +790,6 @@ var classdEvent__manager__c =
     [ "getRunEventName", "classdEvent__manager__c.html#a0afdfc16f3badf99cb58dbbfdfc3007b", null ],
     [ "getRunEventName", "classdEvent__manager__c.html#a0afdfc16f3badf99cb58dbbfdfc3007b", null ],
     [ "getRunEventName", "classdEvent__manager__c.html#a0afdfc16f3badf99cb58dbbfdfc3007b", null ],
-    [ "getRunEventName", "classdEvent__manager__c.html#a0afdfc16f3badf99cb58dbbfdfc3007b", null ],
     [ "getSubstance", "classdEvent__manager__c.html#a74a0a7ce77463e7f22ff12cdcd8f6821", null ],
     [ "getTypeCompositId", "classdEvent__manager__c.html#a85f7b4497ea373888140e30065da19ef", null ],
     [ "isMapToolCamera", "classdEvent__manager__c.html#ab21e1bf1e0c6f4aa19e36104d464ff42", null ],

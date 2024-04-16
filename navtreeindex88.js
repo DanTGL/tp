@@ -1,11 +1,5 @@
 var NAVTREEINDEX88 =
 {
-"classJASAramStream.html#a5b4110d5e73165d6eb357349839e05c1":[1,1,2,35,82],
-"classJASAramStream.html#a5b4ad25d393800d8d7cc80df40f1c2e7":[1,1,2,35,34],
-"classJASAramStream.html#a5b85d4b757528cb9b4eb32125b1773d0":[1,1,2,35,88],
-"classJASAramStream.html#a5beca57614794818afad55c7b225d475":[1,1,2,35,83],
-"classJASAramStream.html#a5dbbd5d473626e74b5b78f59e9f86b84":[1,1,2,35,69],
-"classJASAramStream.html#a5f446e4628d7c9a3340dc6c5b437898d":[1,1,2,35,7],
 "classJASAramStream.html#a60f8e519caeab0f9590551f888c668e4":[1,1,2,35,14],
 "classJASAramStream.html#a63cdefd08d816314415b6ec3cfdd702c":[1,1,2,35,62],
 "classJASAramStream.html#a6afc76f40209ff4556a9ae45cc303942":[1,1,2,35,3],
@@ -249,5 +243,11 @@ var NAVTREEINDEX88 =
 "classJASSeqParser.html#a7df103cd46ede066609edb95b9d26c95":[1,1,2,74,60],
 "classJASSeqParser.html#a8261f6278de20119eaebf916fc91b76d":[1,1,2,74,9],
 "classJASSeqParser.html#a83f26d7057289806edf4f81aaed5bd84":[1,1,2,74,46],
-"classJASSeqParser.html#a867bab52caac93676e1bfd31cf971a73":[1,1,2,74,24]
+"classJASSeqParser.html#a867bab52caac93676e1bfd31cf971a73":[1,1,2,74,24],
+"classJASSeqParser.html#a8d1bd972753a05b6ffad063fc98b9050":[1,1,2,74,71],
+"classJASSeqParser.html#a8d5166d98d41a834071ffe0ee27023df":[1,1,2,74,49],
+"classJASSeqParser.html#a8fa275db00b4cb671f033c19ac94a423":[1,1,2,74,53],
+"classJASSeqParser.html#a91dd7421151880604cc771b8e3973b6a":[1,1,2,74,11],
+"classJASSeqParser.html#a928ea0de8fac0d177302c2be35d8589f":[1,1,2,74,66],
+"classJASSeqParser.html#a94e12e15cf91b319405e5b4ba731880e":[1,1,2,74,64]
 };
