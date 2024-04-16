@@ -1,9 +1,5 @@
 var NAVTREEINDEX192 =
 {
-"classdSv__memory__c.html#a65755cd210ba92d5cc01be372ac67809":[3,0,1902,1],
-"classdSv__memory__c.html#a8fca799fa85a399dcea4dd2160c46060":[3,0,1902,0],
-"classdSv__memory__c.html#acee11dfddeb3f9bd149ffe63ed688b0e":[3,0,1902,3],
-"classdSv__player__c.html":[3,0,1904],
 "classdSv__player__c.html#a0a20554243c1c30496c4b43095ef7e76":[3,0,1904,21],
 "classdSv__player__c.html#a0b0a20565e6a5141ed65e081c2d82fb8":[3,0,1904,14],
 "classdSv__player__c.html#a102d28c3865e56f94ee1530e267a3628":[3,0,1904,18],
@@ -42,8 +38,8 @@ var NAVTREEINDEX192 =
 "classdSv__player__collect__c.html#a0600695eae4f33e95231a15f25dd822a":[3,0,1905,13],
 "classdSv__player__collect__c.html#a0d03d608a61446cc8a269968b5b3c2db":[3,0,1905,0],
 "classdSv__player__collect__c.html#a11e79281900954159841c437fba44e52":[3,0,1905,16],
-"classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,3],
 "classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,6],
+"classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,3],
 "classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,4],
 "classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,5],
 "classdSv__player__collect__c.html#a2f826c2c5aa54edf87a492acfecacf1c":[3,0,1905,15],
@@ -249,5 +245,9 @@ var NAVTREEINDEX192 =
 "classdSv__player__status__a__c.html#add899924c3220e89f20e714cf4d45b1e":[3,0,1915,37],
 "classdSv__player__status__a__c.html#ae27f44b0bbe87b38cb87e0bbf3d76ae0":[3,0,1915,15],
 "classdSv__player__status__a__c.html#ae34884806d68cb0d1ac0b8e22d79c358":[3,0,1915,42],
-"classdSv__player__status__a__c.html#ae3545050aa7768a8cae3f7f50d70e530":[3,0,1915,14]
+"classdSv__player__status__a__c.html#ae3545050aa7768a8cae3f7f50d70e530":[3,0,1915,14],
+"classdSv__player__status__a__c.html#ae6204c30a37c92298739102717aaa31f":[3,0,1915,26],
+"classdSv__player__status__a__c.html#aec5c75c4bd434798cd0a2e98a52a27dc":[3,0,1915,4],
+"classdSv__player__status__b__c.html":[3,0,1916],
+"classdSv__player__status__b__c.html#a09fb116bbf9c18e28da6d0f3747cadf6":[3,0,1916,9]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"classdaE__YM__c.html#ad081cd8b816294791cd5486c0ac1a677af6199f083dd5e81eddff945d453688dd":[1,0,1,27,0,9],
-"classdaE__YM__c.html#ad081cd8b816294791cd5486c0ac1a677aff6bed5a3c9053dce251dbbc05a2c2cc":[1,0,1,27,0,10],
-"classdaE__YM__c.html#ad1d1a6b558482bd40e62628c5ff6764f":[1,0,1,27,92],
-"classdaE__YM__c.html#ad243fb921a96b00336e0b7569e5b7179":[1,0,1,27,106],
 "classdaE__YM__c.html#ad2889569025e79cf08a05d9ea92f7182":[1,0,1,27,64],
 "classdaE__YM__c.html#ad4789bbacf36226edb92d5ce4c268316":[1,0,1,27,66],
 "classdaE__YM__c.html#ad56cc0877a6c84f8f76f1f7438b6cdad":[1,0,1,27,155],
@@ -249,5 +245,9 @@ var NAVTREEINDEX227 =
 "classdaHoZelda__c.html#a20e977c4a58c3d5de4a3aef00c8e4093":[3,0,650,73],
 "classdaHoZelda__c.html#a22f7a6effb863dd570d6cd8a0fc143d3":[3,0,650,6],
 "classdaHoZelda__c.html#a2471b3dae1f52f67b005f8fc14b6e764":[3,0,650,31],
-"classdaHoZelda__c.html#a2e7081430ef62a8bed1f5a04732d164e":[3,0,650,4]
+"classdaHoZelda__c.html#a2e7081430ef62a8bed1f5a04732d164e":[3,0,650,4],
+"classdaHoZelda__c.html#a38dc8bacd236afcd1aad9101adca4a42":[3,0,650,10],
+"classdaHoZelda__c.html#a3ba65736f2c817644e9dd24937e23a94":[3,0,650,23],
+"classdaHoZelda__c.html#a44400ca8b1c8090582e5b773e7ccd000":[3,0,650,75],
+"classdaHoZelda__c.html#a47774e324e46c87e973457ddcc3f2152":[3,0,650,58]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX260 =
 {
-"classdaNpcWrestler__c.html#a7c2f552e3ccc40317076ea213af2a512":[3,0,985,48],
-"classdaNpcWrestler__c.html#a7c82ba53441f72df7bc42087a955cd26":[3,0,985,95],
-"classdaNpcWrestler__c.html#a7f6f360d92f4a013c9bb80099cfd6b7c":[3,0,985,16],
-"classdaNpcWrestler__c.html#a7f6f360d92f4a013c9bb80099cfd6b7c":[3,0,985,15],
 "classdaNpcWrestler__c.html#a7fbd04c9bfd83561c098ea3560958fa2":[3,0,985,53],
 "classdaNpcWrestler__c.html#a7fd0c820fc4637394bcad44dee1c391f":[3,0,985,3],
 "classdaNpcWrestler__c.html#a80fd1b20f7ecc4467aaa3c7036460c6c":[3,0,985,33],
@@ -66,8 +62,8 @@ var NAVTREEINDEX260 =
 "classdaNpcWrestler__c.html#af555acd68ac27f4c34bfd0b56f09a479":[3,0,985,67],
 "classdaNpcWrestler__c.html#af69898b65d39f20eb7af16f8c9892bf1":[3,0,985,92],
 "classdaNpcWrestler__c.html#af8ed680f284d2b0276c46f83ea572e08":[3,0,985,18],
-"classdaNpcWrestler__c.html#af9293c75caac351279a1fce2ec20b2ec":[3,0,985,52],
 "classdaNpcWrestler__c.html#af9293c75caac351279a1fce2ec20b2ec":[3,0,985,51],
+"classdaNpcWrestler__c.html#af9293c75caac351279a1fce2ec20b2ec":[3,0,985,52],
 "classdaNpcWrestler__c.html#af9cdb53be3e4409e0b25de2e43670ee7":[3,0,985,44],
 "classdaNpcWrestler__c.html#afb1b583272789ae681451237e3a52dd5":[3,0,985,2],
 "classdaNpcWrestler__c.html#afbc45db4b01e59e023d41f854bc18213":[3,0,985,37],
@@ -104,8 +100,8 @@ var NAVTREEINDEX260 =
 "classdaNpc__GWolf__c.html#a39cd851323b7cf4e3d46884064cdc48f":[3,0,784,19],
 "classdaNpc__GWolf__c.html#a43ac88ed7748028dfee2113d7d5d653d":[3,0,784,9],
 "classdaNpc__GWolf__c.html#a4b6d3a0acb6a2e7542c81a35b62953e9":[3,0,784,54],
-"classdaNpc__GWolf__c.html#a51b5e28b7e493dbab4b85512348e1d80":[3,0,784,69],
 "classdaNpc__GWolf__c.html#a51b5e28b7e493dbab4b85512348e1d80":[3,0,784,68],
+"classdaNpc__GWolf__c.html#a51b5e28b7e493dbab4b85512348e1d80":[3,0,784,69],
 "classdaNpc__GWolf__c.html#a5ac451dd19e0d79ee5cf1dbc56f87a4f":[3,0,784,11],
 "classdaNpc__GWolf__c.html#a5ce9a7acdf03b2ab76daa859efb40f71":[3,0,784,16],
 "classdaNpc__GWolf__c.html#a5d35f31940a25db25bc45e7b92fd5c79":[3,0,784,35],
@@ -249,5 +245,9 @@ var NAVTREEINDEX260 =
 "classdaObjBossWarp__c.html#a01720a2f5cda1539ff067d6f2156d819":[3,0,1078,46],
 "classdaObjBossWarp__c.html#a04be2621702e46131016d42b0bd50c69":[3,0,1078,38],
 "classdaObjBossWarp__c.html#a06c09fb4cf1fe6c13e1ce102ca45e6bb":[3,0,1078,5],
-"classdaObjBossWarp__c.html#a0e10b84ee3e41368ab722eab0be7a856":[3,0,1078,7]
+"classdaObjBossWarp__c.html#a0e10b84ee3e41368ab722eab0be7a856":[3,0,1078,7],
+"classdaObjBossWarp__c.html#a1161d497314318fd8b7599443d4f3f72":[3,0,1078,43],
+"classdaObjBossWarp__c.html#a12c3efa0dc5bc54a9d40fbfc8c9925ec":[3,0,1078,39],
+"classdaObjBossWarp__c.html#a14d1457640666e2ccc0ba2f7c0071edc":[3,0,1078,12],
+"classdaObjBossWarp__c.html#a15120ba0b24d11acf5fdc3e29cb1692a":[3,0,1078,52]
 };

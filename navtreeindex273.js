@@ -1,9 +1,5 @@
 var NAVTREEINDEX273 =
 {
-"classdaTagAJnot__c.html#aa8982252934d44b2ccea24ce0cb42567":[3,0,1354,1],
-"classdaTagArena__c.html":[3,0,1355],
-"classdaTagArena__c.html#a411f1edec3f6d1289c08689b106bb73d":[3,0,1355,0],
-"classdaTagArena__c.html#af11fc8e7dc9dc36f21409354b4c18063":[3,0,1355,1],
 "classdaTagAssist__c.html":[3,0,1356],
 "classdaTagAssist__c.html#a41af0e1286f4e8d5b3aca090e2b000ff":[3,0,1356,0],
 "classdaTagAssist__c.html#a65f8a5d83a3ce857b590a89d92f014fc":[3,0,1356,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX273 =
 "classdaTagLv7Gate__c.html#ade2bc17e49e21666dbce4531039e93bb":[3,0,1374,15],
 "classdaTagLv7Gate__c.html#af156967fbcc468d64a243133ad05a180":[3,0,1374,11],
 "classdaTagLv7Gate__c.html#af933fb015a829d69aa84a656b6c79c8a":[3,0,1374,12],
-"classdaTagLv8Gate__c.html":[3,0,1375]
+"classdaTagLv8Gate__c.html":[3,0,1375],
+"classdaTagLv8Gate__c.html#a00651245d7fb899e48ede3d88bb6e9e0":[3,0,1375,9],
+"classdaTagLv8Gate__c.html#a0470653d78cb9aa041b93d39f488781f":[3,0,1375,3],
+"classdaTagLv8Gate__c.html#a04efd2791391511c70994f52ff56b8f9":[3,0,1375,11],
+"classdaTagLv8Gate__c.html#a05668a4f2852a528bb7362b4faa07fe9":[3,0,1375,2]
 };

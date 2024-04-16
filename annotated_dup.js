@@ -1547,7 +1547,7 @@ var annotated_dup =
     [ "daTag_BottleItem_c", "classdaTag__BottleItem__c.html", "classdaTag__BottleItem__c" ],
     [ "daTag_Cam_c", "structdaTag__Cam__c.html", "structdaTag__Cam__c" ],
     [ "daTag_Chk_c", "classdaTag__Chk__c.html", "classdaTag__Chk__c" ],
-    [ "daTag_Event_c", "structdaTag__Event__c.html", "structdaTag__Event__c" ],
+    [ "daTag_Event_c", "classdaTag__Event__c.html", "classdaTag__Event__c" ],
     [ "daTag_Evt_c", "classdaTag__Evt__c.html", "classdaTag__Evt__c" ],
     [ "daTag_EvtArea_c", "classdaTag__EvtArea__c.html", "classdaTag__EvtArea__c" ],
     [ "daTag_EvtMsg_c", "classdaTag__EvtMsg__c.html", "classdaTag__EvtMsg__c" ],
