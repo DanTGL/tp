@@ -1,8 +1,5 @@
 var NAVTREEINDEX90 =
 {
-"classJAUSoundAnimationControl.html#a3a7ce46a473a08b723b091a33f4c285d":[1,1,2,104,2],
-"classJAUSoundAnimationControl.html#a64190370b69d773ead065fc27474193a":[1,1,2,104,1],
-"classJAUSoundAnimationControl.html#af8ea48e23dcc117b9385a2198d6c54dc":[1,1,2,104,0],
 "classJAUSoundAnimationSound.html":[1,1,2,103],
 "classJAUSoundAnimationSound.html#a05f3a35d1dc5bb2e0ea6fc5533192225":[1,1,2,103,4],
 "classJAUSoundAnimationSound.html#a0ca38f88a7f49b97be1fa7ab4f98e52f":[1,1,2,103,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX90 =
 "classJKRAramHeap.html#a575220a2d1c1589bc763222a779d0032":[1,1,5,3,17],
 "classJKRAramHeap.html#a5d70785695932b6534bf56afbc0739bd":[1,1,5,3,14],
 "classJKRAramHeap.html#a5d75c4d8473db2680c3f9ac102f2a0c7":[1,1,5,3,10],
-"classJKRAramHeap.html#a693bbb78042f6b270b4c50fea796283f":[1,1,5,3,12]
+"classJKRAramHeap.html#a693bbb78042f6b270b4c50fea796283f":[1,1,5,3,12],
+"classJKRAramHeap.html#a6aa618b5debc1f83c861926e7ce56659":[1,1,5,3,15],
+"classJKRAramHeap.html#a6d1231ded381148e62e1e7bf73d94d44":[1,1,5,3,3],
+"classJKRAramHeap.html#a7c080b0f21c5ca4e83673ad041adc4e6":[1,1,5,3,2]
 };

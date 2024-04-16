@@ -252,7 +252,7 @@ var classZ2SeqMgr =
     [ "mFanfareHandle", "classZ2SeqMgr.html#a7ae7450402adfb4a4464522cf81e470f", null ],
     [ "mFanfareID", "classZ2SeqMgr.html#aa53b8787dc1d789e1542184714392ba3", null ],
     [ "mFanfareMute", "classZ2SeqMgr.html#a1e80536b95331ece5e1d8389f8cac6c2", null ],
-    [ "mFlags", "classZ2SeqMgr.html#a051e2668197911a056a84029e6019edd", null ],
+    [ "mFlags", "classZ2SeqMgr.html#aba52f7827bcd6442345ec4518f0f405a", null ],
     [ "mMainBgmHandle", "classZ2SeqMgr.html#a170d7cc6cd41678d5186df2acb9c7d85", null ],
     [ "mMainBgmMaster", "classZ2SeqMgr.html#a1e3b87debac3c45b95865a8764022fbb", null ],
     [ "mRideCount", "classZ2SeqMgr.html#adbef02eb052a45481ec5d61871ff0d23", null ],

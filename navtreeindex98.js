@@ -1,8 +1,5 @@
 var NAVTREEINDEX98 =
 {
-"classJUTConsoleManager.html#a7850fc65f9e6cafe6649e78366e3618b":[1,1,12,2,0],
-"classJUTConsoleManager.html#a99b65999881c632dcc4e28d180335c87":[1,1,12,2,6],
-"classJUTConsoleManager.html#aaceb32a4007a023d02ef478868904010":[1,1,12,2,12],
 "classJUTConsoleManager.html#ab6241f5c00b2179f2e7552b5e97ae1d7":[1,1,12,2,13],
 "classJUTConsoleManager.html#abeb88a84c578b3b438eaaafdd4ef1195":[1,1,12,2,7],
 "classJUTConsoleManager.html#ad3cd95279b2b3ed9d3a467cf8114b37c":[1,1,12,2,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX98 =
 "classJUTProcBar_1_1CTime.html#a6de64d1be2d36d2f5b03874ddc6a0c48":[1,1,12,21,1,2],
 "classJUTProcBar_1_1CTime.html#a74b7211a153b643eb2a7bb8cf5df2cfb":[1,1,12,21,1,0],
 "classJUTProcBar_1_1CTime.html#a940c10f80c4d1573e150a092981ee835":[1,1,12,21,1,12],
-"classJUTProcBar_1_1CTime.html#aa43f4f0c630b3000eb8a0d334b609ebd":[1,1,12,21,1,8]
+"classJUTProcBar_1_1CTime.html#aa43f4f0c630b3000eb8a0d334b609ebd":[1,1,12,21,1,8],
+"classJUTProcBar_1_1CTime.html#ac78e455df55d8f1976e78cfc285e476f":[1,1,12,21,1,3],
+"classJUTProcBar_1_1CTime.html#ac9f815bedc8b62a8443b35f7241474c1":[1,1,12,21,1,9],
+"classJUTProcBar_1_1CTime.html#ad2100a970960e582faab7366a82f75ba":[1,1,12,21,1,4]
 };
