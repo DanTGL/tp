@@ -3024,7 +3024,7 @@ var annotated_dup =
     [ "obj_brg_class", "structobj__brg__class.html", null ],
     [ "obj_cb_class", "structobj__cb__class.html", null ],
     [ "obj_fmobj_class", "classobj__fmobj__class.html", "classobj__fmobj__class" ],
-    [ "obj_food_class", "structobj__food__class.html", null ],
+    [ "obj_food_class", "classobj__food__class.html", "classobj__food__class" ],
     [ "obj_fw_class", "classobj__fw__class.html", "classobj__fw__class" ],
     [ "obj_gb_class", "structobj__gb__class.html", null ],
     [ "obj_gm_class", "structobj__gm__class.html", null ],

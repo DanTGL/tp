@@ -668,7 +668,6 @@ var structdaPy__py__c =
     [ "skipPortalObjWarp", "structdaPy__py__c.html#afae72c0ffd22b4c45485b3173d146534", null ],
     [ "voiceStart", "structdaPy__py__c.html#aab58aee57f2adf3518971fb1a5ba2bbe", null ],
     [ "wolfGrabSubjectNoDraw", "structdaPy__py__c.html#ac4d5ef66d52e5b5fc584158e5ffd89a6", null ],
-    [ "wolfGrabSubjectNoDraw", "structdaPy__py__c.html#a86c77ca182ce43b82a0de80370096de9", null ],
     [ "field_0x56b", "structdaPy__py__c.html#aea78e01c641563c21c9e9b94af5e7cd5", null ],
     [ "field_0x594", "structdaPy__py__c.html#adf8c39daca97103b73ffafe717027564", null ],
     [ "field_0x598", "structdaPy__py__c.html#a0b48b918eeb7ee6ee2ee1b4a163379a5", null ],
