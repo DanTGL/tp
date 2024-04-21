@@ -330,8 +330,6 @@ var structdCcD__GObjInf =
     [ "dCcD_GObjInf", "structdCcD__GObjInf.html#a35feedbca83cd55f394d00f90445bc06", null ],
     [ "dCcD_GObjInf", "structdCcD__GObjInf.html#a35feedbca83cd55f394d00f90445bc06", null ],
     [ "~dCcD_GObjInf", "structdCcD__GObjInf.html#a05bef73513f25cf3219ee19c8139c607", null ],
-    [ "dCcD_GObjInf", "structdCcD__GObjInf.html#a35feedbca83cd55f394d00f90445bc06", null ],
-    [ "~dCcD_GObjInf", "structdCcD__GObjInf.html#a05bef73513f25cf3219ee19c8139c607", null ],
     [ "ChkAtEffCounter", "structdCcD__GObjInf.html#a078b9ff957e75d3b8b7b30cdcf4424c2", null ],
     [ "ChkAtHit", "structdCcD__GObjInf.html#a8f4389e4dfd49928724a5db850010dfc", null ],
     [ "ChkAtHit", "structdCcD__GObjInf.html#ab1e8fa20600a467b94aed82704df4a63", null ],

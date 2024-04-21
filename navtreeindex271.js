@@ -1,5 +1,16 @@
 var NAVTREEINDEX271 =
 {
+"classdaPy__boomerangMove__c.html#abd77f58df48af702c2569c5d79d573ad":[3,0,1287,33],
+"classdaPy__boomerangMove__c.html#abd77f58df48af702c2569c5d79d573ad":[3,0,1287,35],
+"classdaPy__boomerangMove__c.html#adb45093db0e12fa6ab9babead3e68b23":[3,0,1287,32],
+"classdaPy__demo__c.html":[3,0,1288],
+"classdaPy__demo__c.html#a03240e01aada31014f7f0a53b8d6b185":[3,0,1288,2],
+"classdaPy__demo__c.html#a09ac216fba463eb9326b7d97c917e54e":[3,0,1288,3],
+"classdaPy__demo__c.html#a14951074db8a4d080dd0596b1e951566":[3,0,1288,31],
+"classdaPy__demo__c.html#a25aaa1f2b0c4ae01b4b6fae7debe3f7e":[3,0,1288,32],
+"classdaPy__demo__c.html#a265850a5268f785831aa7b5340908782":[3,0,1288,22],
+"classdaPy__demo__c.html#a2672f1ae6a8653e43ed38b274c3147e2":[3,0,1288,20],
+"classdaPy__demo__c.html#a31e1988a4fda81a1c4d847c70525885d":[3,0,1288,28],
 "classdaPy__demo__c.html#a3278a9d94bb9d7cd64a0c674baa03222":[3,0,1288,17],
 "classdaPy__demo__c.html#a3470977eaca15fc79c31be3b371635ce":[3,0,1288,10],
 "classdaPy__demo__c.html#a3742fd118652b71df8c520a946e380ce":[3,0,1288,16],
@@ -238,16 +249,5 @@ var NAVTREEINDEX271 =
 "classdaSpinner__c.html#a104c01f4086812fbc7d9b8bdff9d53d2":[1,0,2,3,69],
 "classdaSpinner__c.html#a154abf911bc81abae88131f17ef8f96f":[1,0,2,3,10],
 "classdaSpinner__c.html#a16fa3bb7dc5ac121cff2463860f98b7d":[1,0,2,3,60],
-"classdaSpinner__c.html#a17e1d1a5075677ca1b44a21857619e71":[1,0,2,3,41],
-"classdaSpinner__c.html#a1e00ce676b7e5f3d051071d44c833250":[1,0,2,3,65],
-"classdaSpinner__c.html#a21c5fd840efac087fd71094851df9bc6":[1,0,2,3,52],
-"classdaSpinner__c.html#a2212b21a9c5262e11cb8461679f0ae19":[1,0,2,3,24],
-"classdaSpinner__c.html#a284048050b419085ff564da173d72357":[1,0,2,3,32],
-"classdaSpinner__c.html#a2d190559f53afeab3288675aa87d3de7":[1,0,2,3,54],
-"classdaSpinner__c.html#a343a58c76b20be2d839d10a0e9a9e0ca":[1,0,2,3,19],
-"classdaSpinner__c.html#a34c29031d3c53d3c3efe54807f0b4fd3":[1,0,2,3,5],
-"classdaSpinner__c.html#a3705636f7f143eca7b63ce1d8e847787":[1,0,2,3,34],
-"classdaSpinner__c.html#a39fd5d856c88ab12e917a431ef974913":[1,0,2,3,3],
-"classdaSpinner__c.html#a418a66278be9daa29f24fb2d31b62f93":[1,0,2,3,33],
-"classdaSpinner__c.html#a451c1b29757340773352a270d9b323d4":[1,0,2,3,56]
+"classdaSpinner__c.html#a17e1d1a5075677ca1b44a21857619e71":[1,0,2,3,41]
 };

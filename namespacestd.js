@@ -15,6 +15,7 @@ var namespacestd =
     [ "numeric_limits< unsigned short >", "classstd_1_1numeric__limits_3_01unsigned_01short_01_4.html", "classstd_1_1numeric__limits_3_01unsigned_01short_01_4" ],
     [ "pair", "structstd_1_1pair.html", "structstd_1_1pair" ],
     [ "__msl_error", "namespacestd.html#a90c9c7c41b0c8f13fa2071c2e52910fa", null ],
+    [ "abs", "namespacestd.html#a939c32735607902ad2470109fb42431d", null ],
     [ "advance", "namespacestd.html#a9c2923ee94f13ee596bca0597c6315f6", null ],
     [ "advance_pointer", "namespacestd.html#afda64b5b39740e2895f196c18d8c253e", null ],
     [ "copy", "namespacestd.html#a38eee0a33c6ef400fd55de76501a38a2", null ],

@@ -4239,9 +4239,10 @@ var group__jsystem_j3d =
       [ "mTexMtxReg", "structJ3DTexCoord.html#a872b99007c8ded31902d7bdd30e7f277", null ]
     ] ],
     [ "J3DTransformInfo", "structJ3DTransformInfo.html", [
-      [ "mRotation", "structJ3DTransformInfo.html#a4f15b8760b4a1c371e3857ae20d648c2", null ],
-      [ "mScale", "structJ3DTransformInfo.html#ae2391daa11f4a72197a69000e71971d2", null ],
-      [ "mTranslate", "structJ3DTransformInfo.html#ae42f076d71f10931899365537d0468bd", null ]
+      [ "operator=", "structJ3DTransformInfo.html#a762eadb4d32b75ae26939fbc9999f0c7", null ],
+      [ "mRotation", "structJ3DTransformInfo.html#ae2bfa65398bccd919fbaf6a1c4c26b7a", null ],
+      [ "mScale", "structJ3DTransformInfo.html#a266cd452a37a8300efeac02933bdefa7", null ],
+      [ "mTranslate", "structJ3DTransformInfo.html#a402a8d9f3133b7b8a1a3ba8cbef9fd8a", null ]
     ] ],
     [ "J3DVtxColorCalc", "structJ3DVtxColorCalc.html", [
       [ "calc", "structJ3DVtxColorCalc.html#a28a40213ea4b4943fc2d3ad608626656", null ],
@@ -4365,7 +4366,7 @@ var group__jsystem_j3d =
     ] ],
     [ "J3DJointFactory", "structJ3DJointFactory.html", [
       [ "J3DJointFactory", "structJ3DJointFactory.html#ac6643156358df319f6aeeefd31002ed4", null ],
-      [ "create", "structJ3DJointFactory.html#a81556a2c23767bea21f649f080398576", null ],
+      [ "create", "structJ3DJointFactory.html#aaab82855ae41731d65acf561e23df7c4", null ],
       [ "getKind", "structJ3DJointFactory.html#a6eed9196f610222461f25189c4362adc", null ],
       [ "getMax", "structJ3DJointFactory.html#a69619eccd324e3fc71e82491593ae23c", null ],
       [ "getMin", "structJ3DJointFactory.html#a9a2a40597690a14ece2819e280ecf49d", null ],
