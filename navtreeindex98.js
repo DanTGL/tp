@@ -1,8 +1,5 @@
 var NAVTREEINDEX98 =
 {
-"classJUTConsoleManager.html#addc04c902bc507052758ed5bb16a58db":[1,1,12,2,10],
-"classJUTConsoleManager.html#af99a1398700b4f66756166748c1078c4":[1,1,12,2,2],
-"classJUTDbPrint.html":[1,1,12,4],
 "classJUTDbPrint.html#a10bf267bd8d121276db65a409eaf0208":[1,1,12,4,6],
 "classJUTDbPrint.html#a208e53f7ec286aa5d23c309104f5c926":[1,1,12,4,9],
 "classJUTDbPrint.html#a20d32a43fda09803687bbfbe478542b5":[1,1,12,4,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX98 =
 "classJUTProcBar_1_1CTime.html#af767b9a67004a2d9dc854cf389740283":[1,1,12,21,1,5],
 "classJUTProcBar_1_1CTime.html#afae5f4d9e1345f6315fb5bac106e5d35":[1,1,12,21,1,11],
 "classJUTProcBar_1_1CTime.html#afcfccb5c20fcc3b59a6d322e1ee801ca":[1,1,12,21,1,1],
-"classJUTResReference.html":[1,1,12,24]
+"classJUTResReference.html":[1,1,12,24],
+"classJUTResReference.html#a179eca94097e5000a84875da5b8e607e":[1,1,12,24,0],
+"classJUTResReference.html#a179eca94097e5000a84875da5b8e607ea4780f259bbd9fe0ff8dd19d023a78a87":[1,1,12,24,0,3],
+"classJUTResReference.html#a179eca94097e5000a84875da5b8e607ea49a7ef778c8d72875239ede1822cd358":[1,1,12,24,0,0]
 };

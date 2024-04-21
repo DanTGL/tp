@@ -195,6 +195,7 @@ var d__com__inf__game_8h =
     [ "dComIfGp_evmng_cutEnd", "d__com__inf__game_8h.html#abb06adaf1f4b1f34a8fa0293d03c381d", null ],
     [ "dComIfGp_evmng_endCheck", "d__com__inf__game_8h.html#a8f2a1ca131f0fefb8cf2bbd84d6289f2", null ],
     [ "dComIfGp_evmng_endCheck", "d__com__inf__game_8h.html#a811c7723a1ef343eef4597c6f9ec6e1e", null ],
+    [ "dComIfGp_evmng_getEventIdx", "d__com__inf__game_8h.html#aba4c6b9e4684b68f039e60430a4b1e40", null ],
     [ "dComIfGp_evmng_getGoal", "d__com__inf__game_8h.html#a6be02451c89418c6dc0c0185035e3f6d", null ],
     [ "dComIfGp_evmng_getIsAddvance", "d__com__inf__game_8h.html#a582df95ce563c710a958e0579008cd1d", null ],
     [ "dComIfGp_evmng_getMyActIdx", "d__com__inf__game_8h.html#a1e9012822d8812e3def0c1bffb0d96e3", null ],
