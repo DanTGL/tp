@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"classdStage__stageDt__c.html#a2e26efbbc88c16276a696fd104fed250":[3,0,1889,35],
 "classdStage__stageDt__c.html#a2e39d1b2216d124b9ac798f33f2952cf":[3,0,1889,120],
 "classdStage__stageDt__c.html#a30b5f0dd8569cfcbe68582901aae379b":[3,0,1889,3],
 "classdStage__stageDt__c.html#a333c0afbe59808ca3cdb918220c12fee":[3,0,1889,95],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "classdSv__MiniGame__c.html":[3,0,1903],
 "classdSv__MiniGame__c.html#a35772618a09e945c12cf6b21cd288fa6":[3,0,1903,0],
 "classdSv__MiniGame__c.html#a383880db90984edc9d74c4ce33744bb3":[3,0,1903,8],
-"classdSv__MiniGame__c.html#a481572b2960513c8dac9a5b37d975cf4":[3,0,1903,3],
-"classdSv__MiniGame__c.html#a51adf0baefbf41b32bacc34cc1fa3f59":[3,0,1903,1]
+"classdSv__MiniGame__c.html#a481572b2960513c8dac9a5b37d975cf4":[3,0,1903,3]
 };
