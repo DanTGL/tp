@@ -535,12 +535,12 @@ var sectionId = 'dynsection-1';
 <polygon fill="#9a32cd" stroke="#9a32cd" points="200.5,-1288.34 191.6,-1282.59 194.97,-1292.63 200.5,-1288.34"/>
 </a>
 </g>
-<text text-anchor="middle" x="808.75" y="-1461.62" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> field_0x8f0</text>
-<text text-anchor="middle" x="808.75" y="-1450.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x8f6</text>
-<text text-anchor="middle" x="808.75" y="-1439.12" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x908</text>
-<text text-anchor="middle" x="808.75" y="-1427.88" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">field_0x91a</text>
-<text text-anchor="middle" x="808.75" y="-1416.62" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mEyeAngle</text>
-<text text-anchor="middle" x="808.75" y="-1405.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mHeadAngle</text>
+<text text-anchor="middle" x="808.75" y="-1461.62" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> field_0x908</text>
+<text text-anchor="middle" x="808.75" y="-1450.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mCurAngle</text>
+<text text-anchor="middle" x="808.75" y="-1439.12" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mEyeAngle</text>
+<text text-anchor="middle" x="808.75" y="-1427.88" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mHeadAngle</text>
+<text text-anchor="middle" x="808.75" y="-1416.62" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mLookatAngle</text>
+<text text-anchor="middle" x="808.75" y="-1405.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">mOldAngle</text>
 </g>
 <!-- Node53&#45;&gt;Node2 -->
 <g id="edge15_Node000002_Node000053" class="edge">
@@ -1205,7 +1205,7 @@ var sectionId = 'dynsection-1';
 <polygon fill="#9a32cd" stroke="#9a32cd" points="465.12,-329.56 455.37,-333.7 465.57,-336.55 465.12,-329.56"/>
 </a>
 </g>
-<text text-anchor="middle" x="916.62" y="-324.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> field_0xa44</text>
+<text text-anchor="middle" x="916.62" y="-324.38" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> mGndChk</text>
 </g>
 <!-- Node172&#45;&gt;Node171 -->
 <g id="edge63_Node000171_Node000172" class="edge">

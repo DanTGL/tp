@@ -805,7 +805,6 @@ var hierarchy =
     [ "daNpc_Hanjo_Param_c", "structdaNpc__Hanjo__Param__c.html", null ],
     [ "daNpc_HanjoStone_c", "structdaNpc__HanjoStone__c.html", null ],
     [ "daNpc_Henna_HIO_c", "structdaNpc__Henna__HIO__c.html", null ],
-    [ "daNpc_Hoz_c", "structdaNpc__Hoz__c.html", null ],
     [ "daNpc_Hoz_Param_c", "structdaNpc__Hoz__Param__c.html", null ],
     [ "daNpc_Jagar_c", "structdaNpc__Jagar__c.html", null ],
     [ "daNpc_Jagar_Param_c", "structdaNpc__Jagar__Param__c.html", null ],
@@ -909,9 +908,8 @@ var hierarchy =
     [ "daNpc_ZelR_Param_c", "structdaNpc__ZelR__Param__c.html", null ],
     [ "daNpc_ZelRo_c", "structdaNpc__ZelRo__c.html", null ],
     [ "daNpc_ZelRo_Param_c", "structdaNpc__ZelRo__Param__c.html", null ],
-    [ "daNpc_zrA_c", "structdaNpc__zrA__c.html", null ],
-    [ "daNpc_zrA_Param_c", "structdaNpc__zrA__Param__c.html", null ],
-    [ "daNpc_zrA_Path_c", "structdaNpc__zrA__Path__c.html", null ],
+    [ "daNpc_zrA_Param_c", "classdaNpc__zrA__Param__c.html", null ],
+    [ "daNpc_zrA_Param_c::param", "structdaNpc__zrA__Param__c_1_1param.html", null ],
     [ "daNpc_zrC_c", "structdaNpc__zrC__c.html", null ],
     [ "daNpc_zrC_Param_c", "structdaNpc__zrC__Param__c.html", null ],
     [ "daNpc_zrZ_c", "structdaNpc__zrZ__c.html", null ],
@@ -952,6 +950,7 @@ var hierarchy =
     [ "daNpcF_Lookat_c", "classdaNpcF__Lookat__c.html", null ],
     [ "daNpcF_MoveBgActor_c", "classdaNpcF__MoveBgActor__c.html", null ],
     [ "daNpcF_Path_c", "classdaNpcF__Path__c.html", [
+      [ "daNpc_zrA_Path_c", "classdaNpc__zrA__Path__c.html", null ],
       [ "daStartAndGoal_Path_c", "classdaStartAndGoal__Path__c.html", null ]
     ] ],
     [ "daNpcF_SPCurve_c", "classdaNpcF__SPCurve__c.html", null ],
@@ -1228,7 +1227,6 @@ var hierarchy =
     [ "daObjYobikusa_c::attributes", "structdaObjYobikusa__c_1_1attributes.html", null ],
     [ "daObjYOUSEI_c", "structdaObjYOUSEI__c.html", null ],
     [ "daObjYtaihou_c", "structdaObjYtaihou__c.html", null ],
-    [ "daObjZraMark_c", "structdaObjZraMark__c.html", null ],
     [ "daOnsTaru_c", "structdaOnsTaru__c.html", null ],
     [ "daOnsTaru_HIO_c", "structdaOnsTaru__HIO__c.html", null ],
     [ "daOptiLift_c", "structdaOptiLift__c.html", null ],
@@ -1380,8 +1378,8 @@ var hierarchy =
     [ "dDemo_c", "structdDemo__c.html", null ],
     [ "dDemo_object_c", "structdDemo__object__c.html", null ],
     [ "dDemo_prm_c", "classdDemo__prm__c.html", null ],
-    [ "dDlst_2Dm_c", "classdDlst__2Dm__c.html", null ],
     [ "dDlst_2DM_c", "classdDlst__2DM__c.html", null ],
+    [ "dDlst_2Dm_c", "classdDlst__2Dm__c.html", null ],
     [ "dDlst_2DMt_c", "classdDlst__2DMt__c.html", null ],
     [ "dDlst_2DMt_tex_c", "classdDlst__2DMt__tex__c.html", null ],
     [ "dDlst_2DPoint_c", "classdDlst__2DPoint__c.html", null ],
@@ -1654,7 +1652,6 @@ var hierarchy =
     ] ],
     [ "dPath", "structdPath.html", null ],
     [ "dPathCurve", "structdPathCurve.html", null ],
-    [ "dPnt", "structdPnt.html", null ],
     [ "draw_priority_class", "structdraw__priority__class.html", null ],
     [ "dRes_control_c", "classdRes__control__c.html", null ],
     [ "dRes_info_c", "classdRes__info__c.html", null ],
@@ -1674,7 +1671,9 @@ var hierarchy =
     [ "DSPTaskInfo", "structDSPTaskInfo.html", null ],
     [ "dStage_DMap_c", "structdStage__DMap__c.html", null ],
     [ "dStage_dPath_c", "structdStage__dPath__c.html", null ],
-    [ "dStage_dPnt_c", "structdStage__dPnt__c.html", null ],
+    [ "dStage_dPnt_c", "structdStage__dPnt__c.html", [
+      [ "dPnt", "structdPnt.html", null ]
+    ] ],
     [ "dStage_dt_c", "structdStage__dt__c.html", [
       [ "dStage_roomDt_c", "classdStage__roomDt__c.html", null ],
       [ "dStage_stageDt_c", "classdStage__stageDt__c.html", null ]
@@ -3322,11 +3321,13 @@ var hierarchy =
           [ "daNpcAsh_c", "classdaNpcAsh__c.html", null ],
           [ "daNpcThe_c", "classdaNpcThe__c.html", null ],
           [ "daNpcWrestler_c", "classdaNpcWrestler__c.html", null ],
-          [ "daNpc_GWolf_c", "classdaNpc__GWolf__c.html", null ]
+          [ "daNpc_GWolf_c", "classdaNpc__GWolf__c.html", null ],
+          [ "daNpc_zrA_c", "classdaNpc__zrA__c.html", null ]
         ] ],
         [ "daNpcMoiR_c", "classdaNpcMoiR__c.html", null ],
         [ "daNpcT_c", "classdaNpcT__c.html", [
           [ "dShopSystem_c", "classdShopSystem__c.html", null ],
+          [ "daNpc_Hoz_c", "classdaNpc__Hoz__c.html", null ],
           [ "daObj_Sekizoa_c", "classdaObj__Sekizoa__c.html", null ]
         ] ],
         [ "daObjBombf_c", "classdaObjBombf__c.html", null ],
@@ -3372,6 +3373,7 @@ var hierarchy =
         [ "daObjWaterEff_c", "classdaObjWaterEff__c.html", null ],
         [ "daObjWchain_c", "classdaObjWchain__c.html", null ],
         [ "daObjYobikusa_c", "classdaObjYobikusa__c.html", null ],
+        [ "daObjZraMark_c", "classdaObjZraMark__c.html", null ],
         [ "daObj_Bed_c", "classdaObj__Bed__c.html", null ],
         [ "daObj_Oiltubo_c", "classdaObj__Oiltubo__c.html", null ],
         [ "daObj_Pleaf_c", "classdaObj__Pleaf__c.html", null ],
