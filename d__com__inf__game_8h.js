@@ -170,6 +170,7 @@ var d__com__inf__game_8h =
     [ "dComIfGp_event_chkTalkXY", "d__com__inf__game_8h.html#a14c5077be87bd772903bbc2264da78bd", null ],
     [ "dComIfGp_event_compulsory", "d__com__inf__game_8h.html#ab43e8b99104996edd0d3242c33af5554", null ],
     [ "dComIfGp_event_getCullRate", "d__com__inf__game_8h.html#a36b7a143ddc21422793e5c00f8fc01af", null ],
+    [ "dComIfGp_event_getDoorPartner", "d__com__inf__game_8h.html#a5013142a6e929f4d7128ec76d9713f94", null ],
     [ "dComIfGp_event_getGtItm", "d__com__inf__game_8h.html#ace22d8059343155b9c24c2c270556ba9", null ],
     [ "dComIfGp_event_getItemPartner", "d__com__inf__game_8h.html#ad6b9418b24998cc9f72c53a1ca34c75f", null ],
     [ "dComIfGp_event_getMode", "d__com__inf__game_8h.html#ad37122812269b5f01383e3f96dca5a76", null ],
