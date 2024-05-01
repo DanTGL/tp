@@ -2216,7 +2216,7 @@ var annotated_dup =
     [ "e_rb_class", "structe__rb__class.html", null ],
     [ "e_rd_class", "structe__rd__class.html", "structe__rd__class" ],
     [ "e_rdb_class", "structe__rdb__class.html", "structe__rdb__class" ],
-    [ "e_rdy_class", "structe__rdy__class.html", "structe__rdy__class" ],
+    [ "e_rdy_class", "classe__rdy__class.html", "classe__rdy__class" ],
     [ "e_s1_class", "structe__s1__class.html", null ],
     [ "e_sf_class", "structe__sf__class.html", null ],
     [ "e_sg_class", "structe__sg__class.html", null ],

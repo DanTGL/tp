@@ -1,9 +1,5 @@
 var NAVTREEINDEX90 =
 {
-"classJAUWaveBankTable.html#ad10b195a2688ac4e6c2cbfb9083938f4":[1,1,2,92,0],
-"classJAU__JAIInitializer.html":[1,1,2,94],
-"classJAU__JAIInitializer.html#a1b99eccb5c928c2456c590211d7a97fe":[1,1,2,94,0],
-"classJAU__JAIInitializer.html#a2341c7c49b8ccab2ceeddc9fa94cbe84":[1,1,2,94,1],
 "classJAU__JAIInitializer.html#a59a326277e4b8d332d974c4a371a9d61":[1,1,2,94,3],
 "classJAU__JAIInitializer.html#a5e660dfa5cb3d295b744f19ca2176d94":[1,1,2,94,4],
 "classJAU__JAIInitializer.html#ae7570d23d28d431bc11fadd6ab93f6b2":[1,1,2,94,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX90 =
 "classJKRAramStreamCommand.html#a4c9f5014794b73e1cd1a679e69dfd60b":[1,1,5,6,3],
 "classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486":[1,1,5,6,0],
 "classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486a2de801cff5693dc0762b74549e5efeb1":[1,1,5,6,0,0],
-"classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486a324710aa291c53e7104f7edd6a48aef0":[1,1,5,6,0,1]
+"classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486a324710aa291c53e7104f7edd6a48aef0":[1,1,5,6,0,1],
+"classJKRAramStreamCommand.html#a584a0f0d44d10e7db7ae9487b83a3486a4a879b1fece2b140eba7b434c36370ec":[1,1,5,6,0,2],
+"classJKRAramStreamCommand.html#a6c8ec1a91f78832cfed4b58990124691":[1,1,5,6,16],
+"classJKRAramStreamCommand.html#a7d769ed0592cdaa6d92727aac84a0ee0":[1,1,5,6,10],
+"classJKRAramStreamCommand.html#a81ac5185ddb3ded8b541b9cb7ea9ebce":[1,1,5,6,13]
 };
