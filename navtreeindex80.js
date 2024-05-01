@@ -1,11 +1,9 @@
 var NAVTREEINDEX80 =
 {
-"classJ3DMtxCalc.html#a4b251bb9e31e8a32794bc8b590f8c0ee":[1,1,1,49,18],
 "classJ3DMtxCalc.html#a53b943e69645fb5c2c15703269ec4b6a":[1,1,1,49,13],
-"classJ3DMtxCalc.html#a53b943e69645fb5c2c15703269ec4b6a":[1,1,1,49,12],
 "classJ3DMtxCalc.html#a60a2dc5e4f91d0e36bdb0f1974883d6f":[1,1,1,49,20],
-"classJ3DMtxCalc.html#a86b9a67a86daf6dfe02fc439f8420b76":[1,1,1,49,15],
 "classJ3DMtxCalc.html#a86b9a67a86daf6dfe02fc439f8420b76":[1,1,1,49,14],
+"classJ3DMtxCalc.html#a86b9a67a86daf6dfe02fc439f8420b76":[1,1,1,49,15],
 "classJ3DMtxCalc.html#a89b080069e76a18c84b6d83a0f808243":[1,1,1,49,16],
 "classJ3DMtxCalc.html#a96f1b7a0b1f8660b33bf7b0beb045de1":[1,1,1,49,0],
 "classJ3DMtxCalc.html#aabcb15d334d45312bbf759d8f9baef8d":[1,1,1,49,8],
@@ -150,9 +148,9 @@ var NAVTREEINDEX80 =
 "classJ3DPacket.html#a4f64fb677add464700155d0ad67ec1ed":[1,1,1,125,10],
 "classJ3DPacket.html#a5dc5026a06af684eb92ce9fc4d6dd180":[1,1,1,125,13],
 "classJ3DPacket.html#a66a3c39d2738db562427f13ab71b2df2":[1,1,1,125,6],
-"classJ3DPacket.html#a66a3c39d2738db562427f13ab71b2df2":[1,1,1,125,9],
-"classJ3DPacket.html#a66a3c39d2738db562427f13ab71b2df2":[1,1,1,125,8],
 "classJ3DPacket.html#a66a3c39d2738db562427f13ab71b2df2":[1,1,1,125,7],
+"classJ3DPacket.html#a66a3c39d2738db562427f13ab71b2df2":[1,1,1,125,8],
+"classJ3DPacket.html#a66a3c39d2738db562427f13ab71b2df2":[1,1,1,125,9],
 "classJ3DPacket.html#a6db64086b7cb50785090b358eec85f1f":[1,1,1,125,16],
 "classJ3DPacket.html#a8681e61dd0e2cee6283f605c751bd1ff":[1,1,1,125,2],
 "classJ3DPacket.html#a9c807fcd5e41bbc64c3996ab0f4b1d61":[1,1,1,125,11],
@@ -249,5 +247,7 @@ var NAVTREEINDEX80 =
 "classJ3DShapeDraw.html#acda6fd9c715309f290129dd3983fab13":[1,1,1,132,6],
 "classJ3DShapeDraw.html#ad2dd67bf88a78412a5608ec2ddf1ff19":[1,1,1,132,2],
 "classJ3DShapeDraw.html#adc0a56cd4583ccac08b21dac41f112e8":[1,1,1,132,8],
-"classJ3DShapeDraw.html#adfdd9594040cf3bb7c078e351a799cc0":[1,1,1,132,4]
+"classJ3DShapeDraw.html#adfdd9594040cf3bb7c078e351a799cc0":[1,1,1,132,4],
+"classJ3DShapeMtx.html":[1,1,1,135],
+"classJ3DShapeMtx.html#a1a3c61135f8b01f5fec9be90ccb536ab":[1,1,1,135,16]
 };

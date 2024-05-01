@@ -1279,7 +1279,7 @@ var annotated_dup =
     [ "daObj_YBag_c", "structdaObj__YBag__c.html", "structdaObj__YBag__c" ],
     [ "daObj_YBag_Param_c", "structdaObj__YBag__Param__c.html", "structdaObj__YBag__Param__c" ],
     [ "daObjARI_c", "structdaObjARI__c.html", "structdaObjARI__c" ],
-    [ "daObjAvalanche_c", "structdaObjAvalanche__c.html", "structdaObjAvalanche__c" ],
+    [ "daObjAvalanche_c", "classdaObjAvalanche__c.html", "classdaObjAvalanche__c" ],
     [ "daObjBATTA_c", "structdaObjBATTA__c.html", "structdaObjBATTA__c" ],
     [ "daObjBBox_c", "classdaObjBBox__c.html", "classdaObjBBox__c" ],
     [ "daObjBHASHI_c", "structdaObjBHASHI__c.html", "structdaObjBHASHI__c" ],

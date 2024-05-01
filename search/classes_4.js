@@ -884,7 +884,7 @@ var searchData=
   ['daobj_5fybag_5fc_881',['daObj_YBag_c',['../structdaObj__YBag__c.html',1,'']]],
   ['daobj_5fybag_5fparam_5fc_882',['daObj_YBag_Param_c',['../structdaObj__YBag__Param__c.html',1,'']]],
   ['daobjari_5fc_883',['daObjARI_c',['../structdaObjARI__c.html',1,'']]],
-  ['daobjavalanche_5fc_884',['daObjAvalanche_c',['../structdaObjAvalanche__c.html',1,'']]],
+  ['daobjavalanche_5fc_884',['daObjAvalanche_c',['../classdaObjAvalanche__c.html',1,'']]],
   ['daobjbatta_5fc_885',['daObjBATTA_c',['../structdaObjBATTA__c.html',1,'']]],
   ['daobjbbox_5fc_886',['daObjBBox_c',['../classdaObjBBox__c.html',1,'']]],
   ['daobjbhashi_5fc_887',['daObjBHASHI_c',['../structdaObjBHASHI__c.html',1,'']]],
