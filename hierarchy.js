@@ -542,10 +542,9 @@ var hierarchy =
     [ "daB_ZANTM_c", "structdaB__ZANTM__c.html", null ],
     [ "daB_ZANTZ_c", "structdaB__ZANTZ__c.html", null ],
     [ "daB_ZANTZ_HIO_c", "structdaB__ZANTZ__HIO__c.html", null ],
-    [ "daBalloon2D_c", "structdaBalloon2D__c.html", null ],
-    [ "daBalloon2D_c::c_list", "structdaBalloon2D__c_1_1c__list.html", null ],
-    [ "daBalloon2D_c::CHeadScore", "structdaBalloon2D__c_1_1CHeadScore.html", null ],
-    [ "daBalloon2D_HIO_c", "structdaBalloon2D__HIO__c.html", null ],
+    [ "daBalloon2D_c::CHeadScore", "classdaBalloon2D__c_1_1CHeadScore.html", null ],
+    [ "daBalloon2D_c::ScoreCount", "structdaBalloon2D__c_1_1ScoreCount.html", null ],
+    [ "daBalloon2D_HIO_c", "classdaBalloon2D__HIO__c.html", null ],
     [ "daBaseNpc_acMngr_c", "classdaBaseNpc__acMngr__c.html", null ],
     [ "daBaseNpc_lookat_c", "classdaBaseNpc__lookat__c.html", null ],
     [ "daBaseNpc_matAnm_c", "structdaBaseNpc__matAnm__c.html", null ],
@@ -1004,8 +1003,7 @@ var hierarchy =
     [ "daObj_AriHIO_c", "structdaObj__AriHIO__c.html", null ],
     [ "daObj_AutoMata_c", "structdaObj__AutoMata__c.html", null ],
     [ "daObj_AutoMata_Param_c", "structdaObj__AutoMata__Param__c.html", null ],
-    [ "daObj_Balloon_c", "structdaObj__Balloon__c.html", null ],
-    [ "daObj_Balloon_HIO_c", "structdaObj__Balloon__HIO__c.html", null ],
+    [ "daObj_Balloon_HIO_c", "classdaObj__Balloon__HIO__c.html", null ],
     [ "daObj_BattaHIO_c", "structdaObj__BattaHIO__c.html", null ],
     [ "daObj_Bed_Param_c", "classdaObj__Bed__Param__c.html", null ],
     [ "daObj_Bed_Param_c::params", "structdaObj__Bed__Param__c_1_1params.html", null ],
@@ -1375,8 +1373,8 @@ var hierarchy =
     [ "dDemo_c", "structdDemo__c.html", null ],
     [ "dDemo_object_c", "structdDemo__object__c.html", null ],
     [ "dDemo_prm_c", "classdDemo__prm__c.html", null ],
-    [ "dDlst_2DM_c", "classdDlst__2DM__c.html", null ],
     [ "dDlst_2Dm_c", "classdDlst__2Dm__c.html", null ],
+    [ "dDlst_2DM_c", "classdDlst__2DM__c.html", null ],
     [ "dDlst_2DMt_c", "classdDlst__2DMt__c.html", null ],
     [ "dDlst_2DMt_tex_c", "classdDlst__2DMt__tex__c.html", null ],
     [ "dDlst_2DPoint_c", "classdDlst__2DPoint__c.html", null ],
@@ -1449,6 +1447,7 @@ var hierarchy =
       [ "dOvlpFd3_dlst_c", "classdOvlpFd3__dlst__c.html", null ],
       [ "dSelect_cursor_c", "structdSelect__cursor__c.html", null ],
       [ "daAlink_lockCursor_c", "classdaAlink__lockCursor__c.html", null ],
+      [ "daBalloon2D_c::c_list", "classdaBalloon2D__c_1_1c__list.html", null ],
       [ "daPy_sightPacket_c", "classdaPy__sightPacket__c.html", [
         [ "daAlink_sight_c", "classdaAlink__sight__c.html", null ]
       ] ]
@@ -3264,6 +3263,7 @@ var hierarchy =
         [ "daAttp_c", "classdaAttp__c.html", null ],
         [ "daB_ZANTS_c", "classdaB__ZANTS__c.html", null ],
         [ "daB_ZANT_c", "classdaB__ZANT__c.html", null ],
+        [ "daBalloon2D_c", "classdaBalloon2D__c.html", null ],
         [ "daBaseNpc_c", "classdaBaseNpc__c.html", [
           [ "daBaseNpc_moveBgActor_c", "classdaBaseNpc__moveBgActor__c.html", null ]
         ] ],
@@ -3373,6 +3373,7 @@ var hierarchy =
         [ "daObjWchain_c", "classdaObjWchain__c.html", null ],
         [ "daObjYobikusa_c", "classdaObjYobikusa__c.html", null ],
         [ "daObjZraMark_c", "classdaObjZraMark__c.html", null ],
+        [ "daObj_Balloon_c", "classdaObj__Balloon__c.html", null ],
         [ "daObj_Bed_c", "classdaObj__Bed__c.html", null ],
         [ "daObj_Oiltubo_c", "classdaObj__Oiltubo__c.html", null ],
         [ "daObj_Pleaf_c", "classdaObj__Pleaf__c.html", null ],
@@ -3785,6 +3786,7 @@ var hierarchy =
     [ "request_base_class", "structrequest__base__class.html", null ],
     [ "request_node_class", "structrequest__node__class.html", null ],
     [ "request_of_phase_process_class", "structrequest__of__phase__process__class.html", [
+      [ "daBalloon2D_c", "classdaBalloon2D__c.html", null ],
       [ "daMirror_c", "classdaMirror__c.html", null ],
       [ "daObjChandelier_c", "classdaObjChandelier__c.html", null ],
       [ "daObjHBombkoya_c", "classdaObjHBombkoya__c.html", null ],

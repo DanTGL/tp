@@ -366,7 +366,6 @@ var classdPa__control__c =
     [ "set", "classdPa__control__c.html#ad7616c6b7c1d4ace23de5e50fc2ebe33", null ],
     [ "set", "classdPa__control__c.html#ad7616c6b7c1d4ace23de5e50fc2ebe33", null ],
     [ "set", "classdPa__control__c.html#ad7616c6b7c1d4ace23de5e50fc2ebe33", null ],
-    [ "set", "classdPa__control__c.html#ad7616c6b7c1d4ace23de5e50fc2ebe33", null ],
     [ "setCommonPoly", "classdPa__control__c.html#a7aafc0233c2dd5eb3405942cb72b5bc8", null ],
     [ "setHitMark", "classdPa__control__c.html#a68862db987684e217304180f94580510", null ],
     [ "setHitMark", "classdPa__control__c.html#ae6f4fbff0b663b324d527731af8eba5a", null ],

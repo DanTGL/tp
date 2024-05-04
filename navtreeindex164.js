@@ -1,16 +1,5 @@
 var NAVTREEINDEX164 =
 {
-"classdMenu__Ring__c.html#af89202fa92b76d6d5006036631733df7":[3,0,1728,113],
-"classdMenu__Ring__c.html#af8e4009303d4cdd65c3e925ed6d1c27f":[3,0,1728,3],
-"classdMenu__Ring__c.html#afa30c50defef3974ce63a8d881d7437f":[3,0,1728,81],
-"classdMenu__Ring__c.html#afad26b5cb33db0801c7fc4a31ce0d0ef":[3,0,1728,132],
-"classdMenu__Ring__c.html#afaf6fbacb18316a13db7a15ff4a37099":[3,0,1728,76],
-"classdMenu__Ring__c.html#afb9df5ba4e04f0cd22ac1407b32797de":[3,0,1728,11],
-"classdMenu__Skill__c.html":[3,0,1730],
-"classdMenu__Skill__c.html#a06e36d2b4b9ac3ccf14739c7c1e684c4":[3,0,1730,47],
-"classdMenu__Skill__c.html#a098d44af2589e480de81ef232c8919b3":[3,0,1730,28],
-"classdMenu__Skill__c.html#a0b84ce884d700ab05fa1c382263cfbda":[3,0,1730,27],
-"classdMenu__Skill__c.html#a0c489bf14fa8edeecdf04f6c790fd03b":[3,0,1730,57],
 "classdMenu__Skill__c.html#a0dd468df44f168b91475194624662b91":[3,0,1730,41],
 "classdMenu__Skill__c.html#a105a271ec9e689afac3bfa0223cf367d":[3,0,1730,66],
 "classdMenu__Skill__c.html#a1a1d1c25770e5233b69f0d20d5909451":[3,0,1730,45],
@@ -249,5 +238,16 @@ var NAVTREEINDEX164 =
 "classdMenu__save__c.html#aa6d6121409122c91cac9e44b122721a5":[3,0,1729,29],
 "classdMenu__save__c.html#aa767a3b39597c48303bc8e066ea8209d":[3,0,1729,97],
 "classdMenu__save__c.html#aa7c55f88ad324166e80907303ac7608a":[3,0,1729,81],
-"classdMenu__save__c.html#aab727fc4f41690b0e8ae24510681dfff":[3,0,1729,8]
+"classdMenu__save__c.html#aab727fc4f41690b0e8ae24510681dfff":[3,0,1729,8],
+"classdMenu__save__c.html#aafc579d6a3ba1c5a38a85b64a6277831":[3,0,1729,149],
+"classdMenu__save__c.html#aafd45e848ed14212d235ed87fa2eccf0":[3,0,1729,56],
+"classdMenu__save__c.html#ab0826f4efdf98d4b6cfb823142d9c74f":[3,0,1729,234],
+"classdMenu__save__c.html#ab252cda3cba3a6fb0bbe61175dda825d":[3,0,1729,208],
+"classdMenu__save__c.html#ab4650a7b7a3f9c843726050aa8371416":[3,0,1729,52],
+"classdMenu__save__c.html#ab83e1037eca1e976b50bdb68383b2061":[3,0,1729,16],
+"classdMenu__save__c.html#ab9eed22d66dc2cbf834332148b264945":[3,0,1729,41],
+"classdMenu__save__c.html#abb40c4fc9b07313783eb0c8276641ea0":[3,0,1729,229],
+"classdMenu__save__c.html#abc62ec1761ed2427b5a83954a987d04f":[3,0,1729,165],
+"classdMenu__save__c.html#abce0c8fa186e7a41f7e4949973cff764":[3,0,1729,73],
+"classdMenu__save__c.html#abdfd4b5ab7995845ea2915f53cda5018":[3,0,1729,105]
 };
