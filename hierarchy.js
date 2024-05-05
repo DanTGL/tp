@@ -556,8 +556,6 @@ var hierarchy =
     [ "daBgObj_c::spec_data_c", "classdaBgObj__c_1_1spec__data__c.html", null ],
     [ "daBkyRock_c", "structdaBkyRock__c.html", null ],
     [ "daBkyRock_c::_pieceData", "structdaBkyRock__c_1_1__pieceData.html", null ],
-    [ "daBmWindow_c", "structdaBmWindow__c.html", null ],
-    [ "daBmWindow_HIO_c", "structdaBmWindow__HIO__c.html", null ],
     [ "daBoomerang_HIO_c0", "structdaBoomerang__HIO__c0.html", null ],
     [ "daBoomerang_sight_c", "classdaBoomerang__sight__c.html", null ],
     [ "daBubbPilar_c", "structdaBubbPilar__c.html", null ],
@@ -1373,8 +1371,8 @@ var hierarchy =
     [ "dDemo_c", "structdDemo__c.html", null ],
     [ "dDemo_object_c", "structdDemo__object__c.html", null ],
     [ "dDemo_prm_c", "classdDemo__prm__c.html", null ],
-    [ "dDlst_2Dm_c", "classdDlst__2Dm__c.html", null ],
     [ "dDlst_2DM_c", "classdDlst__2DM__c.html", null ],
+    [ "dDlst_2Dm_c", "classdDlst__2Dm__c.html", null ],
     [ "dDlst_2DMt_c", "classdDlst__2DMt__c.html", null ],
     [ "dDlst_2DMt_tex_c", "classdDlst__2DMt__tex__c.html", null ],
     [ "dDlst_2DPoint_c", "classdDlst__2DPoint__c.html", null ],
@@ -1866,7 +1864,6 @@ var hierarchy =
     [ "FmtMember_c", "structFmtMember__c.html", null ],
     [ "FmtMngAttributes", "structFmtMngAttributes.html", null ],
     [ "fopAcM_gc_c", "classfopAcM__gc__c.html", null ],
-    [ "fOpAcm_HIO_entry_c", "structfOpAcm__HIO__entry__c.html", null ],
     [ "fopAcM_lc_c", "classfopAcM__lc__c.html", null ],
     [ "fopAcM_prm_class", "structfopAcM__prm__class.html", null ],
     [ "fopAcM_prmBase_class", "structfopAcM__prmBase__class.html", null ],
@@ -3199,6 +3196,7 @@ var hierarchy =
         [ "dBgS_MoveBgActor", "classdBgS__MoveBgActor.html", [
           [ "daBarDesk_c", "classdaBarDesk__c.html", null ],
           [ "daBgObj_c", "classdaBgObj__c.html", null ],
+          [ "daBmWindow_c", "classdaBmWindow__c.html", null ],
           [ "daBsGate_c", "classdaBsGate__c.html", null ],
           [ "daCowdoor_c", "classdaCowdoor__c.html", null ],
           [ "daCstaF_c", "classdaCstaF__c.html", null ],
@@ -3613,7 +3611,7 @@ var hierarchy =
     [ "mDoExt_MtxCalcOldFrame", "classmDoExt__MtxCalcOldFrame.html", null ],
     [ "mDoGph_gInf_c", "structmDoGph__gInf__c.html", null ],
     [ "mDoGph_gInf_c::bloom_c", "classmDoGph__gInf__c_1_1bloom__c.html", null ],
-    [ "mDoHIO_entry_c", "structmDoHIO__entry__c.html", [
+    [ "mDoHIO_entry_c", "classmDoHIO__entry__c.html", [
       [ "dGov_HIO_c", "classdGov__HIO__c.html", null ],
       [ "dScnPly_preLoad_HIO_c", "classdScnPly__preLoad__HIO__c.html", null ],
       [ "daBarDesk_HIO_c", "classdaBarDesk__HIO__c.html", null ],
@@ -3639,7 +3637,10 @@ var hierarchy =
       [ "daZrTuraRc_HIO_c", "classdaZrTuraRc__HIO__c.html", null ],
       [ "daZrTurara_HIO_c", "classdaZrTurara__HIO__c.html", null ],
       [ "dalv4CandleDemoTag_HIO_c", "classdalv4CandleDemoTag__HIO__c.html", null ],
-      [ "dalv4CandleTag_HIO_c", "classdalv4CandleTag__HIO__c.html", null ]
+      [ "dalv4CandleTag_HIO_c", "classdalv4CandleTag__HIO__c.html", null ],
+      [ "fOpAcm_HIO_entry_c", "structfOpAcm__HIO__entry__c.html", [
+        [ "daBmWindow_HIO_c", "classdaBmWindow__HIO__c.html", null ]
+      ] ]
     ] ],
     [ "mDoLib_clipper", "structmDoLib__clipper.html", null ],
     [ "mDoMain", "structmDoMain.html", null ],
