@@ -54,6 +54,7 @@ var m__Do__audio_8h =
     [ "mDoAud_setSceneName", "m__Do__audio_8h.html#a52884c88a2227872d5a8c3f435583b04", null ],
     [ "mDoAud_setSnowPower", "m__Do__audio_8h.html#a0b2616cd0c6e40eeb8cb14921610968c", null ],
     [ "mDoAud_setWeekday", "m__Do__audio_8h.html#a821a4316ac8765ca99329c748bd3de57", null ],
+    [ "mDoAud_startFogSe", "m__Do__audio_8h.html#a35cdb62080cd02d907ade970de215398", null ],
     [ "mDoAud_startFogWipeTrigger", "m__Do__audio_8h.html#a0fbc8a7a1316114e911139a9c029f32b", null ],
     [ "mDoAud_startLv3WaterSe", "m__Do__audio_8h.html#ab46f1a15fcadecc5f08137439f86ad95", null ],
     [ "mDoAud_subBgmStart", "m__Do__audio_8h.html#a3217c44c3fcb23ca5519c88776362d20", null ],

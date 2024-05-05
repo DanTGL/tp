@@ -272,7 +272,6 @@ var classdEvt__control__c =
     [ "reset", "classdEvt__control__c.html#a3d557f925a1538fc729e6f548eb5b024", null ],
     [ "reset", "classdEvt__control__c.html#a3d557f925a1538fc729e6f548eb5b024", null ],
     [ "reset", "classdEvt__control__c.html#a3d557f925a1538fc729e6f548eb5b024", null ],
-    [ "reset", "classdEvt__control__c.html#a3d557f925a1538fc729e6f548eb5b024", null ],
     [ "runCheck", "classdEvt__control__c.html#ab7fc7e51e64b24aa55d57b3161eda4ae", null ],
     [ "runningEventID", "classdEvt__control__c.html#a5745e865a8820084812d2e9af7bc6d9b", null ],
     [ "sceneChange", "classdEvt__control__c.html#adfe274653fc81563c00e5cecd5f15a4d", null ],

@@ -1,7 +1,5 @@
 var NAVTREEINDEX88 =
 {
-"classJASAramStream.html#af0707ee3f8d7a0ebdfac6ff56fc530ad":[1,1,2,35,32],
-"classJASAramStream.html#af3bfbaa7b22a33a00ad7c86391a6f588":[1,1,2,35,84],
 "classJASAramStream.html#af82588f1d816acee7103e43476aebc03":[1,1,2,35,58],
 "classJASAramStream.html#afac4b8dbb3af0891ec92a7af52714c81":[1,1,2,35,31],
 "classJASAramStream.html#afbb16726e6d7510c9be3db0052bb5e54":[1,1,2,35,49],
@@ -249,5 +247,7 @@ var NAVTREEINDEX88 =
 "classJASSeqReader.html#ab9b4eda30bcc39bf0a97621c6d46e66d":[1,1,2,75,16],
 "classJASSeqReader.html#abdee87e027dbdd5f7a0d242a63eb00dc":[1,1,2,75,9],
 "classJASSeqReader.html#acc45b911be489c11f5091f54ebb573a1":[1,1,2,75,1],
-"classJASSeqReader.html#acf55db0146e50ba2a7abcdd9db907210":[1,1,2,75,5]
+"classJASSeqReader.html#acf55db0146e50ba2a7abcdd9db907210":[1,1,2,75,5],
+"classJASSeqReader.html#ad17e191da8f92e1047ac5dcdabc9cc6c":[1,1,2,75,12],
+"classJASSeqReader.html#ad2233671a54da6f747a3f343f8a228a5":[1,1,2,75,19]
 };

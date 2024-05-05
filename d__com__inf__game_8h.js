@@ -517,6 +517,7 @@ var d__com__inf__game_8h =
     [ "dComIfGp_setMsgDtArchive", "d__com__inf__game_8h.html#af38217ddad1511e26fffd647004e41a5", null ],
     [ "dComIfGp_setMsgExpHeap", "d__com__inf__game_8h.html#a240ac1942c337077b28e3ece636d9c46", null ],
     [ "dComIfGp_setNameResArchive", "d__com__inf__game_8h.html#a38a332b0edef63c08803956ff1723385", null ],
+    [ "dComIfGp_setNeedLightDropNum", "d__com__inf__game_8h.html#a2e5d2b13343258c51f1a66ebd6084d79", null ],
     [ "dComIfGp_setNextStage", "d__com__inf__game_8h.html#abec8ccc76ab6abc47ee307f87e805c7d", null ],
     [ "dComIfGp_setNextStage", "d__com__inf__game_8h.html#adb88c09e03f046cf406d4b63f0145443", null ],
     [ "dComIfGp_setNowOxygen", "d__com__inf__game_8h.html#a22369fb559a7c28410be6d4898f03274", null ],

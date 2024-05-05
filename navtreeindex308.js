@@ -1,5 +1,13 @@
 var NAVTREEINDEX308 =
 {
+"d_2a_2obj_2d__a__obj__hb_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,79,88,3],
+"d_2a_2obj_2d__a__obj__hb_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,88,3],
+"d_2a_2obj_2d__a__obj__hb_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,79,88,4],
+"d_2a_2obj_2d__a__obj__hb_2unknown__translation__unit__dtors_8h_source.html":[4,0,1,8,0,0,79,88,4],
+"d_2a_2obj_2d__a__obj__hbombkoya_2executor_8h.html":[4,0,1,8,0,0,79,89,1],
+"d_2a_2obj_2d__a__obj__hbombkoya_2executor_8h_source.html":[4,0,1,8,0,0,79,89,1],
+"d_2a_2obj_2d__a__obj__hbombkoya_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,79,89,2],
+"d_2a_2obj_2d__a__obj__hbombkoya_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,89,2],
 "d_2a_2obj_2d__a__obj__hbombkoya_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,79,89,3],
 "d_2a_2obj_2d__a__obj__hbombkoya_2unknown__translation__unit__dtors_8h_source.html":[4,0,1,8,0,0,79,89,3],
 "d_2a_2obj_2d__a__obj__heavySw_2executor_8h.html":[4,0,1,8,0,0,79,90,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX308 =
 "d_2a_2obj_2d__a__obj__lp_2executor_8h.html":[4,0,1,8,0,0,79,137,1],
 "d_2a_2obj_2d__a__obj__lp_2executor_8h_source.html":[4,0,1,8,0,0,79,137,1],
 "d_2a_2obj_2d__a__obj__lp_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,79,137,2],
-"d_2a_2obj_2d__a__obj__lp_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,137,2],
-"d_2a_2obj_2d__a__obj__lp_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,79,137,3],
-"d_2a_2obj_2d__a__obj__lp_2unknown__translation__unit__dtors_8h_source.html":[4,0,1,8,0,0,79,137,3],
-"d_2a_2obj_2d__a__obj__lv1Candle00_2executor_8h.html":[4,0,1,8,0,0,79,138,2],
-"d_2a_2obj_2d__a__obj__lv1Candle00_2executor_8h_source.html":[4,0,1,8,0,0,79,138,2],
-"d_2a_2obj_2d__a__obj__lv1Candle00_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,79,138,4],
-"d_2a_2obj_2d__a__obj__lv1Candle00_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,138,4],
-"d_2a_2obj_2d__a__obj__lv1Candle01_2executor_8h.html":[4,0,1,8,0,0,79,139,2],
-"d_2a_2obj_2d__a__obj__lv1Candle01_2executor_8h_source.html":[4,0,1,8,0,0,79,139,2]
+"d_2a_2obj_2d__a__obj__lp_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,137,2]
 };

@@ -180,7 +180,6 @@ var classcBgS =
     [ "GroundCross", "classcBgS.html#a7a9ff74d020d9fb827a48d4daac3968f", null ],
     [ "GroundCross", "classcBgS.html#a7a9ff74d020d9fb827a48d4daac3968f", null ],
     [ "GroundCross", "classcBgS.html#a7a9ff74d020d9fb827a48d4daac3968f", null ],
-    [ "GroundCross", "classcBgS.html#a7a9ff74d020d9fb827a48d4daac3968f", null ],
     [ "LineCross", "classcBgS.html#a079ca5b87bdcf2e02c5595aaccdad475", null ],
     [ "LineCross", "classcBgS.html#a6199c2cbecf0c5daa70e8cf513ebd8a5", null ],
     [ "LineCross", "classcBgS.html#a6199c2cbecf0c5daa70e8cf513ebd8a5", null ],

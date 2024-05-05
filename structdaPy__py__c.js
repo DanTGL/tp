@@ -594,6 +594,7 @@ var structdaPy__py__c =
     [ "onFogFade", "structdaPy__py__c.html#a35fd583562a333439cc2e4e3b08be584", null ],
     [ "onForceAutoJump", "structdaPy__py__c.html#a0ab01b8988efe0a7b4cdf86e63c55910", null ],
     [ "onForceGameOver", "structdaPy__py__c.html#a6f970e9a5543d2dcfa17cf2a76636fdb", null ],
+    [ "onForceWolfChange", "structdaPy__py__c.html#afd3ca06c3c841245d2609eca703b62cb", null ],
     [ "onFrollCrashFlg", "structdaPy__py__c.html#a889a62b915160c7a344260256d9db1cf", null ],
     [ "onLightSwordGetEffect", "structdaPy__py__c.html#ac355095011723ef798c01dc739c4e54d", null ],
     [ "onMagneGrab", "structdaPy__py__c.html#a6288f3d10abfbe4386063ecaf250fa59", null ],

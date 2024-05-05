@@ -1,5 +1,13 @@
 var NAVTREEINDEX309 =
 {
+"d_2a_2obj_2d__a__obj__lp_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,79,137,3],
+"d_2a_2obj_2d__a__obj__lp_2unknown__translation__unit__dtors_8h_source.html":[4,0,1,8,0,0,79,137,3],
+"d_2a_2obj_2d__a__obj__lv1Candle00_2executor_8h.html":[4,0,1,8,0,0,79,138,2],
+"d_2a_2obj_2d__a__obj__lv1Candle00_2executor_8h_source.html":[4,0,1,8,0,0,79,138,2],
+"d_2a_2obj_2d__a__obj__lv1Candle00_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,79,138,4],
+"d_2a_2obj_2d__a__obj__lv1Candle00_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,138,4],
+"d_2a_2obj_2d__a__obj__lv1Candle01_2executor_8h.html":[4,0,1,8,0,0,79,139,2],
+"d_2a_2obj_2d__a__obj__lv1Candle01_2executor_8h_source.html":[4,0,1,8,0,0,79,139,2],
 "d_2a_2obj_2d__a__obj__lv1Candle01_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,79,139,4],
 "d_2a_2obj_2d__a__obj__lv1Candle01_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,139,4],
 "d_2a_2obj_2d__a__obj__lv2Candle_2executor_8h.html":[4,0,1,8,0,0,79,140,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX309 =
 "d_2a_2obj_2d__a__obj__magLiftRot_2executor_8h.html":[4,0,1,8,0,0,79,191,2],
 "d_2a_2obj_2d__a__obj__magLiftRot_2executor_8h_source.html":[4,0,1,8,0,0,79,191,2],
 "d_2a_2obj_2d__a__obj__magLiftRot_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,79,191,4],
-"d_2a_2obj_2d__a__obj__magLiftRot_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,191,4],
-"d_2a_2obj_2d__a__obj__magLift_2executor_8h.html":[4,0,1,8,0,0,79,190,2],
-"d_2a_2obj_2d__a__obj__magLift_2executor_8h_source.html":[4,0,1,8,0,0,79,190,2],
-"d_2a_2obj_2d__a__obj__magLift_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,79,190,4],
-"d_2a_2obj_2d__a__obj__magLift_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,190,4],
-"d_2a_2obj_2d__a__obj__magne__arm_2executor_8h.html":[4,0,1,8,0,0,79,192,1],
-"d_2a_2obj_2d__a__obj__magne__arm_2executor_8h_source.html":[4,0,1,8,0,0,79,192,1],
-"d_2a_2obj_2d__a__obj__magne__arm_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,79,192,2],
-"d_2a_2obj_2d__a__obj__magne__arm_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,192,2]
+"d_2a_2obj_2d__a__obj__magLiftRot_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,79,191,4]
 };
