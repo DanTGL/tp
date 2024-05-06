@@ -2,7 +2,7 @@ var searchData=
 [
   ['e_5fai_5fclass_0',['e_ai_class',['../structe__ai__class.html',1,'']]],
   ['e_5farrow_5fclass_1',['e_arrow_class',['../classe__arrow__class.html',1,'']]],
-  ['e_5fba_5fclass_2',['e_ba_class',['../structe__ba__class.html',1,'']]],
+  ['e_5fba_5fclass_2',['e_ba_class',['../classe__ba__class.html',1,'']]],
   ['e_5fbee_5fclass_3',['e_bee_class',['../classe__bee__class.html',1,'']]],
   ['e_5fbi_5fclass_4',['e_bi_class',['../structe__bi__class.html',1,'']]],
   ['e_5fbi_5fleaf_5fclass_5',['e_bi_leaf_class',['../classe__bi__leaf__class.html',1,'']]],

@@ -319,7 +319,7 @@ var searchData=
   ['dadr_5fc_316',['daDr_c',['../structdaDr__c.html',1,'']]],
   ['dadsh_5fc_317',['daDsh_c',['../classdaDsh__c.html',1,'']]],
   ['dae_5fai_5fhio_5fc_318',['daE_AI_HIO_c',['../structdaE__AI__HIO__c.html',1,'']]],
-  ['dae_5fba_5fhio_5fc_319',['daE_BA_HIO_c',['../structdaE__BA__HIO__c.html',1,'']]],
+  ['dae_5fba_5fhio_5fc_319',['daE_BA_HIO_c',['../classdaE__BA__HIO__c.html',1,'']]],
   ['dae_5fbee_5fhio_5fc_320',['daE_Bee_HIO_c',['../classdaE__Bee__HIO__c.html',1,'']]],
   ['dae_5fbg_5fc_321',['daE_BG_c',['../structdaE__BG__c.html',1,'']]],
   ['dae_5fbg_5fhio_5fc_322',['daE_BG_HIO_c',['../structdaE__BG__HIO__c.html',1,'']]],

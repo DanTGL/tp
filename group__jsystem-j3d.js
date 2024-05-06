@@ -885,7 +885,6 @@ var group__jsystem_j3d =
       [ "checkPass", "classJ3DFrameCtrl.html#a7732c347fb9b22328fc2972c6e620151", null ],
       [ "checkPass", "classJ3DFrameCtrl.html#a7732c347fb9b22328fc2972c6e620151", null ],
       [ "checkPass", "classJ3DFrameCtrl.html#a7732c347fb9b22328fc2972c6e620151", null ],
-      [ "checkPass", "classJ3DFrameCtrl.html#a7732c347fb9b22328fc2972c6e620151", null ],
       [ "checkState", "classJ3DFrameCtrl.html#a758adbc9f59231bf0a55f6121162bd50", null ],
       [ "getAttribute", "classJ3DFrameCtrl.html#a43097c0c21201e40e1ccb8af2cfb6630", null ],
       [ "getEnd", "classJ3DFrameCtrl.html#aa0ea72b45cdd7ed9d20520e4485397f7", null ],

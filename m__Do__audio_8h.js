@@ -24,6 +24,7 @@ var m__Do__audio_8h =
     [ "mDoAud_mEnvse_registRiverSePos", "m__Do__audio_8h.html#aa18efd3a882fae30f8ebe87222afc8d2", null ],
     [ "mDoAud_mEnvse_registSmellSePos", "m__Do__audio_8h.html#af4f96f63ae049c82a648377784e29e21", null ],
     [ "mDoAud_mEnvse_registWindowPos", "m__Do__audio_8h.html#a6737220f2e220cd4dc2aee925a454c60", null ],
+    [ "mDoAud_mEnvse_registWolfSmellSePos", "m__Do__audio_8h.html#a2d84dfe2b5be34f455b2810c80ea5f4d", null ],
     [ "mDoAud_mEnvse_resetScene", "m__Do__audio_8h.html#a8c03c6eff78055b9245e9f48a9a13c30", null ],
     [ "mDoAud_mEnvse_setWindDirection", "m__Do__audio_8h.html#ad3f95810a7bb7087ed681aedc75577ec", null ],
     [ "mDoAud_mEnvse_setWindType", "m__Do__audio_8h.html#a80326b450e3a9d493b8d7e30d36a1d8d", null ],

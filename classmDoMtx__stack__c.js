@@ -221,7 +221,6 @@ var classmDoMtx__stack__c =
     [ "scaleM", "classmDoMtx__stack__c.html#af828f099c157b1c5ed480140f79fad87", null ],
     [ "scaleM", "classmDoMtx__stack__c.html#af828f099c157b1c5ed480140f79fad87", null ],
     [ "scaleM", "classmDoMtx__stack__c.html#af828f099c157b1c5ed480140f79fad87", null ],
-    [ "scaleM", "classmDoMtx__stack__c.html#af828f099c157b1c5ed480140f79fad87", null ],
     [ "scaleS", "classmDoMtx__stack__c.html#a13b083dd3b3a32b26bc7761b9e26931f", null ],
     [ "scaleS", "classmDoMtx__stack__c.html#aba60f18799eec7de5a8eb502b17d5d7a", null ],
     [ "transM", "classmDoMtx__stack__c.html#a6dfc3203fd69e16d071f16f958e86315", null ],

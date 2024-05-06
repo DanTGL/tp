@@ -21,7 +21,6 @@ var structZ2EnvSeMgr =
     [ "registSmellSePos", "structZ2EnvSeMgr.html#a63cfa3fe7f660812f5299981b9122081", null ],
     [ "registWindowPos", "structZ2EnvSeMgr.html#a53a716f8ecaf41271a09a9ed0dc1e6a6", null ],
     [ "registWolfSmellSePos", "structZ2EnvSeMgr.html#afa6089e707526605e0852097a1f18ace", null ],
-    [ "registWolfSmellSePos", "structZ2EnvSeMgr.html#afa6089e707526605e0852097a1f18ace", null ],
     [ "resetScene", "structZ2EnvSeMgr.html#a5e051124fcf4807f423f9d70f64e8f7b", null ],
     [ "resetSceneInner", "structZ2EnvSeMgr.html#a6ef933f32c08cbec31d3b55cbbf80e4f", null ],
     [ "resetSceneInner", "structZ2EnvSeMgr.html#a744a5e43d750946bd4fce21f8bb3e9d6", null ],
