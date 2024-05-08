@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"classdSv__horse__place__c.html#aeaaa1776ea2b4a2e2f41c49d90c1703a":[3,0,1896,2],
 "classdSv__letter__info__c.html":[3,0,1898],
 "classdSv__letter__info__c.html#a26456bc8e311999f88d5e5a9a0dfb078":[3,0,1898,0],
 "classdSv__letter__info__c.html#a2b11f3efbf95b405609f9b9d61b4ae03":[3,0,1898,7],
@@ -76,9 +77,9 @@ var NAVTREEINDEX190 =
 "classdSv__player__collect__c.html#a0d03d608a61446cc8a269968b5b3c2db":[3,0,1905,0],
 "classdSv__player__collect__c.html#a11e79281900954159841c437fba44e52":[3,0,1905,16],
 "classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,3],
+"classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,6],
 "classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,4],
 "classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,5],
-"classdSv__player__collect__c.html#a1d51e871cf17ea8069d453a0de8188a2":[3,0,1905,6],
 "classdSv__player__collect__c.html#a2f826c2c5aa54edf87a492acfecacf1c":[3,0,1905,15],
 "classdSv__player__collect__c.html#a4ef0de1d53c3d66dce7b3c8c80eb6323":[3,0,1905,10],
 "classdSv__player__collect__c.html#a71b1d90aa22b83b73133e9ca87ca9c5a":[3,0,1905,11],
@@ -170,8 +171,8 @@ var NAVTREEINDEX190 =
 "classdSv__player__item__c.html#a9025f6bb81fe6dbd7f6571f31983de31":[3,0,1910,22],
 "classdSv__player__item__c.html#a982325cc9dda2dbbb9b59657bac48f63":[3,0,1910,21],
 "classdSv__player__item__c.html#abc066f1e4f9f1f5d93e06083d059594c":[3,0,1910,28],
-"classdSv__player__item__c.html#ac5a9ce76fbf2fed488271dd07c8af966":[3,0,1910,26],
 "classdSv__player__item__c.html#ac5a9ce76fbf2fed488271dd07c8af966":[3,0,1910,27],
+"classdSv__player__item__c.html#ac5a9ce76fbf2fed488271dd07c8af966":[3,0,1910,26],
 "classdSv__player__item__c.html#ad09ad20ea0b9532f07dbc0ad5dde6f57":[3,0,1910,13],
 "classdSv__player__item__c.html#ad177a43456b09196474bf9e3a44e9e06":[3,0,1910,32],
 "classdSv__player__item__c.html#ad244ea0189740435f530c96a8a1e866f":[3,0,1910,16],
@@ -192,8 +193,8 @@ var NAVTREEINDEX190 =
 "classdSv__player__item__max__c.html#a6dce92222cc3fa00deb097070434e32c":[3,0,1911,4],
 "classdSv__player__item__max__c.html#a8fb950803985c2cec9f0c7445f1c6cb8":[3,0,1911,0],
 "classdSv__player__item__max__c.html#ac2a529b04437b64691fd6ed8fdb3ed7f":[3,0,1911,6],
-"classdSv__player__item__max__c.html#ada9db2cbfecdb646d1ae8ec3369b7dfa":[3,0,1911,3],
 "classdSv__player__item__max__c.html#ada9db2cbfecdb646d1ae8ec3369b7dfa":[3,0,1911,2],
+"classdSv__player__item__max__c.html#ada9db2cbfecdb646d1ae8ec3369b7dfa":[3,0,1911,3],
 "classdSv__player__item__record__c.html":[3,0,1912],
 "classdSv__player__item__record__c.html#a0821c41164f4fe9596b8738e1b91f98a":[3,0,1912,15],
 "classdSv__player__item__record__c.html#a0f0fb20d6587b1d7741ec1a6d0602074":[3,0,1912,6],
@@ -209,8 +210,8 @@ var NAVTREEINDEX190 =
 "classdSv__player__item__record__c.html#aa776844dac49cca9e884b40cc57a5df1":[3,0,1912,13],
 "classdSv__player__item__record__c.html#aaa9335e291d293a9eff18b7268047235":[3,0,1912,10],
 "classdSv__player__item__record__c.html#ac9b7037fbd7552e9c03361cd88c0ccf9":[3,0,1912,11],
-"classdSv__player__item__record__c.html#ae1848ef60f53287e0ee61b6778e515de":[3,0,1912,4],
 "classdSv__player__item__record__c.html#ae1848ef60f53287e0ee61b6778e515de":[3,0,1912,3],
+"classdSv__player__item__record__c.html#ae1848ef60f53287e0ee61b6778e515de":[3,0,1912,4],
 "classdSv__player__item__record__c.html#af8ec33e1dcf7c5a0ce63025015046078":[3,0,1912,8],
 "classdSv__player__last__mark__info__c.html":[3,0,1913],
 "classdSv__player__last__mark__info__c.html#a0532ebd62fb7bc9321af3d25bad654a2":[3,0,1913,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "classdSv__player__status__a__c.html#a150fc364e641ea3cf8c113bd0f894f3f":[3,0,1915,34],
 "classdSv__player__status__a__c.html#a1ba0353ec1dbe569a12470b7c7df2167":[3,0,1915,38],
 "classdSv__player__status__a__c.html#a1e38926f396794f51dd0b2f18825aef3":[3,0,1915,11],
-"classdSv__player__status__a__c.html#a214055c30e60aa55cc2a961b54138a7c":[3,0,1915,29],
-"classdSv__player__status__a__c.html#a2520e80faf6386cc7e6887d7d4a9d099":[3,0,1915,24]
+"classdSv__player__status__a__c.html#a214055c30e60aa55cc2a961b54138a7c":[3,0,1915,29]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX226 =
 {
+"classdaE__YM__c.html#ae8d00bfa1e65745cb6c10ff0c7ab51f2":[1,0,1,25,36],
 "classdaE__YM__c.html#ae93620c19c6e7c0bd39ac7aff8717251":[1,0,1,25,27],
 "classdaE__YM__c.html#ae9367ecabb87037c80f59d93d294dbc3":[1,0,1,25,55],
 "classdaE__YM__c.html#aeb927ffbcca9483ce5f4d2513e30255c":[1,0,1,25,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX226 =
 "classdaHoZelda__c.html#a701b97a7e230e57b64e7fd3a4aa43f2a":[3,0,650,23],
 "classdaHoZelda__c.html#a719a3d831afbc8f022da931b4df9ccf6":[3,0,650,26],
 "classdaHoZelda__c.html#a748921cb98a48a59a1f530ec5de231b0":[3,0,650,37],
-"classdaHoZelda__c.html#a78c3b47d913e51705d5ec50d318b0951":[3,0,650,77],
-"classdaHoZelda__c.html#a7cdc35a7c5b0365fb520a959cec4ffee":[3,0,650,13]
+"classdaHoZelda__c.html#a78c3b47d913e51705d5ec50d318b0951":[3,0,650,77]
 };

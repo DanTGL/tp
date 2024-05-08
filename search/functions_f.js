@@ -52,7 +52,7 @@ var searchData=
   ['observecamera_49',['observeCamera',['../classdCamera__c.html#a96f3fdcdbda90e0f9f75b4eb78e05b4f',1,'dCamera_c']]],
   ['observecamera_5f_5f9dcamera_5fcfl_50',['observeCamera__9dCamera_cFl',['../d__camera_8cpp.html#ad65297a0b09108efe5cb62f62a0c8724',1,'d_camera.cpp']]],
   ['odour_5fmove_51',['odour_move',['../d__a__kytag03_8cpp.html#ab3d12345dabd847c4ffc5bea85f8bb16',1,'d_a_kytag03.cpp']]],
-  ['off_52',['off',['../classdSv__zoneActor__c.html#a5ec2e76818764fb33014fbce18c1a837',1,'dSv_zoneActor_c::off()'],['../structdCamForcusLine.html#a06dce42360a37f16956fb2af32bfd7d1',1,'dCamForcusLine::Off()']]],
+  ['off_52',['off',['../structdCamForcusLine.html#a06dce42360a37f16956fb2af32bfd7d1',1,'dCamForcusLine::Off()'],['../classdSv__zoneActor__c.html#a5ec2e76818764fb33014fbce18c1a837',1,'dSv_zoneActor_c::off()']]],
   ['off3buttonreset_53',['off3ButtonReset',['../classmDoRst.html#abe6a6107288f0278c31b194299e9819b',1,'mDoRst']]],
   ['off_5f_5f14dcamforcuslinefv_54',['Off__14dCamForcusLineFv',['../d__camera_8cpp.html#a9e5659b0787f644dd205a07ae9a72332',1,'d_camera.cpp']]],
   ['offactive_55',['offActive',['../classdPa__control__c_1_1level__c_1_1emitter__c.html#a7b5281f7ad41f46057a228eb756375de',1,'dPa_control_c::level_c::emitter_c']]],

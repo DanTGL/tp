@@ -1,5 +1,6 @@
 var NAVTREEINDEX261 =
 {
+"classdaNpc__zrA__c.html#aae143df2876f8066543f208af9395be9":[3,0,894,151],
 "classdaNpc__zrA__c.html#aae9fc3b6789824471a679e2e120965ef":[3,0,894,1],
 "classdaNpc__zrA__c.html#aaf36ab489ecc23f1f22e2c56610cf058":[3,0,894,97],
 "classdaNpc__zrA__c.html#aaf766e02017a3770071a82d26dbd463b":[3,0,894,44],
@@ -248,6 +249,5 @@ var NAVTREEINDEX261 =
 "classdaObjBossWarp__c.html#ae680fea676fa6136ae83b78d83cc656cafd5e5c1ce915c79db23fedc7a0db105d":[3,0,1078,0,4],
 "classdaObjBossWarp__c.html#ae726e764e00e11aa2cb52e1257e31651":[3,0,1078,24],
 "classdaObjBossWarp__c.html#ae8161d0700b6ee4d2ab0a432a8a98b12":[3,0,1078,34],
-"classdaObjBossWarp__c.html#ae8241d0c0903cfb4867a98b11a58c9fb":[3,0,1078,48],
-"classdaObjBossWarp__c.html#af205977421d9fc984f8de7583bdcf897":[3,0,1078,14]
+"classdaObjBossWarp__c.html#ae8241d0c0903cfb4867a98b11a58c9fb":[3,0,1078,48]
 };

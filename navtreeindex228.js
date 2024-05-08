@@ -1,5 +1,6 @@
 var NAVTREEINDEX228 =
 {
+"classdaItemKantera__c.html#a0e5c256e5cf9dd4169fed70fc0005219":[3,0,660,5],
 "classdaItemKantera__c.html#a25591a9391ce82db80c2b7a6e4840398":[3,0,660,28],
 "classdaItemKantera__c.html#a30da6c6913d85f671c04caa7fe714b98":[3,0,660,38],
 "classdaItemKantera__c.html#a3ffb8f7113cb764dc51b7d4192a30b2b":[3,0,660,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX228 =
 "classdaKago__c.html#a73c580b7d70fb91d36bfd23c53b679ae":[3,0,663,5],
 "classdaKago__c.html#a7508b370b711bb8c5273cbb841168f5c":[3,0,663,70],
 "classdaKago__c.html#a75dc9d198bff5e75f92ba10b56aff137":[3,0,663,140],
-"classdaKago__c.html#a760c368e9f7526a0eb57bec279fd9444":[3,0,663,96],
-"classdaKago__c.html#a76a7ffc7a9ef0912f6057d8c756286c5":[3,0,663,102]
+"classdaKago__c.html#a760c368e9f7526a0eb57bec279fd9444":[3,0,663,96]
 };

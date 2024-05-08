@@ -1,5 +1,15 @@
 var NAVTREEINDEX707 =
 {
+"d__a__npc__shad_8h.html":[4,0,1,8,0,0,78,84,1],
+"d__a__npc__shad_8h_source.html":[4,0,1,8,0,0,78,84,1],
+"d__a__npc__shaman_8cpp.html":[4,0,3,0,0,78,85,0],
+"d__a__npc__shaman_8cpp.html#a0020b952dbf1bab703dbe01d781f8d87":[4,0,3,0,0,78,85,0,108],
+"d__a__npc__shaman_8cpp.html#a0035cd6616be1961e9324a767959d751":[4,0,3,0,0,78,85,0,225],
+"d__a__npc__shaman_8cpp.html#a009462f2fe6f5d833c19beed67f18ebf":[4,0,3,0,0,78,85,0,400],
+"d__a__npc__shaman_8cpp.html#a00a99800e2e51ab72f4c0813501fd428":[4,0,3,0,0,78,85,0,298],
+"d__a__npc__shaman_8cpp.html#a011d22e9c93b2295d71154f65ff0187c":[4,0,3,0,0,78,85,0,360],
+"d__a__npc__shaman_8cpp.html#a022fc67ac0bc3420e904597175e91dba":[4,0,3,0,0,78,85,0,350],
+"d__a__npc__shaman_8cpp.html#a02905cfe02ef0061fd70f4d3f0a0cc10":[4,0,3,0,0,78,85,0,379],
 "d__a__npc__shaman_8cpp.html#a02a9b73f890bdd71a8e66b657d97bebc":[4,0,3,0,0,78,85,0,272],
 "d__a__npc__shaman_8cpp.html#a0377e6e071fd0bf35e1cd21d4a4cb3b4":[4,0,3,0,0,78,85,0,98],
 "d__a__npc__shaman_8cpp.html#a04950f9c0dec83dce961bf7527b0bb5c":[4,0,3,0,0,78,85,0,133],
@@ -239,15 +249,5 @@ var NAVTREEINDEX707 =
 "d__a__npc__shaman_8cpp.html#a937979167b3aa0083793ce0559c7baa6":[4,0,3,0,0,78,85,0,374],
 "d__a__npc__shaman_8cpp.html#a96406a977171cfd6732fe6e273258e67":[4,0,3,0,0,78,85,0,205],
 "d__a__npc__shaman_8cpp.html#a96636a42444021a7432f5a9e48d3a428":[4,0,3,0,0,78,85,0,235],
-"d__a__npc__shaman_8cpp.html#a966a8edce7badd1f93634d68c473659c":[4,0,3,0,0,78,85,0,448],
-"d__a__npc__shaman_8cpp.html#a96be8c79baacd021a226016df5297c51":[4,0,3,0,0,78,85,0,121],
-"d__a__npc__shaman_8cpp.html#a98f654d650a69b40324e8ac1477d06f8":[4,0,3,0,0,78,85,0,414],
-"d__a__npc__shaman_8cpp.html#a993efd6abc5c781a1906109ee1e9427a":[4,0,3,0,0,78,85,0,274],
-"d__a__npc__shaman_8cpp.html#a9b14ec414d24b3db9b0ea2496b92d002":[4,0,3,0,0,78,85,0,344],
-"d__a__npc__shaman_8cpp.html#a9bf5fed9ad98365fa6fd31c7a2a69bd3":[4,0,3,0,0,78,85,0,89],
-"d__a__npc__shaman_8cpp.html#a9ce062908618b08d21278bf6e8886340":[4,0,3,0,0,78,85,0,323],
-"d__a__npc__shaman_8cpp.html#a9d295360c00c67ad6518335dde1411c2":[4,0,3,0,0,78,85,0,201],
-"d__a__npc__shaman_8cpp.html#a9d6e99afbcb4239b0e24ad241f66eaf4":[4,0,3,0,0,78,85,0,391],
-"d__a__npc__shaman_8cpp.html#a9dda5d981dca736934f3b7694b4ca1cd":[4,0,3,0,0,78,85,0,100],
-"d__a__npc__shaman_8cpp.html#a9ec00f755b69eb1ecdd833e3148126dc":[4,0,3,0,0,78,85,0,260]
+"d__a__npc__shaman_8cpp.html#a966a8edce7badd1f93634d68c473659c":[4,0,3,0,0,78,85,0,448]
 };
