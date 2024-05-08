@@ -144,6 +144,7 @@ var f__op__actor__mng_8h =
     [ "fopAcM_GetRoomNo", "f__op__actor__mng_8h.html#a11e7643351d75382b7e2ba9d7603ba84", null ],
     [ "fopAcM_GetSetId", "f__op__actor__mng_8h.html#ab5870f234e74eb99721616ece2be4052", null ],
     [ "fopAcM_GetShapeAngle_p", "f__op__actor__mng_8h.html#a82d25d88adf75f9ad8754eb07c9ef67d", null ],
+    [ "fopAcM_GetSpeed", "f__op__actor__mng_8h.html#a0888c47018b6e924a28d14122636937d", null ],
     [ "fopAcM_GetSpeed_p", "f__op__actor__mng_8h.html#a8c58f7e50f28a12defb7d1e2381fdc45", null ],
     [ "fopAcM_GetSpeed_p", "f__op__actor__mng_8h.html#a37f3e47398631c9d89892b9a3e7d937e", null ],
     [ "fopAcM_GetSpeedF", "f__op__actor__mng_8h.html#ab1fd6675721f2c3175448d1e4e4bdccc", null ],
