@@ -1,5 +1,10 @@
 var NAVTREEINDEX1087 =
 {
+"structJKRExpHeap.html#a1ba647b6c70ddac37bdaaaf672f4aad3":[1,1,5,22,3],
+"structJKRExpHeap.html#a1ce9b2099ebecadf42f3fbe29f03118a":[1,1,5,22,8],
+"structJKRExpHeap.html#a1fa35f045478c4a983646742f9e23741":[1,1,5,22,45],
+"structJKRExpHeap.html#a207903faf34ccb1352a49e4a6f616304":[1,1,5,22,42],
+"structJKRExpHeap.html#a26016569da60e0c53d1fa387d30efe7d":[1,1,5,22,48],
 "structJKRExpHeap.html#a307bdf9d77fad97cccead87baa41521d":[1,1,5,22,29],
 "structJKRExpHeap.html#a3558ed8304d2411e08b6bcab41bf813d":[1,1,5,22,12],
 "structJKRExpHeap.html#a3c91246c8a2e20f6585fa2aad7376f11":[1,1,5,22,49],
@@ -87,8 +92,8 @@ var NAVTREEINDEX1087 =
 "structJKRHeap.html#a1ac9d23deb47b3f8393f13b5a334844a":[1,1,5,28,52],
 "structJKRHeap.html#a1baf6f5c5eb217bab084551cff0f50b1":[1,1,5,28,94],
 "structJKRHeap.html#a1dc6dbf09603f0f07b96a9b44610ca7c":[1,1,5,28,75],
-"structJKRHeap.html#a1dcf395ee3b0599ffdbc8c54f65136e0":[1,1,5,28,19],
 "structJKRHeap.html#a1dcf395ee3b0599ffdbc8c54f65136e0":[1,1,5,28,18],
+"structJKRHeap.html#a1dcf395ee3b0599ffdbc8c54f65136e0":[1,1,5,28,19],
 "structJKRHeap.html#a20e8f487c1c6a51dac09fe95e9b45788":[1,1,5,28,104],
 "structJKRHeap.html#a232d0cfdba75a5c243400d3401cc25d6":[1,1,5,28,99],
 "structJKRHeap.html#a26c95e130692940aac8ec7bbcadd7d52":[1,1,5,28,41],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1087 =
 "structJMath_1_1TRandom__fast__.html#afecef44f0af97661fe008a4223183e6e":[1,1,6,4,6],
 "structJMath_1_1TSinCosTable.html":[2,0,23,1],
 "structJMath_1_1TSinCosTable.html":[3,0,6,1],
-"structJMath_1_1TSinCosTable____template0.html":[3,0,6,2],
-"structJMath_1_1TSinCosTable____template0.html":[2,0,23,2],
-"structJMath_1_1TSinCosTable____template0.html#a00732831452a48baa4b751e6dd3a559a":[2,0,23,2,6],
-"structJMath_1_1TSinCosTable____template0.html#a00732831452a48baa4b751e6dd3a559a":[3,0,6,2,6],
-"structJMath_1_1TSinCosTable____template0.html#a0379c9296d6dea46f9539ebbde5fbd66":[3,0,6,2,2],
-"structJMath_1_1TSinCosTable____template0.html#a0379c9296d6dea46f9539ebbde5fbd66":[2,0,23,2,2]
+"structJMath_1_1TSinCosTable____template0.html":[2,0,23,2]
 };

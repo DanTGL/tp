@@ -1,5 +1,10 @@
 var NAVTREEINDEX1074 =
 {
+"structJ3DAnmTevRegKeyData.html#ac5346af7756ccf370bf4e423db8307b0":[1,1,1,19,8],
+"structJ3DAnmTevRegKeyData.html#ad40281ac79a3953d997cdcf5956c1bed":[1,1,1,19,6],
+"structJ3DAnmTevRegKeyData.html#adf13d778c5e1984cf988e301b2a03009":[1,1,1,19,1],
+"structJ3DAnmTevRegKeyData.html#ae9972c849c8c38b1b3a911843b8b89b2":[1,1,1,19,18],
+"structJ3DAnmTevRegKeyData.html#af05ddf6d90d60e733b8470c262c6096a":[1,1,1,19,14],
 "structJ3DAnmTexPatternFullData.html":[1,1,1,18],
 "structJ3DAnmTexPatternFullData.html#a23597ff44029bbc6d6a1221d8b465c77":[1,1,1,18,0],
 "structJ3DAnmTexPatternFullData.html#a28c4f91cc366b7cbd28883413b3d8636":[1,1,1,18,2],
@@ -211,10 +216,10 @@ var NAVTREEINDEX1074 =
 "structJ3DDrawBuffer.html#ad44cd1df964db35c81d9b74b8559c0dc":[1,1,1,77,36],
 "structJ3DDrawBuffer.html#ad6644f866b149f27b879fd6e783d4ce3":[1,1,1,77,21],
 "structJ3DDrawBuffer.html#ae2986c285e503ea362a6ebdf449b1d4a":[1,1,1,77,35],
-"structJ3DDrawBuffer.html#ae31cc1fc469430cfc8b11262ff1798c3":[1,1,1,77,9],
-"structJ3DDrawBuffer.html#ae31cc1fc469430cfc8b11262ff1798c3":[1,1,1,77,10],
-"structJ3DDrawBuffer.html#ae31cc1fc469430cfc8b11262ff1798c3":[1,1,1,77,11],
 "structJ3DDrawBuffer.html#ae31cc1fc469430cfc8b11262ff1798c3":[1,1,1,77,12],
+"structJ3DDrawBuffer.html#ae31cc1fc469430cfc8b11262ff1798c3":[1,1,1,77,11],
+"structJ3DDrawBuffer.html#ae31cc1fc469430cfc8b11262ff1798c3":[1,1,1,77,10],
+"structJ3DDrawBuffer.html#ae31cc1fc469430cfc8b11262ff1798c3":[1,1,1,77,9],
 "structJ3DDrawBuffer.html#ae35450932dda0691279e8d666fc9b571":[1,1,1,77,32],
 "structJ3DDrawBuffer.html#aee7386c6696731960c6f2b296a2d83e6":[1,1,1,77,38],
 "structJ3DDrawBuffer.html#af3bcad3a1b98ee4637bb50745fbf9543":[1,1,1,77,31],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1074 =
 "structJ3DFogInfo.html#a5d758b30a7c9202d5bcc0a750fd742f6":[1,1,1,146,7],
 "structJ3DFogInfo.html#a6bdd5e139c8d333529aa1b64d0571677":[1,1,1,146,2],
 "structJ3DFogInfo.html#a86b37f114ce0f97cdc4e2e825432d46d":[1,1,1,146,4],
-"structJ3DFogInfo.html#aaa79f3aaee1603416ce91d31d943ac6d":[1,1,1,146,0],
-"structJ3DFogInfo.html#ae3b25253b0a5ca129529c586608b1fa1":[1,1,1,146,9],
-"structJ3DFogInfo.html#aedaa4dc485c7f45a4707bfef4f73a3e7":[1,1,1,146,1],
-"structJ3DGXColor.html":[1,1,1,79],
-"structJ3DGXColor.html#abe7ca9b46bbc3aae5400f7f69bd1eb54":[1,1,1,79,0],
-"structJ3DGXColor.html#aedc49e3a7fd2355caee49cb8edcb5f9b":[1,1,1,79,2]
+"structJ3DFogInfo.html#aaa79f3aaee1603416ce91d31d943ac6d":[1,1,1,146,0]
 };

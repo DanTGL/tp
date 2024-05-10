@@ -1,5 +1,10 @@
 var NAVTREEINDEX1105 =
 {
+"struct__GXData.html#a0be9ab31b40c12db79af64610de86456":[3,0,36,69],
+"struct__GXData.html#a109acd99d518a08c2a6dc8787a173e67":[3,0,36,31],
+"struct__GXData.html#a197429be16002abd5bfa4f4fa2262d84":[3,0,36,18],
+"struct__GXData.html#a19b95aaefd3594474fa7f55cda805406":[3,0,36,29],
+"struct__GXData.html#a1fc55be10d72e83d69e850e26943b93e":[3,0,36,8],
 "struct__GXData.html#a2232145f7c6d14ca2b91a276a84e4978":[3,0,36,37],
 "struct__GXData.html#a23284b189f27ad3141a11e506ad63f2e":[3,0,36,71],
 "struct__GXData.html#a2492ed5b60ff0de36d90fa3eb6ae4170":[3,0,36,11],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1105 =
 "structaction__class.html#a8f1ea225c06d9662eea01fcee589007c":[3,0,50,3],
 "structaction__class.html#a8f512790ee105dfbc7c11a70c970c760":[3,0,50,5],
 "structaction__class.html#aba8b928e94f1f681116fbd02d546c11a":[3,0,50,4],
-"structactor__attention__types.html":[3,0,51],
-"structactor__attention__types.html#a1282504cf1d4ab4e38a68e02c421e1e5":[3,0,51,0],
-"structactor__attention__types.html#a5f64b07e300ad4accdf33a719f3895f6":[3,0,51,2],
-"structactor__attention__types.html#aaf98dc4c807dbbe9c0701dc0beee2bff":[3,0,51,1],
-"structactor__attention__types.html#ace5ca30f17b4eab41f0ed3d422800a0e":[3,0,51,3],
-"structactor__method__class.html":[3,0,52]
+"structactor__attention__types.html":[3,0,51]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX1158 =
 {
+"structdaNpc__Fairy__c.html#a18a6b5ab9631007cc9c5357decc8c062":[3,0,758,37],
+"structdaNpc__Fairy__c.html#a19451149054c52467fc018d79d42ee85":[3,0,758,45],
+"structdaNpc__Fairy__c.html#a19ec2ccfc642ec11a49c098f8f9578ab":[3,0,758,40],
+"structdaNpc__Fairy__c.html#a1cc2fe348b4abadb89558b69833378ff":[3,0,758,17],
+"structdaNpc__Fairy__c.html#a209a0e554dbef425c4f262dfebe92cb2":[3,0,758,57],
 "structdaNpc__Fairy__c.html#a21f48d7356afcd7bcad69e14f2887e7c":[3,0,758,59],
 "structdaNpc__Fairy__c.html#a24f4273ac89111e40e80e3213620831c":[3,0,758,26],
 "structdaNpc__Fairy__c.html#a25e94a3d89fdcafbbb18ce34d6b9e869":[3,0,758,29],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1158 =
 "structdaNpc__Grz__c_1_1daNpc__GrZ__prtclMngr__c.html#a68411e0233b4c81dd6448b7ea98011e6":[3,0,782,0,1],
 "structdaNpc__HanjoStone__c.html":[3,0,788],
 "structdaNpc__HanjoStone__c.html#a3cb44c96b20bfb24afddff744ff1551c":[3,0,788,6],
-"structdaNpc__HanjoStone__c.html#a7af04ac6e93b42251d2a3c11e1f84dfd":[3,0,788,1],
-"structdaNpc__HanjoStone__c.html#a8fffba7646b8676586c3ab387955c95c":[3,0,788,3],
-"structdaNpc__HanjoStone__c.html#aa6885ee4a64ec6d2a43eb96cafea6739":[3,0,788,0],
-"structdaNpc__HanjoStone__c.html#aba89dfa80f3036a71eb479ca160397aa":[3,0,788,5],
-"structdaNpc__HanjoStone__c.html#ad7b79cabb018fd72a328834294daefba":[3,0,788,2],
-"structdaNpc__HanjoStone__c.html#ae27565e92146b5d6cfe80820a18e6dea":[3,0,788,4]
+"structdaNpc__HanjoStone__c.html#a7af04ac6e93b42251d2a3c11e1f84dfd":[3,0,788,1]
 };

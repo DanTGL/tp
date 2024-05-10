@@ -1,5 +1,10 @@
 var NAVTREEINDEX1166 =
 {
+"structdaNpc__Uri__c.html#a4afa01c38409d3353b9e1f224dbfc5ae":[3,0,870,28],
+"structdaNpc__Uri__c.html#a4b0fc53f3de8061cf5ce15d93974f6f2":[3,0,870,1],
+"structdaNpc__Uri__c.html#a4b7485e7d72499834680f53c253362cb":[3,0,870,20],
+"structdaNpc__Uri__c.html#a4cef02ab0b1c8338f13ef0cff7958601":[3,0,870,46],
+"structdaNpc__Uri__c.html#a4f636e8760b5dbb57232d9a3fa4a4e1b":[3,0,870,22],
 "structdaNpc__Uri__c.html#a5075c8a3622e8b50013221685a070130":[3,0,870,12],
 "structdaNpc__Uri__c.html#a54e40d1b450cdc1215b8daea6385c82b":[3,0,870,54],
 "structdaNpc__Uri__c.html#a556833491cb0717f42b2ac985f5837d9":[3,0,870,29],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1166 =
 "structdaNpc__Zelda__c.html#ac08b49f4d99007e4838b6755cf54fa3f":[3,0,888,21],
 "structdaNpc__Zelda__c.html#ad07479c5c353211c911644e116fe8be2":[3,0,888,2],
 "structdaNpc__Zelda__c.html#adb8cb28a22f905cbdf34ec79bbe8ed57":[3,0,888,8],
-"structdaNpc__Zelda__c.html#adecaa6109808dfd23755acb093512c0a":[3,0,888,9],
-"structdaNpc__Zelda__c.html#ae00a922fb0236ea612832f101915abf5":[3,0,888,33],
-"structdaNpc__Zelda__c.html#ae03479f6f56d54e30b3c176c9bca8096":[3,0,888,36],
-"structdaNpc__Zelda__c.html#ae4dfa96fb4aec1c5c117bf8b08603370":[3,0,888,22],
-"structdaNpc__Zelda__c.html#aea8f6a9344f9f8bff7e1fd8e36fd9702":[3,0,888,38],
-"structdaNpc__Zelda__c.html#aef5e926a7d8a79eaf00697a984960151":[3,0,888,4]
+"structdaNpc__Zelda__c.html#adecaa6109808dfd23755acb093512c0a":[3,0,888,9]
 };

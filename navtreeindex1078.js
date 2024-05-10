@@ -1,5 +1,10 @@
 var NAVTREEINDEX1078 =
 {
+"structJ3DTevSwapModeTableInfo.html#a2e23da104570d280883e90b309a82780":[1,1,1,151,1],
+"structJ3DTevSwapModeTableInfo.html#a418e2ec65c922f4c91d19c0a936ee0b4":[1,1,1,151,0],
+"structJ3DTevSwapModeTableInfo.html#ade2beb063fd39672e7200dade0333359":[1,1,1,151,2],
+"structJ3DTexCoord.html":[1,1,1,162],
+"structJ3DTexCoord.html#a16f8a58819f1ed19b418124dea69f35c":[1,1,1,162,4],
 "structJ3DTexCoord.html#a42c19065fe42692ff3abda10e9c13c3c":[1,1,1,162,1],
 "structJ3DTexCoord.html#a589fe08f9d3bbcf0095c1c8e15d70abe":[1,1,1,162,8],
 "structJ3DTexCoord.html#a597e29787a52b1e3ed940096485c3d13":[1,1,1,162,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1078 =
 "structJAISoundStatus__.html#afa943276d28a255fa548308d440fc25c":[1,1,2,15,5],
 "structJAISoundStrategyMgr.html":[1,1,2,18],
 "structJAISoundStrategyMgr.html#a07d5647e1733573b483a272737ba65bd":[1,1,2,18,1],
-"structJAISoundStrategyMgr.html#a3420c61d56d7fd1a62eaa46c4fd41899":[1,1,2,18,2],
-"structJAISoundStrategyMgr.html#a38b4afd2bd4106a081bd5cf0a5ff8193":[1,1,2,18,0],
-"structJAISoundStrategyMgr____template0.html":[3,0,2439],
-"structJAISoundStrategyMgr____template1.html":[3,0,2440],
-"structJAISoundStrategyMgr____template2.html":[3,0,2441],
-"structJAISoundStrategyMgr____unknown.html":[1,1,2,17]
+"structJAISoundStrategyMgr.html#a3420c61d56d7fd1a62eaa46c4fd41899":[1,1,2,18,2]
 };

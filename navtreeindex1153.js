@@ -1,5 +1,10 @@
 var NAVTREEINDEX1153 =
 {
+"structdaNpcCoach__c.html#a506d5ef816a8934e8629f39763b27d79":[3,0,927,8],
+"structdaNpcCoach__c.html#a5f098cabc1c1ac1afc624a76799913eb":[3,0,927,17],
+"structdaNpcCoach__c.html#a617edb357a6e6408933c26271ae1ddcb":[3,0,927,26],
+"structdaNpcCoach__c.html#a65759737882851e1f21170e153d07492":[3,0,927,30],
+"structdaNpcCoach__c.html#a66c9869de51dd7c0491cf47bd536924c":[3,0,927,25],
 "structdaNpcCoach__c.html#a73be704f1559aa1a6ea9f58f3ba7da5d":[3,0,927,4],
 "structdaNpcCoach__c.html#a7558bf996739da18bc2531a953eee179":[3,0,927,7],
 "structdaNpcCoach__c.html#a788f278e480e699967d402661ad56a94":[3,0,927,19],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1153 =
 "structdaNpcKasiHana__c.html#a8ca639bfe3ce720d09579adb8fb49b29":[3,0,946,23],
 "structdaNpcKasiHana__c.html#a9477fc93c18102e6ab77a18d0da15d77":[3,0,946,9],
 "structdaNpcKasiHana__c.html#a9681d5831a015213db6541b9875d893a":[3,0,946,36],
-"structdaNpcKasiHana__c.html#aa9b597eadc59625c158d4ca30c616f75":[3,0,946,41],
-"structdaNpcKasiHana__c.html#aac6689ae829ae440da583b88f9298580":[3,0,946,48],
-"structdaNpcKasiHana__c.html#abf2b6ba4e465aba78a9afc7180b297f7":[3,0,946,39],
-"structdaNpcKasiHana__c.html#abf36dd1a430408da3395de1dc201b58f":[3,0,946,42],
-"structdaNpcKasiHana__c.html#abf3d898aeeec443223c7257b27f5e53d":[3,0,946,49],
-"structdaNpcKasiHana__c.html#ac66517661994bdf2182ee45bcf7078a1":[3,0,946,24]
+"structdaNpcKasiHana__c.html#aa9b597eadc59625c158d4ca30c616f75":[3,0,946,41]
 };

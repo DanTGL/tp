@@ -1,5 +1,10 @@
 var NAVTREEINDEX1165 =
 {
+"structdaNpc__Shop0__c.html#a7111380257989af468414ab63855ee13":[3,0,851,14],
+"structdaNpc__Shop0__c.html#a73e48feaafbc31b6fb42c65105fa7890":[3,0,851,17],
+"structdaNpc__Shop0__c.html#a7736caa484661e757b520a3a3fe57ab8":[3,0,851,18],
+"structdaNpc__Shop0__c.html#a7fc86acddd8b82042220409d2bb3936d":[3,0,851,15],
+"structdaNpc__Shop0__c.html#a9c4c91d559792e26f764319c7c600b3e":[3,0,851,8],
 "structdaNpc__Shop0__c.html#a9f45afe0e4b9210789467417e0c46c31":[3,0,851,13],
 "structdaNpc__Shop0__c.html#acce8c14a6bc0319f269ecc1a704e15b3":[3,0,851,6],
 "structdaNpc__Shop0__c.html#ad59f9fa330f61cb40ec2b868419cd730":[3,0,851,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1165 =
 "structdaNpc__Uri__c.html#a3753c6044568079626153971740a3618":[3,0,870,25],
 "structdaNpc__Uri__c.html#a392bd4919238d4c6ce247b1eff78a1c7":[3,0,870,3],
 "structdaNpc__Uri__c.html#a398c7044fc1ae223d5db6a04d99ddaba":[3,0,870,13],
-"structdaNpc__Uri__c.html#a4694b5b70d401841710a80a308dea811":[3,0,870,47],
-"structdaNpc__Uri__c.html#a4afa01c38409d3353b9e1f224dbfc5ae":[3,0,870,28],
-"structdaNpc__Uri__c.html#a4b0fc53f3de8061cf5ce15d93974f6f2":[3,0,870,1],
-"structdaNpc__Uri__c.html#a4b7485e7d72499834680f53c253362cb":[3,0,870,20],
-"structdaNpc__Uri__c.html#a4cef02ab0b1c8338f13ef0cff7958601":[3,0,870,46],
-"structdaNpc__Uri__c.html#a4f636e8760b5dbb57232d9a3fa4a4e1b":[3,0,870,22]
+"structdaNpc__Uri__c.html#a4694b5b70d401841710a80a308dea811":[3,0,870,47]
 };

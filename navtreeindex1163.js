@@ -1,5 +1,10 @@
 var NAVTREEINDEX1163 =
 {
+"structdaNpc__Pachi__Taro__c.html#a0a81ef2fbde9fc28c71ded5c6ffb23b1":[3,0,827,48],
+"structdaNpc__Pachi__Taro__c.html#a1269a2688a9a99473e8ce7be28d98f71":[3,0,827,43],
+"structdaNpc__Pachi__Taro__c.html#a13319a22f8f1065fe5da96da7df5ab7c":[3,0,827,42],
+"structdaNpc__Pachi__Taro__c.html#a18a105ede4afbccb396f85aba6788f21":[3,0,827,29],
+"structdaNpc__Pachi__Taro__c.html#a18d76037c5141ba5f4636c6cd8748f0c":[3,0,827,14],
 "structdaNpc__Pachi__Taro__c.html#a19749c4fc3f68a45d8071254c94530fd":[3,0,827,21],
 "structdaNpc__Pachi__Taro__c.html#a1a1278ed86574daf00cdeb3aa8289a5a":[3,0,827,50],
 "structdaNpc__Pachi__Taro__c.html#a1b8cd868a7e0a2390289ee432c78f0a8":[3,0,827,72],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1163 =
 "structdaNpc__Saru__c.html#a3d399e601b1cdb62447a4cc8269572ca":[3,0,835,2],
 "structdaNpc__Saru__c.html#a44490d22ccd500d352f9956077bfd7db":[3,0,835,4],
 "structdaNpc__Saru__c.html#a4b9ff5cc79139a6134e35c6df93ff265":[3,0,835,38],
-"structdaNpc__Saru__c.html#a5e23c04ce13b9dd1fc9599daae995b27":[3,0,835,17],
-"structdaNpc__Saru__c.html#a60939b888fc390cbb0c54fa219ca2560":[3,0,835,34],
-"structdaNpc__Saru__c.html#a66dbfad58072cca88dec753c3d0786c9":[3,0,835,33],
-"structdaNpc__Saru__c.html#a6e168cbe67a66a1c620ce5f4ba8b51e7":[3,0,835,20],
-"structdaNpc__Saru__c.html#a725ea1e75c2ae9ab8d408df7856aee77":[3,0,835,23],
-"structdaNpc__Saru__c.html#a78527b023da3db1de5619c74ee276bef":[3,0,835,25]
+"structdaNpc__Saru__c.html#a5e23c04ce13b9dd1fc9599daae995b27":[3,0,835,17]
 };

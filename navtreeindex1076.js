@@ -1,5 +1,10 @@
 var NAVTREEINDEX1076 =
 {
+"structJ3DMaterialFactory.html#a219373e1a41ce3ea667f1198e45fc08a":[1,1,1,178,11],
+"structJ3DMaterialFactory.html#a2c26b9330a720b7c98f899d8d9f00249":[1,1,1,178,17],
+"structJ3DMaterialFactory.html#a2de52e5302b2330cea43582352d0d3a2":[1,1,1,178,63],
+"structJ3DMaterialFactory.html#a2f13816c3ab0a3445c56d9901a2e7e4e":[1,1,1,178,43],
+"structJ3DMaterialFactory.html#a336e0c9bbb010c728cfe5f9b38103628":[1,1,1,178,36],
 "structJ3DMaterialFactory.html#a39511d095dad1e6beb1c3f7993043a94":[1,1,1,178,35],
 "structJ3DMaterialFactory.html#a46904163b993769166b1419c149414f3":[1,1,1,178,51],
 "structJ3DMaterialFactory.html#a47143e09bcfb816a6f30f9ab4b8d810f":[1,1,1,178,78],
@@ -34,8 +39,8 @@ var NAVTREEINDEX1076 =
 "structJ3DMaterialFactory.html#a9bf99afdc66f16fb76c83fa8fb50fef4":[1,1,1,178,44],
 "structJ3DMaterialFactory.html#a9db8e902ef063363b6c54f29bcaf9436":[1,1,1,178,34],
 "structJ3DMaterialFactory.html#a9e0f4b27bbb5a46ecd01425f38e5407e":[1,1,1,178,22],
-"structJ3DMaterialFactory.html#aa4ba6481d443593f1bf1e0ab88cf7626":[1,1,1,178,13],
 "structJ3DMaterialFactory.html#aa4ba6481d443593f1bf1e0ab88cf7626":[1,1,1,178,14],
+"structJ3DMaterialFactory.html#aa4ba6481d443593f1bf1e0ab88cf7626":[1,1,1,178,13],
 "structJ3DMaterialFactory.html#aa5893bc257adfaf61e58be2c76fad172":[1,1,1,178,24],
 "structJ3DMaterialFactory.html#aa5e76cb955982a80a46ddbc7e1e54513":[1,1,1,178,73],
 "structJ3DMaterialFactory.html#aab81daa18b2d4dc950034928ddf32a1e":[1,1,1,178,77],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1076 =
 "structJ3DMtxCalcAnimation____template0.html#a017a640ab3967a33e09fc219d4cfdba7":[3,0,2327,1],
 "structJ3DMtxCalcAnimation____template0.html#a09be98e7ee7f496e8744750c74223af8":[3,0,2327,2],
 "structJ3DMtxCalcAnimation____template0.html#a8bb2d70a6b65bd9e8aef7fc973a16a8c":[3,0,2327,3],
-"structJ3DMtxCalcAnimation____template0.html#ac31c63bff2deea6ac601a9e12c4d626d":[3,0,2327,0],
-"structJ3DMtxCalcAnmBase.html":[3,0,2330],
-"structJ3DMtxCalcAnmBase.html#a5cd31cd5ff544cef44d04c63d6a8199b":[3,0,2330,3],
-"structJ3DMtxCalcAnmBase.html#a8dbc56a8eb9d2f9d74a4b854982eeaf9":[3,0,2330,0],
-"structJ3DMtxCalcAnmBase.html#a9883cba815ae641c47e564cf2e964291":[3,0,2330,4],
-"structJ3DMtxCalcAnmBase.html#ae6a24b7e8ac263de1a9b3599c4bea664":[3,0,2330,1]
+"structJ3DMtxCalcAnimation____template0.html#ac31c63bff2deea6ac601a9e12c4d626d":[3,0,2327,0]
 };

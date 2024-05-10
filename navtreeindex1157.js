@@ -1,5 +1,10 @@
 var NAVTREEINDEX1157 =
 {
+"structdaNpc__Bans__c.html#a3478fcc556cdfc92ccb3e2d40351bc9c":[3,0,745,37],
+"structdaNpc__Bans__c.html#a34f311b9e1c16ee8885aa443da0b3842":[3,0,745,35],
+"structdaNpc__Bans__c.html#a3c5311b8b3a3ce602764dba105b3c470":[3,0,745,32],
+"structdaNpc__Bans__c.html#a40eff4a1e5895f140dd51f94031b9b8f":[3,0,745,18],
+"structdaNpc__Bans__c.html#a428a63b53ceea7bbcda1ab6dbaf5ef76":[3,0,745,28],
 "structdaNpc__Bans__c.html#a4b141cd50e705dab64e1568999c03206":[3,0,745,47],
 "structdaNpc__Bans__c.html#a4e9c125e99613deb6cbe6b55dba91aa0":[3,0,745,39],
 "structdaNpc__Bans__c.html#a52a3f84e7a2c11c3ba054476cf46cb74":[3,0,745,7],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1157 =
 "structdaNpc__Fairy__c.html#a119517dea4f98d392b1ce537730e9bce":[3,0,758,6],
 "structdaNpc__Fairy__c.html#a12aeaf8e5cff24026de75f199302a73e":[3,0,758,3],
 "structdaNpc__Fairy__c.html#a1301a8072696af7475c98d93ae1bd4f9":[3,0,758,44],
-"structdaNpc__Fairy__c.html#a1732e350044cdfa83a1e88ea05cad961":[3,0,758,39],
-"structdaNpc__Fairy__c.html#a18a6b5ab9631007cc9c5357decc8c062":[3,0,758,37],
-"structdaNpc__Fairy__c.html#a19451149054c52467fc018d79d42ee85":[3,0,758,45],
-"structdaNpc__Fairy__c.html#a19ec2ccfc642ec11a49c098f8f9578ab":[3,0,758,40],
-"structdaNpc__Fairy__c.html#a1cc2fe348b4abadb89558b69833378ff":[3,0,758,17],
-"structdaNpc__Fairy__c.html#a209a0e554dbef425c4f262dfebe92cb2":[3,0,758,57]
+"structdaNpc__Fairy__c.html#a1732e350044cdfa83a1e88ea05cad961":[3,0,758,39]
 };

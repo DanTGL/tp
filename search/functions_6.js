@@ -156,7 +156,7 @@ var searchData=
   ['finbcallback_5f_5ffp8j3djointi_153',['FinBCallBack__FP8J3DJointi',['../d__a__b__ob_8cpp.html#a2b56635ea228e369db6c199dc4e4e01b',1,'d_a_b_ob.cpp']]],
   ['finccallback_154',['FinCCallBack',['../d__a__b__ob_8cpp.html#a6a2e11d37f26596c54cae3187f801b8b',1,'d_a_b_ob.cpp']]],
   ['finccallback_5f_5ffp8j3djointi_155',['FinCCallBack__FP8J3DJointi',['../d__a__b__ob_8cpp.html#ac3fc6ebd6a0550b632a63304597fca62',1,'d_a_b_ob.cpp']]],
-  ['find_156',['find',['../structJGadget_1_1TLinkList.html#a79a56a1cc69de400168083255ddb1ed0',1,'JGadget::TLinkList::Find()'],['../structJGadget_1_1TNodeLinkList.html#a955294396441054946274ede3bb0dfa8',1,'JGadget::TNodeLinkList::Find()'],['../structJKRHeap.html#a718543fa7ec294b5b4b38960836dd16f',1,'JKRHeap::find()']]],
+  ['find_156',['find',['../structJGadget_1_1TNodeLinkList.html#a955294396441054946274ede3bb0dfa8',1,'JGadget::TNodeLinkList::Find()'],['../structJKRHeap.html#a718543fa7ec294b5b4b38960836dd16f',1,'JKRHeap::find()'],['../structJGadget_1_1TLinkList.html#a79a56a1cc69de400168083255ddb1ed0',1,'JGadget::TLinkList::Find()']]],
   ['find_5f_5f7jkrheapcfpv_157',['find__7JKRHeapCFPv',['../JKRExpHeap_8cpp.html#a0c833ac98d17f7620e67e9a5cfd1e3f9',1,'JKRExpHeap.cpp']]],
   ['find_5fif_158',['find_if',['../namespacestd.html#a414885b69eafe8468a833647c51b8703',1,'std::find_if(InputIt first, InputIt last, UnaryPredicate p)'],['../namespacestd.html#a964f8b7917a5e7dbc4110fd12f0c95f8',1,'std::find_if()']]],
   ['findallheap_159',['findAllHeap',['../structJKRHeap.html#a26c95e130692940aac8ec7bbcadd7d52',1,'JKRHeap']]],

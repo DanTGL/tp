@@ -10955,7 +10955,7 @@ var searchData=
   ['drawchk1_5f_5f14daobjsm_5fdoor_5fcfv_10952',['DrawChk1__14daObjSM_DOOR_cFv',['../d__a__obj__sm__door_8cpp.html#a98729a566baa7d7f5969aad1535f2f63',1,'d_a_obj_sm_door.cpp']]],
   ['drawchk2_10953',['DrawChk2',['../structdaObjSM__DOOR__c.html#a9558068ab929829d87997a821463cc71',1,'daObjSM_DOOR_c']]],
   ['drawchk2_5f_5f14daobjsm_5fdoor_5fcfv_10954',['DrawChk2__14daObjSM_DOOR_cFv',['../d__a__obj__sm__door_8cpp.html#a11777d2d9949cc2fa26201d5c4ba8233',1,'d_a_obj_sm_door.cpp']]],
-  ['drawclear_10955',['drawclear',['../classcCcS.html#a83d1f03c049aa53e2caffbc9ab5086f6',1,'cCcS::DrawClear()'],['../classJ3DPacket.html#ad52c691510d2b88f3eb5eee43eaecea2',1,'J3DPacket::drawClear()']]],
+  ['drawclear_10955',['drawclear',['../classJ3DPacket.html#ad52c691510d2b88f3eb5eee43eaecea2',1,'J3DPacket::drawClear()'],['../classcCcS.html#a83d1f03c049aa53e2caffbc9ab5086f6',1,'cCcS::DrawClear()']]],
   ['drawclear_5f_5f4cccsfv_10956',['DrawClear__4cCcSFv',['../d__cc__s_8cpp.html#a9125e38fc32a5e6c9fe294b7d760ee51',1,'d_cc_s.cpp']]],
   ['drawcloudshadow_10957',['drawcloudshadow',['../d__kankyo__rain_8cpp.html#a6499d550f91f9fd738dd4db039f3fc00',1,'drawCloudShadow(Mtx param_0, u8 **param_1):&#160;d_kankyo_rain.cpp'],['../d__kankyo__rain_8h.html#af882255741a788fe97324369d56998c2',1,'drawCloudShadow(Mtx param_0, u8 **param_1):&#160;d_kankyo_rain.cpp']]],
   ['drawcloudshadow_5f_5ffpa4_5ffppuc_10958',['drawCloudShadow__FPA4_fPPUc',['../d__kankyo__rain_8cpp.html#ae9431370d80d2d676e2255299fc0f3ff',1,'d_kankyo_rain.cpp']]],

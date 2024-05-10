@@ -1,5 +1,10 @@
 var NAVTREEINDEX1160 =
 {
+"structdaNpc__Kn__c.html#a2a23e13996eae8a5b0540f0f9359aad9":[3,0,798,174],
+"structdaNpc__Kn__c.html#a2b68154c491d3380755546111d8691be":[3,0,798,24],
+"structdaNpc__Kn__c.html#a2d8746293dfccf564262fb553899ee80":[3,0,798,78],
+"structdaNpc__Kn__c.html#a2f119f784a9119fc3200d9608caac486":[3,0,798,166],
+"structdaNpc__Kn__c.html#a30602d4f30f06b2959ed14ff557242dd":[3,0,798,176],
 "structdaNpc__Kn__c.html#a309c712dade97f90bb84c11eca2f65a1":[3,0,798,164],
 "structdaNpc__Kn__c.html#a30d69de22798029bf69f7159150f6ab0":[3,0,798,182],
 "structdaNpc__Kn__c.html#a354ac6c0e85eeee9c54982f4b29b22f8":[3,0,798,30],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1160 =
 "structdaNpc__Kolin__c.html#af60291b9580eaf897943f0b34aacc6dd":[3,0,802,46],
 "structdaNpc__Kolin__c.html#af86f2d5447c3a2703a080a8398ee3a4b":[3,0,802,35],
 "structdaNpc__Kolin__c.html#af8adbcff59366c5998d7bb8f9f1aaf73":[3,0,802,27],
-"structdaNpc__Kolin__c.html#af94023c73a382e7145911647c6970af4":[3,0,802,16],
-"structdaNpc__Kolin__c.html#afa0bc932f1504737b212a7a878f29e3c":[3,0,802,9],
-"structdaNpc__Kolinb__Param__c.html":[3,0,805],
-"structdaNpc__Kolinb__Param__c.html#a52111d4350c2bc1a63e3b578c2e06581":[3,0,805,0],
-"structdaNpc__Kolinb__Param__c.html#ac6a23f29aec25ad6d9340d94d250a5e0":[3,0,805,1],
-"structdaNpc__Kolinb__c.html":[3,0,804]
+"structdaNpc__Kolin__c.html#af94023c73a382e7145911647c6970af4":[3,0,802,16]
 };

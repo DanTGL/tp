@@ -1,5 +1,10 @@
 var NAVTREEINDEX1156 =
 {
+"structdaNpcTheB__c.html#af96c98bff6468e0931680bc28d73fe8f":[3,0,978,43],
+"structdaNpcTheB__c.html#afb7ee7755bd1bbe55f99e45eecf168db":[3,0,978,66],
+"structdaNpcTheB__c.html#affbb26b23eec17e1f53ae6ba6c58ad56":[3,0,978,27],
+"structdaNpcThe__Param__c_1_1param.html":[3,0,977,0],
+"structdaNpcThe__Param__c_1_1param.html#a0011f4dfc45b05f389a6ff18fa983731":[3,0,977,0,1],
 "structdaNpcThe__Param__c_1_1param.html#a01660bef930f83c938aae508bf24c54f":[3,0,977,0,7],
 "structdaNpcThe__Param__c_1_1param.html#a051d849e2ce35e1d4c1a92ff8761172d":[3,0,977,0,2],
 "structdaNpcThe__Param__c_1_1param.html#a09afaa163468d9cd4e228f54dbff4377":[3,0,977,0,21],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1156 =
 "structdaNpc__Bans__c.html#a242f46c9c60879ebf6eacbf6cdeacf15":[3,0,745,29],
 "structdaNpc__Bans__c.html#a257455ad7fc16331885dcfe9565320bd":[3,0,745,10],
 "structdaNpc__Bans__c.html#a271f65b947849bd3d84f0cd840d510fe":[3,0,745,20],
-"structdaNpc__Bans__c.html#a2f3e5b17653b312b418d5975e10d54bc":[3,0,745,11],
-"structdaNpc__Bans__c.html#a3478fcc556cdfc92ccb3e2d40351bc9c":[3,0,745,37],
-"structdaNpc__Bans__c.html#a34f311b9e1c16ee8885aa443da0b3842":[3,0,745,35],
-"structdaNpc__Bans__c.html#a3c5311b8b3a3ce602764dba105b3c470":[3,0,745,32],
-"structdaNpc__Bans__c.html#a40eff4a1e5895f140dd51f94031b9b8f":[3,0,745,18],
-"structdaNpc__Bans__c.html#a428a63b53ceea7bbcda1ab6dbaf5ef76":[3,0,745,28]
+"structdaNpc__Bans__c.html#a2f3e5b17653b312b418d5975e10d54bc":[3,0,745,11]
 };

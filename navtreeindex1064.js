@@ -1,5 +1,10 @@
 var NAVTREEINDEX1064 =
 {
+"s__basic_8cpp.html#a6b862020d8f9e4cd4893cbb25855268b":[4,0,2,3,1,0,1],
+"s__basic_8cpp.html#aaaca3985d63a4660a48a179692f375cd":[4,0,2,3,1,0,0],
+"s__basic_8h.html":[4,0,1,9,1,0],
+"s__basic_8h.html#a6b862020d8f9e4cd4893cbb25855268b":[4,0,1,9,1,0,1],
+"s__basic_8h.html#aaaca3985d63a4660a48a179692f375cd":[4,0,1,9,1,0,0],
 "s__basic_8h_source.html":[4,0,1,9,1,0],
 "s__ceil_8c.html":[4,0,2,2,1,0,1,0,0,13],
 "s__ceil_8c.html#a0544c3fe466e421738dae463968b70ba":[4,0,2,2,1,0,1,0,0,13,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1064 =
 "structARQRequest.html#af4f2afb7058e6c08bcb7a63473d687ef":[3,0,57,7],
 "structAppLoaderStruct.html":[3,0,56],
 "structAppLoaderStruct.html#a522128816c937ddb037369b157475a2b":[3,0,56,2],
-"structAppLoaderStruct.html#a89a71563e077c151c23d9cf98b79fc0b":[3,0,56,6],
-"structAppLoaderStruct.html#abfb507b9c804bc9b161e0b632dee16e0":[3,0,56,3],
-"structAppLoaderStruct.html#af408ed610f7331db2e51147a6bede5a8":[3,0,56,0],
-"structAppLoaderStruct.html#af9baafc359c1467b2e78d2115dd56e32":[3,0,56,4],
-"structAppLoaderStruct.html#afed427b4629c28206926869b0a41bc43":[3,0,56,5],
-"structAppLoaderStruct.html#aff6fbe70fd5b486f4a901617cd4b2ebc":[3,0,56,1]
+"structAppLoaderStruct.html#a89a71563e077c151c23d9cf98b79fc0b":[3,0,56,6]
 };

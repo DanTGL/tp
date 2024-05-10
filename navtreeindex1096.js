@@ -1,14 +1,19 @@
 var NAVTREEINDEX1096 =
 {
+"structJStudio__JStage_1_1TAdaptor__object__.html#ac2fe369ae1d084d65fd4da4c0f47928b":[2,0,29,5,3],
+"structJStudio__JStage_1_1TAdaptor__object__.html#ac2fe369ae1d084d65fd4da4c0f47928b":[3,0,12,5,3],
+"structJStudio__JStage_1_1TAdaptor__object__.html#ae7511e3410be3e528b4306891ad7316c":[2,0,29,5,4],
+"structJStudio__JStage_1_1TAdaptor__object__.html#ae7511e3410be3e528b4306891ad7316c":[3,0,12,5,4],
 "structJStudio__JStage_1_1TCreateObject.html":[2,0,29,6],
+"structJStudio__JStage_1_1TCreateObject.html":[3,0,12,6],
 "structJStudio__JStage_1_1TCreateObject.html#a0abce07793acc0f97204f34975979b6e":[2,0,29,6,2],
 "structJStudio__JStage_1_1TCreateObject.html#a0abce07793acc0f97204f34975979b6e":[3,0,12,6,2],
-"structJStudio__JStage_1_1TCreateObject.html#a3ecfe8180c1ac14ab4116f553d066ea3":[2,0,29,6,0],
 "structJStudio__JStage_1_1TCreateObject.html#a3ecfe8180c1ac14ab4116f553d066ea3":[3,0,12,6,0],
+"structJStudio__JStage_1_1TCreateObject.html#a3ecfe8180c1ac14ab4116f553d066ea3":[2,0,29,6,0],
 "structJStudio__JStage_1_1TCreateObject.html#a565c2611fc94bdf1f77974e6e1d58d5d":[3,0,12,6,3],
 "structJStudio__JStage_1_1TCreateObject.html#a565c2611fc94bdf1f77974e6e1d58d5d":[2,0,29,6,3],
-"structJStudio__JStage_1_1TCreateObject.html#ace671429cf96619df84b6135d996f9b6":[3,0,12,6,1],
 "structJStudio__JStage_1_1TCreateObject.html#ace671429cf96619df84b6135d996f9b6":[2,0,29,6,1],
+"structJStudio__JStage_1_1TCreateObject.html#ace671429cf96619df84b6135d996f9b6":[3,0,12,6,1],
 "structJUTCacheFont.html":[1,1,12,0],
 "structJUTCacheFont.html#a0674e1e7643b9b8445cc14d8b5e0fc21":[1,1,12,0,19],
 "structJUTCacheFont.html#a0771c41eba288cd8e68e8efb22753364":[1,1,12,0,31],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1096 =
 "structJUTGamePad_1_1C3ButtonReset.html":[1,1,12,14,0],
 "structJUTGamePad_1_1C3ButtonReset.html#a0d8ecaa81ab222631d71bc9012671c04":[1,1,12,14,0,4],
 "structJUTGamePad_1_1C3ButtonReset.html#a2393db27e24a5f11020e5fa41bdbf92b":[1,1,12,14,0,6],
-"structJUTGamePad_1_1C3ButtonReset.html#a40358e6a9bf3ae2e2dbbdaf71ef04d25":[1,1,12,14,0,9],
-"structJUTGamePad_1_1C3ButtonReset.html#a62855acd3245818f7d9cd09366a39984":[1,1,12,14,0,2],
-"structJUTGamePad_1_1C3ButtonReset.html#a6bb0cc1f556ab06b24f292d601712202":[1,1,12,14,0,8],
-"structJUTGamePad_1_1C3ButtonReset.html#aa0e9efa0db2d68e098e6ae4d27a3078b":[1,1,12,14,0,0],
-"structJUTGamePad_1_1C3ButtonReset.html#aa85e9350234e9eee19cc314d5935f664":[1,1,12,14,0,5],
-"structJUTGamePad_1_1C3ButtonReset.html#ab76adcac27eb0629ff194242da2b550d":[1,1,12,14,0,7]
+"structJUTGamePad_1_1C3ButtonReset.html#a40358e6a9bf3ae2e2dbbdaf71ef04d25":[1,1,12,14,0,9]
 };

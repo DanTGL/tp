@@ -1,5 +1,10 @@
 var NAVTREEINDEX1058 =
 {
+"msgbuf_8c.html":[4,0,2,4,1,1,5],
+"msgbuf_8c.html#a01bebba04b7dbea851480746fa04072a":[4,0,2,4,1,1,5,14],
+"msgbuf_8c.html#a1472cd706c5851d7a9c117733365a29c":[4,0,2,4,1,1,5,3],
+"msgbuf_8c.html#a20999c8b6393fcddafcc1b69ef91cb38":[4,0,2,4,1,1,5,2],
+"msgbuf_8c.html#a274b82695266680ecfcd06227405ecc6":[4,0,2,4,1,1,5,17],
 "msgbuf_8c.html#a36ecd629b45b5878b7a71ee3ab798bcd":[4,0,2,4,1,1,5,12],
 "msgbuf_8c.html#a3bc47ac2930bb78b6e3de38d3f726c55":[4,0,2,4,1,1,5,1],
 "msgbuf_8c.html#a4b43fb9c685a3cc4737d372c3f03d5e2":[4,0,2,4,1,1,5,16],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1058 =
 "namespaceJASResArcLoader.html#a94fd45963fa86742057e7561f9277dca":[2,0,19,3],
 "namespaceJASThreadingModel.html":[2,0,20],
 "namespaceJGadget.html":[2,0,21],
-"namespaceJGadget.html#a35de2133fb53d5c6266ca10a44833b7b":[2,0,21,25],
-"namespaceJGadget.html#a398c48f2ee614aeacac6a032afc0295f":[2,0,21,24],
-"namespaceJGadget.html#a511cb96256e8ff3eca80827933ce5829":[2,0,21,20],
-"namespaceJGadget.html#a7443f4e3b01357e5e7264f4bc4c1f0e4":[2,0,21,19],
-"namespaceJGadget.html#a784433574ed8636a55af018877a2f55d":[2,0,21,22],
-"namespaceJGadget.html#a85ee15fb7d19118ccca0766b3a9cf15e":[2,0,21,23]
+"namespaceJGadget.html#a35de2133fb53d5c6266ca10a44833b7b":[2,0,21,25]
 };

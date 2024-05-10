@@ -1,5 +1,10 @@
 var NAVTREEINDEX1075 =
 {
+"structJ3DFogInfo.html#ae3b25253b0a5ca129529c586608b1fa1":[1,1,1,146,9],
+"structJ3DFogInfo.html#aedaa4dc485c7f45a4707bfef4f73a3e7":[1,1,1,146,1],
+"structJ3DGXColor.html":[1,1,1,79],
+"structJ3DGXColor.html#abe7ca9b46bbc3aae5400f7f69bd1eb54":[1,1,1,79,0],
+"structJ3DGXColor.html#aedc49e3a7fd2355caee49cb8edcb5f9b":[1,1,1,79,2],
 "structJ3DGXColor.html#afafa82a515b5f5cbf45c669de100ba32":[1,1,1,79,1],
 "structJ3DGXColorS10.html":[1,1,1,78],
 "structJ3DGXColorS10.html#a21a03d9dd66b381b0baad2a7ca4eef43":[1,1,1,78,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1075 =
 "structJ3DMaterialFactory.html#a162506f89625982b71cab98d70621337":[1,1,1,178,86],
 "structJ3DMaterialFactory.html#a1cd3f9b8b9165ebbb6b19b00dbb8b934":[1,1,1,178,81],
 "structJ3DMaterialFactory.html#a1d7f6973144a94cf4121720118945247":[1,1,1,178,72],
-"structJ3DMaterialFactory.html#a1f048accdee0c4a0fd82b0f7e290e782":[1,1,1,178,49],
-"structJ3DMaterialFactory.html#a219373e1a41ce3ea667f1198e45fc08a":[1,1,1,178,11],
-"structJ3DMaterialFactory.html#a2c26b9330a720b7c98f899d8d9f00249":[1,1,1,178,17],
-"structJ3DMaterialFactory.html#a2de52e5302b2330cea43582352d0d3a2":[1,1,1,178,63],
-"structJ3DMaterialFactory.html#a2f13816c3ab0a3445c56d9901a2e7e4e":[1,1,1,178,43],
-"structJ3DMaterialFactory.html#a336e0c9bbb010c728cfe5f9b38103628":[1,1,1,178,36]
+"structJ3DMaterialFactory.html#a1f048accdee0c4a0fd82b0f7e290e782":[1,1,1,178,49]
 };
