@@ -1227,7 +1227,7 @@ var searchData=
   ['datagwaterfall_5fhio_5fc_1224',['daTagWaterFall_HIO_c',['../structdaTagWaterFall__HIO__c.html',1,'']]],
   ['datagwljump_5fc_1225',['daTagWljump_c',['../classdaTagWljump__c.html',1,'']]],
   ['datagwrhowl_5fc_1226',['daTagWrHowl_c',['../classdaTagWrHowl__c.html',1,'']]],
-  ['datagyami_5fc_1227',['daTagYami_c',['../structdaTagYami__c.html',1,'']]],
+  ['datagyami_5fc_1227',['daTagYami_c',['../classdaTagYami__c.html',1,'']]],
   ['datalk_5fc_1228',['daTalk_c',['../classdaTalk__c.html',1,'']]],
   ['datbox2_5fc_1229',['daTbox2_c',['../classdaTbox2__c.html',1,'']]],
   ['datbox_5fc_1230',['daTbox_c',['../classdaTbox__c.html',1,'']]],

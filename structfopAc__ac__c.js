@@ -490,8 +490,6 @@ var structfopAc__ac__c =
     [ "~fopAc_ac_c", "structfopAc__ac__c.html#a03db26d33e83a0e8ab8e922585fcdf1c", null ],
     [ "fopAc_ac_c", "structfopAc__ac__c.html#a150acf531845cb2c19af23714e3fd0fc", null ],
     [ "~fopAc_ac_c", "structfopAc__ac__c.html#a03db26d33e83a0e8ab8e922585fcdf1c", null ],
-    [ "fopAc_ac_c", "structfopAc__ac__c.html#a150acf531845cb2c19af23714e3fd0fc", null ],
-    [ "~fopAc_ac_c", "structfopAc__ac__c.html#a03db26d33e83a0e8ab8e922585fcdf1c", null ],
     [ "actor_condition", "structfopAc__ac__c.html#ad9c731d0a79ae1850d1eecfdeb9f7d27", null ],
     [ "actor_status", "structfopAc__ac__c.html#ae72081d04922b122ee48a255a647e947", null ],
     [ "actor_tag", "structfopAc__ac__c.html#ae79b648e4f759316bb60e1dcc597428b", null ],

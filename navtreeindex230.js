@@ -1,7 +1,5 @@
 var NAVTREEINDEX230 =
 {
-"classdaLv2Candle__c.html#aad65837e05bbd34f46162608866ba303":[3,0,683,11],
-"classdaLv2Candle__c.html#ac2bfff574fa33c6b448c2f81ef8436cf":[3,0,683,21],
 "classdaLv2Candle__c.html#ac46bce412557c208e415d5734cfd435d":[3,0,683,27],
 "classdaLv2Candle__c.html#acc902af394829d51d088913a0ff55f8b":[3,0,683,4],
 "classdaLv2Candle__c.html#ad07a9bd3eed50513bc1ce69365d5c9d7":[3,0,683,17],
@@ -249,5 +247,7 @@ var NAVTREEINDEX230 =
 "classdaMagLiftRot__c.html#abdd7a4e92a24e63b21072346bbdf26d1":[3,0,725,28],
 "classdaMagLiftRot__c.html#abe6079c7e2d3baba68efe83d5438dca9":[3,0,725,6],
 "classdaMagLiftRot__c.html#ac09b8db93b5c62b61a431b667a8e678d":[3,0,725,37],
-"classdaMagLiftRot__c.html#ac78c3e5c8a07d80ed9025dca52e18b26":[3,0,725,27]
+"classdaMagLiftRot__c.html#ac78c3e5c8a07d80ed9025dca52e18b26":[3,0,725,27],
+"classdaMagLiftRot__c.html#accd2831fa2d2a989419cd6b7778825af":[3,0,725,36],
+"classdaMagLiftRot__c.html#adc6afc78528df9bc465cfac36d9b5920":[3,0,725,2]
 };

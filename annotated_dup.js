@@ -1618,7 +1618,7 @@ var annotated_dup =
     [ "daTagWaterFall_HIO_c", "structdaTagWaterFall__HIO__c.html", "structdaTagWaterFall__HIO__c" ],
     [ "daTagWljump_c", "classdaTagWljump__c.html", "classdaTagWljump__c" ],
     [ "daTagWrHowl_c", "classdaTagWrHowl__c.html", "classdaTagWrHowl__c" ],
-    [ "daTagYami_c", "structdaTagYami__c.html", "structdaTagYami__c" ],
+    [ "daTagYami_c", "classdaTagYami__c.html", "classdaTagYami__c" ],
     [ "daTalk_c", "classdaTalk__c.html", "classdaTalk__c" ],
     [ "daTbox2_c", "classdaTbox2__c.html", "classdaTbox2__c" ],
     [ "daTbox_c", "classdaTbox__c.html", "classdaTbox__c" ],
