@@ -531,7 +531,7 @@ var hierarchy =
     [ "daB_GOS_HIO_c", "classdaB__GOS__HIO__c.html", null ],
     [ "daB_MGN_c", "structdaB__MGN__c.html", null ],
     [ "daB_MGN_HIO_c", "structdaB__MGN__HIO__c.html", null ],
-    [ "daB_OB_HIO_c", "structdaB__OB__HIO__c.html", null ],
+    [ "daB_OB_HIO_c", "classdaB__OB__HIO__c.html", null ],
     [ "daB_OH_HIO_c", "classdaB__OH__HIO__c.html", null ],
     [ "daB_TN_c", "structdaB__TN__c.html", null ],
     [ "daB_TN_HIO_c", "structdaB__TN__HIO__c.html", null ],

@@ -1,12 +1,5 @@
 var NAVTREEINDEX189 =
 {
-"classdStage__stageDt__c.html#a3af7d0fbecc8ffad566b7f7f4e27893a":[3,0,1889,131],
-"classdStage__stageDt__c.html#a3fdef69dd18b55b3f003b3c30908f74f":[3,0,1889,105],
-"classdStage__stageDt__c.html#a412f81a61c228950c2efe553407eff34":[3,0,1889,17],
-"classdStage__stageDt__c.html#a45097033788e8c40682e75bb66f44873":[3,0,1889,60],
-"classdStage__stageDt__c.html#a46a82ee72a0da7443111c150f9f182c9":[3,0,1889,31],
-"classdStage__stageDt__c.html#a47a0fbc0fe9eb59ccf2bf8ef396a5aa7":[3,0,1889,132],
-"classdStage__stageDt__c.html#a4ae4bbebd21ee2f4dbc108b04a5f4fbc":[3,0,1889,7],
 "classdStage__stageDt__c.html#a4b5298d4b87f4cb8a4f9a34a7b69ef15":[3,0,1889,88],
 "classdStage__stageDt__c.html#a4c8f97d9be915885605762af9f0b5369":[3,0,1889,104],
 "classdStage__stageDt__c.html#a4dc1fea91d9df8e10d0164d351aae5bf":[3,0,1889,47],
@@ -249,5 +242,12 @@ var NAVTREEINDEX189 =
 "classdSv__MiniGame__c.html#a6812b50aa82cac385fd3d376368afc8b":[3,0,1903,5],
 "classdSv__MiniGame__c.html#a68e8e0cd11d3373407dd1e97d880512f":[3,0,1903,2],
 "classdSv__MiniGame__c.html#a799c5c90447c5f71dd3b5ce6909087b0":[3,0,1903,7],
-"classdSv__MiniGame__c.html#a7cc81fb9c4ea83a9dbbdf849f2154741":[3,0,1903,6]
+"classdSv__MiniGame__c.html#a7cc81fb9c4ea83a9dbbdf849f2154741":[3,0,1903,6],
+"classdSv__MiniGame__c.html#ad219e2ce519cd31736d6cec2f7ccdb09":[3,0,1903,9],
+"classdSv__danBit__c.html":[3,0,1891],
+"classdSv__danBit__c.html#a0fc11dc94af10a49b9965dc8228096de":[3,0,1891,2],
+"classdSv__danBit__c.html#a1c7e3f7df437407b9f52bc8b612ead60":[3,0,1891,11],
+"classdSv__danBit__c.html#a1c7e3f7df437407b9f52bc8b612ead60":[3,0,1891,10],
+"classdSv__danBit__c.html#a1c7e3f7df437407b9f52bc8b612ead60":[3,0,1891,9],
+"classdSv__danBit__c.html#a23c710e48a44e2ff02e8c0a5935b3b49":[3,0,1891,36]
 };

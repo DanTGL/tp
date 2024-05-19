@@ -1,5 +1,11 @@
 var NAVTREEINDEX230 =
 {
+"classdaLv2Candle__c.html#a9fa97a02f9c789e754ecb6afb634553e":[3,0,683,9],
+"classdaLv2Candle__c.html#aa2af8b57d9405242328a365f5c2917cc":[3,0,683,24],
+"classdaLv2Candle__c.html#aa6557951c548ffc68fab261084cbfdde":[3,0,683,36],
+"classdaLv2Candle__c.html#aa72e233c3b70a62c0b893321af52601c":[3,0,683,12],
+"classdaLv2Candle__c.html#aad65837e05bbd34f46162608866ba303":[3,0,683,11],
+"classdaLv2Candle__c.html#ac2bfff574fa33c6b448c2f81ef8436cf":[3,0,683,21],
 "classdaLv2Candle__c.html#ac46bce412557c208e415d5734cfd435d":[3,0,683,27],
 "classdaLv2Candle__c.html#acc902af394829d51d088913a0ff55f8b":[3,0,683,4],
 "classdaLv2Candle__c.html#ad07a9bd3eed50513bc1ce69365d5c9d7":[3,0,683,17],
@@ -191,8 +197,8 @@ var NAVTREEINDEX230 =
 "classdaMP__c.html#a8b5ba1e058b4595b323a1928eddda9c8":[3,0,735,23],
 "classdaMP__c.html#a8c7fe8ce0c5c0676dea75b829754cf0a":[3,0,735,0],
 "classdaMP__c.html#a9cc9abac3dc7b7be3cb597f7fbb5727f":[3,0,735,18],
-"classdaMP__c.html#aaa57a568e23c28e3947907962778c356":[3,0,735,14],
 "classdaMP__c.html#aaa57a568e23c28e3947907962778c356":[3,0,735,13],
+"classdaMP__c.html#aaa57a568e23c28e3947907962778c356":[3,0,735,14],
 "classdaMP__c.html#ad8c9bd7ee79e8790058e9860e7191b4b":[3,0,735,1],
 "classdaMP__c.html#ade4cb41605a5eb1c4c4e0955c648a303":[3,0,735,6],
 "classdaMP__c.html#ae97f995ff9a16333861d931da84f64d1":[3,0,735,20],
@@ -243,11 +249,5 @@ var NAVTREEINDEX230 =
 "classdaMagLiftRot__c.html#a8efaa12d6e56ac41ee2c9928a998d2de":[3,0,725,17],
 "classdaMagLiftRot__c.html#ab3bf133b69ea34f7da6a8dddab452a8a":[3,0,725,26],
 "classdaMagLiftRot__c.html#ab88e412d3f6c69cccaaf859109536a5c":[3,0,725,31],
-"classdaMagLiftRot__c.html#ab9a07581b2777bcb54afa0b2793af912":[3,0,725,15],
-"classdaMagLiftRot__c.html#abdd7a4e92a24e63b21072346bbdf26d1":[3,0,725,28],
-"classdaMagLiftRot__c.html#abe6079c7e2d3baba68efe83d5438dca9":[3,0,725,6],
-"classdaMagLiftRot__c.html#ac09b8db93b5c62b61a431b667a8e678d":[3,0,725,37],
-"classdaMagLiftRot__c.html#ac78c3e5c8a07d80ed9025dca52e18b26":[3,0,725,27],
-"classdaMagLiftRot__c.html#accd2831fa2d2a989419cd6b7778825af":[3,0,725,36],
-"classdaMagLiftRot__c.html#adc6afc78528df9bc465cfac36d9b5920":[3,0,725,2]
+"classdaMagLiftRot__c.html#ab9a07581b2777bcb54afa0b2793af912":[3,0,725,15]
 };

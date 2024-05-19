@@ -203,6 +203,7 @@ var f__op__actor__mng_8h =
     [ "fopAcM_SearchByName", "f__op__actor__mng_8h.html#a998a2348e75cc0e539d88c1ee18de916", null ],
     [ "fopAcM_searchFromName", "f__op__actor__mng_8h.html#a895cd19bcc5ce46abb648beab0f50077", null ],
     [ "fopAcM_searchFromName4Event", "f__op__actor__mng_8h.html#a270da7bf917b6ca9a8689cf78115b26c", null ],
+    [ "fopAcM_searchPlayerAngleX", "f__op__actor__mng_8h.html#aa75b3c648d634e015f968087cbafe0c9", null ],
     [ "fopAcM_searchPlayerAngleY", "f__op__actor__mng_8h.html#aa8e215fe97981124fddbbf8872d0829e", null ],
     [ "fopAcM_searchPlayerDistance", "f__op__actor__mng_8h.html#ae00691d3764b4af94894f103406aeb3f", null ],
     [ "fopAcM_searchPlayerDistanceXZ", "f__op__actor__mng_8h.html#adf6fd295d08daa352a641914e4c0a4c5", null ],
