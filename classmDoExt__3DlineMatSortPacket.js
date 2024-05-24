@@ -18,15 +18,5 @@ var classmDoExt__3DlineMatSortPacket =
     [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
     [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
     [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
-    [ "setMat", "classmDoExt__3DlineMatSortPacket.html#aebfbb9b02d1b4113963d51c64101479f", null ],
     [ "mp3DlineMat", "classmDoExt__3DlineMatSortPacket.html#ab4517ef232b928b4825756035c5b4a81", null ]
 ];
