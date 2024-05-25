@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"classJASSeqCtrl.html#a1f58aa6670d22e78b8a53c9773969151":[1,1,2,73,23],
 "classJASSeqCtrl.html#a235c29acad3eac720d56a41da4fb3189":[1,1,2,73,12],
 "classJASSeqCtrl.html#a27c05524c1a16f3b5e1566fb7af93c87":[1,1,2,73,2],
 "classJASSeqCtrl.html#a2d6bea299e568b380396d6a1e129d381":[1,1,2,73,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "classJAUDynamicSeqDataBlocks.html#a3d6a52bd5e6f0758b4cde30997763a75":[1,1,2,102,14],
 "classJAUDynamicSeqDataBlocks.html#a44bf6217c9d0d3b18fd8b775f8d608f9":[1,1,2,102,7],
 "classJAUDynamicSeqDataBlocks.html#a5c9397229496ca4bfa6e815b4e857d40":[1,1,2,102,1],
-"classJAUDynamicSeqDataBlocks.html#a820e6e3a2a908da28593679d517bd054":[1,1,2,102,10],
-"classJAUDynamicSeqDataBlocks.html#aa8ba1e9e5563410eded26bed54d9e9bc":[1,1,2,102,2]
+"classJAUDynamicSeqDataBlocks.html#a820e6e3a2a908da28593679d517bd054":[1,1,2,102,10]
 };

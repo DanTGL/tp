@@ -1,5 +1,6 @@
 var NAVTREEINDEX86 =
 {
+"classJAIAudible.html":[1,1,2,0],
 "classJAIAudible.html#a0a934ca0c970c9e20bec2d1d88a935c8":[1,1,2,0,3],
 "classJAIAudible.html#a3388fb841cde47d699d37c8907d14b7b":[1,1,2,0,0],
 "classJAIAudible.html#a49673a0585d2f9d1ca8d7f144806a10c":[1,1,2,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX86 =
 "classJAISoundHandles.html#a78c001e6cd717039e8b8b91ddeee671c":[1,1,2,24,1],
 "classJAISoundHandles.html#aec4d7e1dd5d03eec6a327ca39ea6b54d":[1,1,2,24,3],
 "classJAISoundHandles.html#af20379cd851ee4a6ec4b93b491f974b4":[1,1,2,24,4],
-"classJAIStream.html":[1,1,2,31],
-"classJAIStream.html#a05dcfad184e6c8f1ecfe12d727712039":[1,1,2,31,22]
+"classJAIStream.html":[1,1,2,31]
 };

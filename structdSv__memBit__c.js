@@ -69,6 +69,7 @@ var structdSv__memBit__c =
     [ "onDungeonItemWarp", "structdSv__memBit__c.html#aeda6cead243e41db00ddace3c7537f10", null ],
     [ "onItem", "structdSv__memBit__c.html#a90a0c063431753715df93bd4264b9130", null ],
     [ "onStageBossEnemy", "structdSv__memBit__c.html#a5f84eca548b82ce73c8214dff2989656", null ],
+    [ "onStageBossEnemy2", "structdSv__memBit__c.html#a17b4a87a40d3edd82478a87d512babc2", null ],
     [ "onStageLife", "structdSv__memBit__c.html#a24b13e8e03468203746d538df0ca06cb", null ],
     [ "onSwitch", "structdSv__memBit__c.html#ac0a1dca469be43181557c96db55ff630", null ],
     [ "onSwitch", "structdSv__memBit__c.html#a7b48ee7dcf3ab2617fcb8a160f86e829", null ],
