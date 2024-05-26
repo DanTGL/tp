@@ -1,8 +1,5 @@
 var NAVTREEINDEX255 =
 {
-"classdaNpcWrestler__c.html#af9293c75caac351279a1fce2ec20b2ec":[3,0,985,52],
-"classdaNpcWrestler__c.html#af9cdb53be3e4409e0b25de2e43670ee7":[3,0,985,44],
-"classdaNpcWrestler__c.html#afb1b583272789ae681451237e3a52dd5":[3,0,985,2],
 "classdaNpcWrestler__c.html#afbc45db4b01e59e023d41f854bc18213":[3,0,985,37],
 "classdaNpcWrestler__c.html#afc8f406b65f57d00612df4f8a2bda8f9":[3,0,985,58],
 "classdaNpcWrestler__c.html#afc9ab7f739c252fad61c02521d2ad557":[3,0,985,109],
@@ -23,8 +20,8 @@ var NAVTREEINDEX255 =
 "classdaNpc__GWolf__c.html#a168f2848b7f577e737062726be67a436":[3,0,784,78],
 "classdaNpc__GWolf__c.html#a19c4baba4b6ebc92257188774d978af8":[3,0,784,55],
 "classdaNpc__GWolf__c.html#a1d4806571746b074fe8bd81847d5c91c":[3,0,784,61],
-"classdaNpc__GWolf__c.html#a1ebcd500c2806803d5725637b7611daf":[3,0,784,30],
 "classdaNpc__GWolf__c.html#a1ebcd500c2806803d5725637b7611daf":[3,0,784,31],
+"classdaNpc__GWolf__c.html#a1ebcd500c2806803d5725637b7611daf":[3,0,784,30],
 "classdaNpc__GWolf__c.html#a1edb37811d33f56abeb8734b1e16def4":[3,0,784,38],
 "classdaNpc__GWolf__c.html#a1f211149e61610162e898c02951a3a24":[3,0,784,79],
 "classdaNpc__GWolf__c.html#a1f34c0fd11e397b153f774942c631ab3":[3,0,784,90],
@@ -37,8 +34,8 @@ var NAVTREEINDEX255 =
 "classdaNpc__GWolf__c.html#a39cd851323b7cf4e3d46884064cdc48f":[3,0,784,19],
 "classdaNpc__GWolf__c.html#a43ac88ed7748028dfee2113d7d5d653d":[3,0,784,9],
 "classdaNpc__GWolf__c.html#a4b6d3a0acb6a2e7542c81a35b62953e9":[3,0,784,54],
-"classdaNpc__GWolf__c.html#a51b5e28b7e493dbab4b85512348e1d80":[3,0,784,68],
 "classdaNpc__GWolf__c.html#a51b5e28b7e493dbab4b85512348e1d80":[3,0,784,69],
+"classdaNpc__GWolf__c.html#a51b5e28b7e493dbab4b85512348e1d80":[3,0,784,68],
 "classdaNpc__GWolf__c.html#a5ac451dd19e0d79ee5cf1dbc56f87a4f":[3,0,784,11],
 "classdaNpc__GWolf__c.html#a5ce9a7acdf03b2ab76daa859efb40f71":[3,0,784,16],
 "classdaNpc__GWolf__c.html#a5d35f31940a25db25bc45e7b92fd5c79":[3,0,784,35],
@@ -249,5 +246,8 @@ var NAVTREEINDEX255 =
 "classdaNpc__zrA__c.html#a33373610d5e7f8d8f1c60feb43db3aea":[3,0,894,106],
 "classdaNpc__zrA__c.html#a33889c9d2e65077924005725da387607":[3,0,894,10],
 "classdaNpc__zrA__c.html#a33889c9d2e65077924005725da387607a0077a1101ceeaa471cd09ed5ce8198b7":[3,0,894,10,0],
-"classdaNpc__zrA__c.html#a33889c9d2e65077924005725da387607a16d5a86f7153f041bd0f63c55b11e784":[3,0,894,10,6]
+"classdaNpc__zrA__c.html#a33889c9d2e65077924005725da387607a16d5a86f7153f041bd0f63c55b11e784":[3,0,894,10,6],
+"classdaNpc__zrA__c.html#a33889c9d2e65077924005725da387607a4759d7e81a8e758869d7628cee72f94d":[3,0,894,10,5],
+"classdaNpc__zrA__c.html#a33889c9d2e65077924005725da387607a8701aade8dc3d21ab9320d39aaaa1a1f":[3,0,894,10,2],
+"classdaNpc__zrA__c.html#a33889c9d2e65077924005725da387607a8917b6d0b59d45bdcaadfdd39b04baf5":[3,0,894,10,4]
 };

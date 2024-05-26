@@ -1,17 +1,5 @@
 var NAVTREEINDEX746 =
 {
-"d__a__npc__zelRo_8cpp.html#afd36f40a6ef778ae8d3a4eca8ce3b66a":[4,0,3,0,0,78,116,0,183],
-"d__a__npc__zelRo_8cpp.html#afdbdcf60eeb02ffde72812e16d18cacf":[4,0,3,0,0,78,116,0,318],
-"d__a__npc__zelRo_8cpp.html#afdca0eb87578e0952b66387b093d81f3":[4,0,3,0,0,78,116,0,111],
-"d__a__npc__zelRo_8cpp.html#afe8c14570764afdfd49576f8d6bb9430":[4,0,3,0,0,78,116,0,257],
-"d__a__npc__zelRo_8cpp.html#afe9026987511cd1212738b1d9cd0f308":[4,0,3,0,0,78,116,0,337],
-"d__a__npc__zelRo_8cpp.html#affdb47c870a482b3241c7a2b77c10a6a":[4,0,3,0,0,78,116,0,265],
-"d__a__npc__zelRo_8h.html":[4,0,1,8,0,0,78,116,1],
-"d__a__npc__zelRo_8h_source.html":[4,0,1,8,0,0,78,116,1],
-"d__a__npc__zelda_8cpp.html":[4,0,3,0,0,78,114,0],
-"d__a__npc__zelda_8cpp.html#a0020b952dbf1bab703dbe01d781f8d87":[4,0,3,0,0,78,114,0,106],
-"d__a__npc__zelda_8cpp.html#a004814864843537676c951fb8965a430":[4,0,3,0,0,78,114,0,146],
-"d__a__npc__zelda_8cpp.html#a00a99800e2e51ab72f4c0813501fd428":[4,0,3,0,0,78,114,0,263],
 "d__a__npc__zelda_8cpp.html#a0377e6e071fd0bf35e1cd21d4a4cb3b4":[4,0,3,0,0,78,114,0,96],
 "d__a__npc__zelda_8cpp.html#a04950f9c0dec83dce961bf7527b0bb5c":[4,0,3,0,0,78,114,0,127],
 "d__a__npc__zelda_8cpp.html#a064ae5dffd361c094d9fe33bbe9c1c19":[4,0,3,0,0,78,114,0,54],
@@ -249,5 +237,17 @@ var NAVTREEINDEX746 =
 "d__a__npc__zelda_8cpp.html#abb6b28c26ec8ddeb2b9e761d7a81b181":[4,0,3,0,0,78,114,0,97],
 "d__a__npc__zelda_8cpp.html#abc73baa8e4a9ac0b7c9627b541ab7a43":[4,0,3,0,0,78,114,0,354],
 "d__a__npc__zelda_8cpp.html#abcc1145fa03be95d1df70e96494331d7":[4,0,3,0,0,78,114,0,105],
-"d__a__npc__zelda_8cpp.html#abcc56e9aa1b63fa96df4281ee3e92770":[4,0,3,0,0,78,114,0,291]
+"d__a__npc__zelda_8cpp.html#abcc56e9aa1b63fa96df4281ee3e92770":[4,0,3,0,0,78,114,0,291],
+"d__a__npc__zelda_8cpp.html#abe5ad46073103be73059334ff9e4a860":[4,0,3,0,0,78,114,0,122],
+"d__a__npc__zelda_8cpp.html#abed5bd59c54272a132a5b4da4beff66d":[4,0,3,0,0,78,114,0,112],
+"d__a__npc__zelda_8cpp.html#ac22b4d661aba0673c7531e87497ffbe4":[4,0,3,0,0,78,114,0,331],
+"d__a__npc__zelda_8cpp.html#ac2860b65c5a4796d7223c1cc0e32b2ab":[4,0,3,0,0,78,114,0,154],
+"d__a__npc__zelda_8cpp.html#ac295e66f2a23ef26145683ad28864ec4":[4,0,3,0,0,78,114,0,190],
+"d__a__npc__zelda_8cpp.html#ac3082d58cb9739d74bed417c2213e9d3":[4,0,3,0,0,78,114,0,297],
+"d__a__npc__zelda_8cpp.html#ac5a92639bae9869ef1627447032edcfc":[4,0,3,0,0,78,114,0,148],
+"d__a__npc__zelda_8cpp.html#ac78599c0ab77d8ee741391ed7838bbb8":[4,0,3,0,0,78,114,0,251],
+"d__a__npc__zelda_8cpp.html#ac91f8eb3f214861b386e8b9b5681098d":[4,0,3,0,0,78,114,0,172],
+"d__a__npc__zelda_8cpp.html#ac946bf2a32f2018865c8104c01b37592":[4,0,3,0,0,78,114,0,223],
+"d__a__npc__zelda_8cpp.html#ac9d77c0f10b23fdafe2298549375180c":[4,0,3,0,0,78,114,0,89],
+"d__a__npc__zelda_8cpp.html#acb197cd818a27431fdbb47fbff0218de":[4,0,3,0,0,78,114,0,140]
 };

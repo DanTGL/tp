@@ -1,17 +1,5 @@
 var NAVTREEINDEX598 =
 {
-"d__a__npc__fairy_8cpp.html#a3f88536c4840aa7e2d22f59ea33e60bb":[4,0,3,0,0,78,20,0,158],
-"d__a__npc__fairy_8cpp.html#a402992a0cd2f39bd1a3a56ae5332940f":[4,0,3,0,0,78,20,0,392],
-"d__a__npc__fairy_8cpp.html#a41f0d3a0ed1cc09f6e95113caade8b02":[4,0,3,0,0,78,20,0,167],
-"d__a__npc__fairy_8cpp.html#a42321d04f991eb72ca161de435d9a346":[4,0,3,0,0,78,20,0,210],
-"d__a__npc__fairy_8cpp.html#a42eb26554bb0dfaa04a848d1ed16c13b":[4,0,3,0,0,78,20,0,558],
-"d__a__npc__fairy_8cpp.html#a4387b2ff3b00dfebd2ffbefc7e925d0c":[4,0,3,0,0,78,20,0,515],
-"d__a__npc__fairy_8cpp.html#a447a251acfab715497de4d7b04172f40":[4,0,3,0,0,78,20,0,143],
-"d__a__npc__fairy_8cpp.html#a447db6f92602298e68b52bd36d9d7ecf":[4,0,3,0,0,78,20,0,68],
-"d__a__npc__fairy_8cpp.html#a45fa25ecf7b32f6c9d2f4464f4b36094":[4,0,3,0,0,78,20,0,506],
-"d__a__npc__fairy_8cpp.html#a46ae49073a9cb800f5b2f106ea138f2f":[4,0,3,0,0,78,20,0,93],
-"d__a__npc__fairy_8cpp.html#a473c1c7729f430caa7cfc70741189c51":[4,0,3,0,0,78,20,0,360],
-"d__a__npc__fairy_8cpp.html#a4839b360238a03e3fc82919d6fa7ab5f":[4,0,3,0,0,78,20,0,108],
 "d__a__npc__fairy_8cpp.html#a485123e68692d182692093261a357247":[4,0,3,0,0,78,20,0,516],
 "d__a__npc__fairy_8cpp.html#a486ca30d8fae87875c1217d5e7637a0d":[4,0,3,0,0,78,20,0,97],
 "d__a__npc__fairy_8cpp.html#a489b2a4039c28e19dc8c50a41080269b":[4,0,3,0,0,78,20,0,420],
@@ -249,5 +237,17 @@ var NAVTREEINDEX598 =
 "d__a__npc__fairy_8cpp.html#abab5c2ea096eaa5a6a30306267c40d8d":[4,0,3,0,0,78,20,0,393],
 "d__a__npc__fairy_8cpp.html#abac6048f47d6b50b322a1187b0e5a6a1":[4,0,3,0,0,78,20,0,436],
 "d__a__npc__fairy_8cpp.html#abaec34995d4afe2fe7e857c71612e729":[4,0,3,0,0,78,20,0,442],
-"d__a__npc__fairy_8cpp.html#abb086ec13c1806df6f79f010d0197a36":[4,0,3,0,0,78,20,0,527]
+"d__a__npc__fairy_8cpp.html#abb086ec13c1806df6f79f010d0197a36":[4,0,3,0,0,78,20,0,527],
+"d__a__npc__fairy_8cpp.html#abb6b28c26ec8ddeb2b9e761d7a81b181":[4,0,3,0,0,78,20,0,112],
+"d__a__npc__fairy_8cpp.html#abc18fe9551d67402b7f1f0d032662b6f":[4,0,3,0,0,78,20,0,468],
+"d__a__npc__fairy_8cpp.html#abc66df7150410b3e57df217770860f0c":[4,0,3,0,0,78,20,0,291],
+"d__a__npc__fairy_8cpp.html#abcc1145fa03be95d1df70e96494331d7":[4,0,3,0,0,78,20,0,119],
+"d__a__npc__fairy_8cpp.html#abcf9f27311f7a5d500213c42a0c7e888":[4,0,3,0,0,78,20,0,214],
+"d__a__npc__fairy_8cpp.html#abed5bd59c54272a132a5b4da4beff66d":[4,0,3,0,0,78,20,0,161],
+"d__a__npc__fairy_8cpp.html#abed7412e31702ba83ebe2eb2e95329cd":[4,0,3,0,0,78,20,0,317],
+"d__a__npc__fairy_8cpp.html#abfc3aafebc8d2edb39fe6c4bc8ca9275":[4,0,3,0,0,78,20,0,509],
+"d__a__npc__fairy_8cpp.html#abfd110efe1a228ff2688c6d71f06e98e":[4,0,3,0,0,78,20,0,163],
+"d__a__npc__fairy_8cpp.html#abfdde881fb20dee5dca250d2524dbbb0":[4,0,3,0,0,78,20,0,212],
+"d__a__npc__fairy_8cpp.html#ac0b1f93bcfc48cf56cc3baa3b66f43b9":[4,0,3,0,0,78,20,0,520],
+"d__a__npc__fairy_8cpp.html#ac1f78450cb91a60fc0fb76b34b9bd793":[4,0,3,0,0,78,20,0,231]
 };

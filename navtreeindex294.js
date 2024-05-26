@@ -1,17 +1,5 @@
 var NAVTREEINDEX294 =
 {
-"d_2a_2d__a__alldie_2unknown__translation__unit__dtors_8h_source.html":[4,0,1,8,0,0,1,3],
-"d_2a_2d__a__andsw2_2executor_8h.html":[4,0,1,8,0,0,3,1],
-"d_2a_2d__a__andsw2_2executor_8h_source.html":[4,0,1,8,0,0,3,1],
-"d_2a_2d__a__andsw2_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,3,2],
-"d_2a_2d__a__andsw2_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,3,2],
-"d_2a_2d__a__andsw2_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,3,3],
-"d_2a_2d__a__andsw2_2unknown__translation__unit__dtors_8h_source.html":[4,0,1,8,0,0,3,3],
-"d_2a_2d__a__andsw_2executor_8h.html":[4,0,1,8,0,0,2,1],
-"d_2a_2d__a__andsw_2executor_8h_source.html":[4,0,1,8,0,0,2,1],
-"d_2a_2d__a__andsw_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,2,2],
-"d_2a_2d__a__andsw_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,2,2],
-"d_2a_2d__a__andsw_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,2,3],
 "d_2a_2d__a__andsw_2unknown__translation__unit__dtors_8h_source.html":[4,0,1,8,0,0,2,3],
 "d_2a_2d__a__arrow_2executor_8h.html":[4,0,1,8,0,0,4,2],
 "d_2a_2d__a__arrow_2executor_8h_source.html":[4,0,1,8,0,0,4,2],
@@ -249,5 +237,17 @@ var NAVTREEINDEX294 =
 "d_2a_2d__a__scene__exit_2executor_8h_source.html":[4,0,1,8,0,0,52,1],
 "d_2a_2d__a__scene__exit_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,52,2],
 "d_2a_2d__a__scene__exit_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,52,2],
-"d_2a_2d__a__scene__exit_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,52,3]
+"d_2a_2d__a__scene__exit_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,52,3],
+"d_2a_2d__a__scene__exit_2unknown__translation__unit__dtors_8h_source.html":[4,0,1,8,0,0,52,3],
+"d_2a_2d__a__set__bgobj_2executor_8h.html":[4,0,1,8,0,0,54,1],
+"d_2a_2d__a__set__bgobj_2executor_8h_source.html":[4,0,1,8,0,0,54,1],
+"d_2a_2d__a__set__bgobj_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,54,2],
+"d_2a_2d__a__set__bgobj_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,54,2],
+"d_2a_2d__a__set__bgobj_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,54,3],
+"d_2a_2d__a__set__bgobj_2unknown__translation__unit__dtors_8h_source.html":[4,0,1,8,0,0,54,3],
+"d_2a_2d__a__shop__item_2executor_8h.html":[4,0,1,8,0,0,55,1],
+"d_2a_2d__a__shop__item_2executor_8h_source.html":[4,0,1,8,0,0,55,1],
+"d_2a_2d__a__shop__item_2unknown__translation__unit__ctors_8h.html":[4,0,1,8,0,0,55,2],
+"d_2a_2d__a__shop__item_2unknown__translation__unit__ctors_8h_source.html":[4,0,1,8,0,0,55,2],
+"d_2a_2d__a__shop__item_2unknown__translation__unit__dtors_8h.html":[4,0,1,8,0,0,55,3]
 };

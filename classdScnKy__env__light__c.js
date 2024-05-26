@@ -558,7 +558,6 @@ var classdScnKy__env__light__c =
     [ "settingTevStruct", "classdScnKy__env__light__c.html#aedb1dcce82ee4d02f56ae8c638035c66", null ],
     [ "settingTevStruct", "classdScnKy__env__light__c.html#aedb1dcce82ee4d02f56ae8c638035c66", null ],
     [ "settingTevStruct", "classdScnKy__env__light__c.html#aedb1dcce82ee4d02f56ae8c638035c66", null ],
-    [ "settingTevStruct", "classdScnKy__env__light__c.html#aedb1dcce82ee4d02f56ae8c638035c66", null ],
     [ "settingTevStruct_colget_actor", "classdScnKy__env__light__c.html#ac2248c05c047327c1d35aef7555eb305", null ],
     [ "settingTevStruct_colget_player", "classdScnKy__env__light__c.html#ae5d4ec653b00dab9b9b259cb596d0b85", null ],
     [ "settingTevStruct_plightcol_plus", "classdScnKy__env__light__c.html#a6d0307ef9228a68cbd9881c0b8ef5ca3", null ],
