@@ -1,5 +1,17 @@
 var NAVTREEINDEX1085 =
 {
+"structZ2EnemyArea.html#aca2dbf7aaa6d8b56ecb1251a1ed91c1f":[3,0,3054,1],
+"structZ2EnemyArea.html#adadf494ff2c45a6ee264cffcb03291c2":[3,0,3054,2],
+"structZ2EnemyArea.html#afc75f5d7474184fe8c63ce1ba1122239":[3,0,3054,3],
+"structZ2EnvSeAutoPan.html":[3,0,3055],
+"structZ2EnvSeAutoPan.html#a0bf86a8470489bbdecd8c0d0ef38f4ed":[3,0,3055,10],
+"structZ2EnvSeAutoPan.html#a11a1cdd08e62df657505fc7d622306b9":[3,0,3055,2],
+"structZ2EnvSeAutoPan.html#a1caaec2ab3f6d981a6e31fdc9ead5921":[3,0,3055,4],
+"structZ2EnvSeAutoPan.html#a466d6404b65b280bd67df9b5bc587db0":[3,0,3055,5],
+"structZ2EnvSeAutoPan.html#a776b93f404f3ff4c9c8b7e6782701d3b":[3,0,3055,8],
+"structZ2EnvSeAutoPan.html#add2439b9f96cfcd139e537997c95acc9":[3,0,3055,6],
+"structZ2EnvSeAutoPan.html#ae294e778be8c7731cbeecdac0b664f82":[3,0,3055,1],
+"structZ2EnvSeAutoPan.html#ae5449916aeb4a133a0a470bb4dd2ccd5":[3,0,3055,0],
 "structZ2EnvSeAutoPan.html#ae70e5cd245cb5770e5bd4ad4f598e2dc":[3,0,3055,3],
 "structZ2EnvSeAutoPan.html#ae8aebc07bd582d8d21f1e5ef00b1ef01":[3,0,3055,7],
 "structZ2EnvSeAutoPan.html#aef6a9a1d8fd44849252d6384f4023477":[3,0,3055,9],
@@ -237,17 +249,5 @@ var NAVTREEINDEX1085 =
 "structZ2Param.html#a6948b00a91773705636db6b976a9e477":[3,0,3066,2],
 "structZ2Param.html#a72ad783252e22e4299b1b0e2b94cb75f":[3,0,3066,20],
 "structZ2Param.html#a76f47d1ffa635666bb1de592450c2d14":[3,0,3066,6],
-"structZ2Param.html#a7d27c1b0186d8f250d5610b2b956a357":[3,0,3066,10],
-"structZ2Param.html#a81bccbf7e913e91e31f341c0093d8694":[3,0,3066,5],
-"structZ2Param.html#a81f8b79fb1eef578aacb8e8f8ba18d6d":[3,0,3066,31],
-"structZ2Param.html#a82d2e7670f61fb7badfb4964c3f6c629":[3,0,3066,27],
-"structZ2Param.html#a88552c0d9f939c99f22fad436727c951":[3,0,3066,17],
-"structZ2Param.html#a888e8bb8dd411124838163969bc809c6":[3,0,3066,23],
-"structZ2Param.html#a8b01876168b4fec69e9d6d163f369eec":[3,0,3066,16],
-"structZ2Param.html#a92eafe562a80086750c8b006f91e7753":[3,0,3066,35],
-"structZ2Param.html#a9377905b4ae13e7e43fdaa610dbf5acd":[3,0,3066,11],
-"structZ2Param.html#a9c8922368c318db0f5e1a3b62d1242a3":[3,0,3066,4],
-"structZ2Param.html#aa0c4ae8bd2a7fcb290bc2b665ee8a2a0":[3,0,3066,0],
-"structZ2Param.html#aa2835e01f9132c463a9498f7040c9a5c":[3,0,3066,7],
-"structZ2Param.html#abc2b5d8869debe7409ae1f81ae83e380":[3,0,3066,15]
+"structZ2Param.html#a7d27c1b0186d8f250d5610b2b956a357":[3,0,3066,10]
 };

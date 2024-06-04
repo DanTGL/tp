@@ -1,5 +1,17 @@
 var NAVTREEINDEX1116 =
 {
+"structdaDo__HIO__tmp.html#aeb67818ea4c7a8ddfe3ea6980df12af2":[3,0,504,2],
+"structdaDo__HIO__tmp.html#aefc2bd02900db432a2790809cf301a60":[3,0,504,6],
+"structdaDo__HIO__tmp.html#af14147c6bda41ff4d21e40d8ecf27a96":[3,0,504,0],
+"structdaDoor20__c.html":[3,0,505],
+"structdaDoor20__c.html#a01b2ccd964aaadb9113e0a9931fa5c63":[3,0,505,34],
+"structdaDoor20__c.html#a07527110dff60af09447ce32a3e5767e":[3,0,505,28],
+"structdaDoor20__c.html#a0839155e8cf5eb590f709e38c90a0dbd":[3,0,505,59],
+"structdaDoor20__c.html#a08bb1d14a75699b7c8f545b910b51d20":[3,0,505,53],
+"structdaDoor20__c.html#a13c9c804a67997892436d571025165d0":[3,0,505,4],
+"structdaDoor20__c.html#a17a0779a1e7474be312c9f912eca7390":[3,0,505,93],
+"structdaDoor20__c.html#a17ec21cb65ddfe036979d2d8f2cf94ee":[3,0,505,98],
+"structdaDoor20__c.html#a18ab3443cb1dd612e62ab5cb02361671":[3,0,505,57],
 "structdaDoor20__c.html#a1b0e0d067d81986d9aaccbb8d9ca6d88":[3,0,505,40],
 "structdaDoor20__c.html#a2175516747a0fbcb9a97831bfa2d3311":[3,0,505,58],
 "structdaDoor20__c.html#a24637f2d2bde54bb895c218a344f4ada":[3,0,505,7],
@@ -237,17 +249,5 @@ var NAVTREEINDEX1116 =
 "structdaFmtMng__c.html#af4b15c23560444ea0d9caced887f9476":[3,0,631,41],
 "structdaFmtMng__c.html#af9b1c12ae140f29ccf4b2763ac2e1f24":[3,0,631,11],
 "structdaFr__HIO__c.html":[3,0,633],
-"structdaFr__HIO__c.html#a1b46f83c3b8f63b68370c96541dc37c7":[3,0,633,1],
-"structdaFr__HIO__c.html#aac6ed9b89714b92ec6a806b9229ca324":[3,0,633,0],
-"structdaHoZelda__hio__c0.html":[3,0,652],
-"structdaHoZelda__hio__c0.html#af8ddd0091fba55b2f6e76e6ec25711f5":[3,0,652,0],
-"structdaHorse__c.html":[3,0,647],
-"structdaHorse__c.html#a006d2110c0bf87aec1013663f9b7edf2":[3,0,647,187],
-"structdaHorse__c.html#a007217aba272d91a0702630e2c1d4d54":[3,0,647,101],
-"structdaHorse__c.html#a019a49a36a13d575f7f891a973611254":[3,0,647,9],
-"structdaHorse__c.html#a01d958a529f351b99581fe3d87c38453":[3,0,647,189],
-"structdaHorse__c.html#a020ebddaf3aec1d908bda8a9abca523e":[3,0,647,81],
-"structdaHorse__c.html#a0342e32e245992b8a4bf0436b3918f09":[3,0,647,123],
-"structdaHorse__c.html#a0363aaed7cf6b618b2540f791c890230":[3,0,647,134],
-"structdaHorse__c.html#a046124cc62bbb28de3936646b8fcc6b8":[3,0,647,141]
+"structdaFr__HIO__c.html#a1b46f83c3b8f63b68370c96541dc37c7":[3,0,633,1]
 };

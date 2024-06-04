@@ -1,5 +1,17 @@
 var NAVTREEINDEX1081 =
 {
+"structOSFontHeader.html#a84935197b0a8b93474cde48370c2066d":[3,0,2855,14],
+"structOSFontHeader.html#a9e50abcf0dedb93eb7405057365e123e":[3,0,2855,15],
+"structOSFontHeader.html#aa654472af7959c92ec270d55a7f94188":[3,0,2855,21],
+"structOSFontHeader.html#aa66f018efd446be9b9070b9ddc6abd5d":[3,0,2855,10],
+"structOSFontHeader.html#ab37b177c7bd3563e7cf443600b15c312":[3,0,2855,5],
+"structOSFontHeader.html#ac7d808a3a726f4c719e78d5a65d9c43e":[3,0,2855,4],
+"structOSFontHeader.html#ad0aff1bafa46fb366ee98cbed7895657":[3,0,2855,0],
+"structOSFontHeader.html#ae10071f855e9d7f09d1cee104890cb12":[3,0,2855,7],
+"structOSFontHeader.html#aee382cfc1c0703b62ce771cf568a8fa2":[3,0,2855,19],
+"structOSFontHeader.html#af1b5bc062f714812755ab6dad0b027e5":[3,0,2855,6],
+"structOSFontHeader.html#af6f1e5c63bc6d8e9a02867914e8392b6":[3,0,2855,1],
+"structOSHeapCell.html":[3,0,2856],
 "structOSHeapCell.html#a1f9a1790e6ec18db55fb3fe7aad4b2cf":[3,0,2856,0],
 "structOSHeapCell.html#a3dce73d32ece4113ceb1f019583a6b9a":[3,0,2856,1],
 "structOSHeapCell.html#a546c0a66a0c71aba3a19a6f4c7b300e2":[3,0,2856,3],
@@ -237,17 +249,5 @@ var NAVTREEINDEX1081 =
 "structResFONT_1_1MAP1.html#aca8e218b77bcfb293fd98c01e10105d6":[1,1,12,11,2,4],
 "structResFONT_1_1MAP1.html#ae27eec75106c927cd12a7d2bf966a4a9":[1,1,12,11,2,5],
 "structResFONT_1_1MAP1.html#af3853d57b16910d9065e2c95fb16487d":[1,1,12,11,2,1],
-"structResFONT_1_1WID1.html":[1,1,12,11,3],
-"structResFONT_1_1WID1.html#a54c4ed88f3d12f17a1a0152864d874a7":[1,1,12,11,3,2],
-"structResFONT_1_1WID1.html#a7aeaa3a97602cece85458074445ec803":[1,1,12,11,3,4],
-"structResFONT_1_1WID1.html#a936a04d66a9be8f453ccb7768314e159":[1,1,12,11,3,0],
-"structResFONT_1_1WID1.html#ae7864801443aecabb0ef459c14eb9e74":[1,1,12,11,3,3],
-"structResFONT_1_1WID1.html#aed213225d2e267f4529dae71532d08c0":[1,1,12,11,3,1],
-"structResNTAB.html":[1,1,12,17],
-"structResNTAB.html#a095aa11044d362893738acc93ec58d77":[1,1,12,17,1],
-"structResNTAB.html#a236ad4eb494670e7eda03dc534fa7f02":[1,1,12,17,2],
-"structResNTAB.html#a39d719a7ce880a460bb3434ed2a1bd15":[1,1,12,17,4],
-"structResNTAB.html#a3c3bd3c9fc8a4984d6785c0e7b27b090":[1,1,12,17,3],
-"structResNTAB_1_1Entry.html":[1,1,12,17,0],
-"structResNTAB_1_1Entry.html#a13449dd06cc00477256ea27982637c7e":[1,1,12,17,0,1]
+"structResFONT_1_1WID1.html":[1,1,12,11,3]
 };

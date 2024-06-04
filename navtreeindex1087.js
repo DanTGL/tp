@@ -1,5 +1,17 @@
 var NAVTREEINDEX1087 =
 {
+"structZ2StatusMgr.html#ae2e1a74a57af572c3e6aba99469b49e3":[3,0,3087,21],
+"structZ2StatusMgr.html#ae534e147f8fd31f1b4e166504730e3ae":[3,0,3087,31],
+"structZ2StatusMgr.html#ae9e0938f2eb5b35cd47aecc8787673ab":[3,0,3087,24],
+"structZ2StatusMgr.html#aebd3ed7d4643eef3fd1c6e813950cc6b":[3,0,3087,36],
+"structZ2StatusMgr.html#af7068d05e884e7d91254ba75426b8fc3":[3,0,3087,7],
+"structZ2StatusMgr.html#af9fa12711bd7527b988860708e95e696":[3,0,3087,35],
+"structZ2WolfHowlData.html":[3,0,3088],
+"structZ2WolfHowlData.html#a34a5f235e0c5eea956b8a2c9b2e98a1e":[3,0,3088,1],
+"structZ2WolfHowlData.html#aa1f11d2a347dd9496f6bf6f8d1dd8537":[3,0,3088,0],
+"struct__FILE.html":[3,0,29],
+"struct__FILE.html#a048eada350705902e7baa53822ff9593":[3,0,29,13],
+"struct__FILE.html#a0b9a4a9f8d7196b9a4343e6cd0b4682a":[3,0,29,19],
 "struct__FILE.html#a24b86388789babeff1fb1dc5b06b2700":[3,0,29,1],
 "struct__FILE.html#a4169b719f9144e583134829d1443cc76":[3,0,29,18],
 "struct__FILE.html#a42eac0bd200619a198dfb855c6680cb7":[3,0,29,17],
@@ -237,17 +249,5 @@ var NAVTREEINDEX1087 =
 "struct____wOutStrCtrl.html#ab63c20c5955626acd07197864ad9c86f":[3,0,27,1],
 "struct____wOutStrCtrl.html#aca7614cdfdda703849f53b943474d612":[3,0,27,0],
 "struct__file__modes.html":[3,0,30],
-"struct__file__modes.html#a0cf4cdf7d08862ec22e00626d2941eb3":[3,0,30,5],
-"struct__file__modes.html#a28a26e9fd3c64f32ab4a105f64877aae":[3,0,30,1],
-"struct__file__modes.html#a4563a2574a3499fd23509ef297ef969c":[3,0,30,4],
-"struct__file__modes.html#a7acfd08dfa31334cc6434a67da3fc7de":[3,0,30,2],
-"struct__file__modes.html#ada57d5435292eb4dc351e8a0330534ff":[3,0,30,0],
-"struct__file__modes.html#afdba0eeab6d78b44808024c8890f5595":[3,0,30,3],
-"struct__file__states.html":[3,0,31],
-"struct__file__states.html#a3ede8af1b8ec5d0a9c336b20d55a07a1":[3,0,31,0],
-"struct__file__states.html#a7dfd1d88c54a84ac8d4b29c69031c550":[3,0,31,3],
-"struct__file__states.html#aae7747e06306eacae3f0b15ea57cfc2a":[3,0,31,1],
-"struct__file__states.html#acd46b27d25cc67c0fceebbb49cccd540":[3,0,31,2],
-"struct__files.html":[3,0,32],
-"struct__files.html#a36beeb95a7ff115925b2b8ce0db7d42d":[3,0,32,2]
+"struct__file__modes.html#a0cf4cdf7d08862ec22e00626d2941eb3":[3,0,30,5]
 };

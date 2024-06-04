@@ -1,5 +1,17 @@
 var NAVTREEINDEX1151 =
 {
+"structrequest__base__class.html#a2ae0c0b0905e34fe2dadee159d9661b7":[3,0,2912,70],
+"structrequest__base__class.html#a2af655149d106fffdfac49473679ef1b":[3,0,2912,79],
+"structrequest__base__class.html#a2d76b7ccc21a9511b4faeac8bcbeea9f":[3,0,2912,3],
+"structrequest__base__class.html#a2ff7dfdf7ea9271e3d328c7886487a49":[3,0,2912,24],
+"structrequest__base__class.html#a301d97bfb19efa988e3ef8c9fdbc2ebd":[3,0,2912,15],
+"structrequest__base__class.html#a310229a9e205c8c3b7c6dd2221f66354":[3,0,2912,113],
+"structrequest__base__class.html#a31f9f207748f101d7e2f7706c97056a1":[3,0,2912,177],
+"structrequest__base__class.html#a3244eb2606ccffe160318ffd06353c19":[3,0,2912,101],
+"structrequest__base__class.html#a33c0c2905b39349db77a7eeca1b2fa39":[3,0,2912,42],
+"structrequest__base__class.html#a3484f72526834bb0f8c8be2d4d3eb380":[3,0,2912,102],
+"structrequest__base__class.html#a3718d5f243dad6609add8a0d2827e36f":[3,0,2912,95],
+"structrequest__base__class.html#a38bf0b8feed9d0603b855fb8520c14f8":[3,0,2912,37],
 "structrequest__base__class.html#a39118048b9d6d682a707593f48171aee":[3,0,2912,110],
 "structrequest__base__class.html#a39fb23caf5762794929f3e7bd590b29f":[3,0,2912,179],
 "structrequest__base__class.html#a3a283a493067356e4de5dc04cae55cfa":[3,0,2912,21],
@@ -237,17 +249,5 @@ var NAVTREEINDEX1151 =
 "structstage__envr__info__class.html#a31050a22bacdf0eec37d90f0da92cae8":[3,0,2960,0],
 "structstage__map__info__class.html":[3,0,2961],
 "structstage__map__info__class.html#a785cf27b4d89464ea0bade9e62fd6bf9":[3,0,2961,0],
-"structstage__map__info__class.html#aa9d901210940052c1a2cda898a4ee756":[3,0,2961,2],
-"structstage__map__info__class.html#ae7aa4c8637e56a92cd8e0affd8b7556b":[3,0,2961,1],
-"structstage__map__info__dummy__class.html":[3,0,2962],
-"structstage__map__info__dummy__class.html#a3a496cee77b4234666fde608322a1a8e":[3,0,2962,1],
-"structstage__map__info__dummy__class.html#ae130f416f07ecb907f5f8a8af2addeb9":[3,0,2962,0],
-"structstage__palette__info__class.html":[3,0,2963],
-"structstage__palette__info__class.html#a08aedf8c5b7ae28e3108b7c4ef1128db":[3,0,2963,3],
-"structstage__palette__info__class.html#a0e4d51a309d81b31c99e35be92f4ce7c":[3,0,2963,11],
-"structstage__palette__info__class.html#a165251c2e9f9bac78adf57a7c6594a74":[3,0,2963,1],
-"structstage__palette__info__class.html#a1cb86adf057cc9a4e880f428179158d7":[3,0,2963,12],
-"structstage__palette__info__class.html#a2108c2efe843ef4eefad405ec9ad83f6":[3,0,2963,7],
-"structstage__palette__info__class.html#a234aac354bbb64117002516af0014666":[3,0,2963,10],
-"structstage__palette__info__class.html#a2e0b6c9e1e00ba24133f5abbd6b6e68f":[3,0,2963,4]
+"structstage__map__info__class.html#aa9d901210940052c1a2cda898a4ee756":[3,0,2961,2]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX1117 =
 {
+"structdaFr__HIO__c.html#aac6ed9b89714b92ec6a806b9229ca324":[3,0,633,0],
+"structdaHoZelda__hio__c0.html":[3,0,652],
+"structdaHoZelda__hio__c0.html#af8ddd0091fba55b2f6e76e6ec25711f5":[3,0,652,0],
+"structdaHorse__c.html":[3,0,647],
+"structdaHorse__c.html#a006d2110c0bf87aec1013663f9b7edf2":[3,0,647,187],
+"structdaHorse__c.html#a007217aba272d91a0702630e2c1d4d54":[3,0,647,101],
+"structdaHorse__c.html#a019a49a36a13d575f7f891a973611254":[3,0,647,9],
+"structdaHorse__c.html#a01d958a529f351b99581fe3d87c38453":[3,0,647,189],
+"structdaHorse__c.html#a020ebddaf3aec1d908bda8a9abca523e":[3,0,647,81],
+"structdaHorse__c.html#a0342e32e245992b8a4bf0436b3918f09":[3,0,647,123],
+"structdaHorse__c.html#a0363aaed7cf6b618b2540f791c890230":[3,0,647,134],
+"structdaHorse__c.html#a046124cc62bbb28de3936646b8fcc6b8":[3,0,647,141],
 "structdaHorse__c.html#a04b4519bc18887fcf2c3fc3d40d9c7fb":[3,0,647,196],
 "structdaHorse__c.html#a06f80e5643f1716f8bda4f31a26180f6":[3,0,647,104],
 "structdaHorse__c.html#a072d3fa9fe4a7aada8260add4c723629":[3,0,647,83],
@@ -237,17 +249,5 @@ var NAVTREEINDEX1117 =
 "structdaItemBase__data.html#a9fdf45313d362e6beb8c98a33cf6a7d8":[3,0,660,14],
 "structdaItemBase__data.html#aa90fa04344b5ba53972e2afefc09bf78":[3,0,660,15],
 "structdaItemBase__data.html#aac0694a7a4435791637c9bff411b7b69":[3,0,660,12],
-"structdaItemBase__data.html#ab31cb5f9c0d6b816c4336f4ee0bddc8f":[3,0,660,6],
-"structdaItemBase__data.html#ab3a1506290f9224816e02997c645c373":[3,0,660,1],
-"structdaItemBase__data.html#abd9eae1790ccc6c7aa4149c9e70a64da":[3,0,660,13],
-"structdaItemBase__data.html#ac742e93644ee5272b50040e92a5f2ea1":[3,0,660,5],
-"structdaItemBase__data.html#ac7c32f6080e1595a040d3b0bb10b03d1":[3,0,660,2],
-"structdaItemBase__data.html#acd82353587ad1a098062323546ffa46c":[3,0,660,10],
-"structdaItemBase__data.html#ad413d329205a5af130ce90de3989420d":[3,0,660,8],
-"structdaItemBase__data.html#add02d090f4c507b9edb10d93f25eb728":[3,0,660,16],
-"structdaItemBase__data.html#aebbc8a14a1e6bf8922f537886cffbb1b":[3,0,660,9],
-"structdaKago__HIO__c.html":[3,0,665],
-"structdaKago__HIO__c.html#a469c8546c48cb5dc2fae37c8fb2d6811":[3,0,665,0],
-"structdaKago__HIO__c.html#ab62bd9108edc2681ad5349cb94893a7e":[3,0,665,1],
-"structdaKnob20__c.html":[3,0,671]
+"structdaItemBase__data.html#ab31cb5f9c0d6b816c4336f4ee0bddc8f":[3,0,660,6]
 };

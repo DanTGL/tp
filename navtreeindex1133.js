@@ -1,5 +1,17 @@
 var NAVTREEINDEX1133 =
 {
+"structdaNpc__SoldierA__c.html#a257a7c3d8e08be24607d1c902f0d500b":[3,0,857,32],
+"structdaNpc__SoldierA__c.html#a2cec106e806e44e94d92b4f5351104b0":[3,0,857,27],
+"structdaNpc__SoldierA__c.html#a31062bd0ad3b067c1a1afdee70dd5158":[3,0,857,11],
+"structdaNpc__SoldierA__c.html#a37f72855ccd249134d227e7e6194ad78":[3,0,857,29],
+"structdaNpc__SoldierA__c.html#a39215ba4d68cc30e3bec38a8d4d9f3d3":[3,0,857,7],
+"structdaNpc__SoldierA__c.html#a397d83dac05fd0c49b97cafdf8dc4ed0":[3,0,857,18],
+"structdaNpc__SoldierA__c.html#a3a716d35d527c71b58164248c1caeca1":[3,0,857,15],
+"structdaNpc__SoldierA__c.html#a41118f89a2043ec9a1beedd945c2e457":[3,0,857,21],
+"structdaNpc__SoldierA__c.html#a411de53ea1bc777e25e5e28beb77fd7a":[3,0,857,9],
+"structdaNpc__SoldierA__c.html#a550b3d668e3be421c4a6b27918355ea0":[3,0,857,17],
+"structdaNpc__SoldierA__c.html#a6d130de299bb1f398e29590682d8db05":[3,0,857,19],
+"structdaNpc__SoldierA__c.html#a6dbfa5c476ccb630d991f6e22163a9bf":[3,0,857,23],
 "structdaNpc__SoldierA__c.html#a7077af11b8ffe9e677337c8dcbc6aea2":[3,0,857,6],
 "structdaNpc__SoldierA__c.html#a74974dcd32ba6cdd4530830c7e10f18f":[3,0,857,20],
 "structdaNpc__SoldierA__c.html#a74e726a0283d3714ebaf1106667fdef2":[3,0,857,35],
@@ -237,17 +249,5 @@ var NAVTREEINDEX1133 =
 "structdaNpc__Uri__c.html#a6aaba35076f20c6a74b7edb8c7828757":[3,0,871,21],
 "structdaNpc__Uri__c.html#a77903839f6bdfcd3f3987d810ed42e84":[3,0,871,34],
 "structdaNpc__Uri__c.html#a7b9256c32e6ea1a4d483ba7ed89d9fa3":[3,0,871,11],
-"structdaNpc__Uri__c.html#a7e75f3c2fa86bea333cc04c9b8e85b18":[3,0,871,0],
-"structdaNpc__Uri__c.html#a9b23705d766d96ee36f258a22ab48021":[3,0,871,49],
-"structdaNpc__Uri__c.html#a9bd834dc702a3b693a4c2dea1fe9619c":[3,0,871,40],
-"structdaNpc__Uri__c.html#a9f735c0846cd6066197643e8cea3cb83":[3,0,871,18],
-"structdaNpc__Uri__c.html#aa367e7b7d91d8c7fb469a00a4b4caeab":[3,0,871,38],
-"structdaNpc__Uri__c.html#aa3da4b8b3fd7c39be84456d41d144fff":[3,0,871,43],
-"structdaNpc__Uri__c.html#aa452e6108627671720dbb856b8992f9b":[3,0,871,52],
-"structdaNpc__Uri__c.html#ab2de48f9b4c40046129d961f86bbe4f4":[3,0,871,5],
-"structdaNpc__Uri__c.html#ab67d763dece7867a547d27a348b31e24":[3,0,871,10],
-"structdaNpc__Uri__c.html#ab6c1efe5fed4ee668fe2ee19eddf1a45":[3,0,871,7],
-"structdaNpc__Uri__c.html#aba5c0e08833f952d0df9bbf548683452":[3,0,871,45],
-"structdaNpc__Uri__c.html#abbe3d005b4430c6d0892e3faa422f89c":[3,0,871,31],
-"structdaNpc__Uri__c.html#ac836a7b32230e96aa6e63eeb5d40c219":[3,0,871,4]
+"structdaNpc__Uri__c.html#a7e75f3c2fa86bea333cc04c9b8e85b18":[3,0,871,0]
 };

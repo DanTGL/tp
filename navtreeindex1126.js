@@ -1,5 +1,17 @@
 var NAVTREEINDEX1126 =
 {
+"structdaNpc__Fairy__c.html#a3dca53cb1a4e342fdec8bcf500253686":[3,0,759,70],
+"structdaNpc__Fairy__c.html#a40efcdd64522ad2d8146cc9d973f2e6e":[3,0,759,73],
+"structdaNpc__Fairy__c.html#a4418838296f16eb5059b071043e555ae":[3,0,759,11],
+"structdaNpc__Fairy__c.html#a45aa842b9f7b171d45d5cc21334ce55f":[3,0,759,54],
+"structdaNpc__Fairy__c.html#a4c2b9cb077f73bc2c585212ecf1b9bfd":[3,0,759,12],
+"structdaNpc__Fairy__c.html#a4c735900998200fa88215cbdad65b05a":[3,0,759,38],
+"structdaNpc__Fairy__c.html#a4d9c1e76fdd213e7dbf67181242384de":[3,0,759,69],
+"structdaNpc__Fairy__c.html#a4e76bc583f35f80aa5ae767da8c792e3":[3,0,759,85],
+"structdaNpc__Fairy__c.html#a50424c6993fa8f051e076a3db3b99f84":[3,0,759,42],
+"structdaNpc__Fairy__c.html#a523926867fc304b632ff848129b5c541":[3,0,759,84],
+"structdaNpc__Fairy__c.html#a52e986b24ebfed37665b5e9a06c37e94":[3,0,759,98],
+"structdaNpc__Fairy__c.html#a5d744ae772526ce7d370b497c1d4a489":[3,0,759,34],
 "structdaNpc__Fairy__c.html#a643827fc87c1be7a4b6586bcb9d558a9":[3,0,759,10],
 "structdaNpc__Fairy__c.html#a6592dcd3ebe647b6e35c32deb0fdf45f":[3,0,759,31],
 "structdaNpc__Fairy__c.html#a67cba68a75067cbbeb5e2ec1dd1c8a76":[3,0,759,56],
@@ -237,17 +249,5 @@ var NAVTREEINDEX1126 =
 "structdaNpc__Hanjo__c.html#a16ea5510f7f988fa17c38b7d83a7fd9e":[3,0,787,27],
 "structdaNpc__Hanjo__c.html#a188c1881e7570be6b74e00d5bee852ab":[3,0,787,35],
 "structdaNpc__Hanjo__c.html#a1cb10ae4d2e031d19e9dcb3b7d1264c9":[3,0,787,43],
-"structdaNpc__Hanjo__c.html#a1e2d051705886e8d6b00ad4ef7c213bd":[3,0,787,40],
-"structdaNpc__Hanjo__c.html#a22c7b3238538c304df5f87d85b2c923c":[3,0,787,16],
-"structdaNpc__Hanjo__c.html#a2790f3f6dac6db1646b17326a7566f94":[3,0,787,11],
-"structdaNpc__Hanjo__c.html#a2a2c950c68c804b8b0bc0ebf39536347":[3,0,787,24],
-"structdaNpc__Hanjo__c.html#a2b00060a3bd6085363c3a92e8d3fe52f":[3,0,787,1],
-"structdaNpc__Hanjo__c.html#a2d03801cc359de2e0dc919d724c40228":[3,0,787,5],
-"structdaNpc__Hanjo__c.html#a38ca0d47c2fe1511d601c5378390ece6":[3,0,787,29],
-"structdaNpc__Hanjo__c.html#a39fae2a8832175808b880d2f94b4ab76":[3,0,787,19],
-"structdaNpc__Hanjo__c.html#a4d528adb4583f296f2d6d2185056e862":[3,0,787,50],
-"structdaNpc__Hanjo__c.html#a4fef410284921278f245d6e466403fe6":[3,0,787,31],
-"structdaNpc__Hanjo__c.html#a537d8c2851c5679001c883bf3d98175e":[3,0,787,22],
-"structdaNpc__Hanjo__c.html#a55859c5058da1d00bb03d1ca613083e3":[3,0,787,38],
-"structdaNpc__Hanjo__c.html#a5dabd882ad18863802784b6c2c2b9ee6":[3,0,787,14]
+"structdaNpc__Hanjo__c.html#a1e2d051705886e8d6b00ad4ef7c213bd":[3,0,787,40]
 };
