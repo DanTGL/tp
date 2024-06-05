@@ -255,7 +255,7 @@ var searchData=
   ['jpaemtrstts_5fstopcalc_252',['JPAEmtrStts_StopCalc',['../JPAEmitter_8h.html#a26e1124d33b4acdb532c49f6498df549ae1e61ba7547167e0c59ab76fd23898fd',1,'JPAEmitter.h']]],
   ['jpaemtrstts_5fstopdraw_253',['JPAEmtrStts_StopDraw',['../JPAEmitter_8h.html#a26e1124d33b4acdb532c49f6498df549a74c04fc0ef3046d9891b76b1117a4846',1,'JPAEmitter.h']]],
   ['jpaemtrstts_5fstopemit_254',['JPAEmtrStts_StopEmit',['../JPAEmitter_8h.html#a26e1124d33b4acdb532c49f6498df549ae1b83c054ed8007b618203b81410d3bb',1,'JPAEmitter.h']]],
-  ['jpaptclstts_5finvisible_255',['JPAPtclStts_Invisible',['../JPAEmitter_8h.html#ac34c4c978f4130a92a5068f9e21ea9fcade43f3e85dc6ffde68190ece5ee41da0',1,'JPAEmitter.h']]],
+  ['jpaptclstts_5finvisible_255',['JPAPtclStts_Invisible',['../JPAEmitter_8h.html#a7ee8d0f117a79ca7eb1e0076a9182bcbade43f3e85dc6ffde68190ece5ee41da0',1,'JPAEmitter.h']]],
   ['jsustreamseekfrom_5fcur_256',['JSUStreamSeekFrom_CUR',['../JSUInputStream_8h.html#a858865037a136681f994fcd5565c1404ae122c72cc89498dfbe6fbcb6252ad37d',1,'JSUInputStream.h']]],
   ['jsustreamseekfrom_5fend_257',['JSUStreamSeekFrom_END',['../JSUInputStream_8h.html#a858865037a136681f994fcd5565c1404a7039fcb93848de9895d8e70511e7cca6',1,'JSUInputStream.h']]],
   ['jsustreamseekfrom_5fset_258',['JSUStreamSeekFrom_SET',['../JSUInputStream_8h.html#a858865037a136681f994fcd5565c1404a76ac9ca8caa2387c084afde6a2479335',1,'JSUInputStream.h']]]
