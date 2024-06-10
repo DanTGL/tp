@@ -98,7 +98,6 @@ var classcBgW =
     [ "RwgShdwDraw", "classcBgW.html#ab7a81bb56b67108f76fb88793d29367b", null ],
     [ "Set", "classcBgW.html#a528c6b97429efa2c6b835f66cb80ddd8", null ],
     [ "Set", "classcBgW.html#a528c6b97429efa2c6b835f66cb80ddd8", null ],
-    [ "Set", "classcBgW.html#a528c6b97429efa2c6b835f66cb80ddd8", null ],
     [ "Set", "classcBgW.html#accfaf4f287ff8129881178dade90e9ef", null ],
     [ "SetLock", "classcBgW.html#a59b358675dbbe625d88a81338baadee0", null ],
     [ "SetTri", "classcBgW.html#acc562900ed1a656b6e587957d83e717e", null ],

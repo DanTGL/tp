@@ -268,8 +268,6 @@ var group__jsystem_jparticle =
       [ "createChild", "classJPABaseEmitter.html#a5dcb8fcaf3c3bd4921a6b95c54a9556d", null ],
       [ "createParticle", "classJPABaseEmitter.html#a212794dd764cac38dc1b4a170f2bd588", null ],
       [ "deleteAllParticle", "classJPABaseEmitter.html#a2157de45ce286e8b6233390fa60db656", null ],
-      [ "deleteAllParticle", "classJPABaseEmitter.html#a2157de45ce286e8b6233390fa60db656", null ],
-      [ "deleteAllParticle", "classJPABaseEmitter.html#a2157de45ce286e8b6233390fa60db656", null ],
       [ "get_r_f", "classJPABaseEmitter.html#ae318f0baf5ba163882d7f186ef8d7574", null ],
       [ "get_r_ss", "classJPABaseEmitter.html#a45ac4941179343b7304125cc1b149ccf", null ],
       [ "get_r_zh", "classJPABaseEmitter.html#a72af65265a3e6f16b287bb83ce17c128", null ],

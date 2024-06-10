@@ -1,6 +1,5 @@
 var d__a__bg__obj_8cpp =
 [
-    [ "spec_dat", "structspec__dat.html", "structspec__dat" ],
     [ "__construct_array", "d__a__bg__obj_8cpp.html#a58dbf4d2335fdc0e2065200543f5e4ea", null ],
     [ "__ct__10dCcD_GSttsFv", "d__a__bg__obj_8cpp.html#ae4cd09eb67ed2fb9bc6e87d5cea71757", null ],
     [ "__ct__12dCcD_GObjInfFv", "d__a__bg__obj_8cpp.html#a82707767df95e61051b39c65057a3d59", null ],
