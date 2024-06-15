@@ -18,7 +18,7 @@ var searchData=
   ['esorttype_15',['ESortType',['../structJ3DDrawBuffer.html#aadf9ff2a7ac4f162f53c25e1d14481f1',1,'J3DDrawBuffer']]],
   ['estate_16',['EState',['../classdAttention__c.html#ac5ec59347fd27d93b1370a8df820d66b',1,'dAttention_c']]],
   ['estatus_17',['EStatus',['../classJUTFader.html#a606d584eb413fdd3bae4105c7db0e35b',1,'JUTFader']]],
-  ['estickdir_18',['EStickDir',['../structSTControl.html#aae5481b3246ccaf69c1d1f7e156a46bb',1,'STControl']]],
+  ['estickdir_18',['EStickDir',['../classSTControl.html#aae5481b3246ccaf69c1d1f7e156a46bb',1,'STControl']]],
   ['estickmode_19',['EStickMode',['../structJUTGamePad.html#abca75dfff195b24734a99dea1527843b',1,'JUTGamePad']]],
   ['etype_20',['EType',['../classdaTagTWGate__c.html#aed6ff6be009999660f082bad442efaf2',1,'daTagTWGate_c']]],
   ['event_21',['Event',['../classdaNpc__zrA__c.html#ac85ae8db873ca4e559c2d4173874db02',1,'daNpc_zrA_c']]],

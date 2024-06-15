@@ -79,7 +79,7 @@ var classdBgW__Base =
     [ "SplGrpChk", "classdBgW__Base.html#a8e69a9eba4276e912886475d5c6b02cb", null ],
     [ "TransPos", "classdBgW__Base.html#afef09ba1069df16813384e806e94f6ec", null ],
     [ "WallCorrect", "classdBgW__Base.html#a5862cb561585cbfc7be30e19f4c9eac2", null ],
-    [ "WallCorrectSort", "classdBgW__Base.html#acb91c9571466e83c341bc7c38d760175", null ],
+    [ "WallCorrectSort", "classdBgW__Base.html#a5948d20e718ecdafb81c6db537eddc7f", null ],
     [ "field_0xa", "classdBgW__Base.html#a0166fee33daec9fb38cd502ad05cd78b", null ],
     [ "field_0xb", "classdBgW__Base.html#ac4c79c75d2b9ffd8cea2deba128d2737", null ],
     [ "m_diff_ShapeAngleY", "classdBgW__Base.html#a1dab90b5d4e274bf908cba7588e4e6d4", null ],

@@ -65,7 +65,7 @@ var classdBgWKCol =
     [ "SplGrpChk", "classdBgWKCol.html#a5cbb973dac3cc3acf270993d74a5581b", null ],
     [ "TransPos", "classdBgWKCol.html#a19a7889fee65605bec83c2c60636b533", null ],
     [ "WallCorrect", "classdBgWKCol.html#a8a1b46f76ca37b4558229eb9d13f6569", null ],
-    [ "WallCorrectSort", "classdBgWKCol.html#a4b036068786e33640c8ce5170022a551", null ],
+    [ "WallCorrectSort", "classdBgWKCol.html#ab0599f964df65e5ccacfcdfb8359d0bc", null ],
     [ "m_bnd", "classdBgWKCol.html#ad0aa36b5a62b4d8353c445da7fea51c1", null ],
     [ "m_code", "classdBgWKCol.html#ae4e5aff039d33bbf8413f5cfd178b384", null ],
     [ "m_pkc_head", "classdBgWKCol.html#a5ec913ecda81702718102136156e250f", null ]

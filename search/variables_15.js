@@ -42,7 +42,7 @@ var searchData=
   ['unk20_39',['unk20',['../classdSv__MiniGame__c.html#ad219e2ce519cd31736d6cec2f7ccdb09',1,'dSv_MiniGame_c']]],
   ['unk243_40',['unk243',['../structdMeter2Info__c.html#ab48177c4713759e8f851037c3c15bb03',1,'dMeter2Info_c']]],
   ['unk25_41',['unk25',['../classdSv__player__last__mark__info__c.html#afb91d645133917dfa21a4943757c2b6b',1,'dSv_player_last_mark_info_c']]],
-  ['unk26_42',['unk26',['../structdSv__player__field__last__stay__info__c.html#ab31435c027c7aa739dede63ce030ff4a',1,'dSv_player_field_last_stay_info_c']]],
+  ['unk26_42',['unk26',['../classdSv__player__field__last__stay__info__c.html#ab31435c027c7aa739dede63ce030ff4a',1,'dSv_player_field_last_stay_info_c']]],
   ['unk28_43',['unk28',['../classdSv__danBit__c.html#a23c710e48a44e2ff02e8c0a5935b3b49',1,'dSv_danBit_c::unk28'],['../structview__process__profile__definition.html#a8ad524dda0d8784e5e630d7055719b8e',1,'view_process_profile_definition::unk28']]],
   ['unk29_44',['unk29',['../classdSv__player__status__a__c.html#a709c68527819b595222c5db0ceb9f83b',1,'dSv_player_status_a_c::unk29'],['../structview__process__profile__definition.html#afe3bfb4f7ecd6c0fc5d566ef4267877a',1,'view_process_profile_definition::unk29']]],
   ['unk2c_45',['unk2C',['../structview__process__profile__definition.html#a06187e8f9b75389d4b18408bd2ae9e43',1,'view_process_profile_definition']]],

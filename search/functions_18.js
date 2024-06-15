@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['xinit_0',['Xinit',['../structSTControl.html#afcf39b924ac92fbb6e11dfecc6bf3714',1,'STControl']]],
+  ['xinit_0',['Xinit',['../classSTControl.html#afcf39b924ac92fbb6e11dfecc6bf3714',1,'STControl']]],
   ['xrotm_1',['XrotM',['../classmDoMtx__stack__c.html#a0e742518f01eeb40ff1864134680e764',1,'mDoMtx_stack_c']]],
   ['xrots_2',['XrotS',['../classmDoMtx__stack__c.html#ae8ef68e88d61dc14aa4d291e50a26914',1,'mDoMtx_stack_c']]],
   ['xyz_3',['xyz',['../classcSPolar.html#a2b3c217d042eecb661c83fb0b060030e',1,'cSPolar::Xyz()'],['../classcSGlobe.html#a6f1bd7c954423a8dd99d4e604bcc9c87',1,'cSGlobe::Xyz()']]],

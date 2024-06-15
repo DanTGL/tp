@@ -107,7 +107,7 @@ var searchData=
   ['coutfontset_5fc_104',['COutFontSet_c',['../classCOutFontSet__c.html',1,'']]],
   ['cpanemgr_105',['CPaneMgr',['../structCPaneMgr.html',1,'']]],
   ['cpanemgralpha_106',['CPaneMgrAlpha',['../structCPaneMgrAlpha.html',1,'']]],
-  ['cpanemgralphamorf_107',['CPaneMgrAlphaMorf',['../structCPaneMgrAlphaMorf.html',1,'']]],
+  ['cpanemgralphamorf_107',['CPaneMgrAlphaMorf',['../classCPaneMgrAlphaMorf.html',1,'']]],
   ['cparamset_108',['CParamSet',['../classJUTProcBar_1_1CParamSet.html',1,'JUTProcBar']]],
   ['create_5frequest_109',['create_request',['../structcreate__request.html',1,'']]],
   ['create_5frequest_5fmethod_5fclass_110',['create_request_method_class',['../structcreate__request__method__class.html',1,'']]],

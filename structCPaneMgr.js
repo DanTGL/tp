@@ -2,7 +2,6 @@ var structCPaneMgr =
 [
     [ "CPaneMgr", "structCPaneMgr.html#aab96eeae2228a8f91fc7f197594ac57a", null ],
     [ "CPaneMgr", "structCPaneMgr.html#aab96eeae2228a8f91fc7f197594ac57a", null ],
-    [ "CPaneMgr", "structCPaneMgr.html#aab96eeae2228a8f91fc7f197594ac57a", null ],
     [ "~CPaneMgr", "structCPaneMgr.html#a4236d36b3f086f59d0a9174516f3f07d", null ],
     [ "CPaneMgr", "structCPaneMgr.html#a9c9e191b00910277d20b29fb7c7032d5", null ],
     [ "CPaneMgr", "structCPaneMgr.html#ad05a1582f11b6b53bb6b97646dcede4e", null ],
@@ -20,7 +19,6 @@ var structCPaneMgr =
     [ "getGlobalPosY", "structCPaneMgr.html#a02dfb4c8541c250e8bd73f7da2a8bc9f", null ],
     [ "getGlobalPosY", "structCPaneMgr.html#ab50f5d08b846c5f08913addb6a874a2d", null ],
     [ "getGlobalVtx", "structCPaneMgr.html#a5bc8f6c0a251730b56c6d8e2371a0a45", null ],
-    [ "getGlobalVtx", "structCPaneMgr.html#a676aad7300da5a4384df89ad073899f1", null ],
     [ "getGlobalVtx", "structCPaneMgr.html#a5a9fd71aad1f033ac44a68d7d90b9182", null ],
     [ "getGlobalVtxCenter", "structCPaneMgr.html#a722eaae12f7eedf39785e62407ab413c", null ],
     [ "getGlobalVtxCenter", "structCPaneMgr.html#ab9e908bbc3ed49cf1d8b30e26285f195", null ],
@@ -52,7 +50,6 @@ var structCPaneMgr =
     [ "initiate", "structCPaneMgr.html#a0f24b50ca1b42f38ff7977768b5f8d0c", null ],
     [ "move", "structCPaneMgr.html#a38b59e11bedb7c4ddb64c3f3f1ba6153", null ],
     [ "paneScale", "structCPaneMgr.html#ab98acb8540327abe8d089a759f699748", null ],
-    [ "paneTrans", "structCPaneMgr.html#a67cb9f7b7198c0b20b59c4d2b0726fd1", null ],
     [ "paneTrans", "structCPaneMgr.html#a67cb9f7b7198c0b20b59c4d2b0726fd1", null ],
     [ "paneTrans", "structCPaneMgr.html#a67cb9f7b7198c0b20b59c4d2b0726fd1", null ],
     [ "reinit", "structCPaneMgr.html#ad737d873cb28fde4198d93d9436b2946", null ],
