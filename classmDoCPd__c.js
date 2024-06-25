@@ -29,6 +29,7 @@ var classmDoCPd__c =
     [ "getSubStickAngle", "classmDoCPd__c.html#a07babc4ad776143c5958ebe9bc25baec", null ],
     [ "getSubStickValue", "classmDoCPd__c.html#a1f924c263a902fb0e964c2e2f11076de", null ],
     [ "getSubStickX", "classmDoCPd__c.html#a599f4c26184321a46a9ebbee0310dc0e", null ],
+    [ "getSubStickX3D", "classmDoCPd__c.html#a4af96e1f0a8d98524cff49037bd70454", null ],
     [ "getSubStickY", "classmDoCPd__c.html#a4cad40654d2f3b9a9c0a0667699fb717", null ],
     [ "getTrig", "classmDoCPd__c.html#a38bea5daedc3e2358a1b78f29f5911d2", null ],
     [ "getTrigA", "classmDoCPd__c.html#a09f99d0d6ba4a6f8ac2c67fb3426f1b8", null ],

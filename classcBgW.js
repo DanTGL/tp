@@ -36,7 +36,7 @@ var classcBgW =
     [ "GetGroundCode", "classcBgW.html#a18dbb2479af8938cc9aacb5f2fa4d7c4", null ],
     [ "GetGrpInf", "classcBgW.html#aa388849350b14f60aae6c7723ea22333", null ],
     [ "GetGrpRoomIndex", "classcBgW.html#a70f740413fc7dd93de1b4880ab17336d", null ],
-    [ "GetGrpSoundId", "classcBgW.html#a8c87e23990074925384dc5ef7081a74e", null ],
+    [ "GetGrpSoundId", "classcBgW.html#ace247b7ed5b980f7d140205b7513f3cc", null ],
     [ "GetHorseNoEntry", "classcBgW.html#aed294cc3f03f149ab91dbca7160db81c", null ],
     [ "GetIronBallThrough", "classcBgW.html#a65f50d092aaadae434cccb31ae91acc0", null ],
     [ "GetLinkNo", "classcBgW.html#a75943588014f8eaa89f1ce92df0d58a6", null ],

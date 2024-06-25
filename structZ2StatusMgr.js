@@ -4,6 +4,7 @@ var structZ2StatusMgr =
     [ "checkDayTime", "structZ2StatusMgr.html#a618182f44e337c9970c060ed0a38f2aa", null ],
     [ "getCameraInWaterDepth", "structZ2StatusMgr.html#a34f0875ed48b62180f5f9bbdfe50b1b0", null ],
     [ "getCameraInWaterDepthRatio", "structZ2StatusMgr.html#aa3a5a031c6d3aafc9b32c6fde296ed1c", null ],
+    [ "getCameraMapInfo", "structZ2StatusMgr.html#ac820d7df207562b6ac4b1c623cd4d1a0", null ],
     [ "getDemoStatus", "structZ2StatusMgr.html#a53e444fcbd7add023fa845c9f91a2145", null ],
     [ "getHour", "structZ2StatusMgr.html#a7f43956b6a452bfbef0cdeed73c621aa", null ],
     [ "heartGaugeOn", "structZ2StatusMgr.html#ac65c3f7c514b37c294a50650bef20720", null ],

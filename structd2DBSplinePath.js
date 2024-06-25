@@ -1,5 +1,6 @@
 var structd2DBSplinePath =
 [
+    [ "d2DBSplinePath", "structd2DBSplinePath.html#ada013998fc36cd9004c3c90edef8d04d", null ],
     [ "~d2DBSplinePath", "structd2DBSplinePath.html#aa3fe4088c71b3590ec2be8d8c50a18e3", null ],
     [ "Calc", "structd2DBSplinePath.html#a40024bccc8dabcbb643fedaed7748768", null ],
     [ "Calc", "structd2DBSplinePath.html#a1aa6e53380712ef45014cf90c4a8fd90", null ],

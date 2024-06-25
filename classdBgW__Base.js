@@ -32,7 +32,7 @@ var classdBgW__Base =
     [ "GetGroundCode", "classdBgW__Base.html#a05b971bdafcc25b1ebad18bbcc4242c2", null ],
     [ "GetGrpInf", "classdBgW__Base.html#aacd5d5cc6ebf721c43d7f2fc6b79db5b", null ],
     [ "GetGrpRoomIndex", "classdBgW__Base.html#a0da06b743d8b67d14fdbe1f58a8d9de5", null ],
-    [ "GetGrpSoundId", "classdBgW__Base.html#ae69c34656c6d45803052a4e427d05e47", null ],
+    [ "GetGrpSoundId", "classdBgW__Base.html#a8c6d3a5a2d0b725b5139fddcb1b6ed10", null ],
     [ "GetHorseNoEntry", "classdBgW__Base.html#a4a04b576156b405c707e40aa6f66218b", null ],
     [ "GetIronBallThrough", "classdBgW__Base.html#a884fd77f3d5b5c69ce893977f8868244", null ],
     [ "GetLinkNo", "classdBgW__Base.html#a3fff7a2d7a8d6605c8e30fe3e36d8b3a", null ],

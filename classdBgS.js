@@ -14,7 +14,7 @@ var classdBgS =
     [ "GetCamMoveBG", "classdBgS.html#a4c67da1ec7b49f7182dcf21df859c5dd", null ],
     [ "GetExitId", "classdBgS.html#a6a19ab66c50992b1caa3adf9f6bed4a5", null ],
     [ "GetGroundCode", "classdBgS.html#aea39a726b275ae909a89d8715f60a352", null ],
-    [ "GetGrpSoundId", "classdBgS.html#a615c4f0428b3140cf9c49ba82fb3a87d", null ],
+    [ "GetGrpSoundId", "classdBgS.html#acaa7f565e938f327a08caf16973643d6", null ],
     [ "GetHorseNoEntry", "classdBgS.html#a56fc3b3acd74646e57413ab21d33fa94", null ],
     [ "GetMagnetCode", "classdBgS.html#a57153410e4ef7140203f6001ec7527bc", null ],
     [ "GetMonkeyBarsCode", "classdBgS.html#abfe1daccb6592d4a63c10f5c3274cad6", null ],

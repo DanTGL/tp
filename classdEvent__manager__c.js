@@ -2,6 +2,7 @@ var classdEvent__manager__c =
 [
     [ "dEvent_manager_c", "classdEvent__manager__c.html#ad907f5a6ed088bbd15913b64fbeb15c9", null ],
     [ "~dEvent_manager_c", "classdEvent__manager__c.html#a90f040d9c6e0a1b8e9151ae5abca2691", null ],
+    [ "cameraPlay", "classdEvent__manager__c.html#a07775083a434c2cb5a6a56a9ee1a6db0", null ],
     [ "cancelStaff", "classdEvent__manager__c.html#a90405002be65e30086c2021a1d40a495", null ],
     [ "checkStartDemo", "classdEvent__manager__c.html#a7ee26d4cd00e535a1f90297d002d6981", null ],
     [ "ChkPresentEnd", "classdEvent__manager__c.html#a6af459d11aa792b4799b522e8bfa4a1c", null ],

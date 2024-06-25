@@ -32,6 +32,7 @@ var classdAttention__c =
     [ "GetLockonList", "classdAttention__c.html#a730b0eef6808f7333c24ac1721447138", null ],
     [ "GetLockonList", "classdAttention__c.html#afc498503e5d112511ad3a8cb57660f38", null ],
     [ "i_getDistTable", "classdAttention__c.html#a3441c3f1ee3298684cc8af23fbc30663", null ],
+    [ "Init", "classdAttention__c.html#a48ddc5f8a2197a34d42c2abe465e8e82", null ],
     [ "initList", "classdAttention__c.html#ad7326a129fd0ce433057faa072ac1e13", null ],
     [ "judgementStatus4Hold", "classdAttention__c.html#a6f4e61fed7d017d0d8e2d6149b6b737c", null ],
     [ "judgementStatus4Switch", "classdAttention__c.html#a45f2e20575adbd67574c21ef6a703cd5", null ],

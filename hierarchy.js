@@ -993,6 +993,7 @@ var hierarchy =
     [ "dCamera_FakeAngle_system", "structdCamera__FakeAngle__system.html", null ],
     [ "dCamera_monitoring_things", "structdCamera__monitoring__things.html", null ],
     [ "dCamera_type_data", "structdCamera__type__data.html", null ],
+    [ "dCamForcusLine", "structdCamForcusLine.html", null ],
     [ "dCamMapToolData", "structdCamMapToolData.html", null ],
     [ "dCamMath", "structdCamMath.html", null ],
     [ "dCamParam_c", "classdCamParam__c.html", null ],
@@ -1025,7 +1026,7 @@ var hierarchy =
     [ "dComIfGoat_info_c", "classdComIfGoat__info__c.html", null ],
     [ "dCstick_c", "classdCstick__c.html", null ],
     [ "dDemo_c", "structdDemo__c.html", null ],
-    [ "dDemo_object_c", "structdDemo__object__c.html", null ],
+    [ "dDemo_object_c", "classdDemo__object__c.html", null ],
     [ "dDemo_prm_c", "classdDemo__prm__c.html", null ],
     [ "dDlst_2Dm_c", "classdDlst__2Dm__c.html", null ],
     [ "dDlst_2DM_c", "classdDlst__2DM__c.html", null ],
@@ -1051,9 +1052,7 @@ var hierarchy =
       [ "dDlst_TimerScrnDraw_c", "classdDlst__TimerScrnDraw__c.html", null ],
       [ "dDlst_blo_c", "classdDlst__blo__c.html", null ],
       [ "dDlst_daTitle_c", "classdDlst__daTitle__c.html", null ],
-      [ "dDlst_effectLine_c", "classdDlst__effectLine__c.html", [
-        [ "dCamForcusLine", "structdCamForcusLine.html", null ]
-      ] ],
+      [ "dDlst_effectLine_c", "classdDlst__effectLine__c.html", null ],
       [ "dDlst_snapShot_c", "classdDlst__snapShot__c.html", null ],
       [ "dDrawPath_c", "structdDrawPath__c.html", [
         [ "dDrawPathWithNormalPattern_c", "classdDrawPathWithNormalPattern__c.html", [
@@ -2911,7 +2910,7 @@ var hierarchy =
         [ "daGrdWater_c", "classdaGrdWater__c.html", null ],
         [ "daGuardMng_c", "classdaGuardMng__c.html", null ],
         [ "daHoZelda_c", "classdaHoZelda__c.html", null ],
-        [ "daHorse_c", "structdaHorse__c.html", null ],
+        [ "daHorse_c", "classdaHorse__c.html", null ],
         [ "daIceWall_c", "classdaIceWall__c.html", null ],
         [ "daItemBase_c", "classdaItemBase__c.html", [
           [ "daItemKantera_c", "classdaItemKantera__c.html", null ],
@@ -3310,11 +3309,11 @@ var hierarchy =
         [ "daTagLv7Gate_c", "classdaTagLv7Gate__c.html", null ],
         [ "daTagLv8Gate_c", "classdaTagLv8Gate__c.html", null ],
         [ "daTagMagne_c", "classdaTagMagne__c.html", null ],
-        [ "daTagMhint_c", "structdaTagMhint__c.html", null ],
+        [ "daTagMhint_c", "classdaTagMhint__c.html", null ],
         [ "daTagMist_c", "classdaTagMist__c.html", null ],
         [ "daTagMmsg_c", "classdaTagMmsg__c.html", null ],
-        [ "daTagMstop_c", "structdaTagMstop__c.html", null ],
-        [ "daTagMwait_c", "structdaTagMwait__c.html", null ],
+        [ "daTagMstop_c", "classdaTagMstop__c.html", null ],
+        [ "daTagMwait_c", "classdaTagMwait__c.html", null ],
         [ "daTagMyna2_c", "classdaTagMyna2__c.html", null ],
         [ "daTagPati_c", "classdaTagPati__c.html", null ],
         [ "daTagPoFire_c", "classdaTagPoFire__c.html", null ],
