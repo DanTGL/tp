@@ -21,7 +21,6 @@ var classcBgS =
     [ "LineCross", "classcBgS.html#a079ca5b87bdcf2e02c5595aaccdad475", null ],
     [ "LineCross", "classcBgS.html#a6199c2cbecf0c5daa70e8cf513ebd8a5", null ],
     [ "LineCross", "classcBgS.html#a6199c2cbecf0c5daa70e8cf513ebd8a5", null ],
-    [ "LineCross", "classcBgS.html#a6199c2cbecf0c5daa70e8cf513ebd8a5", null ],
     [ "Regist", "classcBgS.html#a5a98cbf636928574187669d7670d5b71", null ],
     [ "Release", "classcBgS.html#a440bdff40e4a29ab3151938088e31a3d", null ],
     [ "Release", "classcBgS.html#a9712f6407e6c4f83550911ae5200f93c", null ],
