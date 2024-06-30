@@ -1,5 +1,6 @@
 var NAVTREEINDEX186 =
 {
+"classdaHoZelda__c.html#a93825738a809272d8d82ec4da76965e5":[3,0,652,52],
 "classdaHoZelda__c.html#a9b1a8e20f25ec578db890245adb3df94":[3,0,652,80],
 "classdaHoZelda__c.html#a9e0088ef29e4580f63d6f8184f8c4e96":[3,0,652,64],
 "classdaHoZelda__c.html#a9f8af67504878e628efddc981de35789":[3,0,652,60],
@@ -248,6 +249,5 @@ var NAVTREEINDEX186 =
 "classdaHorse__c.html#ac0cc45918af06421b0f9161262b72521":[3,0,648,169],
 "classdaHorse__c.html#ac20254af4217f6ddb28a5047d13be1c0":[3,0,648,178],
 "classdaHorse__c.html#ac4195598fe41b44145032413d324e2e0":[3,0,648,75],
-"classdaHorse__c.html#ac5f23e1f1d57c14db8c340741a6a136c":[3,0,648,66],
-"classdaHorse__c.html#ac63145800354d860e72a44cbdf7fc52d":[3,0,648,48]
+"classdaHorse__c.html#ac5f23e1f1d57c14db8c340741a6a136c":[3,0,648,66]
 };

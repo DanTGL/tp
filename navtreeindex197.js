@@ -1,5 +1,6 @@
 var NAVTREEINDEX197 =
 {
+"classdaNpcChin__c.html#a0d3942e97c7f48db1ce25414baee839b":[1,0,3,12,52],
 "classdaNpcChin__c.html#a10186e28e5370b47ebb3a5eda9976876":[1,0,3,12,32],
 "classdaNpcChin__c.html#a1179d211a42554ed1b20110b4604371d":[1,0,3,12,23],
 "classdaNpcChin__c.html#a1b8dd14d31c5449564d2b090589f12ea":[1,0,3,12,40],
@@ -248,6 +249,5 @@ var NAVTREEINDEX197 =
 "classdaNpcF__MoveBgActor__c.html#ad843416caf4ac91478fcd1422f0db106":[3,0,938,7],
 "classdaNpcF__MoveBgActor__c.html#add9b15a69e6aaaa05fdbe1e748bb3a07":[3,0,938,4],
 "classdaNpcF__MoveBgActor__c.html#ae0bd12a97d7f90b470702631936b694b":[3,0,938,1],
-"classdaNpcF__Path__c.html":[3,0,939],
-"classdaNpcF__Path__c.html#a03a21ddd9b2cd483c6894cb305281137":[3,0,939,22]
+"classdaNpcF__Path__c.html":[3,0,939]
 };
