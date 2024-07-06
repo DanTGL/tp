@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['u_0',['u',['../structJStudio_1_1TAdaptor.html#aedb18683fd1bcd604beff8e14ce36bc8',1,'JStudio::TAdaptor::u'],['../e__pow_8c.html#a6277e2a7446059985dc9bcf0a4ac1a8f',1,'u:&#160;e_pow.c'],['../unionFpscrUnion.html#a7e32f3eeabcda4603806eb27b2942b98',1,'FpscrUnion::u']]],
+  ['u_0',['u',['../structJStudio_1_1TAdaptor.html#aedb18683fd1bcd604beff8e14ce36bc8',1,'JStudio::TAdaptor::u'],['../e__pow_8c.html#a6277e2a7446059985dc9bcf0a4ac1a8f',1,'u:&#160;e_pow.c'],['../unionFpscrUnion.html#a0d665a81229c18ef9a12d4ca45d4308f',1,'FpscrUnion::u']]],
   ['u16_1',['u16',['../unionPPCWGPipe.html#a54691399b526673acdb012dd9db1b3d1',1,'PPCWGPipe']]],
   ['u32_2',['u32',['../unionPPCWGPipe.html#a36f6c6095ee0cd5b7e1ad444ecd818af',1,'PPCWGPipe']]],
   ['u32data_3',['u32data',['../structJStudio_1_1TFunctionValue__composite_1_1TData.html#a54fd6928f7f1b307d6056a6b7b6471c2',1,'JStudio::TFunctionValue_composite::TData']]],
@@ -19,7 +19,7 @@ var searchData=
   ['ummcr0_16',['UMMCR0',['../structExtended1__PPC__6xx__7xx.html#a9bd78e3beee39091615d9082c5f0b06c',1,'Extended1_PPC_6xx_7xx']]],
   ['ummcr1_17',['UMMCR1',['../structExtended1__PPC__6xx__7xx.html#aeb2d9c316ddfab7d244684d51bbd1367',1,'Extended1_PPC_6xx_7xx']]],
   ['ummcr2_18',['UMMCR2',['../structExtended1__PPC__6xx__7xx.html#a66dcb1fd65ccc0d8b4a5e1c810f3a8fd',1,'Extended1_PPC_6xx_7xx']]],
-  ['underoffsety_19',['underOffsetY',['../d__a__alink_8cpp.html#a6dbe3fe3f618e45e9d5ade5687cc4725',1,'d_a_alink.cpp']]],
+  ['underoffsety_19',['underOffsetY',['../d__a__alink_8cpp.html#aeeaa3820f45ec1f0051ef20949cd0e18',1,'d_a_alink.cpp']]],
   ['ungetc_5fbuffer_20',['ungetc_buffer',['../struct__FILE.html#a0b9a4a9f8d7196b9a4343e6cd0b4682a',1,'_FILE']]],
   ['ungetc_5fwide_5fbuffer_21',['ungetc_wide_buffer',['../struct__FILE.html#ae70f599ecd9efacb0610e70d26ad0449',1,'_FILE']]],
   ['unit01_22',['unit01',['../mtx_8c.html#a6fc2d5ef26536392b4a72b777ecec9af',1,'Unit01:&#160;mtx.c'],['../J3DTransform_8cpp.html#a7d7ccfddb3989c142e6beae496168cd2',1,'Unit01:&#160;J3DTransform.cpp']]],

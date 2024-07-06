@@ -2845,6 +2845,7 @@ var hierarchy =
           [ "daObjTable_c", "classdaObjTable__c.html", null ],
           [ "daObjWCover_c", "classdaObjWCover__c.html", null ],
           [ "daObjWindow_c", "classdaObjWindow__c.html", null ],
+          [ "daObjYIblltray_c", "classdaObjYIblltray__c.html", null ],
           [ "daObjZraRock_c", "classdaObjZraRock__c.html", null ],
           [ "daObj_Sekizo_c", "classdaObj__Sekizo__c.html", null ],
           [ "daSaidan_c", "classdaSaidan__c.html", null ],
@@ -3220,7 +3221,6 @@ var hierarchy =
         [ "daObjWaterEff_c", "classdaObjWaterEff__c.html", null ],
         [ "daObjWaterFall_c", "classdaObjWaterFall__c.html", null ],
         [ "daObjWchain_c", "classdaObjWchain__c.html", null ],
-        [ "daObjYIblltray_c", "classdaObjYIblltray__c.html", null ],
         [ "daObjYOUSEI_c", "classdaObjYOUSEI__c.html", null ],
         [ "daObjYchndlr_c", "classdaObjYchndlr__c.html", null ],
         [ "daObjYobikusa_c", "classdaObjYobikusa__c.html", null ],
@@ -3801,6 +3801,7 @@ var hierarchy =
       [ "daObjRCircle_c", "classdaObjRCircle__c.html", null ],
       [ "daObjSnowSoup_c", "classdaObjSnowSoup__c.html", null ],
       [ "daObjToaruMaki_c", "classdaObjToaruMaki__c.html", null ],
+      [ "daObjYIblltray_c", "classdaObjYIblltray__c.html", null ],
       [ "daWindStone_c", "classdaWindStone__c.html", null ]
     ] ],
     [ "res_info", "structres__info.html", null ],

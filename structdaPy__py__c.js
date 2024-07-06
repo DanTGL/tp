@@ -235,6 +235,7 @@ var structdaPy__py__c =
       [ "RFLG0_UNK_8000000", "structdaPy__py__c.html#aae52cea617087a937ba59045e1b4994dab9e208089335d194af97a6fc786a9fd6", null ],
       [ "RFLG0_UNK_4000000", "structdaPy__py__c.html#aae52cea617087a937ba59045e1b4994da6614a7cd8fac393a540798ff87ee9af5", null ],
       [ "RFLG0_GRAB_PUT_START", "structdaPy__py__c.html#aae52cea617087a937ba59045e1b4994da428bd763d7a9bb0cfe7d3ad579d4a426", null ],
+      [ "RFLG0_UNK_40000", "structdaPy__py__c.html#aae52cea617087a937ba59045e1b4994da6631a342a2f753e08eec132cdc985c76", null ],
       [ "RFLG0_UNK_20000", "structdaPy__py__c.html#aae52cea617087a937ba59045e1b4994da111808049fa858366aebb52614d2a1d0", null ],
       [ "RFLG0_UNK_10000", "structdaPy__py__c.html#aae52cea617087a937ba59045e1b4994dafaf032b1e0f93ba4afad33870ed18c79", null ],
       [ "RFLG0_UNK_8000", "structdaPy__py__c.html#aae52cea617087a937ba59045e1b4994da0bf81cf542cc780d4bbdfbeff97112d2", null ],

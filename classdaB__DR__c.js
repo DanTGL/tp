@@ -30,6 +30,7 @@ var classdaB__DR__c =
     [ "executeWeekHit", "classdaB__DR__c.html#ab21f2ae538511114262510e664814f58", null ],
     [ "executeWindAttack", "classdaB__DR__c.html#a5baacf7c768b38c4e9f60e5c17161286", null ],
     [ "flapMove", "classdaB__DR__c.html#a9547da14dfb458072045053d1a227a4a", null ],
+    [ "getMtx", "classdaB__DR__c.html#a9fd0dc80c71c8b6f0a4fe9990f8b24ca", null ],
     [ "isBack", "classdaB__DR__c.html#af3ecea38d77361e7236a8e69ecaffeee", null ],
     [ "JointCallBack", "classdaB__DR__c.html#a639c837fe9c9e1bf6b472e7013e909ff", null ],
     [ "mAllClr", "classdaB__DR__c.html#acfe4d69cbc56838fce4e25c53d4383dc", null ],
