@@ -518,6 +518,7 @@ var structdaPy__py__c =
     [ "offWolfEnemyHangBite", "structdaPy__py__c.html#ac0763cdf6cd8f72b134a93da1cc723b5", null ],
     [ "onBeeFollow", "structdaPy__py__c.html#ae46ce79d8d6b786bee256703dd3ee3fc", null ],
     [ "onBossRoomWait", "structdaPy__py__c.html#a5de664a8571d02bd5f0b63dbad8a413d", null ],
+    [ "onDoPutEmphasys", "structdaPy__py__c.html#a881d3ad269a9598715e3cb6b8d9b4be5", null ],
     [ "onEndResetFlg0", "structdaPy__py__c.html#a277ddea3655fdd61047ebcaf13b34588", null ],
     [ "onEndResetFlg1", "structdaPy__py__c.html#ad99f8fd1cc5cae6e59d1c6cf75198f70", null ],
     [ "onEndResetFlg2", "structdaPy__py__c.html#ac3acfb0c31c19f20fbb2ead762d4a59f", null ],

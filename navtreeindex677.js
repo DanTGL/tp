@@ -1,5 +1,15 @@
 var NAVTREEINDEX677 =
 {
+"d__a__npc__soldierA_8cpp.html#a5a82d4ee0ff1b098df78172e203daa91":[4,0,3,0,0,78,90,0,296],
+"d__a__npc__soldierA_8cpp.html#a5ac84c7fe84a967d9a455fd45460a5f6":[4,0,3,0,0,78,90,0,328],
+"d__a__npc__soldierA_8cpp.html#a5b723dba5793f8190ec64efe6f04595d":[4,0,3,0,0,78,90,0,264],
+"d__a__npc__soldierA_8cpp.html#a5bb5d6a82c2f4d4bb43dbf4d11e60387":[4,0,3,0,0,78,90,0,294],
+"d__a__npc__soldierA_8cpp.html#a5c1b76207a76e1c69754de75a09e7732":[4,0,3,0,0,78,90,0,123],
+"d__a__npc__soldierA_8cpp.html#a5d1f25debaf772e56cf999f231453fb5":[4,0,3,0,0,78,90,0,158],
+"d__a__npc__soldierA_8cpp.html#a5e502f082549c3f34b321845d58723d4":[4,0,3,0,0,78,90,0,338],
+"d__a__npc__soldierA_8cpp.html#a5e862148df6adc58098613dbd1f882cd":[4,0,3,0,0,78,90,0,344],
+"d__a__npc__soldierA_8cpp.html#a5f3662cd06864ff7627d5424c192e6f2":[4,0,3,0,0,78,90,0,59],
+"d__a__npc__soldierA_8cpp.html#a60034ec70aed2e5c49cff4086257da09":[4,0,3,0,0,78,90,0,288],
 "d__a__npc__soldierA_8cpp.html#a616ecc108dbdc01dcca1012ff663023c":[4,0,3,0,0,78,90,0,310],
 "d__a__npc__soldierA_8cpp.html#a62992388dbbee6bac9537b14cc293995":[4,0,3,0,0,78,90,0,62],
 "d__a__npc__soldierA_8cpp.html#a62c9e03c1b3b37333f9a95696862d73a":[4,0,3,0,0,78,90,0,121],
@@ -239,15 +249,5 @@ var NAVTREEINDEX677 =
 "d__a__npc__soldierB_8cpp.html#a16d5b4d664169aee18c6810343de2d36":[4,0,3,0,0,78,91,0,309],
 "d__a__npc__soldierB_8cpp.html#a173b94e47ea699cfc705c8ef7cc5205e":[4,0,3,0,0,78,91,0,247],
 "d__a__npc__soldierB_8cpp.html#a17a8aab6ebceb7c5079102a0d4dffc28":[4,0,3,0,0,78,91,0,202],
-"d__a__npc__soldierB_8cpp.html#a1867ce9a6e0fb450aafa9d608d3b81a8":[4,0,3,0,0,78,91,0,132],
-"d__a__npc__soldierB_8cpp.html#a1925742400efd9011000630245b3a352":[4,0,3,0,0,78,91,0,255],
-"d__a__npc__soldierB_8cpp.html#a194c30b2d18efdd90426fb562eb780ef":[4,0,3,0,0,78,91,0,258],
-"d__a__npc__soldierB_8cpp.html#a19539891e215717de0cd350fc8706ead":[4,0,3,0,0,78,91,0,67],
-"d__a__npc__soldierB_8cpp.html#a1a97c266cca20e91649fe9ea4dbf54bf":[4,0,3,0,0,78,91,0,250],
-"d__a__npc__soldierB_8cpp.html#a1ac5502b587dda55bec5eedb72b3ffa7":[4,0,3,0,0,78,91,0,61],
-"d__a__npc__soldierB_8cpp.html#a1c26a8a91a5ea9b5f735db7083479bf7":[4,0,3,0,0,78,91,0,271],
-"d__a__npc__soldierB_8cpp.html#a1c8dcf834d45f1f9c1aaede4a2f7e75f":[4,0,3,0,0,78,91,0,159],
-"d__a__npc__soldierB_8cpp.html#a1cb08adad5e21ca4815c30454fe5d97f":[4,0,3,0,0,78,91,0,28],
-"d__a__npc__soldierB_8cpp.html#a1d9bcd9cce50109358430d7b8395557d":[4,0,3,0,0,78,91,0,43],
-"d__a__npc__soldierB_8cpp.html#a1dbb313809e805b23ea18863db91cf59":[4,0,3,0,0,78,91,0,23]
+"d__a__npc__soldierB_8cpp.html#a1867ce9a6e0fb450aafa9d608d3b81a8":[4,0,3,0,0,78,91,0,132]
 };
