@@ -37,7 +37,6 @@ var classdBgS =
     [ "PushPullCallBack", "classdBgS.html#a93235876f6957d54173d43db42048ab2", null ],
     [ "Regist", "classdBgS.html#ae3bc45780dcb256056ffd5a291073041", null ],
     [ "Regist", "classdBgS.html#af28c4eecd69ecb20ee5b237694f3e083", null ],
-    [ "Regist", "classdBgS.html#af28c4eecd69ecb20ee5b237694f3e083", null ],
     [ "RideCallBack", "classdBgS.html#a9e458d94d6e71a89c8d24cd89e54b208", null ],
     [ "RoofChk", "classdBgS.html#a259ac4d43572cb76ed4f86f57409cae0", null ],
     [ "SphChk", "classdBgS.html#a4074783f9eb63dfe4033644218574eb7", null ],

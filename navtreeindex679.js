@@ -1,14 +1,5 @@
 var NAVTREEINDEX679 =
 {
-"d__a__npc__soldierB_8cpp.html#ad6b0e59d93f9b82f624a03469672a75f":[4,0,3,0,0,78,91,0,273],
-"d__a__npc__soldierB_8cpp.html#ad8de55252fcf062bf0b123e45819c7e4":[4,0,3,0,0,78,91,0,276],
-"d__a__npc__soldierB_8cpp.html#ad9963d0e47a344827b3a865d6062152b":[4,0,3,0,0,78,91,0,180],
-"d__a__npc__soldierB_8cpp.html#adbdcde8cf6eef5e613be83e9d996c458":[4,0,3,0,0,78,91,0,229],
-"d__a__npc__soldierB_8cpp.html#adc6634629cb51e7c6154aa5ec92055c7":[4,0,3,0,0,78,91,0,133],
-"d__a__npc__soldierB_8cpp.html#adc7baeaf8717c74419683a2ed82d23ef":[4,0,3,0,0,78,91,0,184],
-"d__a__npc__soldierB_8cpp.html#add3912236ae48543c0b22d54fb33defd":[4,0,3,0,0,78,91,0,203],
-"d__a__npc__soldierB_8cpp.html#adf223d6a89bc5c59505c76dbdd414690":[4,0,3,0,0,78,91,0,113],
-"d__a__npc__soldierB_8cpp.html#adf2dd6b9131fd647eeef01da8985742f":[4,0,3,0,0,78,91,0,312],
 "d__a__npc__soldierB_8cpp.html#adf3c8f50e7c1247f113745207211a19b":[4,0,3,0,0,78,91,0,314],
 "d__a__npc__soldierB_8cpp.html#adf6efa29e1556e386b88dccee61eff3e":[4,0,3,0,0,78,91,0,2],
 "d__a__npc__soldierB_8cpp.html#ae01add451e0738249d0caefe69b8668e":[4,0,3,0,0,78,91,0,105],
@@ -249,5 +240,14 @@ var NAVTREEINDEX679 =
 "d__a__npc__taro_8cpp.html#a494ac1f7131ada15131a6e7fbd6eb9f6":[4,0,3,0,0,78,93,0,477],
 "d__a__npc__taro_8cpp.html#a4965cdbc8b10c70759489ad72e39879d":[4,0,3,0,0,78,93,0,359],
 "d__a__npc__taro_8cpp.html#a498e6440d5c316e2672169ee4ed92309":[4,0,3,0,0,78,93,0,23],
-"d__a__npc__taro_8cpp.html#a49cd74cd926306ef49dab224b35f8ee3":[4,0,3,0,0,78,93,0,33]
+"d__a__npc__taro_8cpp.html#a49cd74cd926306ef49dab224b35f8ee3":[4,0,3,0,0,78,93,0,33],
+"d__a__npc__taro_8cpp.html#a4a01170674151a35b04219abd9b16ac0":[4,0,3,0,0,78,93,0,227],
+"d__a__npc__taro_8cpp.html#a4a112ea5a12f155b1355d7a46678802d":[4,0,3,0,0,78,93,0,512],
+"d__a__npc__taro_8cpp.html#a4b2ceed66186791d95e55eef39c811da":[4,0,3,0,0,78,93,0,373],
+"d__a__npc__taro_8cpp.html#a4c9fc4f6d35e088e1b15835466d00d24":[4,0,3,0,0,78,93,0,345],
+"d__a__npc__taro_8cpp.html#a4d6ca991e99d07c7fb754c88ff922a0d":[4,0,3,0,0,78,93,0,558],
+"d__a__npc__taro_8cpp.html#a4e33766a4818aae5ae844808ed1e7cb9":[4,0,3,0,0,78,93,0,282],
+"d__a__npc__taro_8cpp.html#a4e7b1ea21cc466f0117126266bd45e87":[4,0,3,0,0,78,93,0,299],
+"d__a__npc__taro_8cpp.html#a4f5c3398fde53f68dc0a9a6c8ea884f3":[4,0,3,0,0,78,93,0,452],
+"d__a__npc__taro_8cpp.html#a502645a9fc04c1fd122d5721a94fb7c7":[4,0,3,0,0,78,93,0,321]
 };

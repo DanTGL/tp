@@ -1,14 +1,5 @@
 var NAVTREEINDEX352 =
 {
-"d__a__boomerang_8cpp.html#ab242281f4fc0db88e2fc60a18d3d51cf":[4,0,3,0,0,9,0,265],
-"d__a__boomerang_8cpp.html#ab243a8bed0d9ed4d7943f67a826ea755":[4,0,3,0,0,9,0,56],
-"d__a__boomerang_8cpp.html#ab302b577146f85f15ee58c36ba502038":[4,0,3,0,0,9,0,39],
-"d__a__boomerang_8cpp.html#ab37fb0b851170180255685d3883d906f":[4,0,3,0,0,9,0,298],
-"d__a__boomerang_8cpp.html#ab3e3f64b6b97511beee5a1b4ada7e134":[4,0,3,0,0,9,0,154],
-"d__a__boomerang_8cpp.html#ab552bc530919f3a1c039556a3188d7db":[4,0,3,0,0,9,0,267],
-"d__a__boomerang_8cpp.html#ab57e2924dcd259894ec9dfe73a5ce6ee":[4,0,3,0,0,9,0,382],
-"d__a__boomerang_8cpp.html#ab5dde1875312318e2c811fce32537be8":[4,0,3,0,0,9,0,339],
-"d__a__boomerang_8cpp.html#ab709e6898a8d6e80c4c843c81ca71fe7":[4,0,3,0,0,9,0,285],
 "d__a__boomerang_8cpp.html#ab7489149727e1e7b610718bc3cc862c4":[4,0,3,0,0,9,0,313],
 "d__a__boomerang_8cpp.html#ab7e0fe7c03f997183c54f06695327876":[4,0,3,0,0,9,0,168],
 "d__a__boomerang_8cpp.html#ab7f7029bc16284a829ce58b455654b1e":[4,0,3,0,0,9,0,134],
@@ -249,5 +240,14 @@ var NAVTREEINDEX352 =
 "d__a__bullet_8h.html":[4,0,1,8,0,0,10,1],
 "d__a__bullet_8h.html#a149faa2e22f2525974da7eae255e895c":[4,0,1,8,0,0,10,1,2],
 "d__a__bullet_8h_source.html":[4,0,1,8,0,0,10,1],
-"d__a__canoe_8cpp.html":[4,0,3,0,0,11,0]
+"d__a__canoe_8cpp.html":[4,0,3,0,0,11,0],
+"d__a__canoe_8cpp.html#a00e95ff828b1d7af92b3df83585c437e":[4,0,3,0,0,11,0,62],
+"d__a__canoe_8cpp.html#a015cab3b4d31022edd455f0b5cfadc2e":[4,0,3,0,0,11,0,229],
+"d__a__canoe_8cpp.html#a01b93c5502abc9d1a4c58f5f1acf94bb":[4,0,3,0,0,11,0,136],
+"d__a__canoe_8cpp.html#a0377e6e071fd0bf35e1cd21d4a4cb3b4":[4,0,3,0,0,11,0,23],
+"d__a__canoe_8cpp.html#a04e85f2ebad5093c19268fe78210ffac":[4,0,3,0,0,11,0,294],
+"d__a__canoe_8cpp.html#a05dc42f8ad8742e4b46e84d315786e53":[4,0,3,0,0,11,0,313],
+"d__a__canoe_8cpp.html#a06675fc17cd2c59d437fceb4f786dc46":[4,0,3,0,0,11,0,95],
+"d__a__canoe_8cpp.html#a06c23975bcc1a7fb0980c135aefc01e0":[4,0,3,0,0,11,0,285],
+"d__a__canoe_8cpp.html#a06cfa184955da7e3a4acf4e8174ecc16":[4,0,3,0,0,11,0,78]
 };

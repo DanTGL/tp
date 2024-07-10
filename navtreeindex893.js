@@ -1,14 +1,5 @@
 var NAVTREEINDEX893 =
 {
-"d__a__obj__wdStick_8cpp.html#af1bb89724b9029d0ab12eef1480a28ee":[4,0,3,0,0,79,319,0,11],
-"d__a__obj__wdStick_8cpp.html#af1d641d5006e9852701e43891c9ccc5c":[4,0,3,0,0,79,319,0,170],
-"d__a__obj__wdStick_8cpp.html#af259c855d84c746a82d7f8713f3946f2":[4,0,3,0,0,79,319,0,140],
-"d__a__obj__wdStick_8cpp.html#af44c93cf1cde3c4ce6550dd5360e96f1":[4,0,3,0,0,79,319,0,134],
-"d__a__obj__wdStick_8cpp.html#af563cfad9782b657d59fc1805b9c94de":[4,0,3,0,0,79,319,0,156],
-"d__a__obj__wdStick_8cpp.html#af7d62ddefe327c5b77a1b16277891867":[4,0,3,0,0,79,319,0,7],
-"d__a__obj__wdStick_8cpp.html#afa6091d8b223589139641dedbc559845":[4,0,3,0,0,79,319,0,123],
-"d__a__obj__wdStick_8cpp.html#afc14ae983f8a1b9561221fd8353dddd0":[4,0,3,0,0,79,319,0,39],
-"d__a__obj__wdStick_8h.html":[4,0,1,8,0,0,79,319,1],
 "d__a__obj__wdStick_8h.html#a622ff972a2b6b474cb71431666b1f82a":[4,0,1,8,0,0,79,319,1,1],
 "d__a__obj__wdStick_8h_source.html":[4,0,1,8,0,0,79,319,1],
 "d__a__obj__web0_8cpp.html":[4,0,3,0,0,79,320,0],
@@ -249,5 +240,14 @@ var NAVTREEINDEX893 =
 "d__a__obj__wood__pendulum_8h_source.html":[4,0,1,8,0,0,79,326,0],
 "d__a__obj__wood__statue_8cpp.html":[4,0,3,0,0,79,327,0],
 "d__a__obj__wood__statue_8cpp.html#a0309e93ad78bb2710ea784a378a15396":[4,0,3,0,0,79,327,0,90],
-"d__a__obj__wood__statue_8cpp.html#a0377e6e071fd0bf35e1cd21d4a4cb3b4":[4,0,3,0,0,79,327,0,18]
+"d__a__obj__wood__statue_8cpp.html#a0377e6e071fd0bf35e1cd21d4a4cb3b4":[4,0,3,0,0,79,327,0,18],
+"d__a__obj__wood__statue_8cpp.html#a05442b0245789108f0deaf5475d35e7f":[4,0,3,0,0,79,327,0,75],
+"d__a__obj__wood__statue_8cpp.html#a085f3a34ce186ab6e202a97581a1f68a":[4,0,3,0,0,79,327,0,3],
+"d__a__obj__wood__statue_8cpp.html#a0be3d3185143caee12f4d7af8740916f":[4,0,3,0,0,79,327,0,56],
+"d__a__obj__wood__statue_8cpp.html#a0c4974d8a30bf399a2b635b6908795b2":[4,0,3,0,0,79,327,0,117],
+"d__a__obj__wood__statue_8cpp.html#a0c8ec55cc33eb1288e71b9832961a712":[4,0,3,0,0,79,327,0,194],
+"d__a__obj__wood__statue_8cpp.html#a0cfdc034649d93da5f7d2f35d487ba11":[4,0,3,0,0,79,327,0,45],
+"d__a__obj__wood__statue_8cpp.html#a0d13eeaa967015d6865cb4c4b0cce5e6":[4,0,3,0,0,79,327,0,186],
+"d__a__obj__wood__statue_8cpp.html#a0d838311767630bf7c2cbcf928c65ce8":[4,0,3,0,0,79,327,0,85],
+"d__a__obj__wood__statue_8cpp.html#a0efdf4bed19829cc8c85a5aef6ffaf7f":[4,0,3,0,0,79,327,0,147]
 };

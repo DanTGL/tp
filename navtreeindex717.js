@@ -1,14 +1,5 @@
 var NAVTREEINDEX717 =
 {
-"d__a__npc__zelda_8cpp.html#a8b790d8a81b6201a13e373f1d6042719":[4,0,3,0,0,78,114,0,276],
-"d__a__npc__zelda_8cpp.html#a8d0c393b0ee112cb55e089e805e6dd4a":[4,0,3,0,0,78,114,0,122],
-"d__a__npc__zelda_8cpp.html#a8e01467eed17327e0c624b22ccc7ed8f":[4,0,3,0,0,78,114,0,298],
-"d__a__npc__zelda_8cpp.html#a8e4f26f86975bb5af2d2b7f6e4b08a8b":[4,0,3,0,0,78,114,0,302],
-"d__a__npc__zelda_8cpp.html#a8ea04012878cacd5765ef9cd4911231b":[4,0,3,0,0,78,114,0,174],
-"d__a__npc__zelda_8cpp.html#a8ed2d3dc741a3818f0d2eeb550bbc79d":[4,0,3,0,0,78,114,0,84],
-"d__a__npc__zelda_8cpp.html#a8efd1b9001bd193e3aff1f9a24ea38a0":[4,0,3,0,0,78,114,0,36],
-"d__a__npc__zelda_8cpp.html#a8fc8032fe43af69c1ed60c81f77ad719":[4,0,3,0,0,78,114,0,184],
-"d__a__npc__zelda_8cpp.html#a8fea1a3ea346aa44e65abc1797a00269":[4,0,3,0,0,78,114,0,152],
 "d__a__npc__zelda_8cpp.html#a90c40a701fb465d0219b755da67d0802":[4,0,3,0,0,78,114,0,289],
 "d__a__npc__zelda_8cpp.html#a90daf2bf7ae23d28b669c77e9de84848":[4,0,3,0,0,78,114,0,271],
 "d__a__npc__zelda_8cpp.html#a916285e1025851c6bea6767863b9ae6a":[4,0,3,0,0,78,114,0,129],
@@ -249,5 +240,14 @@ var NAVTREEINDEX717 =
 "d__a__npc__zra_8cpp.html#a1867ce9a6e0fb450aafa9d608d3b81a8":[4,0,3,0,0,78,117,0,444],
 "d__a__npc__zra_8cpp.html#a187290d82193ee6a36b6f7b21f4dead8":[4,0,3,0,0,78,117,0,795],
 "d__a__npc__zra_8cpp.html#a187b526910615ec1070bfb9c9c463b7d":[4,0,3,0,0,78,117,0,143],
-"d__a__npc__zra_8cpp.html#a187d1dee29e96e805d14f4b6bd32eb79":[4,0,3,0,0,78,117,0,841]
+"d__a__npc__zra_8cpp.html#a187d1dee29e96e805d14f4b6bd32eb79":[4,0,3,0,0,78,117,0,841],
+"d__a__npc__zra_8cpp.html#a188a7c360c5854cf8a61efeab8cdbc1f":[4,0,3,0,0,78,117,0,815],
+"d__a__npc__zra_8cpp.html#a1890d2782933d0eacd7127b7d7624e61":[4,0,3,0,0,78,117,0,725],
+"d__a__npc__zra_8cpp.html#a18aeab1cf305305acf6b62a9c1a31ba8":[4,0,3,0,0,78,117,0,1100],
+"d__a__npc__zra_8cpp.html#a18d5a94e675d52e70c18f19032cf90fb":[4,0,3,0,0,78,117,0,199],
+"d__a__npc__zra_8cpp.html#a18ee5fede4a4a6bbe41ba80c5a9b420f":[4,0,3,0,0,78,117,0,239],
+"d__a__npc__zra_8cpp.html#a1922218e0535f76d2021deaa905800e6":[4,0,3,0,0,78,117,0,555],
+"d__a__npc__zra_8cpp.html#a1945c54a1a50f92da0842858a38d7d3a":[4,0,3,0,0,78,117,0,507],
+"d__a__npc__zra_8cpp.html#a194c30b2d18efdd90426fb562eb780ef":[4,0,3,0,0,78,117,0,695],
+"d__a__npc__zra_8cpp.html#a19539891e215717de0cd350fc8706ead":[4,0,3,0,0,78,117,0,114]
 };

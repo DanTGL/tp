@@ -1,14 +1,5 @@
 var NAVTREEINDEX557 =
 {
-"d__a__npc__chat_8cpp.html#ab6e60eacd8a0a19a9d6fc7c510405216":[4,0,3,0,0,78,9,0,348],
-"d__a__npc__chat_8cpp.html#ab6f90c977eb5efa354a7c66213730599":[4,0,3,0,0,78,9,0,602],
-"d__a__npc__chat_8cpp.html#ab7115b85802289bdc373174a115c72f4":[4,0,3,0,0,78,9,0,336],
-"d__a__npc__chat_8cpp.html#ab7489149727e1e7b610718bc3cc862c4":[4,0,3,0,0,78,9,0,507],
-"d__a__npc__chat_8cpp.html#ab793dc7f262d18f4893b7c47e7c072bc":[4,0,3,0,0,78,9,0,223],
-"d__a__npc__chat_8cpp.html#ab794e25d97dcacddfb1ae181bf824f33":[4,0,3,0,0,78,9,0,783],
-"d__a__npc__chat_8cpp.html#ab7a1d7331f598b8599714d66afe66077":[4,0,3,0,0,78,9,0,150],
-"d__a__npc__chat_8cpp.html#ab823908d548144e5495c4d231d3529e3":[4,0,3,0,0,78,9,0,592],
-"d__a__npc__chat_8cpp.html#ab8b7762ca4c178f968381caac46c27fb":[4,0,3,0,0,78,9,0,599],
 "d__a__npc__chat_8cpp.html#ab8ff62f3d755abf713269867ff55b12d":[4,0,3,0,0,78,9,0,166],
 "d__a__npc__chat_8cpp.html#ab90221bfa796376a28569d7f022635df":[4,0,3,0,0,78,9,0,774],
 "d__a__npc__chat_8cpp.html#ab906e826ec0cb45261e77195dcd0057d":[4,0,3,0,0,78,9,0,46],
@@ -249,5 +240,14 @@ var NAVTREEINDEX557 =
 "d__a__npc__chin_8cpp.html#a04d83d3bbb645dfc12d49597ca5f6cfe":[4,0,3,0,0,78,10,0,126],
 "d__a__npc__chin_8cpp.html#a056d575a228a1cf673c58a5f940e19e4":[4,0,3,0,0,78,10,0,185],
 "d__a__npc__chin_8cpp.html#a05b98a01a920474e6b17f2503a80275c":[4,0,3,0,0,78,10,0,72],
-"d__a__npc__chin_8cpp.html#a062bf57eeeff43445574e07786cf8af0":[4,0,3,0,0,78,10,0,105]
+"d__a__npc__chin_8cpp.html#a062bf57eeeff43445574e07786cf8af0":[4,0,3,0,0,78,10,0,105],
+"d__a__npc__chin_8cpp.html#a062cfa8abf914156cbd33f4eb62ec911":[4,0,3,0,0,78,10,0,436],
+"d__a__npc__chin_8cpp.html#a0633f0600d2be0d9b48997805018b902":[4,0,3,0,0,78,10,0,379],
+"d__a__npc__chin_8cpp.html#a064ae5dffd361c094d9fe33bbe9c1c19":[4,0,3,0,0,78,10,0,7],
+"d__a__npc__chin_8cpp.html#a067b92de964f59fcc54206461ece24a2":[4,0,3,0,0,78,10,0,366],
+"d__a__npc__chin_8cpp.html#a06ce3937158938e22c55bbcb00dc4c30":[4,0,3,0,0,78,10,0,210],
+"d__a__npc__chin_8cpp.html#a07802390ec789d585ab9991a261e4ee5":[4,0,3,0,0,78,10,0,82],
+"d__a__npc__chin_8cpp.html#a0788eee0f3dc1950e24749c972f0cf9f":[4,0,3,0,0,78,10,0,181],
+"d__a__npc__chin_8cpp.html#a082701ff9f056038037b24aaa4601fc3":[4,0,3,0,0,78,10,0,416],
+"d__a__npc__chin_8cpp.html#a085f3a34ce186ab6e202a97581a1f68a":[4,0,3,0,0,78,10,0,3]
 };

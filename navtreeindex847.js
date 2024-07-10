@@ -1,14 +1,5 @@
 var NAVTREEINDEX847 =
 {
-"d__a__obj__rotBridge_8h_source.html":[4,0,1,8,0,0,79,232,1],
-"d__a__obj__rotTrap_8cpp.html":[4,0,3,0,0,79,234,0],
-"d__a__obj__rotTrap_8cpp.html#a01b93c5502abc9d1a4c58f5f1acf94bb":[4,0,3,0,0,79,234,0,47],
-"d__a__obj__rotTrap_8cpp.html#a02e5aa8f45e9cbabb9da8734a42051e7":[4,0,3,0,0,79,234,0,31],
-"d__a__obj__rotTrap_8cpp.html#a0377e6e071fd0bf35e1cd21d4a4cb3b4":[4,0,3,0,0,79,234,0,13],
-"d__a__obj__rotTrap_8cpp.html#a05b829b6083c4b03df58bfd0ec9d3bfd":[4,0,3,0,0,79,234,0,77],
-"d__a__obj__rotTrap_8cpp.html#a07802390ec789d585ab9991a261e4ee5":[4,0,3,0,0,79,234,0,21],
-"d__a__obj__rotTrap_8cpp.html#a07a2daf882d65a335b0871657ad4e1d4":[4,0,3,0,0,79,234,0,104],
-"d__a__obj__rotTrap_8cpp.html#a0cc48e21511f6e52d2ce875eccea1023":[4,0,3,0,0,79,234,0,50],
 "d__a__obj__rotTrap_8cpp.html#a11260c91079b972bf42c08bd17e4aa38":[4,0,3,0,0,79,234,0,8],
 "d__a__obj__rotTrap_8cpp.html#a14ede56d388d64d06dfb228d1cc121a9":[4,0,3,0,0,79,234,0,59],
 "d__a__obj__rotTrap_8cpp.html#a163749e04bb8e727db62fca94d8e8f6e":[4,0,3,0,0,79,234,0,86],
@@ -249,5 +240,14 @@ var NAVTREEINDEX847 =
 "d__a__obj__rstair_8cpp.html#a20329a87f5e5c129523465eadedc3754":[4,0,3,0,0,79,235,0,63],
 "d__a__obj__rstair_8cpp.html#a24b386c4c3d84ee05520c0a1fe52fe1b":[4,0,3,0,0,79,235,0,73],
 "d__a__obj__rstair_8cpp.html#a27070d55f61ee84fecde484fe811b552":[4,0,3,0,0,79,235,0,24],
-"d__a__obj__rstair_8cpp.html#a273fce57244dd1add5a7725a32b82537":[4,0,3,0,0,79,235,0,55]
+"d__a__obj__rstair_8cpp.html#a273fce57244dd1add5a7725a32b82537":[4,0,3,0,0,79,235,0,55],
+"d__a__obj__rstair_8cpp.html#a2b05986531107cde8783fde25a9a7413":[4,0,3,0,0,79,235,0,4],
+"d__a__obj__rstair_8cpp.html#a2ca633c0bea8a0799d849a0a975c9378":[4,0,3,0,0,79,235,0,78],
+"d__a__obj__rstair_8cpp.html#a2f2eabe1ab9dc0035413fa0e356fa911":[4,0,3,0,0,79,235,0,3],
+"d__a__obj__rstair_8cpp.html#a34bbae7a63794cd9fb3767df18163b6d":[4,0,3,0,0,79,235,0,0],
+"d__a__obj__rstair_8cpp.html#a3c09dac9a57e22d3422275a3f60cede9":[4,0,3,0,0,79,235,0,39],
+"d__a__obj__rstair_8cpp.html#a3f3b7ff83a2f086fad4e20b91c0f18b0":[4,0,3,0,0,79,235,0,33],
+"d__a__obj__rstair_8cpp.html#a3f4831ecaa5b4d0bd1be5bc389a22604":[4,0,3,0,0,79,235,0,69],
+"d__a__obj__rstair_8cpp.html#a3f61243ebf5cbb2ff90548d397b16772":[4,0,3,0,0,79,235,0,8],
+"d__a__obj__rstair_8cpp.html#a3ff30be9782a6952c4be327a243b09ea":[4,0,3,0,0,79,235,0,18]
 };

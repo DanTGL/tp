@@ -1,14 +1,5 @@
 var NAVTREEINDEX571 =
 {
-"d__a__npc__du_8cpp.html#ae4c7981eac54f4668e0612d273d40134":[4,0,3,0,0,78,19,0,178],
-"d__a__npc__du_8cpp.html#ae4cd09eb67ed2fb9bc6e87d5cea71757":[4,0,3,0,0,78,19,0,0],
-"d__a__npc__du_8cpp.html#ae5e4863a644f078362439bec3f1e6943":[4,0,3,0,0,78,19,0,91],
-"d__a__npc__du_8cpp.html#ae838312563710b114b723a69cbe1f370":[4,0,3,0,0,78,19,0,194],
-"d__a__npc__du_8cpp.html#ae9fe4b0e46f6103fefc7d844c567a955":[4,0,3,0,0,78,19,0,33],
-"d__a__npc__du_8cpp.html#aede93e9980b517c969b88b1b43446807":[4,0,3,0,0,78,19,0,105],
-"d__a__npc__du_8cpp.html#aee6daaf723825e207f60f22aff279137":[4,0,3,0,0,78,19,0,158],
-"d__a__npc__du_8cpp.html#af211c0d76d51447301283f347fede218":[4,0,3,0,0,78,19,0,186],
-"d__a__npc__du_8cpp.html#af259c855d84c746a82d7f8713f3946f2":[4,0,3,0,0,78,19,0,131],
 "d__a__npc__du_8cpp.html#af357bbfe9f9e373fdd4628ac57069542":[4,0,3,0,0,78,19,0,203],
 "d__a__npc__du_8cpp.html#af7d62ddefe327c5b77a1b16277891867":[4,0,3,0,0,78,19,0,9],
 "d__a__npc__du_8cpp.html#af800fd5e7b199026f48501e41d0d4e66":[4,0,3,0,0,78,19,0,44],
@@ -249,5 +240,14 @@ var NAVTREEINDEX571 =
 "d__a__npc__fairy_8cpp.html#a7cbc462cdc2276baf6d83827cc05e5b7":[4,0,3,0,0,78,20,0,477],
 "d__a__npc__fairy_8cpp.html#a7d12b78b38174ddd94022c3ded49c0e2":[4,0,3,0,0,78,20,0,155],
 "d__a__npc__fairy_8cpp.html#a7d4ecddadc8a7d953726a00894a6a51c":[4,0,3,0,0,78,20,0,150],
-"d__a__npc__fairy_8cpp.html#a7e254fd34554f66c422c8c80be19e677":[4,0,3,0,0,78,20,0,491]
+"d__a__npc__fairy_8cpp.html#a7e254fd34554f66c422c8c80be19e677":[4,0,3,0,0,78,20,0,491],
+"d__a__npc__fairy_8cpp.html#a7e8e6a5e033e68a9100870201688b4b1":[4,0,3,0,0,78,20,0,379],
+"d__a__npc__fairy_8cpp.html#a7ef206cffa043fa375e166c4149e4f75":[4,0,3,0,0,78,20,0,400],
+"d__a__npc__fairy_8cpp.html#a7f80953898a3ce8f235377bc0e76768f":[4,0,3,0,0,78,20,0,169],
+"d__a__npc__fairy_8cpp.html#a804fde53618a433a807cb6d5c053aa4c":[4,0,3,0,0,78,20,0,373],
+"d__a__npc__fairy_8cpp.html#a8059fa4fdc10b7c531a3f01d129cb43a":[4,0,3,0,0,78,20,0,363],
+"d__a__npc__fairy_8cpp.html#a81175f49b99856cae1d4e5b6c8551164":[4,0,3,0,0,78,20,0,249],
+"d__a__npc__fairy_8cpp.html#a8147a500f9ddcaad2342f044f3645898":[4,0,3,0,0,78,20,0,318],
+"d__a__npc__fairy_8cpp.html#a8170bf3263ad156043c320b72b3dfde6":[4,0,3,0,0,78,20,0,452],
+"d__a__npc__fairy_8cpp.html#a817fc9ac4fdbc8f07a64e985253e7d73":[4,0,3,0,0,78,20,0,212]
 };

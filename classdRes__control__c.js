@@ -19,7 +19,6 @@ var classdRes__control__c =
     [ "getRes", "classdRes__control__c.html#afc1aed09c70b8827354e16ba6800ddc7", null ],
     [ "getRes", "classdRes__control__c.html#afc1aed09c70b8827354e16ba6800ddc7", null ],
     [ "getRes", "classdRes__control__c.html#afc1aed09c70b8827354e16ba6800ddc7", null ],
-    [ "getRes", "classdRes__control__c.html#afc1aed09c70b8827354e16ba6800ddc7", null ],
     [ "getResInfo", "classdRes__control__c.html#a9c70b9972d0ca04dfa2dac972c963c0c", null ],
     [ "getResInfoLoaded", "classdRes__control__c.html#a19063b2c15d8594a71f73d4f86834d9f", null ],
     [ "getStageRes", "classdRes__control__c.html#a27131a07ed89247bfb4036225806d992", null ],

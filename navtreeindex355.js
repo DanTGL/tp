@@ -1,14 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"d__a__coach__fire_8cpp.html#aef3a10f4a43e5beba28d478081636225":[4,0,3,0,0,13,0,35],
-"d__a__coach__fire_8cpp.html#aef820ffa5ee58b9898d47e352967a010":[4,0,3,0,0,13,0,66],
-"d__a__coach__fire_8cpp.html#af1bb89724b9029d0ab12eef1480a28ee":[4,0,3,0,0,13,0,5],
-"d__a__coach__fire_8cpp.html#af259c855d84c746a82d7f8713f3946f2":[4,0,3,0,0,13,0,49],
-"d__a__coach__fire_8cpp.html#afa98a1d7eb0547586b3ae246f5f99cc4":[4,0,3,0,0,13,0,51],
-"d__a__coach__fire_8cpp.html#afbfd993660f95fae9a3300e3a9ed9ba9":[4,0,3,0,0,13,0,17],
-"d__a__coach__fire_8h.html":[4,0,1,8,0,0,13,0],
-"d__a__coach__fire_8h.html#a25f269df61a818adeae2b05d0c5c9542":[4,0,1,8,0,0,13,0,1],
-"d__a__coach__fire_8h_source.html":[4,0,1,8,0,0,13,0],
 "d__a__cow_8cpp.html":[4,0,3,0,0,14,0],
 "d__a__cow_8cpp.html#a0020b952dbf1bab703dbe01d781f8d87":[4,0,3,0,0,14,0,31],
 "d__a__cow_8cpp.html#a0023e888810281a0e69277a8cddc0082":[4,0,3,0,0,14,0,104],
@@ -249,5 +240,14 @@ var NAVTREEINDEX355 =
 "d__a__cow_8cpp.html#a6e299ca8c2084a74cda553e0c11079f2":[4,0,3,0,0,14,0,412],
 "d__a__cow_8cpp.html#a6efdf26eb62388787177b30e291c4833":[4,0,3,0,0,14,0,438],
 "d__a__cow_8cpp.html#a6f9fc0a9189c26e8123cd362bb8b2e94":[4,0,3,0,0,14,0,431],
-"d__a__cow_8cpp.html#a6fc91595542ae94715f580f578dafb60":[4,0,3,0,0,14,0,86]
+"d__a__cow_8cpp.html#a6fc91595542ae94715f580f578dafb60":[4,0,3,0,0,14,0,86],
+"d__a__cow_8cpp.html#a6fd059b087e520bd74ece723efb13839":[4,0,3,0,0,14,0,230],
+"d__a__cow_8cpp.html#a7034b52517509ae74e7ea8d4a73d633d":[4,0,3,0,0,14,0,3],
+"d__a__cow_8cpp.html#a705eae357517dd746498a10edd4d864a":[4,0,3,0,0,14,0,210],
+"d__a__cow_8cpp.html#a705ed2c9f0337092f44f7a140d6d5f54":[4,0,3,0,0,14,0,312],
+"d__a__cow_8cpp.html#a706fc622b88be7fe98bac425419fc058":[4,0,3,0,0,14,0,482],
+"d__a__cow_8cpp.html#a70b516998b205fbb064ce0fb07895852":[4,0,3,0,0,14,0,244],
+"d__a__cow_8cpp.html#a71c714020cfdc52cb86d1475e96ab284":[4,0,3,0,0,14,0,262],
+"d__a__cow_8cpp.html#a72d95a9cc3d543321099a50f6895fb56":[4,0,3,0,0,14,0,413],
+"d__a__cow_8cpp.html#a748ebd17e0cc332835d921fe32a419a8":[4,0,3,0,0,14,0,158]
 };

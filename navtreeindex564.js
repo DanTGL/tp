@@ -1,14 +1,5 @@
 var NAVTREEINDEX564 =
 {
-"d__a__npc__clerkt_8cpp.html#ad8e3bd318628097213ac64fd37ff3a9d":[4,0,3,0,0,78,13,0,300],
-"d__a__npc__clerkt_8cpp.html#ad8f397973cfd5030e6f24b6f9d677a7f":[4,0,3,0,0,78,13,0,313],
-"d__a__npc__clerkt_8cpp.html#ad932157d2799de0a207d567c3f9a09e5":[4,0,3,0,0,78,13,0,146],
-"d__a__npc__clerkt_8cpp.html#ad97c506d28d39f79666432344cea0a44":[4,0,3,0,0,78,13,0,165],
-"d__a__npc__clerkt_8cpp.html#adbdcde8cf6eef5e613be83e9d996c458":[4,0,3,0,0,78,13,0,270],
-"d__a__npc__clerkt_8cpp.html#adc6634629cb51e7c6154aa5ec92055c7":[4,0,3,0,0,78,13,0,157],
-"d__a__npc__clerkt_8cpp.html#add3912236ae48543c0b22d54fb33defd":[4,0,3,0,0,78,13,0,233],
-"d__a__npc__clerkt_8cpp.html#add7ca766a430673860436388e0f0b198":[4,0,3,0,0,78,13,0,162],
-"d__a__npc__clerkt_8cpp.html#adf6efa29e1556e386b88dccee61eff3e":[4,0,3,0,0,78,13,0,2],
 "d__a__npc__clerkt_8cpp.html#ae01add451e0738249d0caefe69b8668e":[4,0,3,0,0,78,13,0,124],
 "d__a__npc__clerkt_8cpp.html#ae07fcf0ac96d39e0852afc7af5248d46":[4,0,3,0,0,78,13,0,179],
 "d__a__npc__clerkt_8cpp.html#ae08798a1ac50d2f9414ac66f52daadd6":[4,0,3,0,0,78,13,0,269],
@@ -249,5 +240,14 @@ var NAVTREEINDEX564 =
 "d__a__npc__coach_8cpp.html#a6a2beed7a63007db038e8f9f957b2c5c":[4,0,3,0,0,78,14,0,7],
 "d__a__npc__coach_8cpp.html#a6bade4c997a10367d4fd622908031a63":[4,0,3,0,0,78,14,0,324],
 "d__a__npc__coach_8cpp.html#a6be0398214594d7fec893abdd6454aee":[4,0,3,0,0,78,14,0,65],
-"d__a__npc__coach_8cpp.html#a6c949b29ce3c185e8353c408b5a31a48":[4,0,3,0,0,78,14,0,232]
+"d__a__npc__coach_8cpp.html#a6c949b29ce3c185e8353c408b5a31a48":[4,0,3,0,0,78,14,0,232],
+"d__a__npc__coach_8cpp.html#a6d79d47b9966bf9fd75a5b1da4fa1c0c":[4,0,3,0,0,78,14,0,251],
+"d__a__npc__coach_8cpp.html#a6d7f9409903377b9965016560c3a7d7d":[4,0,3,0,0,78,14,0,122],
+"d__a__npc__coach_8cpp.html#a6d833b3df856ac82a1ef1c259291d064":[4,0,3,0,0,78,14,0,225],
+"d__a__npc__coach_8cpp.html#a6d842b85e74d437a1fa943fc2df6f9e5":[4,0,3,0,0,78,14,0,24],
+"d__a__npc__coach_8cpp.html#a6f06e5dab955d5ec1dd317aa4e4fea78":[4,0,3,0,0,78,14,0,98],
+"d__a__npc__coach_8cpp.html#a6fe2ccdd5627651035d4a01f38b56e14":[4,0,3,0,0,78,14,0,130],
+"d__a__npc__coach_8cpp.html#a7034b52517509ae74e7ea8d4a73d633d":[4,0,3,0,0,78,14,0,4],
+"d__a__npc__coach_8cpp.html#a7388e4eacc08672b4e3d4ba559e2afe5":[4,0,3,0,0,78,14,0,103],
+"d__a__npc__coach_8cpp.html#a73f465f465ff38e51ac65182aa412d1f":[4,0,3,0,0,78,14,0,351]
 };

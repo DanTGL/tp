@@ -1,7 +1,5 @@
 var NAVTREEINDEX85 =
 {
-"classJKRAram.html#a496f9421456cfca219dd5d4f050a1dd0":[1,1,5,0,22],
-"classJKRAram.html#a52b6c0e3495804781be949667469c969":[1,1,5,0,16],
 "classJKRAram.html#a5442090d38e9acb425b118dd1db35b98":[1,1,5,0,15],
 "classJKRAram.html#a58021da64e529327120a6d9c96bffa78":[1,1,5,0,23],
 "classJKRAram.html#a5f1b63e648942fa82d584dd0141759a1":[1,1,5,0,24],
@@ -249,5 +247,7 @@ var NAVTREEINDEX85 =
 "classJKRDvdFile.html#a67af55779622661876ac621b1f051a0d":[1,1,5,19,12],
 "classJKRDvdFile.html#a73da55c9dad61e74e2c91bea31a1f7e5":[1,1,5,19,8],
 "classJKRDvdFile.html#a75dd8aa9a7284114f359b7f3900b9d77":[1,1,5,19,11],
-"classJKRDvdFile.html#a7b50b7396a42b456cd4d289124407712":[1,1,5,19,28]
+"classJKRDvdFile.html#a7b50b7396a42b456cd4d289124407712":[1,1,5,19,28],
+"classJKRDvdFile.html#a7d0f9ec8b988dba3e4c50dd71102ae59":[1,1,5,19,16],
+"classJKRDvdFile.html#a7ebc1d343ca5dd928c12ee30a319401e":[1,1,5,19,31]
 };

@@ -1,14 +1,5 @@
 var NAVTREEINDEX673 =
 {
-"d__a__npc__shaman_8cpp.html#af77c81ef2d312ce51f0b09a11528ad13":[4,0,3,0,0,78,85,0,230],
-"d__a__npc__shaman_8cpp.html#af7b3f35c8e9eb69b970717cd507fd616":[4,0,3,0,0,78,85,0,268],
-"d__a__npc__shaman_8cpp.html#af7d62ddefe327c5b77a1b16277891867":[4,0,3,0,0,78,85,0,20],
-"d__a__npc__shaman_8cpp.html#af800861568e5d472b378e97942cf08ff":[4,0,3,0,0,78,85,0,132],
-"d__a__npc__shaman_8cpp.html#af844e1cc44adb6e7be46f361f7506634":[4,0,3,0,0,78,85,0,80],
-"d__a__npc__shaman_8cpp.html#af875de0725ebf2af090d5ca83c7d433b":[4,0,3,0,0,78,85,0,124],
-"d__a__npc__shaman_8cpp.html#afabb6fa2b582662016477c9524a54e3c":[4,0,3,0,0,78,85,0,291],
-"d__a__npc__shaman_8cpp.html#afc100ef9e63271743b7cee37e973c294":[4,0,3,0,0,78,85,0,161],
-"d__a__npc__shaman_8cpp.html#afc30ba1da0145e4b960704ef106bb1d8":[4,0,3,0,0,78,85,0,252],
 "d__a__npc__shaman_8cpp.html#afc6a680d5f257a391a8496f93706774d":[4,0,3,0,0,78,85,0,227],
 "d__a__npc__shaman_8cpp.html#afd36f40a6ef778ae8d3a4eca8ce3b66a":[4,0,3,0,0,78,85,0,148],
 "d__a__npc__shaman_8cpp.html#afdca0eb87578e0952b66387b093d81f3":[4,0,3,0,0,78,85,0,64],
@@ -249,5 +240,14 @@ var NAVTREEINDEX673 =
 "d__a__npc__shoe_8cpp.html#ace3f552affba07d09b53c61532e9cacb":[4,0,3,0,0,78,86,0,147],
 "d__a__npc__shoe_8cpp.html#ad01fec90b96755424c776a28f5afc01c":[4,0,3,0,0,78,86,0,263],
 "d__a__npc__shoe_8cpp.html#ad14cb031fb4686816c4d68e9f30a5740":[4,0,3,0,0,78,86,0,176],
-"d__a__npc__shoe_8cpp.html#ad4187d2be60c539d2fc640645672f8c5":[4,0,3,0,0,78,86,0,214]
+"d__a__npc__shoe_8cpp.html#ad4187d2be60c539d2fc640645672f8c5":[4,0,3,0,0,78,86,0,214],
+"d__a__npc__shoe_8cpp.html#ad4c2a0bf9b93ebed9d8049e5dcb178b5":[4,0,3,0,0,78,86,0,105],
+"d__a__npc__shoe_8cpp.html#ad54a6016ec29dd75afeab80a591125b6":[4,0,3,0,0,78,86,0,235],
+"d__a__npc__shoe_8cpp.html#ad653b860ffae3d3de8f173c6e584d51b":[4,0,3,0,0,78,86,0,142],
+"d__a__npc__shoe_8cpp.html#ad7b1d279290f3393cdce958d97577cc1":[4,0,3,0,0,78,86,0,188],
+"d__a__npc__shoe_8cpp.html#ad82bc12f8a8bc6913096eb881cae3245":[4,0,3,0,0,78,86,0,182],
+"d__a__npc__shoe_8cpp.html#adafc5b8d881fecb9e9f52790b9f25335":[4,0,3,0,0,78,86,0,146],
+"d__a__npc__shoe_8cpp.html#adbdcde8cf6eef5e613be83e9d996c458":[4,0,3,0,0,78,86,0,218],
+"d__a__npc__shoe_8cpp.html#adc586afbe3f2396f49af6077d98d9314":[4,0,3,0,0,78,86,0,223],
+"d__a__npc__shoe_8cpp.html#adc6634629cb51e7c6154aa5ec92055c7":[4,0,3,0,0,78,86,0,137]
 };

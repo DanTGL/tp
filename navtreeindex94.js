@@ -1,7 +1,5 @@
 var NAVTREEINDEX94 =
 {
-"classZ2AudioMgr.html#a381b1678b508dcf3b1819356f1860099":[3,0,3042,6],
-"classZ2AudioMgr.html#a3ce286364a8ec949a185f5b1b662f2ed":[3,0,3042,1],
 "classZ2AudioMgr.html#a3db7f8a821af9c55493d3b2647ff918a":[3,0,3042,19],
 "classZ2AudioMgr.html#a3de7c5726fd5aa20c0396c762f4f0e2f":[3,0,3042,8],
 "classZ2AudioMgr.html#a3fcab07e30b6f6633d7bf33f5e37b50c":[3,0,3042,3],
@@ -22,8 +20,8 @@ var NAVTREEINDEX94 =
 "classZ2Creature.html#a2bda248bad622037db0b79b335306614":[3,0,3044,6],
 "classZ2Creature.html#a2cb01144c08f24943f1ef0cf1997b4e0":[3,0,3044,23],
 "classZ2Creature.html#a449b7f51342d375d70eb9073b63ce50f":[3,0,3044,14],
-"classZ2Creature.html#a501c85513836d34043a9532188631929":[3,0,3044,9],
 "classZ2Creature.html#a501c85513836d34043a9532188631929":[3,0,3044,10],
+"classZ2Creature.html#a501c85513836d34043a9532188631929":[3,0,3044,9],
 "classZ2Creature.html#a501c85513836d34043a9532188631929":[3,0,3044,11],
 "classZ2Creature.html#a50418001508116da50181239c6094a00":[3,0,3044,27],
 "classZ2Creature.html#a59bbbf72fe61d3ef81e1e5e8428c5e4e":[3,0,3044,7],
@@ -39,8 +37,8 @@ var NAVTREEINDEX94 =
 "classZ2Creature.html#ae87ad2ec57d91daf16d6cf723c361882":[3,0,3044,18],
 "classZ2Creature.html#af13d015d6371eb8af1a9d1a5d65781e4":[3,0,3044,15],
 "classZ2Creature.html#af52a75d45be3c3c4856693f474899b3f":[3,0,3044,19],
-"classZ2Creature.html#af633a348dd6de19c82443a665e04b38a":[3,0,3044,5],
 "classZ2Creature.html#af633a348dd6de19c82443a665e04b38a":[3,0,3044,3],
+"classZ2Creature.html#af633a348dd6de19c82443a665e04b38a":[3,0,3044,5],
 "classZ2Creature.html#af633a348dd6de19c82443a665e04b38a":[3,0,3044,1],
 "classZ2Creature.html#afff1cb78d7fffef78fdf54b3908924ac":[3,0,3044,2],
 "classZ2Creature.html#afff1cb78d7fffef78fdf54b3908924ac":[3,0,3044,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX94 =
 "classZ2SeqMgr.html#a3211e20e5b557ea47700b66a70ad3f58":[3,0,3070,16],
 "classZ2SeqMgr.html#a334019a2263b4ba41681475bb7c33aef":[3,0,3070,105],
 "classZ2SeqMgr.html#a33660ad50063fad433c23583106460a2":[3,0,3070,2],
-"classZ2SeqMgr.html#a3944e639fd04c8be090e476fa5b8b38e":[3,0,3070,15]
+"classZ2SeqMgr.html#a3944e639fd04c8be090e476fa5b8b38e":[3,0,3070,15],
+"classZ2SeqMgr.html#a3fcb01f2f2b7383c0f4996710d3ccac3":[3,0,3070,22],
+"classZ2SeqMgr.html#a4046b7dc8c629faf8dca964da0297cf6":[3,0,3070,39]
 };

@@ -1,12 +1,5 @@
 var NAVTREEINDEX214 =
 {
-"classdaNpc__SoldierA__c.html#ae88159829a6bcb7b3b56c3bd00261a9c":[1,0,3,90,12],
-"classdaNpc__SoldierA__c.html#aef94e9d83394d68d8eca47747e651a02":[1,0,3,90,13],
-"classdaNpc__SoldierA__c.html#aefe8d1e5b9eb60477b97195808093845":[1,0,3,90,3],
-"classdaNpc__SoldierA__c.html#afa1859f66041b3810db68ceebf663f9f":[1,0,3,90,16],
-"classdaNpc__SoldierB__Param__c.html":[3,0,861],
-"classdaNpc__SoldierB__Param__c.html#a5627ed76cb6720e1aab6c3d000a6e088":[3,0,861,1],
-"classdaNpc__SoldierB__Param__c.html#aad9ac7d58efa891997185fd742f689cf":[3,0,861,0],
 "classdaNpc__SoldierB__c.html":[1,0,3,91],
 "classdaNpc__SoldierB__c.html#a03c95edc83d1a73068d9ec6c819fd7ac":[1,0,3,91,18],
 "classdaNpc__SoldierB__c.html#a0ac81a86a2c86f37118375e1b76d7639":[1,0,3,91,32],
@@ -249,5 +242,12 @@ var NAVTREEINDEX214 =
 "classdaNpc__Yelia__c.html#a091f2e7476898b1e4e3d2095ece561ca":[1,0,3,109,18],
 "classdaNpc__Yelia__c.html#a0fa2c87918d39cac4e3548c839e90a61":[1,0,3,109,22],
 "classdaNpc__Yelia__c.html#a146d324b0cb0c0e7ee782ef028e7f99d":[1,0,3,109,3],
-"classdaNpc__Yelia__c.html#a16c55f7d8b533057008ea0a977c9efa1":[1,0,3,109,7]
+"classdaNpc__Yelia__c.html#a16c55f7d8b533057008ea0a977c9efa1":[1,0,3,109,7],
+"classdaNpc__Yelia__c.html#a209599c4107bf2f9e80f7577f3ec6b6a":[1,0,3,109,0],
+"classdaNpc__Yelia__c.html#a20d7248e53edd80ab28167ebc9bde7c3":[1,0,3,109,43],
+"classdaNpc__Yelia__c.html#a22466514461ed106edb79557c011d21e":[1,0,3,109,8],
+"classdaNpc__Yelia__c.html#a2672df9e2ec7ee13046d6d4393498e76":[1,0,3,109,2],
+"classdaNpc__Yelia__c.html#a26d049c5946ba5af48f2a453e3aa5af5":[1,0,3,109,16],
+"classdaNpc__Yelia__c.html#a2f32e6e14886687288d0314bf75cbbd1":[1,0,3,109,45],
+"classdaNpc__Yelia__c.html#a3b5450282cacaf363ad6f7b16bb8c729":[1,0,3,109,40]
 };
