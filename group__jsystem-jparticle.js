@@ -314,6 +314,7 @@ var group__jsystem_jparticle =
       [ "setGlobalTranslation", "classJPABaseEmitter.html#ab617c8854c87cf83de40e32dfaa40f43", null ],
       [ "setGlobalTranslation", "classJPABaseEmitter.html#af5df5c869acf314fa89f29f24a521e0a", null ],
       [ "setLifeTime", "classJPABaseEmitter.html#acefdd818cd5d7a562e330eac08c033f0", null ],
+      [ "setLocalScale", "classJPABaseEmitter.html#aec3068e70c41b93e6048a9aad1b5b662", null ],
       [ "setParticleCallBackPtr", "classJPABaseEmitter.html#a5bdbb959b8a9e44446c1f12cf462a4e1", null ],
       [ "setRandomDirectionSpeed", "classJPABaseEmitter.html#a6693a0c34cce09b561bd8ac4a061f8d5", null ],
       [ "setRate", "classJPABaseEmitter.html#aceebc15ce3c80cd053ee8d90888a91c7", null ],

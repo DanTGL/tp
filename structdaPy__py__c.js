@@ -455,7 +455,7 @@ var structdaPy__py__c =
     [ "getHeight", "structdaPy__py__c.html#af42134fba17301d4f2befeb05bafd797", null ],
     [ "getHookshotTopPos", "structdaPy__py__c.html#a280c2f1eab49c41b65d979091f1b6198", null ],
     [ "getInvMtx", "structdaPy__py__c.html#a156400e5f3bd30ac1b3e1b45908290f2", null ],
-    [ "getIronBallBgHit", "structdaPy__py__c.html#ae952da4a042b9f1f58a22fdb8d2fc612", null ],
+    [ "getIronBallBgHit", "structdaPy__py__c.html#ab7edb4534099db5600a60b873af644be", null ],
     [ "getIronBallCenterPos", "structdaPy__py__c.html#a01f22f9648bd5da12e9e9f1f2508169a", null ],
     [ "getItemID", "structdaPy__py__c.html#a8a9c49e0a902ad1f9fd8c4c518b959f3", null ],
     [ "getItemPos", "structdaPy__py__c.html#a904ffd00ee116d607a6e80c55892ce91", null ],

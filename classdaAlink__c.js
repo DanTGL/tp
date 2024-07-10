@@ -1697,7 +1697,7 @@ var classdaAlink__c =
     [ "getHsChainTopPos", "classdaAlink__c.html#ae7e05e5152c31594f3321591e3e2506b", null ],
     [ "getHsSubChainTopPos", "classdaAlink__c.html#a41fe4d0b9f69dd2c68d1e31f6d17a4f7", null ],
     [ "getInvMtx", "classdaAlink__c.html#ab8636009d78f390a035e031297de642a", null ],
-    [ "getIronBallBgHit", "classdaAlink__c.html#af632a1faddfc6f2853b7a583f6ca3475", null ],
+    [ "getIronBallBgHit", "classdaAlink__c.html#af653fec53d07e3bfca6c1e68f738d51c", null ],
     [ "getIronBallCenterPos", "classdaAlink__c.html#a30f066dfb1b176f2926da5833a566b9d", null ],
     [ "getItemID", "classdaAlink__c.html#ae115d280a984c8725e160ca160da03f5", null ],
     [ "getKandelaarFlamePos", "classdaAlink__c.html#a79e8c38e7d8f2c4e428eba255d7abc17", null ],

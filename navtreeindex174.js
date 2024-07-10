@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"classdaCanoe__c.html#a7af0db830d9ed3af4858f27a99d6bde7":[3,0,489,62],
 "classdaCanoe__c.html#a7fee87bd164fc679745724503ce4f0c5":[3,0,489,53],
 "classdaCanoe__c.html#a8572d338fd59ee99feeb462b696dba80":[3,0,489,59],
 "classdaCanoe__c.html#a8b0a53cca9bd5c95a91984ac08945c1e":[3,0,489,29],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "classdaCstatue__c.html#a322b6d3cff520a77be70f777d4777ad4":[3,0,497,26],
 "classdaCstatue__c.html#a34939089f4f1a9d2620d85371b8256bb":[3,0,497,2],
 "classdaCstatue__c.html#a3b272debee103d64dc7811dc2b499fa9":[3,0,497,7],
-"classdaCstatue__c.html#a3bd5c70706df1077a6737e4c190654c3":[3,0,497,11],
-"classdaCstatue__c.html#a3f0f6e9344677ac3aa66bafb04ca4a0f":[3,0,497,60]
+"classdaCstatue__c.html#a3bd5c70706df1077a6737e4c190654c3":[3,0,497,11]
 };

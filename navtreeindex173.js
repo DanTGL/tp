@@ -1,5 +1,6 @@
 var NAVTREEINDEX173 =
 {
+"classdaBoomerang__c.html#a03200ad56792cb883f7ce3f300bd3192":[1,0,2,0,1],
 "classdaBoomerang__c.html#a03bd8a4a2dfe5c1a80d36fa088d18133":[1,0,2,0,54],
 "classdaBoomerang__c.html#a059e87371a477585777630b8e98d37ed":[1,0,2,0,23],
 "classdaBoomerang__c.html#a071a8efd5633021d0ca29a8b9e6396e6":[1,0,2,0,63],
@@ -248,6 +249,5 @@ var NAVTREEINDEX173 =
 "classdaCanoe__c.html#a6f4cae4f474b98bdc656dae453350991":[3,0,489,45],
 "classdaCanoe__c.html#a723a170ec32705c68243a646fbe71da7":[3,0,489,3],
 "classdaCanoe__c.html#a723eca316624cd1bdec60ae1f0d40b99":[3,0,489,44],
-"classdaCanoe__c.html#a74c3f050c5f7fa9a5bbc46c80c0abd0f":[3,0,489,61],
-"classdaCanoe__c.html#a7af0db830d9ed3af4858f27a99d6bde7":[3,0,489,62]
+"classdaCanoe__c.html#a74c3f050c5f7fa9a5bbc46c80c0abd0f":[3,0,489,61]
 };

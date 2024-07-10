@@ -1,5 +1,6 @@
 var NAVTREEINDEX124 =
 {
+"classdMenu__Skill__c.html#a4770d924fa51aa20c2d1a5f32b88ebcf":[3,0,1733,52],
 "classdMenu__Skill__c.html#a4b0f7a14e117f2e689a4c5cdc688451d":[3,0,1733,1],
 "classdMenu__Skill__c.html#a5a3a922d1e06deb32d57b8322d04a2ce":[3,0,1733,35],
 "classdMenu__Skill__c.html#a5d25104b4dde4a4fc991aeaec43bb264":[3,0,1733,62],
@@ -248,6 +249,5 @@ var NAVTREEINDEX124 =
 "classdMenu__save__c.html#acb34dd018a3d680c1936d2bce6685ba6":[3,0,1732,144],
 "classdMenu__save__c.html#acbf95abc100f454ee08a9a358874fa0e":[3,0,1732,200],
 "classdMenu__save__c.html#acd76b4faa4655e59d2305d24c897ab93":[3,0,1732,27],
-"classdMenu__save__c.html#ace0d86e80a8f4f0b3357ec0c535aac83":[3,0,1732,189],
-"classdMenu__save__c.html#ad07504bb606f95aab7229d7bbf16ea03":[3,0,1732,204]
+"classdMenu__save__c.html#ace0d86e80a8f4f0b3357ec0c535aac83":[3,0,1732,189]
 };

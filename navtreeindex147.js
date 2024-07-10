@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"classdaAlinkHIO__magneBoots__c0.html#a9b117953e2ab9b3c55765450dc4539ea":[3,0,316,0],
 "classdaAlinkHIO__magneBoots__c1.html":[3,0,317],
 "classdaAlinkHIO__magneBoots__c1.html#a2cf4ff6232bf2aced558772b34ff9bbb":[3,0,317,3],
 "classdaAlinkHIO__magneBoots__c1.html#a35a390960f90fdeb9579343728e1efab":[3,0,317,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "classdaAlinkHIO__wallFall__c1.html#afcc4390ad059b6de0e7e63369a411099":[3,0,343,1],
 "classdaAlinkHIO__wallHang__c0.html":[3,0,344],
 "classdaAlinkHIO__wallHang__c0.html#a370656f8595e707e8ab0b11d9b8a0069":[3,0,344,0],
-"classdaAlinkHIO__wallHang__c1.html":[3,0,345],
-"classdaAlinkHIO__wallHang__c1.html#a02d3a65ccc76783e52d2786681123ec9":[3,0,345,2]
+"classdaAlinkHIO__wallHang__c1.html":[3,0,345]
 };
