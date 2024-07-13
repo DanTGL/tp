@@ -1,5 +1,12 @@
 var NAVTREEINDEX207 =
 {
+"classdaNpc__GWolf__c.html#ad66ff7e3ee22a60ab5c8eb62a06de029":[1,0,3,37,17],
+"classdaNpc__GWolf__c.html#ad95e1b76f104ddd0dc1b48f32b0d6418":[1,0,3,37,33],
+"classdaNpc__GWolf__c.html#ae0f924ec75434dc5a83c1e8f1a67c094":[1,0,3,37,18],
+"classdaNpc__GWolf__c.html#ae7104cf30ff6daeeaa0620ea7f469edd":[1,0,3,37,29],
+"classdaNpc__GWolf__c.html#aead2da83992ce580a4048d199bfa04f4":[1,0,3,37,13],
+"classdaNpc__GWolf__c.html#afb0670ecb683f8e0c81ed5d36d8aaa61":[1,0,3,37,20],
+"classdaNpc__GWolf__c.html#afb4829a1ca7606c88f78cc6a1d8e5f07":[1,0,3,37,42],
 "classdaNpc__GWolf__c.html#afe17ee5a21ad035e91bc8c28f085b9a1":[1,0,3,37,16],
 "classdaNpc__Gnd__Param__c.html":[3,0,767],
 "classdaNpc__Gnd__Param__c.html#ae3f42737a01cd13b68341ded34ceb2b4":[3,0,767,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX207 =
 "classdaNpc__Hoz__c.html#a408e5213d09b0c690dfa36ba9d857e55":[1,0,3,41,9],
 "classdaNpc__Hoz__c.html#a4f579209aedf155fa710c9dcaa2fd807":[1,0,3,41,17],
 "classdaNpc__Hoz__c.html#a4f5df320c978fc545f0933226fb33df4":[1,0,3,41,35],
-"classdaNpc__Hoz__c.html#a59d848acbb385e750eefdf95ae9df278":[1,0,3,41,44],
-"classdaNpc__Hoz__c.html#a5c198f51cd4bdf631807fe9cebd2644d":[1,0,3,41,49],
-"classdaNpc__Hoz__c.html#a60913f5e827cfe3ec5c9a35a33d1f4e9":[1,0,3,41,21],
-"classdaNpc__Hoz__c.html#a619959b5972dc125afe87c8168403ffc":[1,0,3,41,38],
-"classdaNpc__Hoz__c.html#a63df8e60171053bc7bd846763a6aa4fb":[1,0,3,41,13],
-"classdaNpc__Hoz__c.html#a65807f43db9f75cc08a9e30563986e90":[1,0,3,41,45],
-"classdaNpc__Hoz__c.html#a6ad0e089793177f9333cc97b7c3c7be4":[1,0,3,41,48],
-"classdaNpc__Hoz__c.html#a7276d67bf78f3eff755aa245aa449d97":[1,0,3,41,24]
+"classdaNpc__Hoz__c.html#a59d848acbb385e750eefdf95ae9df278":[1,0,3,41,44]
 };

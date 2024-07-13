@@ -1,5 +1,12 @@
 var NAVTREEINDEX205 =
 {
+"classdaNpcWrestler__c.html#ab09ce5ee3d083adc3ec780455c503e03":[1,0,3,105,17],
+"classdaNpcWrestler__c.html#ab196e0013e7c72e3cb20c0ee9dbb7ba0":[1,0,3,105,5],
+"classdaNpcWrestler__c.html#ab25fbf22c1db7f970a0aca16a6873972":[1,0,3,105,56],
+"classdaNpcWrestler__c.html#ab2fee2606d6a3edb3d2beefc47c15b28":[1,0,3,105,59],
+"classdaNpcWrestler__c.html#ab37738ff0a5951ea9baacffd2de61ca4":[1,0,3,105,68],
+"classdaNpcWrestler__c.html#ac03bb144bc59af9724c5ffe5cd5a8fd0":[1,0,3,105,1],
+"classdaNpcWrestler__c.html#ac25d3eff46c2b36d304beb9af2d9b840":[1,0,3,105,36],
 "classdaNpcWrestler__c.html#acae77a82cfdc01b29773b776fc642664":[1,0,3,105,44],
 "classdaNpcWrestler__c.html#acaea7c098ba717066bdba33355d7802f":[1,0,3,105,35],
 "classdaNpcWrestler__c.html#accd9669e9b9a46f1f6e3f36e2eef0491":[1,0,3,105,12],
@@ -242,12 +249,5 @@ var NAVTREEINDEX205 =
 "classdaNpc__Bou__c.html#aaa47a2b22f507b947220086fcfac4597":[1,0,3,8,13],
 "classdaNpc__Bou__c.html#aabed8b517f6aa5fb3e77058d2f2e0c0f":[1,0,3,8,7],
 "classdaNpc__Bou__c.html#aaca279bfb65b94fffa02d4276e67a064":[1,0,3,8,23],
-"classdaNpc__Bou__c.html#ab2174f7f8ca5a9b55f3851936573f7fa":[1,0,3,8,34],
-"classdaNpc__Bou__c.html#abbb4207c2e2abb6080b2bb4874281a39":[1,0,3,8,39],
-"classdaNpc__Bou__c.html#abcf46a5625e75275611c27f070dd22a0":[1,0,3,8,27],
-"classdaNpc__Bou__c.html#ac1648f4379b3faec371f3ccde1e8ec7a":[1,0,3,8,9],
-"classdaNpc__Bou__c.html#ac3f4213758a84eb387c0526ff511a951":[1,0,3,8,0],
-"classdaNpc__Bou__c.html#ac3ffd226c172a2489834f2b13b34334d":[1,0,3,8,44],
-"classdaNpc__Bou__c.html#ac4e287a7250b9d7983eb524bb40a1e70":[1,0,3,8,37],
-"classdaNpc__Bou__c.html#ac57bd81735ff7ad8878e07303288fca7":[1,0,3,8,3]
+"classdaNpc__Bou__c.html#ab2174f7f8ca5a9b55f3851936573f7fa":[1,0,3,8,34]
 };

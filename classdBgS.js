@@ -34,7 +34,7 @@ var classdBgS =
     [ "MoveBgCrrPos", "classdBgS.html#aa410624a49584f7b61032343ca72731c", null ],
     [ "MoveBgMatrixCrrPos", "classdBgS.html#a04fba6b72ea1ded73d622e6c0e6af386", null ],
     [ "MoveBgTransPos", "classdBgS.html#affdd31e6555f8b23f7ef4d30f286202a", null ],
-    [ "PushPullCallBack", "classdBgS.html#a93235876f6957d54173d43db42048ab2", null ],
+    [ "PushPullCallBack", "classdBgS.html#a7385f9588de8236ea47dec7bc55d6743", null ],
     [ "Regist", "classdBgS.html#ae3bc45780dcb256056ffd5a291073041", null ],
     [ "Regist", "classdBgS.html#af28c4eecd69ecb20ee5b237694f3e083", null ],
     [ "RideCallBack", "classdBgS.html#a9e458d94d6e71a89c8d24cd89e54b208", null ],
