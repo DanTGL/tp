@@ -1,15 +1,5 @@
 var NAVTREEINDEX1050 =
 {
-"structOSModuleInfo.html":[3,0,2861],
-"structOSModuleInfo.html#a283fc341443667d39ee818606f0d44bd":[3,0,2861,6],
-"structOSModuleInfo.html#a52b227fcf45452e5793fabb933d4039a":[3,0,2861,4],
-"structOSModuleInfo.html#a8538b653a3b1d4167d63252237ffedcf":[3,0,2861,1],
-"structOSModuleInfo.html#ab9e654e3e1477ed2c2e2d18b892ec529":[3,0,2861,5],
-"structOSModuleInfo.html#ad113bfa99f7a98fdded4d6ea84e94191":[3,0,2861,0],
-"structOSModuleInfo.html#ad2fdaa58faa1a119cc220f287dd4c3bc":[3,0,2861,3],
-"structOSModuleInfo.html#ae901947e7a1e0bad3e8e27bea9cbf840":[3,0,2861,2],
-"structOSModuleLink.html":[3,0,2862],
-"structOSModuleLink.html#a4f66c6cfb204a459df4dd7e224968c5e":[3,0,2862,0],
 "structOSModuleLink.html#aa9db5009c9b9fb0ea5a42d03cbc4355b":[3,0,2862,1],
 "structOSModuleQueue.html":[3,0,2863],
 "structOSModuleQueue.html#a0c2c445ac38efa801ec60c6c2730d002":[3,0,2863,1],
@@ -249,5 +239,15 @@ var NAVTREEINDEX1050 =
 "structResourceData.html#a11c3d50ac4aa419cb8166618dc18f0c9":[3,0,2918,11],
 "structResourceData.html#a156d15ddd3af4c614f89cd6405ac1998":[3,0,2918,22],
 "structResourceData.html#a16726297717e7fcca8cc41f2451c0950":[3,0,2918,37],
-"structResourceData.html#a20776df6b42080c9f8e12a73ad3fe5dd":[3,0,2918,26]
+"structResourceData.html#a20776df6b42080c9f8e12a73ad3fe5dd":[3,0,2918,26],
+"structResourceData.html#a239558306ea6b829476f57fc5fdae012":[3,0,2918,35],
+"structResourceData.html#a2c55e8bec44443d5707e0b557ec12c1c":[3,0,2918,0],
+"structResourceData.html#a310caec6cf81863937bab320ea667258":[3,0,2918,23],
+"structResourceData.html#a37a2700f68b53d96ed1d0950ed4f43f1":[3,0,2918,31],
+"structResourceData.html#a3d85655a1994130168ee0cc804e2642d":[3,0,2918,3],
+"structResourceData.html#a3fe8e3778aa5fa920bc844dd24b80998":[3,0,2918,19],
+"structResourceData.html#a4ba0e9239825cc95aa4288f518c2074b":[3,0,2918,20],
+"structResourceData.html#a593a46180eea9fa8ccd0f25150af4a4c":[3,0,2918,13],
+"structResourceData.html#a5a6c5b3688326e6616670f66ade7271f":[3,0,2918,32],
+"structResourceData.html#a5f382397f3e781f6f7e43c52f5a7a03e":[3,0,2918,5]
 };

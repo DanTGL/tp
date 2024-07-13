@@ -1,15 +1,5 @@
 var NAVTREEINDEX1004 =
 {
-"jstudio-math_8h.html#a8a49986278cdc6d87865ac8c7a0b49ea":[4,0,1,6,13,0,8,7],
-"jstudio-math_8h.html#abf2d907f04392dbbcb74e9660361449c":[4,0,1,6,13,0,8,10],
-"jstudio-math_8h.html#af59cd71c4504c2c70388e061273f96ec":[4,0,1,6,13,0,8,8],
-"jstudio-math_8h_source.html":[4,0,1,6,13,0,8],
-"jstudio-object_8cpp.html":[4,0,2,1,13,0,11],
-"jstudio-object_8cpp.html#a00793e3fcedf544dd867ed347a348e83":[4,0,2,1,13,0,11,7],
-"jstudio-object_8cpp.html#a01c51fc59f2645ebdc400a8d9f015791":[4,0,2,1,13,0,11,175],
-"jstudio-object_8cpp.html#a037d0941f07d4a5d09c6d698ad858102":[4,0,2,1,13,0,11,161],
-"jstudio-object_8cpp.html#a03e88c180adf48d27feeb7c19cc1212b":[4,0,2,1,13,0,11,192],
-"jstudio-object_8cpp.html#a04f4f7970d747eb09a738641fc925b13":[4,0,2,1,13,0,11,128],
 "jstudio-object_8cpp.html#a0509f0938e62d2940bb1f5c8bd17203c":[4,0,2,1,13,0,11,97],
 "jstudio-object_8cpp.html#a056cd742a1b29878057ab760843744b9":[4,0,2,1,13,0,11,149],
 "jstudio-object_8cpp.html#a062dd0abbc44d1516db84de7ca64019f":[4,0,2,1,13,0,11,114],
@@ -249,5 +239,15 @@ var NAVTREEINDEX1004 =
 "jstudio-object_8cpp.html#af32f90096bbcc9aa84794228dc87e2bc":[4,0,2,1,13,0,11,51],
 "jstudio-object_8cpp.html#af3360901e0e1928c0bd4d58660e5b39c":[4,0,2,1,13,0,11,82],
 "jstudio-object_8cpp.html#af4252cb083cea536a20d97997e27cdf0":[4,0,2,1,13,0,11,179],
-"jstudio-object_8cpp.html#af4d3f621fe3dd1dc3ba4b4259e151a81":[4,0,2,1,13,0,11,24]
+"jstudio-object_8cpp.html#af4d3f621fe3dd1dc3ba4b4259e151a81":[4,0,2,1,13,0,11,24],
+"jstudio-object_8cpp.html#af530020803cb28a168b3be4c7e98b685":[4,0,2,1,13,0,11,189],
+"jstudio-object_8cpp.html#af5bf99c3d5e83133ca6fa1ba1b8b56e2":[4,0,2,1,13,0,11,164],
+"jstudio-object_8cpp.html#af6195f2f9d569319fd05b15e7e4f82fa":[4,0,2,1,13,0,11,198],
+"jstudio-object_8cpp.html#af6540976047a4e2fd136104a390c3e66":[4,0,2,1,13,0,11,96],
+"jstudio-object_8cpp.html#af7068037fd16c0c8ea5e2c38198a41c4":[4,0,2,1,13,0,11,95],
+"jstudio-object_8cpp.html#af78070df295dbbb489ac75a0861cdc2b":[4,0,2,1,13,0,11,167],
+"jstudio-object_8cpp.html#af8f90661d7676649003a44a90f5a826a":[4,0,2,1,13,0,11,204],
+"jstudio-object_8cpp.html#af95ac8802fdaf8650e9e97ed49da2999":[4,0,2,1,13,0,11,173],
+"jstudio-object_8cpp.html#af993441aadac15d540d4b6a9f6822a36":[4,0,2,1,13,0,11,77],
+"jstudio-object_8cpp.html#afb3952974f57c10d7a241282113b443b":[4,0,2,1,13,0,11,238]
 };

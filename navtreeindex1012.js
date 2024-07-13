@@ -1,15 +1,5 @@
 var NAVTREEINDEX1012 =
 {
-"namespacedaTagChgRestart__prm.html#a72bd6c2976edf46cd46b515aeac93cc1":[2,0,8,1],
-"namespacedaTagChgRestart__prm.html#ae7f237652363d026c7e676dbd7b452cf":[2,0,8,0],
-"namespacedaTagMist__prm.html":[2,0,9],
-"namespacedaTagMist__prm.html#a1cce64843d1e36fd39cc145a228ec498":[2,0,9,3],
-"namespacedaTagMist__prm.html#a4fb1bd864205d1b98df8c5ac64ed26bc":[2,0,9,1],
-"namespacedaTagMist__prm.html#a93ab920b32aff3c47e4b8279a5707f77":[2,0,9,4],
-"namespacedaTagMist__prm.html#ad54554cdaa3b1ab7c35009cb461d02f3":[2,0,9,0],
-"namespacedaTagMist__prm.html#affbca193707e9c0f0743e207178f0761":[2,0,9,2],
-"namespacedaTagRestart__prm.html":[2,0,10],
-"namespacedaTagRestart__prm.html#af01a686c7e33339a62551a358df22fb7":[2,0,10,0],
 "namespacedaTagSpinner__prm.html":[2,0,11],
 "namespacedaTagSpinner__prm.html#a5165d5a50acf3c35984f74e6c9f9c2a0":[2,0,11,0],
 "namespacedaTboxSw__prm.html":[2,0,12],
@@ -249,5 +239,15 @@ var NAVTREEINDEX1012 =
 "obj_2d__a__obj__stopper2_2unknown__translation__unit__bss_8h_source.html":[4,0,1,8,0,0,79,264,2],
 "obj_2d__a__obj__swBallC_2unknown__translation__unit__bss_8h.html":[4,0,1,8,0,0,79,270,2],
 "obj_2d__a__obj__swBallC_2unknown__translation__unit__bss_8h_source.html":[4,0,1,8,0,0,79,270,2],
-"obj_2d__a__obj__swLight_2unknown__translation__unit__bss_8cpp.html":[4,0,3,0,0,79,273,1]
+"obj_2d__a__obj__swLight_2unknown__translation__unit__bss_8cpp.html":[4,0,3,0,0,79,273,1],
+"obj_2d__a__obj__swLight_2unknown__translation__unit__bss_8cpp.html#ac9d0508b394560c834d2365aaf4c0e36":[4,0,3,0,0,79,273,1,0],
+"obj_2d__a__obj__swLight_2unknown__translation__unit__bss_8h.html":[4,0,1,8,0,0,79,273,2],
+"obj_2d__a__obj__swLight_2unknown__translation__unit__bss_8h_source.html":[4,0,1,8,0,0,79,273,2],
+"obj_2d__a__obj__swhang_2unknown__translation__unit__bss_8cpp.html":[4,0,3,0,0,79,272,1],
+"obj_2d__a__obj__swhang_2unknown__translation__unit__bss_8cpp.html#a905553283cdaa1bccc8e6409568dade2":[4,0,3,0,0,79,272,1,0],
+"obj_2d__a__obj__swhang_2unknown__translation__unit__bss_8h.html":[4,0,1,8,0,0,79,272,2],
+"obj_2d__a__obj__swhang_2unknown__translation__unit__bss_8h_source.html":[4,0,1,8,0,0,79,272,2],
+"obj_2d__a__obj__sword_2unknown__translation__unit__bss_8cpp.html":[4,0,3,0,0,79,274,1],
+"obj_2d__a__obj__sword_2unknown__translation__unit__bss_8cpp.html#ad8c76798f8eabc16594178b9daf4b1ef":[4,0,3,0,0,79,274,1,0],
+"obj_2d__a__obj__sword_2unknown__translation__unit__bss_8h.html":[4,0,1,8,0,0,79,274,2]
 };

@@ -1,15 +1,5 @@
 var NAVTREEINDEX1003 =
 {
-"include_2rel_2d_2a_2obj_2d__a__obj__swpush_2global__destructor__chain_8h_source.html":[4,0,1,8,0,0,79,276,3],
-"include_2rel_2d_2a_2obj_2d__a__obj__swpush_2libs_2Runtime_8PPCEABI_8H_2global__destructor__chain_8h.html":[4,0,1,8,0,0,79,276,0,0,0],
-"include_2rel_2d_2a_2obj_2d__a__obj__swpush_2libs_2Runtime_8PPCEABI_8H_2global__destructor__chain_8h_source.html":[4,0,1,8,0,0,79,276,0,0,0],
-"include_2rel_2d_2a_2obj_2d__a__obj__syRock_2global__destructor__chain_8h.html":[4,0,1,8,0,0,79,281,3],
-"include_2rel_2d_2a_2obj_2d__a__obj__syRock_2global__destructor__chain_8h_source.html":[4,0,1,8,0,0,79,281,3],
-"include_2rel_2d_2a_2obj_2d__a__obj__syRock_2libs_2Runtime_8PPCEABI_8H_2global__destructor__chain_8h.html":[4,0,1,8,0,0,79,281,0,0,0],
-"include_2rel_2d_2a_2obj_2d__a__obj__syRock_2libs_2Runtime_8PPCEABI_8H_2global__destructor__chain_8h_source.html":[4,0,1,8,0,0,79,281,0,0,0],
-"include_2rel_2d_2a_2obj_2d__a__obj__taFence_2global__destructor__chain_8h.html":[4,0,1,8,0,0,79,284,3],
-"include_2rel_2d_2a_2obj_2d__a__obj__taFence_2global__destructor__chain_8h_source.html":[4,0,1,8,0,0,79,284,3],
-"include_2rel_2d_2a_2obj_2d__a__obj__taFence_2libs_2Runtime_8PPCEABI_8H_2global__destructor__chain_8h.html":[4,0,1,8,0,0,79,284,0,0,0],
 "include_2rel_2d_2a_2obj_2d__a__obj__taFence_2libs_2Runtime_8PPCEABI_8H_2global__destructor__chain_8h_source.html":[4,0,1,8,0,0,79,284,0,0,0],
 "include_2rel_2d_2a_2obj_2d__a__obj__takaraDai_2global__destructor__chain_8h.html":[4,0,1,8,0,0,79,285,3],
 "include_2rel_2d_2a_2obj_2d__a__obj__takaraDai_2global__destructor__chain_8h_source.html":[4,0,1,8,0,0,79,285,3],
@@ -249,5 +239,15 @@ var NAVTREEINDEX1003 =
 "jstudio-math_8h.html#a45bbbdadb1740c019239b878cd9b5ce9":[4,0,1,6,13,0,8,5],
 "jstudio-math_8h.html#a77461d7bad79ae77e0569e12fff7d3a8":[4,0,1,6,13,0,8,2],
 "jstudio-math_8h.html#a7ad45e30f23a803800f7b29e12bf5be9":[4,0,1,6,13,0,8,9],
-"jstudio-math_8h.html#a8513fad5b196836ee58cc98763ce3eeb":[4,0,1,6,13,0,8,1]
+"jstudio-math_8h.html#a8513fad5b196836ee58cc98763ce3eeb":[4,0,1,6,13,0,8,1],
+"jstudio-math_8h.html#a8a49986278cdc6d87865ac8c7a0b49ea":[4,0,1,6,13,0,8,7],
+"jstudio-math_8h.html#abf2d907f04392dbbcb74e9660361449c":[4,0,1,6,13,0,8,10],
+"jstudio-math_8h.html#af59cd71c4504c2c70388e061273f96ec":[4,0,1,6,13,0,8,8],
+"jstudio-math_8h_source.html":[4,0,1,6,13,0,8],
+"jstudio-object_8cpp.html":[4,0,2,1,13,0,11],
+"jstudio-object_8cpp.html#a00793e3fcedf544dd867ed347a348e83":[4,0,2,1,13,0,11,7],
+"jstudio-object_8cpp.html#a01c51fc59f2645ebdc400a8d9f015791":[4,0,2,1,13,0,11,175],
+"jstudio-object_8cpp.html#a037d0941f07d4a5d09c6d698ad858102":[4,0,2,1,13,0,11,161],
+"jstudio-object_8cpp.html#a03e88c180adf48d27feeb7c19cc1212b":[4,0,2,1,13,0,11,192],
+"jstudio-object_8cpp.html#a04f4f7970d747eb09a738641fc925b13":[4,0,2,1,13,0,11,128]
 };

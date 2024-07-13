@@ -1,15 +1,5 @@
 var NAVTREEINDEX1024 =
 {
-"structJ2DScreen.html#a83e5cb8478f9cf5c7e4f99e52dca0f20":[1,1,0,58,2],
-"structJ2DScreen.html#a8525a9d0542d84b770afc22a56447045":[1,1,0,58,43],
-"structJ2DScreen.html#a8c25d92f58b9d3b1dac347f520a43f4a":[1,1,0,58,7],
-"structJ2DScreen.html#a932b3da3a4a6cc6485181a0144cab3d9":[1,1,0,58,29],
-"structJ2DScreen.html#aa1933b2e810985ad781fef0a4062a5f8":[1,1,0,58,15],
-"structJ2DScreen.html#aa1933b2e810985ad781fef0a4062a5f8":[1,1,0,58,13],
-"structJ2DScreen.html#aa39b0cee50eddaf9793f51be14106752":[1,1,0,58,10],
-"structJ2DScreen.html#aad37bd10a9618ea51b7b35109e084bb5":[1,1,0,58,28],
-"structJ2DScreen.html#aaddeb1ddd493407292f3c67f945454f3":[1,1,0,58,47],
-"structJ2DScreen.html#ac75b8f82341029f8a0322dd571f33882":[1,1,0,58,23],
 "structJ2DScreen.html#acac5439df0af64824dd472aea3284147":[1,1,0,58,25],
 "structJ2DScreen.html#acf99ddd43befcd805f336284f075e66b":[1,1,0,58,37],
 "structJ2DScreen.html#ad5c39596a0742cbf6553fad03f59a339":[1,1,0,58,12],
@@ -131,8 +121,8 @@ var NAVTREEINDEX1024 =
 "structJ2DTextBox.html#a899e3b968a2a6d4a6a08a8097f83235f":[1,1,0,81,47],
 "structJ2DTextBox.html#a8b283c76c5549f79a84c2f8fa8c73000":[1,1,0,81,8],
 "structJ2DTextBox.html#a8f1aa636ae722a9b3af688da8bc50118":[1,1,0,81,55],
-"structJ2DTextBox.html#a9d11a6e213f50be95425078c36b58366":[1,1,0,81,42],
 "structJ2DTextBox.html#a9d11a6e213f50be95425078c36b58366":[1,1,0,81,41],
+"structJ2DTextBox.html#a9d11a6e213f50be95425078c36b58366":[1,1,0,81,42],
 "structJ2DTextBox.html#a9e48518604e53e8df451825704c387fd":[1,1,0,81,40],
 "structJ2DTextBox.html#aa054b5740af3157caca90175305ad63a":[1,1,0,81,32],
 "structJ2DTextBox.html#aa2050c5aa8485f781725d4edbc47a97f":[1,1,0,81,56],
@@ -249,5 +239,15 @@ var NAVTREEINDEX1024 =
 "structJ2DWindowEx.html#a10cbf56dab6978f59ad09b618df4a1c2":[1,1,0,84,47],
 "structJ2DWindowEx.html#a14567404ff190d5d3f13e551001a31e7":[1,1,0,84,30],
 "structJ2DWindowEx.html#a16af940229799438d4e1f1e69882a8a6":[1,1,0,84,39],
-"structJ2DWindowEx.html#a1a162e01c26acf635db94fc15b324233":[1,1,0,84,35]
+"structJ2DWindowEx.html#a1a162e01c26acf635db94fc15b324233":[1,1,0,84,35],
+"structJ2DWindowEx.html#a1b3fa4e400bd0d1e53695103183afdbe":[1,1,0,84,0],
+"structJ2DWindowEx.html#a1b3fa4e400bd0d1e53695103183afdbea2b3b64d379e7691e081e2e112a2406a8":[1,1,0,84,0,4],
+"structJ2DWindowEx.html#a1b3fa4e400bd0d1e53695103183afdbea59f6cb281d28092cd753a5f283ed9893":[1,1,0,84,0,1],
+"structJ2DWindowEx.html#a1b3fa4e400bd0d1e53695103183afdbea679179ecf0bdb8b007e7486af9075d0c":[1,1,0,84,0,0],
+"structJ2DWindowEx.html#a1b3fa4e400bd0d1e53695103183afdbea7a73e463c1162268a808b474f5d501b6":[1,1,0,84,0,3],
+"structJ2DWindowEx.html#a1b3fa4e400bd0d1e53695103183afdbea7f61aa2d902179a975d760ccf72b9a03":[1,1,0,84,0,2],
+"structJ2DWindowEx.html#a2447e95a8754bf47a2d6083283991974":[1,1,0,84,26],
+"structJ2DWindowEx.html#a256e38445ec882dfd6d74706dd8130ed":[1,1,0,84,22],
+"structJ2DWindowEx.html#a2c246b932f09d53d1fbda125fe8fde28":[1,1,0,84,45],
+"structJ2DWindowEx.html#a2ddd114be35303a8bb02b5ed03f88e9e":[1,1,0,84,36]
 };

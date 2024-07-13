@@ -1,15 +1,5 @@
 var NAVTREEINDEX1023 =
 {
-"structJ2DPane.html#aeaef10c63069c902bfa14ea1e18f561c":[1,1,0,49,61],
-"structJ2DPane.html#aec8f3d8fe1ee08b539f98df5b5528e58":[1,1,0,49,72],
-"structJ2DPane.html#aefb52ea8b99da0ae8793026738b580cd":[1,1,0,49,45],
-"structJ2DPane.html#af053ab120eeaa065e366620661d75a1f":[1,1,0,49,59],
-"structJ2DPane.html#af15ade2a514e5b95970d3eabb114b8bc":[1,1,0,49,91],
-"structJ2DPane.html#af6f326634c0d970db2b28d4cf2de9a8b":[1,1,0,49,4],
-"structJ2DPane.html#af76ea06762fa202755fe4cb78216b2fb":[1,1,0,49,17],
-"structJ2DPane.html#af7b49e386a7e2b5ce97d7b30ce39219b":[1,1,0,49,69],
-"structJ2DPane.html#afae7e96b8098ebd4d916ac6fccefa7cd":[1,1,0,49,81],
-"structJ2DPane.html#afdc9b310e3da6b0da84ef1b1357780ac":[1,1,0,49,108],
 "structJ2DPane.html#aff6b7be341af9b3ed27e875cf3c2daeb":[1,1,0,49,109],
 "structJ2DPaneHeader.html":[1,1,0,48],
 "structJ2DPaneHeader.html#a6baa6097f9f3dcc086fc1fb5c9a0ccb6":[1,1,0,48,1],
@@ -249,5 +239,15 @@ var NAVTREEINDEX1023 =
 "structJ2DScreen.html#a759e3d6f8fec0fede2bb2ebb434f2e9b":[1,1,0,58,1],
 "structJ2DScreen.html#a759e3d6f8fec0fede2bb2ebb434f2e9b":[1,1,0,58,3],
 "structJ2DScreen.html#a771dec4186dc55fb2b8b9d6cce67b6dd":[1,1,0,58,17],
-"structJ2DScreen.html#a83176c9d234cd78105783b833fec96f1":[1,1,0,58,44]
+"structJ2DScreen.html#a83176c9d234cd78105783b833fec96f1":[1,1,0,58,44],
+"structJ2DScreen.html#a83e5cb8478f9cf5c7e4f99e52dca0f20":[1,1,0,58,2],
+"structJ2DScreen.html#a8525a9d0542d84b770afc22a56447045":[1,1,0,58,43],
+"structJ2DScreen.html#a8c25d92f58b9d3b1dac347f520a43f4a":[1,1,0,58,7],
+"structJ2DScreen.html#a932b3da3a4a6cc6485181a0144cab3d9":[1,1,0,58,29],
+"structJ2DScreen.html#aa1933b2e810985ad781fef0a4062a5f8":[1,1,0,58,13],
+"structJ2DScreen.html#aa1933b2e810985ad781fef0a4062a5f8":[1,1,0,58,15],
+"structJ2DScreen.html#aa39b0cee50eddaf9793f51be14106752":[1,1,0,58,10],
+"structJ2DScreen.html#aad37bd10a9618ea51b7b35109e084bb5":[1,1,0,58,28],
+"structJ2DScreen.html#aaddeb1ddd493407292f3c67f945454f3":[1,1,0,58,47],
+"structJ2DScreen.html#ac75b8f82341029f8a0322dd571f33882":[1,1,0,58,23]
 };

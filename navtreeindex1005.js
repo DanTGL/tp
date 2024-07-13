@@ -1,15 +1,5 @@
 var NAVTREEINDEX1005 =
 {
-"jstudio-object_8cpp.html#af530020803cb28a168b3be4c7e98b685":[4,0,2,1,13,0,11,189],
-"jstudio-object_8cpp.html#af5bf99c3d5e83133ca6fa1ba1b8b56e2":[4,0,2,1,13,0,11,164],
-"jstudio-object_8cpp.html#af6195f2f9d569319fd05b15e7e4f82fa":[4,0,2,1,13,0,11,198],
-"jstudio-object_8cpp.html#af6540976047a4e2fd136104a390c3e66":[4,0,2,1,13,0,11,96],
-"jstudio-object_8cpp.html#af7068037fd16c0c8ea5e2c38198a41c4":[4,0,2,1,13,0,11,95],
-"jstudio-object_8cpp.html#af78070df295dbbb489ac75a0861cdc2b":[4,0,2,1,13,0,11,167],
-"jstudio-object_8cpp.html#af8f90661d7676649003a44a90f5a826a":[4,0,2,1,13,0,11,204],
-"jstudio-object_8cpp.html#af95ac8802fdaf8650e9e97ed49da2999":[4,0,2,1,13,0,11,173],
-"jstudio-object_8cpp.html#af993441aadac15d540d4b6a9f6822a36":[4,0,2,1,13,0,11,77],
-"jstudio-object_8cpp.html#afb3952974f57c10d7a241282113b443b":[4,0,2,1,13,0,11,238],
 "jstudio-object_8cpp.html#afbad1400959924d13028834f617bc77c":[4,0,2,1,13,0,11,253],
 "jstudio-object_8cpp.html#afbca6fc17ef77bdbe8015d8aff609a55":[4,0,2,1,13,0,11,236],
 "jstudio-object_8cpp.html#afcd9fe4dffb01970cefd429688d70ecd":[4,0,2,1,13,0,11,61],
@@ -249,5 +239,15 @@ var NAVTREEINDEX1005 =
 "m__Do__audio_8cpp.html#a4524f4ba353cc1c9e31af9d2bc09dc39":[4,0,4,5,0,12],
 "m__Do__audio_8cpp.html#a479eba2f2a1163277fcbae7b4990e286":[4,0,4,5,0,31],
 "m__Do__audio_8cpp.html#a498e6440d5c316e2672169ee4ed92309":[4,0,4,5,0,2],
-"m__Do__audio_8cpp.html#a4a54d73be398dd28a8bc5e63fdf03da2":[4,0,4,5,0,17]
+"m__Do__audio_8cpp.html#a4a54d73be398dd28a8bc5e63fdf03da2":[4,0,4,5,0,17],
+"m__Do__audio_8cpp.html#a4cc0bb5f6702fa0dab29f6723288da4a":[4,0,4,5,0,36],
+"m__Do__audio_8cpp.html#a52884c88a2227872d5a8c3f435583b04":[4,0,4,5,0,44],
+"m__Do__audio_8cpp.html#a53cc9b1779b4be072fb85345994496d3":[4,0,4,5,0,6],
+"m__Do__audio_8cpp.html#a54402584abfab8e5bccdcdbe237e18e8":[4,0,4,5,0,61],
+"m__Do__audio_8cpp.html#a567d967cca4ea68730a5251759e97ae8":[4,0,4,5,0,34],
+"m__Do__audio_8cpp.html#a5763975c9fb310957d3a4731c4413ce8":[4,0,4,5,0,66],
+"m__Do__audio_8cpp.html#a594b1b323410e22918ca58de91627aa0":[4,0,4,5,0,67],
+"m__Do__audio_8cpp.html#a5ec5e1d1ec38494498d5f453a709c09a":[4,0,4,5,0,74],
+"m__Do__audio_8cpp.html#a5f3662cd06864ff7627d5424c192e6f2":[4,0,4,5,0,19],
+"m__Do__audio_8cpp.html#a5f817888035eb1d1fb3ddc52771e7f5d":[4,0,4,5,0,13]
 };

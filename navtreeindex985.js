@@ -1,15 +1,5 @@
 var NAVTREEINDEX985 =
 {
-"extras_8h.html":[4,0,2,2,1,0,0,0,12],
-"extras_8h.html#a5430309f7c6a588cc21042782a42b55f":[4,0,2,2,1,0,0,0,12,1],
-"extras_8h.html#a7eaffbd79a3476642a280eb517b33a70":[4,0,2,2,1,0,0,0,12,0],
-"extras_8h_source.html":[4,0,2,2,1,0,0,0,12],
-"f__ap__game_8cpp.html":[4,0,4,2,0],
-"f__ap__game_8cpp.html#a3a702dc1dcfa4b6670d1cadb221a4f08":[4,0,4,2,0,1],
-"f__ap__game_8cpp.html#a3dc6fcc635b6e9ed4beb62cac7fb65f7":[4,0,4,2,0,0],
-"f__ap__game_8cpp.html#a7072be2d28fabb83a8c72db5a0ecb58e":[4,0,4,2,0,2],
-"f__ap__game_8cpp.html#acd1ad875e32bbc21ad3c59d803401543":[4,0,4,2,0,3],
-"f__ap__game_8h.html":[4,0,1,3,0],
 "f__ap__game_8h.html#a3a702dc1dcfa4b6670d1cadb221a4f08":[4,0,1,3,0,2],
 "f__ap__game_8h.html#a3dc6fcc635b6e9ed4beb62cac7fb65f7":[4,0,1,3,0,1],
 "f__ap__game_8h.html#a4245b3e435d5060faeb4e30c2925ffaa":[4,0,1,3,0,6],
@@ -249,5 +239,15 @@ var NAVTREEINDEX985 =
 "f__op__actor__mng_8cpp.html#a5f3662cd06864ff7627d5424c192e6f2":[4,0,4,3,2,38],
 "f__op__actor__mng_8cpp.html#a5f6aee1d21cd267e0d0653177980e0d1":[4,0,4,3,2,248],
 "f__op__actor__mng_8cpp.html#a61028ce8dcea45e0c4b9ea9d15b70ffd":[4,0,4,3,2,280],
-"f__op__actor__mng_8cpp.html#a61371a2e7dc0e68cc8ee7ef96ba01ebd":[4,0,4,3,2,275]
+"f__op__actor__mng_8cpp.html#a61371a2e7dc0e68cc8ee7ef96ba01ebd":[4,0,4,3,2,275],
+"f__op__actor__mng_8cpp.html#a625d35bbf7872c0e31b7c3703f22b17e":[4,0,4,3,2,115],
+"f__op__actor__mng_8cpp.html#a62d1bad82921047d0f17c56da1eb5c75":[4,0,4,3,2,313],
+"f__op__actor__mng_8cpp.html#a62f06d50d82e20872103dbc8fecce8de":[4,0,4,3,2,201],
+"f__op__actor__mng_8cpp.html#a6360d307f710b311afd3b3c25d8c55b9":[4,0,4,3,2,259],
+"f__op__actor__mng_8cpp.html#a6467c3aa3e502773b7098a648e31cb18":[4,0,4,3,2,128],
+"f__op__actor__mng_8cpp.html#a64bde57d9efa41e1aff856d109588fda":[4,0,4,3,2,4],
+"f__op__actor__mng_8cpp.html#a66738913d011504cb284cce72937cf61":[4,0,4,3,2,119],
+"f__op__actor__mng_8cpp.html#a667f6bd0c9c48a9a7b3c4d03d95ac153":[4,0,4,3,2,106],
+"f__op__actor__mng_8cpp.html#a6693dee5a435f1818dd417fa974f291d":[4,0,4,3,2,112],
+"f__op__actor__mng_8cpp.html#a67af708b19a0e2b8b6c1c136415487c3":[4,0,4,3,2,199]
 };
